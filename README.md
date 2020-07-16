@@ -20,6 +20,9 @@
 <hr>
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
+<i>As a student, i always want to study more and more. Don't hesitate to give me your knowledge!</i>
+</p>
+<p align="center">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,6 +30,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+</p>
+<p align="center">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code> 
@@ -36,6 +41,9 @@
 
 <hr>
 <h3 align="center">Social Media</h3>
+<p align="center">
+<i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+</p>
 <p align="center">
 <a href="https://instagram.com/rzlamrr" alt="Instagram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/network.svg"></a>
 <a href="https://telegram.me/fakhiralkda" alt="Telegram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/telegram.svg"></a>
