@@ -1,5 +1,6 @@
 <a href="https://rzlamrr.github.io"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/rzlamrr.svg"></a>
 <h1 align="center"> Hi, Rizal here!</h1>
+
 - My name is Rizal Amrullah, you can call me Rizal 😉
 - I am a student in Senior High School 🏫
 - Born and live in Indonesia 🇮🇩
@@ -36,11 +37,11 @@
 <hr>
 <h3 align="center">Social Media</h3>
 <p align="center">
-<a href="https://instagram.com/rzlamrr" alt="Instagram"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/insta.svg"></a>
-<a href="https://telegram.me/fakhiralkda" alt="Telegram"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/telegram.svg"></a>
-<a href="https://twitter.com/rzlamrr" alt="Twitter"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/twitter.svg"></a>
-<a href="https://www.facebook.com/profile.php?id=100027270257275" alt="Facebook"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/facebook.svg"></a>
-<a href="https://github.com/rzlamrr" alt="Github"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/github.svg"></a>
+<a href="https://instagram.com/rzlamrr" alt="Instagram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/network.svg"></a>
+<a href="https://telegram.me/fakhiralkda" alt="Telegram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/telegram.svg"></a>
+<a href="https://twitter.com/rzlamrr" alt="Twitter"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/twitter.svg"></a>
+<a href="https://www.facebook.com/profile.php?id=100027270257275" alt="Facebook"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/facebook.svg"></a>
+<a href="https://github.com/rzlamrr" alt="Github"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/github.svg"></a>
 </p>
 
 <hr>
