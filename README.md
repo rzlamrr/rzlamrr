@@ -1,5 +1,5 @@
+<h1 align="center"> Hi, RIZAL here!</h1>
 <a href="https://rzlamrr.github.io"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/rzlamrr.svg"></a>
-<h1 align="center"> Hi, Rizal here!</h1>
 
 - My name is Rizal Amrullah, you can call me Rizal 😉
 - I am a student in Senior High School 🏫
