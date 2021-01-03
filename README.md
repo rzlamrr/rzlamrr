@@ -1,7 +1,6 @@
 <h1 align="center"> Hi, RIZAL here!</h1>
-<a href="https://rzlamrr.github.io"><img src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/rzlamrr.svg"></a>
 
-- My name is Rizal Amrullah, you can call me Rizal 😉
+- My name is Rizal Amrr, you can call me Rizal 😉
 - I am a student in Senior High School 🏫
 - Born and live in Indonesia 🇮🇩
 
@@ -23,10 +22,7 @@
 <p align="center">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 </p>
 <p align="center">
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -52,5 +48,5 @@
 <h2 align="center">Thank You 🙏🏼</h2>
 <p align="center"><b><i>Nothing special with me!</i></b></p>
 <p align="center">
-<img src="https://rzlamrr-visitor-badge.glitch.me/badge?page_id=rzlamrr.rzlamrr">
+<a href="https://rzlamrr.github.io" alt="rzlamrr's profile view stat"><img src="https://rzlamrr-visitor-badge.glitch.me/badge?page_id=rzlamrr.rzlamrr">
 </p>
