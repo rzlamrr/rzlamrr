@@ -35,12 +35,12 @@
 
 <hr>
 <h3 align="center">Quote of The Day</h3>
-<p align=center>
+<p align="center">
 <blockquote>
-<i>"Of all possessions a friend is the most precious."</i>
+<i>"Make no little plans they have no magic to stir men's blood."</i>
 
 
-\- Herodotus
+\- Daniel Burnham
 </blockquote>
 </p>
 
