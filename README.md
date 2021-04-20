@@ -1,19 +1,18 @@
-<h1 align="center"> Hi, RIZAL here!</h1>
+<h2 align="center"> Hi, RIZAL here!</h2>
 
 - My name is Rizal Amrr, you can call me Rizal 😉
 - I am a student in Senior High School 🏫
 - Born and live in Indonesia 🇮🇩
 
 <details>
-  <summary>Some interesting facts about me!</summary>
-  
-  - Settled in Madura Island 🌏
-  
-  - Playing game when have a free time 🎮
+    <summary>Some interesting facts about me!</summary>
 
-  - While Coding, Listening Music and developing useful code. ⭐️
-  
-  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History book 📚
+    - Settled in Madura Island 🌏
+
+    - Playing game when have a free time 🎮
+
+    - While Coding, Listening Music and developing useful code. ⭐️
+
 </details>
 
 <hr>
@@ -35,13 +34,23 @@
 </p>
 
 <hr>
+<h3 align="center">Quote of The Day</h3>
+<p align=center>
+<blockquote>
+<i>"I'm from Canada, and New Zealand feels like you took all the best bits of Canada and squished them onto a tiny island like Hawaii. I was absolutely blown away by the beauty of the South Island."</i>
+
+\- Evangeline Lilly
+</blockquote>
+</p>
+
+<hr>
 <h3 align="center">Social Media</h3>
 <p align="center"><i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i></p>
 <p align="center">
+<a href="mailto:rzlamrr.dvst@pm.me" alt="Email"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/email.svg"></a>
 <a href="https://instagram.com/rzlamrr" alt="Instagram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/network.svg"></a>
 <a href="https://telegram.me/fakhiralkda" alt="Telegram"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/telegram.svg"></a>
 <a href="https://twitter.com/rzlamrr" alt="Twitter"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/twitter.svg"></a>
-<a href="https://www.facebook.com/profile.php?id=100027270257275" alt="Facebook"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/facebook.svg"></a>
 <a href="https://github.com/rzlamrr" alt="Github"><img height="45" src="https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/github.svg"></a>
 </p>
 

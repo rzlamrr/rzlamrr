@@ -1,0 +1,131 @@
+#!/bin/bash
+
+var() {
+    export TZ=Asia/Jakarta
+
+    arr[0]="bot: 👋 Hello Github!"
+    arr[1]="bot: 🥳 Yeayyy!"
+    arr[2]="bot: 😬 Working from github."
+    arr[3]="bot: 👨‍💻 Work, work, work!"
+    arr[4]="bot: 🥳 UPdate Quotes:)"
+    arr[5]="bot: 😎 New quotes!"
+    arr[6]="bot: 🙄 Running task, again."
+    arr[7]="bot: 👻 New word."
+
+    api[0]="https://api.quotable.io/random"
+    api[1]="https://goquotes-api.herokuapp.com/api/v1/random?count=1"
+
+    rand=$[$RANDOM % ${#arr[@]}]
+    rapi=$[$RANDOM % ${#api[@]}]
+}
+
+main() {
+    echo "<h2 align=\"center\"> Hi, RIZAL here!</h2>
+
+- My name is Rizal Amrr, you can call me Rizal 😉
+- I am a student in Senior High School 🏫
+- Born and live in Indonesia 🇮🇩
+
+<details>
+    <summary>Some interesting facts about me!</summary>
+
+    - Settled in Madura Island 🌏
+
+    - Playing game when have a free time 🎮
+
+    - While Coding, Listening Music and developing useful code. ⭐️
+
+</details>
+
+<hr>
+<h3 align=\"center\">Languages & Tools</h3>
+<p align=\"center\"><i>As a student, i always want to study more and more. Don't hesitate to give me your knowledge!</i></p>
+<p align=\"center\">
+<code><img height=\"35\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png\"></code>
+<code><img height=\"35\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png\"></code>
+<code><img height=\"35\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png\"></code>
+<code><img height=\"35\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png\"></code>
+</p>
+<p align=\"center\">
+<code><img height=\"30\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png\"></code>
+<code><img height=\"30\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png\"></code>
+<code><img height=\"30\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png\"></code>
+</p>
+<p align=\"center\">
+<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's github stat\"><img src=\"https://github-readme-stats.anuraghazra1.vercel.app/api?username=rzlamrr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515\"></a>
+</p>
+
+<hr>
+<h3 align=\"center\">Quote of The Day</h3>
+<p align="center">
+<blockquote>
+<i>\"${quote}\"</i>
+
+
+\\- ${author}
+</blockquote>
+</p>
+
+<hr>
+<h3 align=\"center\">Social Media</h3>
+<p align=\"center\"><i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i></p>
+<p align=\"center\">
+<a href=\"mailto:rzlamrr.dvst@pm.me\" alt=\"Email\"><img height=\"45\" src=\"https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/email.svg\"></a>
+<a href=\"https://instagram.com/rzlamrr\" alt=\"Instagram\"><img height=\"45\" src=\"https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/network.svg\"></a>
+<a href=\"https://telegram.me/fakhiralkda\" alt=\"Telegram\"><img height=\"45\" src=\"https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/telegram.svg\"></a>
+<a href=\"https://twitter.com/rzlamrr\" alt=\"Twitter\"><img height=\"45\" src=\"https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/twitter.svg\"></a>
+<a href=\"https://github.com/rzlamrr\" alt=\"Github\"><img height=\"45\" src=\"https://github.com/rzlamrr/rzlamrr/blob/master/rzlamrr/github.svg\"></a>
+</p>
+
+<hr>
+<h2 align=\"center\">Thank You 🙏🏼</h2>
+<p align=\"center\"><b><i>Nothing special with me!</i></b></p>
+<p align=\"center\">
+<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's profile view stat\"><img src=\"https://rzlamrr-visitor-badge.glitch.me/badge?page_id=rzlamrr.rzlamrr\">
+</p>" > README.md
+}
+
+clean() {
+    if [[ "$1" == "post" ]]; then
+        rm -rf data.json
+    elif [[ -z "$1" ]]; then
+        rm -rf data.json README.md
+    fi
+}
+
+quotes() {
+    if curl -s ${api[$rapi]} > data.json; then
+        quote=$(jq -r '.content' data.json)
+        if [[ "$quote" == "null" ]]; then
+            quote=$(jq -r '.quotes[] .text' data.json)
+            author=$(jq -r '.quotes[] .author' data.json)
+        else
+            quote=$(jq -r '.content' data.json)
+            author=$(jq -r '.author' data.json)
+        fi
+    else
+        echo "Fetch quotes api failed!"
+        exit 1
+    fi
+
+    if [[ -z "${quote}" && -z "${author}" ]]; then
+        echo "Fetch quotes failed!"
+        exit 1
+    fi
+}
+
+
+push() {
+    git config --local user.email "rzlamrr.dvst@protonmail.com"
+    git config --local user.name "rzlamrr"
+    git commit -asm "${arr[$rand]} (${tgl})"
+}
+
+##### START #####
+tgl=$(date '+%D %R %Z')
+clean
+var
+quotes
+main
+clean post
+push
