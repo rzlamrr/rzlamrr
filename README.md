@@ -37,10 +37,10 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Step with care and great tact, and remember that Life's a Great Balancing Act."</i>
+<i>"It's a good thing that beauty is only skin deep, or I'd be rotten to the core."</i>
 
 
-\- Dr. Seuss
+\- Phyllis Diller
 </blockquote>
 </p>
 
