@@ -37,10 +37,10 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make no little plans they have no magic to stir men's blood."</i>
+<i>"Step with care and great tact, and remember that Life's a Great Balancing Act."</i>
 
 
-\- Daniel Burnham
+\- Dr. Seuss
 </blockquote>
 </p>
 
