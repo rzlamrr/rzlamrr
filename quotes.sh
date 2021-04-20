@@ -1,8 +1,8 @@
 #!/bin/bash
 
-var() {
-    export TZ=Asia/Jakarta
+export TZ=Asia/Jakarta
 
+var() {
     arr[0]="bot: 👋 Hello Github!"
     arr[1]="bot: 🥳 Yeayyy!"
     arr[2]="bot: 😬 Working from github."
@@ -57,7 +57,7 @@ main() {
 
 <hr>
 <h3 align=\"center\">Quote of The Day</h3>
-<p align="center">
+<p align=\"center\">
 <blockquote>
 <i>\"${quote}\"</i>
 
