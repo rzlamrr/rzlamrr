@@ -37,9 +37,10 @@
 <h3 align="center">Quote of The Day</h3>
 <p align=center>
 <blockquote>
-<i>"I'm from Canada, and New Zealand feels like you took all the best bits of Canada and squished them onto a tiny island like Hawaii. I was absolutely blown away by the beauty of the South Island."</i>
+<i>"Of all possessions a friend is the most precious."</i>
 
-\- Evangeline Lilly
+
+\- Herodotus
 </blockquote>
 </p>
 
