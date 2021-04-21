@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To study and not think is a waste. To think and not study is dangerous."</i>
+<i>"I think somehow we learn who we really are and then live with that decision."</i>
 <br>
-<b>- Confucius</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
