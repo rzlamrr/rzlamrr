@@ -37,10 +37,10 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's a good thing that beauty is only skin deep, or I'd be rotten to the core."</i>
+<i>"A person however learned and qualified in his life's work in whom gratitude is absent, is devoid of that beauty of character which makes personality fragrant."</i>
 
 
-\- Phyllis Diller
+\- Hazrat Inayat Khan
 </blockquote>
 </p>
 
