@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The calm mind allows one to connect with the inner self, the Soul, the very source of our being. That's where the music lives. That's where my music comes from."</i>
+<i>"My mom passed away a day before high school started, and her dream was for me to be a full rock and roll guy, and play drums in a band."</i>
 <br>
-<b>- Clarence Clemons</b>
+<b>- Travis Barker</b>
 </blockquote>
 </p>
 
