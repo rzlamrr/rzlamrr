@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have many valentines. My mom and my sister and my directors. I got calls from all of them. And my friends. I respect what Valentine's Day stands for because it is about love."</i>
+<i>"I feel fortunate that I'm not a beauty. I'm not a classic beauty. I feel it is harder for girls who are like that. There are fewer parts."</i>
 <br>
-<b>- Michelle Trachtenberg</b>
+<b>- Olivia Colman</b>
 </blockquote>
 </p>
 
