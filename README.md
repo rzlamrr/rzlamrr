@@ -37,10 +37,10 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person however learned and qualified in his life's work in whom gratitude is absent, is devoid of that beauty of character which makes personality fragrant."</i>
+<i>"Art usually only makes the news in America when the subject is money."</i>
 
 
-\- Hazrat Inayat Khan
+\- Jerry Saltz
 </blockquote>
 </p>
 
