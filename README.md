@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"You give before you get."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
