@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And it was back in the mid-1980s, and as I point out in a piece, that was when we are spending about eight percent of our gross domestic product on health care. And even then, we had the impression that so much of the excessive, aggressive medical treatment that took place at the end of life was not only unnecessary but it was cruel."</i>
+<i>"To study and not think is a waste. To think and not study is dangerous."</i>
 <br>
-<b>- Richard Dooling</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
