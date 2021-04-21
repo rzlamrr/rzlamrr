@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think somehow we learn who we really are and then live with that decision."</i>
+<i>"An artist is an artist only because of his exquisite sense of beauty, a sense which shows him intoxicating pleasures, but which at the same time implies and contains an equally exquisite sense of all deformities and all disproportion."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Charles Baudelaire</b>
 </blockquote>
 </p>
 
