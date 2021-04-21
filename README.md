@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
+<i>"Let me be clear. I support the definition of marriage as a union between a man and a woman."</i>
 <br>
-<b>- Agatha Christie</b>
+<b>- Ben Nelson</b>
 </blockquote>
 </p>
 
