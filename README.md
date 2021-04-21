@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't think I'll ever be able to stay in one place for more than a year or two. It's not in my nature."</i>
+<i>"Many sophisticated, intelligent people lack wisdom and common sense."</i>
 <br>
-<b>- Ricky Williams</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
