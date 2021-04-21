@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An artist is an artist only because of his exquisite sense of beauty, a sense which shows him intoxicating pleasures, but which at the same time implies and contains an equally exquisite sense of all deformities and all disproportion."</i>
+<i>"Policemen so cherish their status as keepers of the peace and protectors of the public that they have occasionally been known to beat to death those citizens or groups who question that status."</i>
 <br>
-<b>- Charles Baudelaire</b>
+<b>- David Mamet</b>
 </blockquote>
 </p>
 
