@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
