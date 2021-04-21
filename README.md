@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let me be clear. I support the definition of marriage as a union between a man and a woman."</i>
+<i>"The calm mind allows one to connect with the inner self, the Soul, the very source of our being. That's where the music lives. That's where my music comes from."</i>
 <br>
-<b>- Ben Nelson</b>
+<b>- Clarence Clemons</b>
 </blockquote>
 </p>
 
