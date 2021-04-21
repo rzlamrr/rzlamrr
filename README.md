@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is riches. Complaint is poverty."</i>
+<i>"Whoever is happy will make others happy, too."</i>
 <br>
-<b>- Doris Day</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
