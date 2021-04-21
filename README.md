@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Policemen so cherish their status as keepers of the peace and protectors of the public that they have occasionally been known to beat to death those citizens or groups who question that status."</i>
+<i>"I don't think I'll ever be able to stay in one place for more than a year or two. It's not in my nature."</i>
 <br>
-<b>- David Mamet</b>
+<b>- Ricky Williams</b>
 </blockquote>
 </p>
 
