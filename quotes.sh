@@ -60,9 +60,8 @@ main() {
 <p align=\"center\">
 <blockquote>
 <i>\"${quote}\"</i>
-
-
-\\- ${author}
+<br>
+<b>- ${author}</b>
 </blockquote>
 </p>
 
