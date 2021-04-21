@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mom passed away a day before high school started, and her dream was for me to be a full rock and roll guy, and play drums in a band."</i>
+<i>"Imagination disposes of everything it creates beauty, justice, and happiness, which are everything in this world."</i>
 <br>
-<b>- Travis Barker</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
