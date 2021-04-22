@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take rest; a field that has rested gives a bountiful crop."</i>
+<i>"We have to be active about kindness and about peace. I've always fantasized that it would be great if there was a Department of Peace."</i>
 <br>
-<b>- Ovid</b>
+<b>- Dave Matthews</b>
 </blockquote>
 </p>
 
