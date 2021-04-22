@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a dog barks at the moon, then it is religion but when he barks at strangers, it is patriotism!"</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- David Starr Jordan</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
