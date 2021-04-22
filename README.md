@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue at the dinner table, for the one who is not hungry always gets the best of the argument."</i>
+<i>"We cannot be both the world's leading champion of peace and the world's leading supplier of the weapons of war."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Jimmy Carter</b>
 </blockquote>
 </p>
 
