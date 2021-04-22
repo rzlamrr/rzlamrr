@@ -52,7 +52,7 @@ main() {
 <code><img height=\"30\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png\"></code>
 </p>
 <p align=\"center\">
-<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's github stat\"><img src=\"https://github-readme-stats.anuraghazra1.vercel.app/api?username=rzlamrr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515\"></a>
+<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's github stat\"><img src=\"https://dvst-stats.vercel.app/api?username=rzlamrr&theme=tokyonight&show_icons=true\"></a>
 </p>
 
 <hr>
