@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the sleep that nourishes wisdom."</i>
+<i>"To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else means to fight the hardest battle which any human being can fight and never stop fighting."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- e. e. cummings</b>
 </blockquote>
 </p>
 
