@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man has any natural authority over his fellow men."</i>
+<i>"I don't know what the secret to longevity as an actress is. It's more than talent and beauty. Maybe it's the audience seeing itself in you."</i>
 <br>
-<b>- Jean-Jacques Rousseau</b>
+<b>- Joan Blondell</b>
 </blockquote>
 </p>
 
