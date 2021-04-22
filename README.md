@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The interesting thing about being a mother is that everyone wants pets, but no one but me cleans the kitty litter."</i>
+<i>"I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side."</i>
 <br>
-<b>- Meryl Streep</b>
+<b>- Yolanda Hadid</b>
 </blockquote>
 </p>
 
