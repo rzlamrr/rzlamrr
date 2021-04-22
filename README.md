@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know, my friends, with what a brave carouse I made a Second Marriage in my house favored old barren reason from my bed, and took the daughter of the vine to spouse."</i>
+<i>"You don't have to save the world, but you can be in the world-that's where the beauty comes from."</i>
 <br>
-<b>- Omar Khayyam</b>
+<b>- Daphne Zuniga</b>
 </blockquote>
 </p>
 
