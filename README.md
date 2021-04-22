@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend your whole life waiting for the storm, you'll never enjoy the sunshine."</i>
+<i>"If you smile when no one else is around, you really mean it."</i>
 <br>
-<b>- Morris West</b>
+<b>- Andy Rooney</b>
 </blockquote>
 </p>
 
