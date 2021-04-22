@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot be both the world's leading champion of peace and the world's leading supplier of the weapons of war."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Jimmy Carter</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
