@@ -30,16 +30,16 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 </p>
 <p align="center">
-<a href="https://rzlamrr.github.io" alt="rzlamrr's github stat"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rzlamrr&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></a>
+<a href="https://rzlamrr.github.io" alt="rzlamrr's github stat"><img src="https://dvst-stats.vercel.app/api?username=rzlamrr&theme=tokyonight&show_icons=true"></a>
 </p>
 
 <hr>
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I feel fortunate that I'm not a beauty. I'm not a classic beauty. I feel it is harder for girls who are like that. There are fewer parts."</i>
+<i>"Never argue at the dinner table, for the one who is not hungry always gets the best of the argument."</i>
 <br>
-<b>- Olivia Colman</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
