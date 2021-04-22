@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to save the world, but you can be in the world-that's where the beauty comes from."</i>
+<i>"Men seldom, or rather never for a length of time and deliberately, rebel against anything that does not deserve rebelling against."</i>
 <br>
-<b>- Daphne Zuniga</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
