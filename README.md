@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Usually I do everything reverse. I practice something in movies and then I try it in real life."</i>
+<i>"If you spend your whole life waiting for the storm, you'll never enjoy the sunshine."</i>
 <br>
-<b>- John Cusack</b>
+<b>- Morris West</b>
 </blockquote>
 </p>
 
