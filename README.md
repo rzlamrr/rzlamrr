@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men seldom, or rather never for a length of time and deliberately, rebel against anything that does not deserve rebelling against."</i>
+<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
