@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Marilyn Monroe wasn't even her real name, Charles Manson isn't his real name, and now, I'm taking that to be my real name. But what's real? You can't find the truth, you just pick the lie you like the best."</i>
+<i>"Take rest; a field that has rested gives a bountiful crop."</i>
 <br>
-<b>- Marilyn Manson</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
