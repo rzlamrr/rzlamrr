@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you smile when no one else is around, you really mean it."</i>
+<i>"You know, my friends, with what a brave carouse I made a Second Marriage in my house favored old barren reason from my bed, and took the daughter of the vine to spouse."</i>
 <br>
-<b>- Andy Rooney</b>
+<b>- Omar Khayyam</b>
 </blockquote>
 </p>
 
