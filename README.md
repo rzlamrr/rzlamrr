@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"No man has any natural authority over his fellow men."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Jean-Jacques Rousseau</b>
 </blockquote>
 </p>
 
