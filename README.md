@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have to be active about kindness and about peace. I've always fantasized that it would be great if there was a Department of Peace."</i>
+<i>"Usually I do everything reverse. I practice something in movies and then I try it in real life."</i>
 <br>
-<b>- Dave Matthews</b>
+<b>- John Cusack</b>
 </blockquote>
 </p>
 
