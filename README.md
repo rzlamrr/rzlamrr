@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
+<i>"When a dog barks at the moon, then it is religion but when he barks at strangers, it is patriotism!"</i>
 <br>
-<b>- Anne Frank</b>
+<b>- David Starr Jordan</b>
 </blockquote>
 </p>
 
