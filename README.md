@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be nobody but yourself in a world which is doing its best, night and day, to make you everybody else means to fight the hardest battle which any human being can fight and never stop fighting."</i>
+<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
 <br>
-<b>- e. e. cummings</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
