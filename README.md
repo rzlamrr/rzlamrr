@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't know what the secret to longevity as an actress is. It's more than talent and beauty. Maybe it's the audience seeing itself in you."</i>
+<i>"Another thing that's quite different in writing a book as a practicing newspaperman is that if you look at what you've written the next morning and you think you didn't get it quite right, you can fix it."</i>
 <br>
-<b>- Joan Blondell</b>
+<b>- Adam Clymer</b>
 </blockquote>
 </p>
 
