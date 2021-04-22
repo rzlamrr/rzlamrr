@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Another thing that's quite different in writing a book as a practicing newspaperman is that if you look at what you've written the next morning and you think you didn't get it quite right, you can fix it."</i>
+<i>"Marilyn Monroe wasn't even her real name, Charles Manson isn't his real name, and now, I'm taking that to be my real name. But what's real? You can't find the truth, you just pick the lie you like the best."</i>
 <br>
-<b>- Adam Clymer</b>
+<b>- Marilyn Manson</b>
 </blockquote>
 </p>
 
