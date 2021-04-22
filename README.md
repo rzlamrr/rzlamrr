@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship at first sight, like love at first sight, is said to be the only truth."</i>
+<i>"When you think of couponing, you picture a mom cutting coupons out of the back of the newspaper."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Andrew Mason</b>
 </blockquote>
 </p>
 
