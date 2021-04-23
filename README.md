@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There was a time when a fool and his money were soon parted, but now it happens to everybody."</i>
+<i>"All of us kids ended up 'doing Mom.' There are four of us who've tried show business. Five if you insist on counting my sister the nun, who does liturgical dance."</i>
 <br>
-<b>- Adlai E. Stevenson</b>
+<b>- Bill Murray</b>
 </blockquote>
 </p>
 
