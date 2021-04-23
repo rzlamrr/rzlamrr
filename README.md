@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To keep your secret is wisdom; but to expect others to keep it is folly."</i>
+<i>"My mother, she had a very good attitude toward money. I'm very grateful for the fact that we had to learn to save. I used to get like 50 pence a week, and I'd save it for like five months. And then I'd spend it on Christmas presents. I'd save up like eight pounds. It's nothing, but we did that."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Gemma Arterton</b>
 </blockquote>
 </p>
 
