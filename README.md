@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All of us kids ended up 'doing Mom.' There are four of us who've tried show business. Five if you insist on counting my sister the nun, who does liturgical dance."</i>
+<i>"A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably."</i>
 <br>
-<b>- Bill Murray</b>
+<b>- William C. Menninger</b>
 </blockquote>
 </p>
 
