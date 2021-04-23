@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy is to be able to become aware of oneself without fright."</i>
+<i>"Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
