@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mother, she had a very good attitude toward money. I'm very grateful for the fact that we had to learn to save. I used to get like 50 pence a week, and I'd save it for like five months. And then I'd spend it on Christmas presents. I'd save up like eight pounds. It's nothing, but we did that."</i>
+<i>"Happiness depends upon ourselves."</i>
 <br>
-<b>- Gemma Arterton</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
