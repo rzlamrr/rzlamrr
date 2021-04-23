@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty."</i>
+<i>"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
