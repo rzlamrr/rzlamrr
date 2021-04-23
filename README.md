@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
+<i>"A people free to choose will always choose peace."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
