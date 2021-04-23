@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."</i>
+<i>"I am focused on what needs to be done for the people of Israel. Period. I do not pity myself and I do not pat myself on the shoulder. I get up in the morning full of energy to fulfill my mission."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Ehud Olmert</b>
 </blockquote>
 </p>
 
