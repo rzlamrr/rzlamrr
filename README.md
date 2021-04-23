@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do it, you can."</i>
+<i>"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty."</i>
 <br>
-<b>- John Burroughs</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
