@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity."</i>
+<i>"Sometimes, I sit down to sketch at the unearthly hour of 3 in the morning!"</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Nafisa Joseph</b>
 </blockquote>
 </p>
 
