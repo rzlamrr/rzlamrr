@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Those who loved you and were helped by you will remember you when forget-me-nots have withered. Carve your name on hearts, not on marble."</i>
+<i>"The greatest remedy for anger is delay."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
