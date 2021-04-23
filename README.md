@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am focused on what needs to be done for the people of Israel. Period. I do not pity myself and I do not pat myself on the shoulder. I get up in the morning full of energy to fulfill my mission."</i>
+<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
 <br>
-<b>- Ehud Olmert</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
