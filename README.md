@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strength does not come from physical capacity. It comes from an indomitable will."</i>
+<i>"To keep your secret is wisdom; but to expect others to keep it is folly."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
