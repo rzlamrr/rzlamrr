@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weve got to have a dream if we are going to make a dream come true."</i>
+<i>"To be happy is to be able to become aware of oneself without fright."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
