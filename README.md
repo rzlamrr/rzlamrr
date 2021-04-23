@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest remedy for anger is delay."</i>
+<i>"It's not in our nature. Americans have never been a people that drive through a nice neighborhood and say, 'Oh, I hate the people who live in these nice houses.'"</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Marco Rubio</b>
 </blockquote>
 </p>
 
