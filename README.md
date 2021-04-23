@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes, I sit down to sketch at the unearthly hour of 3 in the morning!"</i>
+<i>"Technology has to be invented or adopted."</i>
 <br>
-<b>- Nafisa Joseph</b>
+<b>- Jared Diamond</b>
 </blockquote>
 </p>
 
