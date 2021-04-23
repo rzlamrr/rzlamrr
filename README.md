@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends upon ourselves."</i>
+<i>"When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
