@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The music business is motivated by money. Music is motivated by energy and feelings."</i>
+<i>"A good character is the best tombstone. Those who loved you and were helped by you will remember you when forget-me-nots have withered. Carve your name on hearts, not on marble."</i>
 <br>
-<b>- Erykah Badu</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
