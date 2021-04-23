@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
+<i>"There was a time when a fool and his money were soon parted, but now it happens to everybody."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Adlai E. Stevenson</b>
 </blockquote>
 </p>
 
