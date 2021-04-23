@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably."</i>
+<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
