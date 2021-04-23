@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."</i>
+<i>"The music business is motivated by money. Music is motivated by energy and feelings."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Erykah Badu</b>
 </blockquote>
 </p>
 
