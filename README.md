@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A people free to choose will always choose peace."</i>
+<i>"Strength does not come from physical capacity. It comes from an indomitable will."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
