@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never interrupt your enemy when he is making a mistake."</i>
+<i>"I have never advocated war except as a means of peace."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Ulysses S. Grant</b>
 </blockquote>
 </p>
 
