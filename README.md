@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge."</i>
+<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
 <br>
-<b>- Daniel J. Boorstin</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
