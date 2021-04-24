@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
+<i>"Making a movie requires 20 to 500 people to make and a lot of money and the stakes are a lot higher."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Alanis Morissette</b>
 </blockquote>
 </p>
 
