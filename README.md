@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not afraid of storms, for Im learning how to sail my ship."</i>
+<i>"When the solution is simple, God is answering."</i>
 <br>
-<b>- Louisa May Alcott</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
