@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the solution is simple, God is answering."</i>
+<i>"Set your goals high, and don't stop till you get there."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Bo Jackson</b>
 </blockquote>
 </p>
 
