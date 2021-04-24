@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."</i>
+<i>"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge."</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Daniel J. Boorstin</b>
 </blockquote>
 </p>
 
