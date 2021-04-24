@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not in our nature. Americans have never been a people that drive through a nice neighborhood and say, 'Oh, I hate the people who live in these nice houses.'"</i>
+<i>"Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."</i>
 <br>
-<b>- Marco Rubio</b>
+<b>- Henry van Dyke Jr.</b>
 </blockquote>
 </p>
 
