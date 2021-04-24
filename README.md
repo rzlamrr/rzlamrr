@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's really interesting with art-movies too, but art especially - to see how your attitude toward artists and works and your level of appreciation of them is always shifting and changing over the years."</i>
+<i>"I'm obsessed with the countryside: woods, forests, fields, lakes, mountains. I'm really into folk music and folklore. But more so I'm into electronic music. I'm into bands that have both aspects, like Boards of Canada is a perfect example. You could listen to that type of music running through a woods. It's kind of what I wanted to achieve."</i>
 <br>
-<b>- Richard Hell</b>
+<b>- Ellie Goulding</b>
 </blockquote>
 </p>
 
