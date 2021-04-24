@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's most persistent and urgent question is, 'What are you doing for others?'"</i>
+<i>"It's really interesting with art-movies too, but art especially - to see how your attitude toward artists and works and your level of appreciation of them is always shifting and changing over the years."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Richard Hell</b>
 </blockquote>
 </p>
 
