@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
+<i>"He who is cruel to animals becomes hard also in his dealings with men. We can judge the heart of a man by his treatment of animals."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Immanuel Kant</b>
 </blockquote>
 </p>
 
