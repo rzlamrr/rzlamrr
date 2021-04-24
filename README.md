@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never advocated war except as a means of peace."</i>
+<i>"You will not be punished for your anger, you will be punished by your anger."</i>
 <br>
-<b>- Ulysses S. Grant</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
