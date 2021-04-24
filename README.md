@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm obsessed with the countryside: woods, forests, fields, lakes, mountains. I'm really into folk music and folklore. But more so I'm into electronic music. I'm into bands that have both aspects, like Boards of Canada is a perfect example. You could listen to that type of music running through a woods. It's kind of what I wanted to achieve."</i>
+<i>"Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life."</i>
 <br>
-<b>- Ellie Goulding</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
