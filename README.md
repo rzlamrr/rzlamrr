@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Set your goals high, and don't stop till you get there."</i>
+<i>"The most I can do for my friend is simply be his friend."</i>
 <br>
-<b>- Bo Jackson</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
