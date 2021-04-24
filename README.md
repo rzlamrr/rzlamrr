@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God is not on the side of the big battalions, but on the side of those who shoot best."</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
