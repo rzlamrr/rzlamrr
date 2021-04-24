@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most I can do for my friend is simply be his friend."</i>
+<i>"When I wake up in the morning, I feel like a billionaire without paying taxes."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Ernie Banks</b>
 </blockquote>
 </p>
 
