@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mom FedExes a red velvet cake she makes from scratch to me every birthday."</i>
+<i>"Life's most persistent and urgent question is, 'What are you doing for others?'"</i>
 <br>
-<b>- Molly Sims</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
