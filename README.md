@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I wake up in the morning, I feel like a billionaire without paying taxes."</i>
+<i>"Sex and beauty are inseparable, like life and consciousness. And the intelligence which goes with sex and beauty, and arises out of sex and beauty, is intuition."</i>
 <br>
-<b>- Ernie Banks</b>
+<b>- David Herbert Lawrence</b>
 </blockquote>
 </p>
 
