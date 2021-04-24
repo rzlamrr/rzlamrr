@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not be punished for your anger, you will be punished by your anger."</i>
+<i>"I'm not afraid of storms, for Im learning how to sail my ship."</i>
 <br>
-<b>- Buddha</b>
+<b>- Louisa May Alcott</b>
 </blockquote>
 </p>
 
