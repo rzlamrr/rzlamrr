@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sex and beauty are inseparable, like life and consciousness. And the intelligence which goes with sex and beauty, and arises out of sex and beauty, is intuition."</i>
+<i>"Once a new technology rolls over you, if you’re not part of the steamroller, you’re part of the road."</i>
 <br>
-<b>- David Herbert Lawrence</b>
+<b>- Stewart Brand</b>
 </blockquote>
 </p>
 
