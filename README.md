@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
+<i>"Each one of these treaties is a step for the maintenance of peace, an additional guarantee against war. It is through such machinery that the disputes between nations will be settled and war prevented."</i>
 <br>
-<b>- Etty Hillesum</b>
+<b>- Frank B. Kellogg</b>
 </blockquote>
 </p>
 
