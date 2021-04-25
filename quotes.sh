@@ -80,7 +80,7 @@ main() {
 <h2 align=\"center\">Thank You 🙏🏼</h2>
 <p align=\"center\"><b><i>Nothing special with me!</i></b></p>
 <p align=\"center\">
-<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's profile view stat\"><img src=\"https://rzlamrr-visitor-badge.glitch.me/badge?page_id=rzlamrr.rzlamrr\">
+<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's profile view stat\"><img src=\"https://dvst-visitor.glitch.me/badge\">
 </p>" > README.md
 }
 
