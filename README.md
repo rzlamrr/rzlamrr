@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are the only real aristocracy in the world: the aristocracy of money."</i>
+<i>"Whether it's possible or not, being a doctor, you take an oath. To care for your patient, not to kill them. You take an oath to do things that are proper in the medical world. Not to administer something outside of a hospital setting that's not even your area."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Jermaine Jackson</b>
 </blockquote>
 </p>
 
@@ -58,5 +58,5 @@
 <h2 align="center">Thank You 🙏🏼</h2>
 <p align="center"><b><i>Nothing special with me!</i></b></p>
 <p align="center">
-<a href="https://rzlamrr.github.io" alt="rzlamrr's profile view stat"><img src="https://dvst-visitor.glitch.me/badge">
+<a href="https://rzlamrr.github.io" alt="rzlamrr's profile view stat"><img src="https://rzlamrr-visitor-badge.glitch.me/badge?page_id=rzlamrr.rzlamrr">
 </p>
