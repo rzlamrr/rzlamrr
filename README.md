@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I tell myself that God gave my children many gifts - spirit, beauty, intelligence, the capacity to make friends and to inspire respect. There was only one gift he held back - length of life."</i>
+<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
 <br>
-<b>- Rose Kennedy</b>
+<b>- Etty Hillesum</b>
 </blockquote>
 </p>
 
