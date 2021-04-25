@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is cruel to animals becomes hard also in his dealings with men. We can judge the heart of a man by his treatment of animals."</i>
+<i>"We are the only real aristocracy in the world: the aristocracy of money."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
