@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world."</i>
+<i>"How is it possible to find meaning in a finite world, given my waist and shirt size?"</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
