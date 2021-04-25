@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each one of these treaties is a step for the maintenance of peace, an additional guarantee against war. It is through such machinery that the disputes between nations will be settled and war prevented."</i>
+<i>"All serious daring starts from within."</i>
 <br>
-<b>- Frank B. Kellogg</b>
+<b>- Harriet Beecher Stowe</b>
 </blockquote>
 </p>
 
