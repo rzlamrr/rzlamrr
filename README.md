@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'll prepare and some day my chance will come."</i>
+<i>"I tell myself that God gave my children many gifts - spirit, beauty, intelligence, the capacity to make friends and to inspire respect. There was only one gift he held back - length of life."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Rose Kennedy</b>
 </blockquote>
 </p>
 
