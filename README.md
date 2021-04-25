@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as a person is capable of self-renewal they are a living being."</i>
+<i>"Yesterdays home runs don't win today's games."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
@@ -58,5 +58,5 @@
 <h2 align="center">Thank You 🙏🏼</h2>
 <p align="center"><b><i>Nothing special with me!</i></b></p>
 <p align="center">
-<a href="https://rzlamrr.github.io" alt="rzlamrr's profile view stat"><img src="https://rzlamrr-visitor-badge.glitch.me/badge?page_id=rzlamrr.rzlamrr">
+<a href="https://rzlamrr.github.io" alt="rzlamrr's profile view stat"><img src="https://dvst-visitor.glitch.me/badge">
 </p>
