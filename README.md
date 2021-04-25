@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether it's possible or not, being a doctor, you take an oath. To care for your patient, not to kill them. You take an oath to do things that are proper in the medical world. Not to administer something outside of a hospital setting that's not even your area."</i>
+<i>"I'll prepare and some day my chance will come."</i>
 <br>
-<b>- Jermaine Jackson</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
