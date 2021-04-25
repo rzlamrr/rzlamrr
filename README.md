@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All serious daring starts from within."</i>
+<i>"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world."</i>
 <br>
-<b>- Harriet Beecher Stowe</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
