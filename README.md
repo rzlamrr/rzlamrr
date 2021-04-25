@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"Our kindness may be the most persuasive argument for that which we believe."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
