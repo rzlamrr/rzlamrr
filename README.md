@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
+<i>"Commitment is an act, not a word."</i>
 <br>
-<b>- Buddha</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
