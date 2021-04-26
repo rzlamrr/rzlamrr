@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have the guts to keep making mistakes, your wisdom and intelligence leap forward with huge momentum."</i>
+<i>"I believe that every person is born with talent."</i>
 <br>
-<b>- Holly Near</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
