@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our kindness may be the most persuasive argument for that which we believe."</i>
+<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- Benjamin Haydon</b>
 </blockquote>
 </p>
 
