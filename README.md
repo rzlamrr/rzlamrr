@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
+<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
