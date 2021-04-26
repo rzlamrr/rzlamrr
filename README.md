@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that every person is born with talent."</i>
+<i>"I can't imagine a person becoming a success who doesn't give this game of life everything hes got."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Walter Cronkite</b>
 </blockquote>
 </p>
 
