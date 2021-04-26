@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
+<i>"Reality does not conform to the ideal, but confirms it."</i>
 <br>
-<b>- Arthur Rubinstein</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
