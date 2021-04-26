@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm a great believer in luck and I find the harder I work, the more I have of it."</i>
+<i>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
