@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
+<i>"I'm a great believer in luck and I find the harder I work, the more I have of it."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
