@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't imagine a person becoming a success who doesn't give this game of life everything hes got."</i>
+<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
 <br>
-<b>- Walter Cronkite</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
