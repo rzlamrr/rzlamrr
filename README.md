@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
