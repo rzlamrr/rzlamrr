@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</i>
+<i>"Myths which are believed in tend to become true."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
