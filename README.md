@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
+<i>"But what is liberty without wisdom, and without virtue? It is the greatest of all possible evils; for it is folly, vice, and madness, without tuition or restraint."</i>
 <br>
-<b>- Viktor Frankl</b>
+<b>- Edmund Burke</b>
 </blockquote>
 </p>
 
