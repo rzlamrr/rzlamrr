@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Commitment is an act, not a word."</i>
+<i>"Wise kings generally have wise counselors; and he must be a wise man himself who is capable of distinguishing one."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Diogenes</b>
 </blockquote>
 </p>
 
