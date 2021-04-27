@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't choose your family. They are God's gift to you, as you are to them."</i>
+<i>"Time is the wisest counsellor of all."</i>
 <br>
-<b>- Desmond Tutu</b>
+<b>- Pericles</b>
 </blockquote>
 </p>
 
