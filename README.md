@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"Nine-tenths of wisdom is being wise in time."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
