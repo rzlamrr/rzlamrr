@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish man seeks happiness in the distance, the wise grows it under his feet."</i>
+<i>"Every man takes the limits of his own field of vision for the limits of the world."</i>
 <br>
-<b>- James Oppenheim</b>
+<b>- Arthur Schopenhauer</b>
 </blockquote>
 </p>
 
