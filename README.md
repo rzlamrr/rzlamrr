@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports."</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Richard Burton</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
