@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nine-tenths of wisdom is being wise in time."</i>
+<i>"The foolish man seeks happiness in the distance, the wise grows it under his feet."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- James Oppenheim</b>
 </blockquote>
 </p>
 
