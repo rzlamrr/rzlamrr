@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trouble is only opportunity in work clothes."</i>
+<i>"The things that one most wants to do are the things that are probably most worth doing."</i>
 <br>
-<b>- Henry J. Kaiser</b>
+<b>- Winifred Holtby</b>
 </blockquote>
 </p>
 
