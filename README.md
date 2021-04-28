@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
+<i>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Robert Southey</b>
 </blockquote>
 </p>
 
