@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"If opportunity doesn't knock, build a door."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Milton Berle</b>
 </blockquote>
 </p>
 
