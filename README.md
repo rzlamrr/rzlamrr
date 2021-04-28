@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."</i>
+<i>"Nothing in life is to be feared. It is only to be understood."</i>
 <br>
-<b>- Robert Southey</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
