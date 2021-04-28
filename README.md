@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the wisest counsellor of all."</i>
+<i>"Our passion is our strength."</i>
 <br>
-<b>- Pericles</b>
+<b>- Billie Armstrong</b>
 </blockquote>
 </p>
 
