@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If opportunity doesn't knock, build a door."</i>
+<i>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</i>
 <br>
-<b>- Milton Berle</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
