@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fame usually comes to those who are thinking about something else."</i>
+<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
