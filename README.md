@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Myths which are believed in tend to become true."</i>
+<i>"A friend is one who knows you and loves you just the same."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
