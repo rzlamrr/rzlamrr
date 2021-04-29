@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
+<i>"All I can say about life is, Oh God, enjoy it!"</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Bob Newhart</b>
 </blockquote>
 </p>
 
