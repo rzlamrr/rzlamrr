@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never worry about action, but only inaction."</i>
+<i>"A man's growth is seen in the successive choirs of his friends"</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
