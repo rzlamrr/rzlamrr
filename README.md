@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The possibilities are numerous once we decide to act and not react."</i>
+<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
