@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It’s supposed to be automatic, but actually you have to push this button."</i>
+<i>"The possibilities are numerous once we decide to act and not react."</i>
 <br>
-<b>- John Brunner</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
