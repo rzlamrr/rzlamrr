@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is the companion of wisdom."</i>
+<i>"Without courage, wisdom bears no fruit."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Baltasar Gracián</b>
 </blockquote>
 </p>
 
