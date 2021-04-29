@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else."</i>
+<i>"I never worry about action, but only inaction."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
