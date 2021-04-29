@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's growth is seen in the successive choirs of his friends"</i>
+<i>"Patience is the companion of wisdom."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
