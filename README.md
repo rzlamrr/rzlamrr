@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</i>
+<i>"No alibi will save you from accepting the responsibility."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
