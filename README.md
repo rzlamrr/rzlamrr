@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are useless. They can only give you answers."</i>
+<i>"These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Vernon Cooper</b>
 </blockquote>
 </p>
 
