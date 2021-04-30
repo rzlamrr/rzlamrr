@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No alibi will save you from accepting the responsibility."</i>
+<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
