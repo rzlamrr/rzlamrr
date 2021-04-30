@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
+<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
