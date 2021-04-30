@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is divided into the horrible and the miserable."</i>
+<i>"Stay away from what might have been and look at what will be."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Marsha Petrie Sue</b>
 </blockquote>
 </p>
 
