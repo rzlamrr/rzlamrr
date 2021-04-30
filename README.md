@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."</i>
+<i>"If you're walking down the right path and you're willing to keep walking, eventually you'll make progress."</i>
 <br>
-<b>- Mortimer J. Adler</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
