@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways of spreading light: to be the candle or the mirror that reflects it."</i>
+<i>"Life is divided into the horrible and the miserable."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
