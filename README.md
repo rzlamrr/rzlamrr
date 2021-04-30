@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without courage, wisdom bears no fruit."</i>
+<i>"The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."</i>
 <br>
-<b>- Baltasar Gracián</b>
+<b>- Mortimer J. Adler</b>
 </blockquote>
 </p>
 
