@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."</i>
+<i>"Until you make peace with who you are, you will never be content with what you have."</i>
 <br>
-<b>- Vernon Cooper</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
