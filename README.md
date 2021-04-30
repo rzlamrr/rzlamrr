@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
+<i>"Computers are useless. They can only give you answers."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
