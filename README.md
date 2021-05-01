@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay away from what might have been and look at what will be."</i>
+<i>"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."</i>
 <br>
-<b>- Marsha Petrie Sue</b>
+<b>- Everett Dirksen</b>
 </blockquote>
 </p>
 
