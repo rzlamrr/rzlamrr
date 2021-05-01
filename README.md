@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow."</i>
+<i>"We always had 'Vogue' in our house. But, when I was around 12, my Mom finally took me seriously about modeling and put a stack of magazines in front of me, then told me to study all the poses. The ones I loved the most were in 'Vogue.'"</i>
 <br>
-<b>- Melody Beattie</b>
+<b>- Chanel Iman</b>
 </blockquote>
 </p>
 
