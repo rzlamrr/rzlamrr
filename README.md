@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the attempt to form a friendship inspired by beauty."</i>
+<i>"It's very trying on a marriage when you're doing a one hour show, week after week after week. You don't have enough time for people that maybe you should have top priority."</i>
 <br>
-<b>- Cicero</b>
+<b>- Gavin MacLeod</b>
 </blockquote>
 </p>
 
