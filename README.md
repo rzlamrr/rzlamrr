@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity causes some men to break, others to break records."</i>
+<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Ivy Baker Priest</b>
 </blockquote>
 </p>
 
