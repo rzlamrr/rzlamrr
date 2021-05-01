@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life shrinks or expands in proportion to one's courage."</i>
+<i>"Well, you know, the definition of second marriage is the triumph of hope over experience."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- George Will</b>
 </blockquote>
 </p>
 
