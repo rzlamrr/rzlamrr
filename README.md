@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As to the deceit perpetrated upon women, let it pass, for, when love is in the way, men and women as a general rule dupe each other."</i>
+<i>"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do."</i>
 <br>
-<b>- Giacomo Casanova</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
