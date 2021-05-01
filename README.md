@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We always had 'Vogue' in our house. But, when I was around 12, my Mom finally took me seriously about modeling and put a stack of magazines in front of me, then told me to study all the poses. The ones I loved the most were in 'Vogue.'"</i>
+<i>"These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."</i>
 <br>
-<b>- Chanel Iman</b>
+<b>- Vernon Cooper</b>
 </blockquote>
 </p>
 
