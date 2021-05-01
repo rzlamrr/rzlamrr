@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without peace and without the overwhelming majority of people that believe in peace defending it, working for it, believing in it, security can never really be a reality."</i>
+<i>"Life shrinks or expands in proportion to one's courage."</i>
 <br>
-<b>- King Hussein I</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
