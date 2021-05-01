@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."</i>
+<i>"Adversity causes some men to break, others to break records."</i>
 <br>
-<b>- Vernon Cooper</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
