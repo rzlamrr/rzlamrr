@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
+<i>"If you change the way you look at things, the things you look at change."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
