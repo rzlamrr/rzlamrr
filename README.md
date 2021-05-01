@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
+<i>"As to the deceit perpetrated upon women, let it pass, for, when love is in the way, men and women as a general rule dupe each other."</i>
 <br>
-<b>- Ivy Baker Priest</b>
+<b>- Giacomo Casanova</b>
 </blockquote>
 </p>
 
