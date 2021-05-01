@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's very trying on a marriage when you're doing a one hour show, week after week after week. You don't have enough time for people that maybe you should have top priority."</i>
+<i>"Without peace and without the overwhelming majority of people that believe in peace defending it, working for it, believing in it, security can never really be a reality."</i>
 <br>
-<b>- Gavin MacLeod</b>
+<b>- King Hussein I</b>
 </blockquote>
 </p>
 
