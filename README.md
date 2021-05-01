@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."</i>
+<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
 <br>
-<b>- Everett Dirksen</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
