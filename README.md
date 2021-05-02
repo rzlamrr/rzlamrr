@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The government can still conduct clandestine searches of innocent people's private information such as library, medical, and financial records. This is wrong and should have been addressed in a true compromise."</i>
+<i>"My dad believes in God, I think. I'm not sure if my mom does. I don't."</i>
 <br>
-<b>- Jose Serrano</b>
+<b>- Daniel Radcliffe</b>
 </blockquote>
 </p>
 
