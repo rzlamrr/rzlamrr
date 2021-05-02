@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no blessing like a prudent friend."</i>
+<i>"My mother told me on several different occasions that she was livin' her dream vicariously through me. She once said that I was getting' to do all the things that she would have wanted to have done."</i>
 <br>
-<b>- Euripides</b>
+<b>- Buck Owens</b>
 </blockquote>
 </p>
 
