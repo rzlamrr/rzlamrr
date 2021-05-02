@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is fixed to a star does not change his mind."</i>
+<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
