@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My dad believes in God, I think. I'm not sure if my mom does. I don't."</i>
+<i>"More than art, more than literature, music is universally accessible."</i>
 <br>
-<b>- Daniel Radcliffe</b>
+<b>- Billy Joel</b>
 </blockquote>
 </p>
 
