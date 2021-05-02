@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an element of anger among women who've been raped. There's certainly a major element of humiliation. But it really does seem like a medical condition of shock and horror."</i>
+<i>"Expect problems and eat them for breakfast."</i>
 <br>
-<b>- Nicholas D. Kristof</b>
+<b>- Alfred A. Montapert</b>
 </blockquote>
 </p>
 
