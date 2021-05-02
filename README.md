@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ben Franklin may have discovered electricity- but it is the man who invented the meter who made the money."</i>
+<i>"Brave men are all vertebrates they have their softness on the surface and their toughness in the middle."</i>
 <br>
-<b>- Earl Warren</b>
+<b>- Gilbert K. Chesterton</b>
 </blockquote>
 </p>
 
