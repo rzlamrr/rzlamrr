@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Brave men are all vertebrates they have their softness on the surface and their toughness in the middle."</i>
+<i>"The mind is everything. What you think you become."</i>
 <br>
-<b>- Gilbert K. Chesterton</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
