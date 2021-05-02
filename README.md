@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind is everything. What you think you become."</i>
+<i>"The government can still conduct clandestine searches of innocent people's private information such as library, medical, and financial records. This is wrong and should have been addressed in a true compromise."</i>
 <br>
-<b>- Buddha</b>
+<b>- Jose Serrano</b>
 </blockquote>
 </p>
 
