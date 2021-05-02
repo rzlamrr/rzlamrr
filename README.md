@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mother told me on several different occasions that she was livin' her dream vicariously through me. She once said that I was getting' to do all the things that she would have wanted to have done."</i>
+<i>"A man's best fortune, or his worst, is his wife."</i>
 <br>
-<b>- Buck Owens</b>
+<b>- Thomas Fuller</b>
 </blockquote>
 </p>
 
