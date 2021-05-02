@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth you believe and cling to makes you unavailable to hear anything new."</i>
+<i>"Never let lack of money interfere with having fun."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Anonymous</b>
 </blockquote>
 </p>
 
