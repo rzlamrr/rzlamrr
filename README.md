@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"More than art, more than literature, music is universally accessible."</i>
+<i>"I haven't been faithful to my wife. Our marriage has been tainted with my infidelities. I was irresponsible."</i>
 <br>
-<b>- Billy Joel</b>
+<b>- David Boreanaz</b>
 </blockquote>
 </p>
 
