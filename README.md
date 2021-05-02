@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man's best fortune, or his worst, is his wife."</i>
+<i>"A day spent without the sight or sound of beauty, the contemplation of mystery, or the search of truth or perfection is a poverty-stricken day and a succession of such days is fatal to human life."</i>
 <br>
-<b>- Thomas Fuller</b>
+<b>- Lewis Mumford</b>
 </blockquote>
 </p>
 
