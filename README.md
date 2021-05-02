@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect problems and eat them for breakfast."</i>
+<i>"A short saying often contains much wisdom."</i>
 <br>
-<b>- Alfred A. Montapert</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
