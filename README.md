@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I haven't been faithful to my wife. Our marriage has been tainted with my infidelities. I was irresponsible."</i>
+<i>"Bloody Christmas, here again, let us raise a loving cup, peace on earth, goodwill to men, and make them do the washing up."</i>
 <br>
-<b>- David Boreanaz</b>
+<b>- Wendy Cope</b>
 </blockquote>
 </p>
 
