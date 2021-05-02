@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
+<i>"Short words are best and the old words when short are best of all."</i>
 <br>
-<b>- Amy Bloom</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
