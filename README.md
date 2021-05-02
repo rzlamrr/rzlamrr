@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never let lack of money interfere with having fun."</i>
+<i>"He who is fixed to a star does not change his mind."</i>
 <br>
-<b>- Anonymous</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
