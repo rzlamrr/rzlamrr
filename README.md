@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience keeps a dear school, but fools will learn in no other."</i>
+<i>"Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Amy Bloom</b>
 </blockquote>
 </p>
 
