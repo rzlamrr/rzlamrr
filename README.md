@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
+<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
