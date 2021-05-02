@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short words are best and the old words when short are best of all."</i>
+<i>"Ben Franklin may have discovered electricity- but it is the man who invented the meter who made the money."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Earl Warren</b>
 </blockquote>
 </p>
 
