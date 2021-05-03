@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fox has many tricks. The hedgehog has but one. But that is the best of all."</i>
+<i>"When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it."</i>
 <br>
-<b>- Erasmus</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
