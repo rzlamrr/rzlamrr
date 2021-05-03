@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Search for beauty without features, something deeper than any signs."</i>
+<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
 <br>
-<b>- Francesca da Rimini</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
