@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success for me its to raise happy, healthy human beings."</i>
+<i>"I realize that of all people, I am no expert on parenting or marriage."</i>
 <br>
-<b>- Kelly LeBrock</b>
+<b>- Mika Brzezinski</b>
 </blockquote>
 </p>
 
