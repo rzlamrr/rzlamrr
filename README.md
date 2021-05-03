@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our attitude is that we want to cross over. You can't go on making records just for your own hometown."</i>
+<i>"A garden is always a series of losses set against a few triumphs, like life itself."</i>
 <br>
-<b>- Cheryl James</b>
+<b>- May Sarton</b>
 </blockquote>
 </p>
 
