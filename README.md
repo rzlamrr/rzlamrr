@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Now I know that that is just the phenomena of eating this way. Most all of my letters say I hit a plateau and then one morning I woke up and the melt had happened."</i>
+<i>"But only art and music have the power to bring peace."</i>
 <br>
-<b>- Suzanne Somers</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
