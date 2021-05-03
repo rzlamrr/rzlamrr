@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know, I always say white is not a colour, white is an attitude, and if you haven't got trillions of dollars in the bank that you don't need, you can't be white."</i>
+<i>"Success for me its to raise happy, healthy human beings."</i>
 <br>
-<b>- Dick Gregory</b>
+<b>- Kelly LeBrock</b>
 </blockquote>
 </p>
 
