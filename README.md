@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It can be liberating to get fired because you realize the world doesn't end. There's other ways to make money, better jobs."</i>
+<i>"Now I know that that is just the phenomena of eating this way. Most all of my letters say I hit a plateau and then one morning I woke up and the melt had happened."</i>
 <br>
-<b>- Ron Livingston</b>
+<b>- Suzanne Somers</b>
 </blockquote>
 </p>
 
