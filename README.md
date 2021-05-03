@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bloody Christmas, here again, let us raise a loving cup, peace on earth, goodwill to men, and make them do the washing up."</i>
+<i>"Search for beauty without features, something deeper than any signs."</i>
 <br>
-<b>- Wendy Cope</b>
+<b>- Francesca da Rimini</b>
 </blockquote>
 </p>
 
