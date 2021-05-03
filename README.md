@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mother protected me from the world and my father threatened me with it."</i>
+<i>"You know, I always say white is not a colour, white is an attitude, and if you haven't got trillions of dollars in the bank that you don't need, you can't be white."</i>
 <br>
-<b>- Quentin Crisp</b>
+<b>- Dick Gregory</b>
 </blockquote>
 </p>
 
