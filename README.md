@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But only art and music have the power to bring peace."</i>
+<i>"Music is really something that makes people whole."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Kareem Abdul-Jabbar</b>
 </blockquote>
 </p>
 
