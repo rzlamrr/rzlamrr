@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be your own hero, it's cheaper than a movie ticket."</i>
+<i>"The fox has many tricks. The hedgehog has but one. But that is the best of all."</i>
 <br>
-<b>- Doug Horton</b>
+<b>- Erasmus</b>
 </blockquote>
 </p>
 
