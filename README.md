@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you doubt your power, you give power to your doubt."</i>
+<i>"It can be liberating to get fired because you realize the world doesn't end. There's other ways to make money, better jobs."</i>
 <br>
-<b>- Honoré de Balzac</b>
+<b>- Ron Livingston</b>
 </blockquote>
 </p>
 
