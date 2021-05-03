@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I realize that of all people, I am no expert on parenting or marriage."</i>
+<i>"We must become the change we want to see."</i>
 <br>
-<b>- Mika Brzezinski</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
