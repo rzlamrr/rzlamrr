@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it."</i>
+<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
