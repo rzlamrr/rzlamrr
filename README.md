@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To hell with circumstances; I create opportunities."</i>
+<i>"Our attitude is that we want to cross over. You can't go on making records just for your own hometown."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Cheryl James</b>
 </blockquote>
 </p>
 
