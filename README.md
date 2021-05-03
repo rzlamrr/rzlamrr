@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
