@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is really something that makes people whole."</i>
+<i>"Be your own hero, it's cheaper than a movie ticket."</i>
 <br>
-<b>- Kareem Abdul-Jabbar</b>
+<b>- Doug Horton</b>
 </blockquote>
 </p>
 
