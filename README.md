@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
+<i>"To refrain from imitation is the best revenge."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
