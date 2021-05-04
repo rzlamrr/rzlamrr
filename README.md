@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Compromise is the best and cheapest lawyer."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
