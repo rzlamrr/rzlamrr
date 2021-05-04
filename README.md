@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work hard, stay positive, and get up early. It's the best part of the day."</i>
+<i>"From their experience or from the recorded experience of others (history), men learn only what their passions and their metaphysical prejudices allow them to learn."</i>
 <br>
-<b>- George Allen, Sr.</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
