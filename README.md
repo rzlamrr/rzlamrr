@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, tell the truth."</i>
+<i>"If the sight of the blue skies fills you with joy, if a blade of grass springing up in the fields has power to move you, if the simple things of nature have a message that you understand, rejoice, for your soul is alive."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Eleonora Duse</b>
 </blockquote>
 </p>
 
