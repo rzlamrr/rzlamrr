@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men."</i>
+<i>"Peace, if it ever exists, will not be based on the fear of war but on the love of peace."</i>
 <br>
-<b>- Thomas Fuller</b>
+<b>- Julien Benda</b>
 </blockquote>
 </p>
 
