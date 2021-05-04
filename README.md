@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No single man can be taken as a model for a perfect figure, for no man lives on earth who is endowed with the whole of beauty."</i>
+<i>"An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men."</i>
 <br>
-<b>- Albrecht Durer</b>
+<b>- Thomas Fuller</b>
 </blockquote>
 </p>
 
