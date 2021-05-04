@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From their experience or from the recorded experience of others (history), men learn only what their passions and their metaphysical prejudices allow them to learn."</i>
+<i>"Oh who can tell the range of joy or set the bounds of beauty?"</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Sara Teasdale</b>
 </blockquote>
 </p>
 
