@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must become the change we want to see."</i>
+<i>"Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
