@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's philosophy is not best expressed in words it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
+<i>"How is it possible to find meaning in a finite world, given my waist and shirt size?"</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
