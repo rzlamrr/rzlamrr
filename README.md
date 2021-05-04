@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My relationship with the Philharmonia Orchestra brought me many times to London and I will always reflect positively on that early period of development with them - their patience, their warmth, their dedication."</i>
+<i>"The English Bible - a book which, if everything else in our language should perish, would alone suffice to show the whole extent of its beauty and power."</i>
 <br>
-<b>- Gustavo Dudamel</b>
+<b>- Thomas B. Macaulay</b>
 </blockquote>
 </p>
 
