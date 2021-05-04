@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not only for what we do that we are held responsible, but also for what we do not do."</i>
+<i>"There's intense national feeling in America that could be called patriotism."</i>
 <br>
-<b>- Molière</b>
+<b>- Michael Ignatieff</b>
 </blockquote>
 </p>
 
