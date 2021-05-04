@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"One's philosophy is not best expressed in words it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
