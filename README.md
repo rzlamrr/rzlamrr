@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How is it possible to find meaning in a finite world, given my waist and shirt size?"</i>
+<i>"First say to yourself what you would be; and then do what you have to do."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
