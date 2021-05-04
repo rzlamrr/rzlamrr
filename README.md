@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I sincerely feel that beauty largely comes from within."</i>
+<i>"No single man can be taken as a model for a perfect figure, for no man lives on earth who is endowed with the whole of beauty."</i>
 <br>
-<b>- Christy Turlington</b>
+<b>- Albrecht Durer</b>
 </blockquote>
 </p>
 
