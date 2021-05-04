@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A system of capitalism presumes sound money, not fiat money manipulated by a central bank. Capitalism cherishes voluntary contracts and interest rates that are determined by savings, not credit creation by a central bank."</i>
+<i>"Work hard, stay positive, and get up early. It's the best part of the day."</i>
 <br>
-<b>- Ron Paul</b>
+<b>- George Allen, Sr.</b>
 </blockquote>
 </p>
 
