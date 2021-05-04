@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The logic is often far-fetched - how does medical marijuana affect interstate commerce? - and some conservatives would like judges to start throwing out federal laws wholesale on commerce clause grounds. The court once again said no thanks."</i>
+<i>"When in doubt, tell the truth."</i>
 <br>
-<b>- Michael Kinsley</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
