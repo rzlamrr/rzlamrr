@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Oh who can tell the range of joy or set the bounds of beauty?"</i>
+<i>"My relationship with the Philharmonia Orchestra brought me many times to London and I will always reflect positively on that early period of development with them - their patience, their warmth, their dedication."</i>
 <br>
-<b>- Sara Teasdale</b>
+<b>- Gustavo Dudamel</b>
 </blockquote>
 </p>
 
