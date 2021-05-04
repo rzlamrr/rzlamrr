@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace, if it ever exists, will not be based on the fear of war but on the love of peace."</i>
+<i>"Are ideals confined to this deformed experiment upon a noble purpose, tainted, as it is, with bargains and tied to a peace treaty which might have been disposed of long ago to the great benefit of the world if it had not been compelled to carry this rider on its back?"</i>
 <br>
-<b>- Julien Benda</b>
+<b>- Henry Cabot Lodge</b>
 </blockquote>
 </p>
 
