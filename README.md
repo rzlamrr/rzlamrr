@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The English Bible - a book which, if everything else in our language should perish, would alone suffice to show the whole extent of its beauty and power."</i>
+<i>"It is not only for what we do that we are held responsible, but also for what we do not do."</i>
 <br>
-<b>- Thomas B. Macaulay</b>
+<b>- Molière</b>
 </blockquote>
 </p>
 
