@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Are ideals confined to this deformed experiment upon a noble purpose, tainted, as it is, with bargains and tied to a peace treaty which might have been disposed of long ago to the great benefit of the world if it had not been compelled to carry this rider on its back?"</i>
+<i>"Compromise is the best and cheapest lawyer."</i>
 <br>
-<b>- Henry Cabot Lodge</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
