@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."</i>
+<i>"I sincerely feel that beauty largely comes from within."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Christy Turlington</b>
 </blockquote>
 </p>
 
