@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is the companion of wisdom."</i>
+<i>"The logic is often far-fetched - how does medical marijuana affect interstate commerce? - and some conservatives would like judges to start throwing out federal laws wholesale on commerce clause grounds. The court once again said no thanks."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Michael Kinsley</b>
 </blockquote>
 </p>
 
