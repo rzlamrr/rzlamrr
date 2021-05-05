@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace is not only better than war, but infinitely more arduous."</i>
+<i>"Nature is the mother and the habitat of man, even if sometimes a stepmother and an unfriendly home."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
