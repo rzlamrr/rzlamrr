@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"Only the wisest and stupidest of men never change."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
