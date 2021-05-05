@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one can make you feel inferior without your consent."</i>
+<i>"Technology has to be invented or adopted."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Jared Diamond</b>
 </blockquote>
 </p>
 
