@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I also became close to nature, and am now able to appreciate the beauty with which this world is endowed."</i>
+<i>"Peace is not only better than war, but infinitely more arduous."</i>
 <br>
-<b>- James Dean</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
