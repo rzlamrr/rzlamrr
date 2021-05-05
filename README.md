@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beauty of a strong, lasting commitment is often best understood by men incapable of it."</i>
+<i>"Mr. President, prime ministers, let us have ambitions: ambitions to move beyond the violence and occupation, to the day when two states, Palestine and Israel, can live together side by side in peace and security."</i>
 <br>
-<b>- Murray Kempton</b>
+<b>- King Abdullah II</b>
 </blockquote>
 </p>
 
