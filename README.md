@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not really religious but very spiritual. I give money to this company that manufactures hearing aids on a regular basis. More people should really hear me sing. I have a gift from God."</i>
+<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
 <br>
-<b>- Christina Aguilera</b>
+<b>- Margaret Laurence</b>
 </blockquote>
 </p>
 
