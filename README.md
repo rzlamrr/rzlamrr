@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Alas! all music jars when the soul's out of tune."</i>
+<i>"I am just absolutely convinced that the best formula for giving us peace and preserving the American way of life is freedom, limited government, and minding our own business overseas."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Ron Paul</b>
 </blockquote>
 </p>
 
