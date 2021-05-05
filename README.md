@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's intense national feeling in America that could be called patriotism."</i>
+<i>"The beauty of a strong, lasting commitment is often best understood by men incapable of it."</i>
 <br>
-<b>- Michael Ignatieff</b>
+<b>- Murray Kempton</b>
 </blockquote>
 </p>
 
