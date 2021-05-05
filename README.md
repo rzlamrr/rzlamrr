@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there will be a serious Palestinian prime minister who makes a 100 percent effort to end terrorism, then we can have peace. Each side has to take steps. If terror continues, there will not be an independent Palestinian state. Israel will not accept it, if terror continues."</i>
+<i>"I always wanted to be a mom."</i>
 <br>
-<b>- Ariel Sharon</b>
+<b>- Kate Hudson</b>
 </blockquote>
 </p>
 
