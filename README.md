@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The planter, the farmer, the mechanic, and the laborer... form the great body of the people of the United States, they are the bone and sinew of the country men who love liberty and desire nothing but equal rights and equal laws."</i>
+<i>"Many a genius has been slow of growth. Oaks that flourish for a thousand years do not spring up into beauty like a reed."</i>
 <br>
-<b>- Andrew Jackson</b>
+<b>- George Henry Lewes</b>
 </blockquote>
 </p>
 
