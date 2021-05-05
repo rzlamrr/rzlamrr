@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both."</i>
+<i>"A good decision is based on knowledge and not on numbers."</i>
 <br>
-<b>- Mariella Frostrup</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
