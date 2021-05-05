@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man must define his identity against his mother. If he does not, he just falls back into her and is swallowed up."</i>
+<i>"In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both."</i>
 <br>
-<b>- Camille Paglia</b>
+<b>- Mariella Frostrup</b>
 </blockquote>
 </p>
 
