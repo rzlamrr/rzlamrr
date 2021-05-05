@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is the mother and the habitat of man, even if sometimes a stepmother and an unfriendly home."</i>
+<i>"Alas! all music jars when the soul's out of tune."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
