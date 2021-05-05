@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All the flowers of all the tomorrows are in the seeds of today."</i>
+<i>"Every man must define his identity against his mother. If he does not, he just falls back into her and is swallowed up."</i>
 <br>
-<b>- Anonymous</b>
+<b>- Camille Paglia</b>
 </blockquote>
 </p>
 
