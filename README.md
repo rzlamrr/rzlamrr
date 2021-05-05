@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology has to be invented or adopted."</i>
+<i>"I also became close to nature, and am now able to appreciate the beauty with which this world is endowed."</i>
 <br>
-<b>- Jared Diamond</b>
+<b>- James Dean</b>
 </blockquote>
 </p>
 
