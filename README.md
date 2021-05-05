@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many a genius has been slow of growth. Oaks that flourish for a thousand years do not spring up into beauty like a reed."</i>
+<i>"I'm not really religious but very spiritual. I give money to this company that manufactures hearing aids on a regular basis. More people should really hear me sing. I have a gift from God."</i>
 <br>
-<b>- George Henry Lewes</b>
+<b>- Christina Aguilera</b>
 </blockquote>
 </p>
 
