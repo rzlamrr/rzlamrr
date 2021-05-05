@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And it was back in the mid-1980s, and as I point out in a piece, that was when we are spending about eight percent of our gross domestic product on health care. And even then, we had the impression that so much of the excessive, aggressive medical treatment that took place at the end of life was not only unnecessary but it was cruel."</i>
+<i>"If there will be a serious Palestinian prime minister who makes a 100 percent effort to end terrorism, then we can have peace. Each side has to take steps. If terror continues, there will not be an independent Palestinian state. Israel will not accept it, if terror continues."</i>
 <br>
-<b>- Richard Dooling</b>
+<b>- Ariel Sharon</b>
 </blockquote>
 </p>
 
