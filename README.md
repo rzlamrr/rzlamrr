@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am just absolutely convinced that the best formula for giving us peace and preserving the American way of life is freedom, limited government, and minding our own business overseas."</i>
+<i>"The planter, the farmer, the mechanic, and the laborer... form the great body of the people of the United States, they are the bone and sinew of the country men who love liberty and desire nothing but equal rights and equal laws."</i>
 <br>
-<b>- Ron Paul</b>
+<b>- Andrew Jackson</b>
 </blockquote>
 </p>
 
