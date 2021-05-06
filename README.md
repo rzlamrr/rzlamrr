@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can observe a lot just by watching."</i>
+<i>"C-17s should be ready to go at various military bases around the world packed with water, food, medical supplies, sleeping bags and tents, all prepared to be air dropped in alongside soldiers and doctors to begin relief efforts."</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- Steven Van Zandt</b>
 </blockquote>
 </p>
 
