@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we need is Star Peace and not Star Wars."</i>
+<i>"You can observe a lot just by watching."</i>
 <br>
-<b>- Mikhail Gorbachev</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
