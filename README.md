@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done."</i>
+<i>"To increase the zone of peace is to build the inner core of a stable international zone."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Zbigniew Brzezinski</b>
 </blockquote>
 </p>
 
