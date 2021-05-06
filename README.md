@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The U.S. tries to provide immigrants who grow up here with a world-class education and imbue them with the can-do attitude that has long defined American innovation."</i>
+<i>"History will be kind to me for I intend to write it."</i>
 <br>
-<b>- Gary Locke</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
