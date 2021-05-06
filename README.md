@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'"</i>
+<i>"The beauty of this country and what people participate in is the competitive nature that we allow to exist and the fact is that we are better because we have great competitors."</i>
 <br>
-<b>- Bill Bradley</b>
+<b>- Lee Scott</b>
 </blockquote>
 </p>
 
