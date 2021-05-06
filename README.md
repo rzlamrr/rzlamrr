@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius."</i>
+<i>"I think it is in collaboration that the nature of art is revealed."</i>
 <br>
-<b>- Wolfgang Amadeus Mozart</b>
+<b>- Steve Lacy</b>
 </blockquote>
 </p>
 
