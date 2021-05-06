@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"C-17s should be ready to go at various military bases around the world packed with water, food, medical supplies, sleeping bags and tents, all prepared to be air dropped in alongside soldiers and doctors to begin relief efforts."</i>
+<i>"The U.S. tries to provide immigrants who grow up here with a world-class education and imbue them with the can-do attitude that has long defined American innovation."</i>
 <br>
-<b>- Steven Van Zandt</b>
+<b>- Gary Locke</b>
 </blockquote>
 </p>
 
