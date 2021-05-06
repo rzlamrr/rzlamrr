@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the new day comes new strength and new thoughts."</i>
+<i>"What we need is Star Peace and not Star Wars."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Mikhail Gorbachev</b>
 </blockquote>
 </p>
 
