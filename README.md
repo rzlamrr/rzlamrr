@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beauty of this country and what people participate in is the competitive nature that we allow to exist and the fact is that we are better because we have great competitors."</i>
+<i>"Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius."</i>
 <br>
-<b>- Lee Scott</b>
+<b>- Wolfgang Amadeus Mozart</b>
 </blockquote>
 </p>
 
