@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"History will be kind to me for I intend to write it."</i>
+<i>"America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Bill Frist</b>
 </blockquote>
 </p>
 
