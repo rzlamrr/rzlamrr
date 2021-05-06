@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To increase the zone of peace is to build the inner core of a stable international zone."</i>
+<i>"There is no such thing as inner peace. There is only nervousness or death. Any attempt to prove otherwise constitutes unacceptable behavior."</i>
 <br>
-<b>- Zbigniew Brzezinski</b>
+<b>- Fran Lebowitz</b>
 </blockquote>
 </p>
 
