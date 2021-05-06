@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People always make war when they say they love peace."</i>
+<i>"I think first and foremost everybody should understand that Canadians are strongly committed to the system of universal health insurance, to the principle that your ability to pay does not determine your access to critical medical service."</i>
 <br>
-<b>- David Herbert Lawrence</b>
+<b>- Stephen Harper</b>
 </blockquote>
 </p>
 
