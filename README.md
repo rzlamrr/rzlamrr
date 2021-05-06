@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think it is in collaboration that the nature of art is revealed."</i>
+<i>"I only have 'yes' men around me. Who needs 'no' men?"</i>
 <br>
-<b>- Steve Lacy</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
