@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The winds and waves are always on the side of the ablest navigators."</i>
+<i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless."</i>
 <br>
-<b>- Edward Gibbon</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
