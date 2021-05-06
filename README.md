@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot live only for ourselves. A thousand fibers connect us with our fellow men."</i>
+<i>"Peace is much more precious than a piece of land... let there be no more wars."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Anwar Sadat</b>
 </blockquote>
 </p>
 
