@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I only have 'yes' men around me. Who needs 'no' men?"</i>
+<i>"The winds and waves are always on the side of the ablest navigators."</i>
 <br>
-<b>- Mae West</b>
+<b>- Edward Gibbon</b>
 </blockquote>
 </p>
 
