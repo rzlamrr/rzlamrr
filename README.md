@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no such thing as inner peace. There is only nervousness or death. Any attempt to prove otherwise constitutes unacceptable behavior."</i>
+<i>"People always make war when they say they love peace."</i>
 <br>
-<b>- Fran Lebowitz</b>
+<b>- David Herbert Lawrence</b>
 </blockquote>
 </p>
 
