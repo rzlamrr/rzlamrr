@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is cruel to animals becomes hard also in his dealings with men. We can judge the heart of a man by his treatment of animals."</i>
+<i>"With the new day comes new strength and new thoughts."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
