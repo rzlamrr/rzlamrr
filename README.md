@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless."</i>
+<i>"We cannot live only for ourselves. A thousand fibers connect us with our fellow men."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
