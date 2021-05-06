@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"America has the best doctors, the best nurses, the best hospitals, the best medical technology, the best medical breakthrough medicines in the world. There is absolutely no reason we should not have in this country the best health care in the world."</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done."</i>
 <br>
-<b>- Bill Frist</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
