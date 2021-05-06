@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think first and foremost everybody should understand that Canadians are strongly committed to the system of universal health insurance, to the principle that your ability to pay does not determine your access to critical medical service."</i>
+<i>"My music must reflect whatever's going on in my mind, and my life needs to evolve for me to discover who it is I'm becoming."</i>
 <br>
-<b>- Stephen Harper</b>
+<b>- Shania Twain</b>
 </blockquote>
 </p>
 
