@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
+<i>"Since 1970, relationships can be more volatile, jobs more ephemeral, geographical mobility more intensified, stability of marriage weaker."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Mary Douglas</b>
 </blockquote>
 </p>
 
