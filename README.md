@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are born ignorant, not stupid. They are made stupid by education."</i>
+<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
 <br>
-<b>- Bertrand Russell</b>
+<b>- Satchel Paige</b>
 </blockquote>
 </p>
 
