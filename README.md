@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First say to yourself what you would be; and then do what you have to do."</i>
+<i>"Men are born ignorant, not stupid. They are made stupid by education."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Bertrand Russell</b>
 </blockquote>
 </p>
 
