@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking will let you do everything better than negative thinking will."</i>
+<i>"One problem with age is that patience begins to ebb."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Carl Hiaasen</b>
 </blockquote>
 </p>
 
