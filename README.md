@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unfortunately, the attitude of many towards the press, humanitarians included and especially government workers, is often one of suspicion, if not outright fear."</i>
+<i>"The pain passes, but the beauty remains."</i>
 <br>
-<b>- Alvin Adams</b>
+<b>- Pierre-Auguste Renoir</b>
 </blockquote>
 </p>
 
