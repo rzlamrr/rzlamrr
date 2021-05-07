@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are apt to forget that children watch examples better than they listen to preaching."</i>
+<i>"Positive thinking will let you do everything better than negative thinking will."</i>
 <br>
-<b>- Roy L. Smith</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
