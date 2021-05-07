@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All serious daring starts from within."</i>
+<i>"The pain passes, but the beauty remains."</i>
 <br>
-<b>- Harriet Beecher Stowe</b>
+<b>- Pierre-Auguste Renoir</b>
 </blockquote>
 </p>
 
