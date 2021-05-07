@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know the truth, not only by the reason, but by the heart."</i>
+<i>"I love Adele, I want her to be my best friend. She could come to the U.S., live with me and sing to me every morning."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Amber Riley</b>
 </blockquote>
 </p>
 
