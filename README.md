@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain passes, but the beauty remains."</i>
+<i>"Success for me its to raise happy, healthy human beings."</i>
 <br>
-<b>- Pierre-Auguste Renoir</b>
+<b>- Kelly LeBrock</b>
 </blockquote>
 </p>
 
