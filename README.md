@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
+<i>"We are apt to forget that children watch examples better than they listen to preaching."</i>
 <br>
-<b>- George Marshall</b>
+<b>- Roy L. Smith</b>
 </blockquote>
 </p>
 
