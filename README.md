@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has never made a bigot, but learning has."</i>
+<i>"It's easier to see the mistakes on someone else's paper."</i>
 <br>
-<b>- Josh Billings</b>
+<b>- Anonymous</b>
 </blockquote>
 </p>
 
