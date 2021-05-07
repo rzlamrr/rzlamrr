@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One problem with age is that patience begins to ebb."</i>
+<i>"How far that little candle throws its beams! So shines a good deed in a naughty world."</i>
 <br>
-<b>- Carl Hiaasen</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
