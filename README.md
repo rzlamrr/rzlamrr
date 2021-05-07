@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My music must reflect whatever's going on in my mind, and my life needs to evolve for me to discover who it is I'm becoming."</i>
+<i>"Unfortunately, the attitude of many towards the press, humanitarians included and especially government workers, is often one of suspicion, if not outright fear."</i>
 <br>
-<b>- Shania Twain</b>
+<b>- Alvin Adams</b>
 </blockquote>
 </p>
 
