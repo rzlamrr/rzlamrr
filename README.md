@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain passes, but the beauty remains."</i>
+<i>"I think that two people who decide to live together in a marriage situation, they have an obligation to make the marriage work for them."</i>
 <br>
-<b>- Pierre-Auguste Renoir</b>
+<b>- Helen Reddy</b>
 </blockquote>
 </p>
 
