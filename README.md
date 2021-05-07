@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to see the mistakes on someone else's paper."</i>
+<i>"We must never forget that it is through our actions, words, and thoughts that we have a choice."</i>
 <br>
-<b>- Anonymous</b>
+<b>- Sogyal Rinpoche</b>
 </blockquote>
 </p>
 
