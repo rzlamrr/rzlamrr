@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Since 1970, relationships can be more volatile, jobs more ephemeral, geographical mobility more intensified, stability of marriage weaker."</i>
+<i>"First say to yourself what you would be; and then do what you have to do."</i>
 <br>
-<b>- Mary Douglas</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
