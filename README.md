@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom."</i>
+<i>"I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me."</i>
 <br>
-<b>- William Hurt</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
