@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love Adele, I want her to be my best friend. She could come to the U.S., live with me and sing to me every morning."</i>
+<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
 <br>
-<b>- Amber Riley</b>
+<b>- George Marshall</b>
 </blockquote>
 </p>
 
