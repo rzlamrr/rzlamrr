@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must never forget that it is through our actions, words, and thoughts that we have a choice."</i>
+<i>"The problem with Google is you have 360 degrees of omnidirectional information on a linear basis, but the algorithms for irony and ambiguity are not there. And those are the algorithms of wisdom."</i>
 <br>
-<b>- Sogyal Rinpoche</b>
+<b>- William Hurt</b>
 </blockquote>
 </p>
 
