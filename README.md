@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
+<i>"Wisdom has never made a bigot, but learning has."</i>
 <br>
-<b>- Satchel Paige</b>
+<b>- Josh Billings</b>
 </blockquote>
 </p>
 
