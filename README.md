@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that two people who decide to live together in a marriage situation, they have an obligation to make the marriage work for them."</i>
+<i>"Never put off till tomorrow what you can do today."</i>
 <br>
-<b>- Helen Reddy</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
