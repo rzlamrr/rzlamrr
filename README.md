@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While day by day the overzealous student stores up facts for future use, he who has learned to trust nature finds need for ever fewer external directions. He will discard formula after formula, until he reaches the conclusion: Let nature take its course."</i>
+<i>"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."</i>
 <br>
-<b>- Larry Bird</b>
+<b>- Peter Abelard</b>
 </blockquote>
 </p>
 
