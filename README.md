@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"Love is the master key that opens the gates of happiness."</i>
 <br>
-<b>- Euripides</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
