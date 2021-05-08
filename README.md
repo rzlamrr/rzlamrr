@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."</i>
+<i>"All things change; nothing perishes."</i>
 <br>
-<b>- Peter Abelard</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
