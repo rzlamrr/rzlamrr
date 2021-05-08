@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mammograms are really sort of a gift. You can either catch something early or count your lucky stars because nothing was discovered. Either way, you're ahead of the game."</i>
+<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
 <br>
-<b>- Charlotte Ross</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
