@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Communications tools don’t get socially interesting until they get technologically boring."</i>
+<i>"While day by day the overzealous student stores up facts for future use, he who has learned to trust nature finds need for ever fewer external directions. He will discard formula after formula, until he reaches the conclusion: Let nature take its course."</i>
 <br>
-<b>- Clay Shirky</b>
+<b>- Larry Bird</b>
 </blockquote>
 </p>
 
