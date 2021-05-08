@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was thrown out of college for cheating on the metaphysics exam; I looked into the soul of the boy sitting next to me."</i>
+<i>"I was always a drama queen. I remember playing in the kitchen, trying to get my mom to think I was dead and call the police. When she didn't, I would cry. I was always theatrical. I don't think any of my relatives are surprised."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Amy Lee</b>
 </blockquote>
 </p>
 
