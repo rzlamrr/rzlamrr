@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
+<i>"The golden child may be the oldest one, unless it's the youngest. It may be the toughest one, unless it's the most sensitive. It's not even necessary that Mom and Dad have the same favorite - and typically they don't."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Jeffrey Kluger</b>
 </blockquote>
 </p>
 
