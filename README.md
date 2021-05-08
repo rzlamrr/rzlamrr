@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and friendship exclude each other."</i>
+<i>"A friend may well be reckoned the masterpiece of nature."</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
