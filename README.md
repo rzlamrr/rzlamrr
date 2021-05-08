@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are stuck with technology when what we really want is just stuff that works."</i>
+<i>"Communications tools don’t get socially interesting until they get technologically boring."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Clay Shirky</b>
 </blockquote>
 </p>
 
