@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was worried about my mom more than I was worried about the president. And then I was worried about the president, and then I was worried about myself."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Monica Lewinsky</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
