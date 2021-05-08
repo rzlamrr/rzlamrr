@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
+<i>"We are stuck with technology when what we really want is just stuff that works."</i>
 <br>
-<b>- Louise Hay</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
