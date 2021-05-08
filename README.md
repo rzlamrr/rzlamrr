@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things change; nothing perishes."</i>
+<i>"Action is eloquence!"</i>
 <br>
-<b>- Ovid</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
