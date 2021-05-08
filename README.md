@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
