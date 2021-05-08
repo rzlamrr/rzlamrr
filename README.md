@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the master key that opens the gates of happiness."</i>
+<i>"Mammograms are really sort of a gift. You can either catch something early or count your lucky stars because nothing was discovered. Either way, you're ahead of the game."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Charlotte Ross</b>
 </blockquote>
 </p>
 
