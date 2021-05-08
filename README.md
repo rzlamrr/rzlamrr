@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step."</i>
+<i>"This is why I loved technology: if you used it right, it could give you power and privacy."</i>
 <br>
-<b>- Laozi</b>
+<b>- Cory Doctorow</b>
 </blockquote>
 </p>
 
