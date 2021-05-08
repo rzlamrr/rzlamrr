@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was always a drama queen. I remember playing in the kitchen, trying to get my mom to think I was dead and call the police. When she didn't, I would cry. I was always theatrical. I don't think any of my relatives are surprised."</i>
+<i>"Never do things others can do and will do, if there are things others cannot do or will not do."</i>
 <br>
-<b>- Amy Lee</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
