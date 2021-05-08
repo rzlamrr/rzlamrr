@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend may well be reckoned the masterpiece of nature."</i>
+<i>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Robert Southey</b>
 </blockquote>
 </p>
 
