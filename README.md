@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
+<i>"I was worried about my mom more than I was worried about the president. And then I was worried about the president, and then I was worried about myself."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Monica Lewinsky</b>
 </blockquote>
 </p>
 
