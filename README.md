@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is eloquence!"</i>
+<i>"Love and friendship exclude each other."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Jean de La Bruyère</b>
 </blockquote>
 </p>
 
