@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is why I loved technology: if you used it right, it could give you power and privacy."</i>
+<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
 <br>
-<b>- Cory Doctorow</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
