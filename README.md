@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The things that one most wants to do are the things that are probably most worth doing."</i>
+<i>"People may hear your words, but they feel your attitude."</i>
 <br>
-<b>- Winifred Holtby</b>
+<b>- John C. Maxwell</b>
 </blockquote>
 </p>
 
