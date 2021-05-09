@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were."</i>
+<i>"Adam does most of the work when it comes to videos and he basically does the same as I do with the lyrics. The videos are his visual interpretations of our music."</i>
 <br>
-<b>- David Rockefeller</b>
+<b>- Maynard James Keenan</b>
 </blockquote>
 </p>
 
