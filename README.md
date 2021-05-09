@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We may encounter many defeats but we must not be defeated."</i>
+<i>"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
