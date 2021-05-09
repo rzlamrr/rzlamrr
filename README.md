@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will prepare and some day my chance will come."</i>
+<i>"The things that one most wants to do are the things that are probably most worth doing."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Winifred Holtby</b>
 </blockquote>
 </p>
 
