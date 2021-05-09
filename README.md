@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship."</i>
+<i>"I have got up at truly deplorable hours in the morning to confront Vancouver's Jack Webster on television because I have been told that is the place to get exposure for ideas."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Barbara Amiel</b>
 </blockquote>
 </p>
 
