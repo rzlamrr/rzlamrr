@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth."</i>
+<i>"Beauty comes from a life well lived. If you've lived well, your smile lines are in the right places, and your frown lines aren't too bad, what more do you need?"</i>
 <br>
-<b>- Robert Southey</b>
+<b>- Jennifer Garner</b>
 </blockquote>
 </p>
 
