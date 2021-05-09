@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did the things we are capable of, we would astound ourselves."</i>
+<i>"I only want to make music because I have a passion for it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Annie Lennox</b>
 </blockquote>
 </p>
 
