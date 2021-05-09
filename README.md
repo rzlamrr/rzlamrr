@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."</i>
+<i>"Yes'm, old friends is always best, 'less you can catch a new one that's fit to make an old one out of."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Sarah Orne Jewett</b>
 </blockquote>
 </p>
 
