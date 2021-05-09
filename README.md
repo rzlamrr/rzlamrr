@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would absolutely, definitely never sell my wedding pictures to a magazine. I'd like it to be a special day, not a photo shoot. And once you've done that, your marriage becomes everybody else's business."</i>
+<i>"Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were."</i>
 <br>
-<b>- Katherine Jenkins</b>
+<b>- David Rockefeller</b>
 </blockquote>
 </p>
 
