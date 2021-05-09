@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People may hear your words, but they feel your attitude."</i>
+<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
 <br>
-<b>- John C. Maxwell</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
