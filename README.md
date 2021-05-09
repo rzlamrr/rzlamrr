@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Small opportunities are often the beginning of great enterprises."</i>
+<i>"If we did the things we are capable of, we would astound ourselves."</i>
 <br>
-<b>- Demosthenes</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
