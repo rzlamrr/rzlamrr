@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one mind in two bodies."</i>
+<i>"I cannot say that the attitude of the United Nations always is for the Israeli attitude. Israel, I think, has been under severe attacks by members of the United Nations many times."</i>
 <br>
-<b>- Mencius</b>
+<b>- Ariel Sharon</b>
 </blockquote>
 </p>
 
