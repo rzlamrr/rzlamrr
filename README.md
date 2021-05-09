@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I had the privilege of practicing medicine in the early '60s, before we had any government. It worked rather well, and there was nobody on the street suffering with no medical care."</i>
+<i>"I will prepare and some day my chance will come."</i>
 <br>
-<b>- Ron Paul</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
