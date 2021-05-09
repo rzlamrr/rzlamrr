@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adam does most of the work when it comes to videos and he basically does the same as I do with the lyrics. The videos are his visual interpretations of our music."</i>
+<i>"I had the privilege of practicing medicine in the early '60s, before we had any government. It worked rather well, and there was nobody on the street suffering with no medical care."</i>
 <br>
-<b>- Maynard James Keenan</b>
+<b>- Ron Paul</b>
 </blockquote>
 </p>
 
