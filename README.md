@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is fatal to enter any war without the will to win it."</i>
+<i>"Friendship is one mind in two bodies."</i>
 <br>
-<b>- Douglas MacArthur</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
