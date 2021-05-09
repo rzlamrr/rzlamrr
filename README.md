@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life deprived of beauty is not worthy of being called human."</i>
+<i>"It is fatal to enter any war without the will to win it."</i>
 <br>
-<b>- Luis Barragan</b>
+<b>- Douglas MacArthur</b>
 </blockquote>
 </p>
 
