@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot say that the attitude of the United Nations always is for the Israeli attitude. Israel, I think, has been under severe attacks by members of the United Nations many times."</i>
+<i>"Wisdom begins in wonder."</i>
 <br>
-<b>- Ariel Sharon</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
