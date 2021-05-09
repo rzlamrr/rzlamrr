@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have got up at truly deplorable hours in the morning to confront Vancouver's Jack Webster on television because I have been told that is the place to get exposure for ideas."</i>
+<i>"Life deprived of beauty is not worthy of being called human."</i>
 <br>
-<b>- Barbara Amiel</b>
+<b>- Luis Barragan</b>
 </blockquote>
 </p>
 
