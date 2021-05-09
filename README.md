@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty comes from a life well lived. If you've lived well, your smile lines are in the right places, and your frown lines aren't too bad, what more do you need?"</i>
+<i>"I would absolutely, definitely never sell my wedding pictures to a magazine. I'd like it to be a special day, not a photo shoot. And once you've done that, your marriage becomes everybody else's business."</i>
 <br>
-<b>- Jennifer Garner</b>
+<b>- Katherine Jenkins</b>
 </blockquote>
 </p>
 
