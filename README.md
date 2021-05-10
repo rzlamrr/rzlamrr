@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing but heaven itself is better than a friend who is really a friend."</i>
+<i>"Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day."</i>
 <br>
-<b>- Plautus</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
