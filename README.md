@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is little premium in poetry in a world that thinks of Pound and Whitman as a weight and a sampler, not an Ezra, a Walt, a thing of beauty, a joy forever."</i>
+<i>"Go big or go home. Because it's true. What do you have to lose?"</i>
 <br>
-<b>- Anna Quindlen</b>
+<b>- Eliza Dushku</b>
 </blockquote>
 </p>
 
