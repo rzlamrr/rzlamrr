@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yes'm, old friends is always best, 'less you can catch a new one that's fit to make an old one out of."</i>
+<i>"Only mothers can think of the future - because they give birth to it in their children."</i>
 <br>
-<b>- Sarah Orne Jewett</b>
+<b>- Maxim Gorky</b>
 </blockquote>
 </p>
 
