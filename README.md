@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you walk down the fairway of life you must smell the roses, for you only get to play one round."</i>
+<i>"Some men never feel small, but these are the few men who are."</i>
 <br>
-<b>- Ben Hogan</b>
+<b>- Gilbert K. Chesterton</b>
 </blockquote>
 </p>
 
