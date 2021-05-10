@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever."</i>
+<i>"True friends stab you in the front."</i>
 <br>
-<b>- Anonymous</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
