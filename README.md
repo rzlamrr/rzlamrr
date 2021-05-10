@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some men never feel small, but these are the few men who are."</i>
+<i>"There is little premium in poetry in a world that thinks of Pound and Whitman as a weight and a sampler, not an Ezra, a Walt, a thing of beauty, a joy forever."</i>
 <br>
-<b>- Gilbert K. Chesterton</b>
+<b>- Anna Quindlen</b>
 </blockquote>
 </p>
 
