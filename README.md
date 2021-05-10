@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The idea that happiness could have a share in beauty would be too much of a good thing."</i>
+<i>"My grandmother was a kind of Scarsdale, New York, society woman, best known in her day as the author of the 1959 book 'Growing Your Own Way: An Informal Guide for Teen-Agers' - this despite being a person whose parenting style made Joan Crawford's wire hangers look like pool noodles."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Sloane Crosley</b>
 </blockquote>
 </p>
 
