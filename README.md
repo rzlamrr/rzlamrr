@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind."</i>
+<i>"Patriotism is your conviction that this country is superior to all others because you were born in it."</i>
 <br>
-<b>- Paavo Nurmi</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
