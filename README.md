@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
+<i>"Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind."</i>
 <br>
-<b>- Douglas Coupland</b>
+<b>- Paavo Nurmi</b>
 </blockquote>
 </p>
 
