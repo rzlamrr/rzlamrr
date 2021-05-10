@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There really can be no peace without justice. There can be no justice without truth. And there can be no truth, unless someone rises up to tell you the truth."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Louis Farrakhan</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
