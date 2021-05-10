@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too often the great decisions are originated and given form in bodies made up wholly of men, or so completely dominated by them that whatever of special value women have to offer is shunted aside without expression."</i>
+<i>"The idea that happiness could have a share in beauty would be too much of a good thing."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
