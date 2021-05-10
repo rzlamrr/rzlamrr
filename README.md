@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think I'm a music fan before anything else."</i>
+<i>"There really can be no peace without justice. There can be no justice without truth. And there can be no truth, unless someone rises up to tell you the truth."</i>
 <br>
-<b>- Nuno Bettencourt</b>
+<b>- Louis Farrakhan</b>
 </blockquote>
 </p>
 
