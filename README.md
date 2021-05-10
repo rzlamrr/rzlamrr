@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Douglas Coupland</b>
 </blockquote>
 </p>
 
