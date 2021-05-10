@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go big or go home. Because it's true. What do you have to lose?"</i>
+<i>"Work while you have the light. You are responsible for the talent that has been entrusted to you."</i>
 <br>
-<b>- Eliza Dushku</b>
+<b>- Henri-Frédéric Amiel</b>
 </blockquote>
 </p>
 
