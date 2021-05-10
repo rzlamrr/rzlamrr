@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever you are - be all there."</i>
+<i>"To accomplish great things, we must dream as well as act."</i>
 <br>
-<b>- Jim Elliot</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
