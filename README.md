@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only mothers can think of the future - because they give birth to it in their children."</i>
+<i>"Nothing but heaven itself is better than a friend who is really a friend."</i>
 <br>
-<b>- Maxim Gorky</b>
+<b>- Plautus</b>
 </blockquote>
 </p>
 
