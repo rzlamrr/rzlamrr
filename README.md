@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patriotism is your conviction that this country is superior to all others because you were born in it."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
