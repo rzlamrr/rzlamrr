@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
+<i>"Too often the great decisions are originated and given form in bodies made up wholly of men, or so completely dominated by them that whatever of special value women have to offer is shunted aside without expression."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
