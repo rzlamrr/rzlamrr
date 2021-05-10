@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work while you have the light. You are responsible for the talent that has been entrusted to you."</i>
+<i>"Wherever you are - be all there."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Jim Elliot</b>
 </blockquote>
 </p>
 
