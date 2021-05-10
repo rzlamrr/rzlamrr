@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish great things, we must dream as well as act."</i>
+<i>"The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
