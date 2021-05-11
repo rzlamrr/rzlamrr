@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"His lack of education is more than compensated for by his keenly developed moral bankruptcy."</i>
+<i>"Sometimes I've been to a party where no one spoke to me for a whole evening. The men, frightened by their wives or sweeties, would give me a wide berth. And the ladies would gang up in a corner to discuss my dangerous character."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
