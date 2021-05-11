@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good humor is a tonic for mind and body. It is the best antidote for anxiety and depression. It is a business asset. It attracts and keeps friends. It lightens human burdens. It is the direct route to serenity and contentment."</i>
+<i>"His lack of education is more than compensated for by his keenly developed moral bankruptcy."</i>
 <br>
-<b>- Grenville Kleiser</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
