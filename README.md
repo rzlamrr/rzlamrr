@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"If you have a positive attitude and constantly strive to give your best effort, eventually you will overcome your immediate problems and find you are ready for greater challenges."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Pat Riley</b>
 </blockquote>
 </p>
 
