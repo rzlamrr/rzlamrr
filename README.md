@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"I think that's what distinguishes Schmidt, really. In the movies now, so much of what is appealing to an audience is the dramatic or has to do with science fiction, and Schmidt is simply human. There's no melodrama there's no device, It's just about a human being."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Jack Nicholson</b>
 </blockquote>
 </p>
 
