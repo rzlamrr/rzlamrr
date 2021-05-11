@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can muck around with different guitars for certain bits, but you have to have your own sound. That's your benchmark, that's your sound. I also play a Black Beauty. It sounds amazing."</i>
+<i>"There can be no vulnerability without risk there can be no community without vulnerability there can be no peace, and ultimately no life, without community."</i>
 <br>
-<b>- Dan Hawkins</b>
+<b>- M. Scott Peck</b>
 </blockquote>
 </p>
 
