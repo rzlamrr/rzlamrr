@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Competence, like truth, beauty, and contact lenses, is in the eye of the beholder."</i>
+<i>"The 1st period is won by the best technician. The 2nd period is won by the kid in the best shape. The 3rd period is won by the kid with the biggest heart."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Dan Gable</b>
 </blockquote>
 </p>
 
