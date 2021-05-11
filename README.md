@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make peace with who you are, you will never be content with what you have."</i>
+<i>"True friends stab you in the front."</i>
 <br>
-<b>- Doris Mortman</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
