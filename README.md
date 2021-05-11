@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have a positive attitude and constantly strive to give your best effort, eventually you will overcome your immediate problems and find you are ready for greater challenges."</i>
+<i>"Competence, like truth, beauty, and contact lenses, is in the eye of the beholder."</i>
 <br>
-<b>- Pat Riley</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
