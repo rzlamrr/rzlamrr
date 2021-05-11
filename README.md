@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For the man sound of body and serene of mind there is no such thing as bad weather every day has its beauty, and storms which whip the blood do but make it pulse more vigorously."</i>
+<i>"We know what we are, but know not what we may be."</i>
 <br>
-<b>- George Gissing</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
