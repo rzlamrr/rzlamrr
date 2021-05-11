@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it's natural to kill, how come men have to go into training to learn how?"</i>
+<i>"You can muck around with different guitars for certain bits, but you have to have your own sound. That's your benchmark, that's your sound. I also play a Black Beauty. It sounds amazing."</i>
 <br>
-<b>- Joan Baez</b>
+<b>- Dan Hawkins</b>
 </blockquote>
 </p>
 
