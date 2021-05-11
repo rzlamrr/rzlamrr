@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty, to me, is about being comfortable in your own skin. That, or a kick-ass red lipstick."</i>
+<i>"To be happy is to be able to become aware of oneself without fright."</i>
 <br>
-<b>- Gwyneth Paltrow</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
