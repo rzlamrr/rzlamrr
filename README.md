@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy is to be able to become aware of oneself without fright."</i>
+<i>"Until you make peace with who you are, you will never be content with what you have."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
