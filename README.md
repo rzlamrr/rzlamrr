@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no vulnerability without risk there can be no community without vulnerability there can be no peace, and ultimately no life, without community."</i>
+<i>"Nature is a good name for an effect whose cause is God."</i>
 <br>
-<b>- M. Scott Peck</b>
+<b>- William Cowper</b>
 </blockquote>
 </p>
 
