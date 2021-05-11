@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man should look for what is, and not for what he thinks should be."</i>
+<i>"For the man sound of body and serene of mind there is no such thing as bad weather every day has its beauty, and storms which whip the blood do but make it pulse more vigorously."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- George Gissing</b>
 </blockquote>
 </p>
 
