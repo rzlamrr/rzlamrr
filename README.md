@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
+<i>"One of the great attractions of patriotism - it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
