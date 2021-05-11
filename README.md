@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know what we are, but know not what we may be."</i>
+<i>"The weak can never forgive. Forgiveness is the attribute of the strong."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
