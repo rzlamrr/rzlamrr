@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My grandmother was a kind of Scarsdale, New York, society woman, best known in her day as the author of the 1959 book 'Growing Your Own Way: An Informal Guide for Teen-Agers' - this despite being a person whose parenting style made Joan Crawford's wire hangers look like pool noodles."</i>
+<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
 <br>
-<b>- Sloane Crosley</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
