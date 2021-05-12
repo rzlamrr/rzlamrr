@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
+<i>"I have a hotline to the tabloids. When I get up in the morning, I call the Star, and the last thing at night, I call them. I want them to have the inside track."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Kirstie Alley</b>
 </blockquote>
 </p>
 
