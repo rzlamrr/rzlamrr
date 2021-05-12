@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most because it is dressed in overalls and looks like work."</i>
+<i>"I used to be such a militant city-ist, but more and more I've seen forests and nature and oceans, and I don't know any more if this is the awesomest way to live."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Regina Spektor</b>
 </blockquote>
 </p>
 
