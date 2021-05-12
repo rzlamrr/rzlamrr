@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I feel like a good mom. I'm a strong woman now... Don't look down on me. Pray for me because I'm trying."</i>
+<i>"Always be mindful of the kindness and not the faults of others."</i>
 <br>
-<b>- Fantasia Barrino</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
