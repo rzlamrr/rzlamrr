@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"A true friend is the greatest of all blessings, and that which we take the least care of all to acquire."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
