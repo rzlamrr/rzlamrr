@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is a good name for an effect whose cause is God."</i>
+<i>"I had done some flimflam movies, but I didn't understand what being an actor meant anymore."</i>
 <br>
-<b>- William Cowper</b>
+<b>- Liam Neeson</b>
 </blockquote>
 </p>
 
