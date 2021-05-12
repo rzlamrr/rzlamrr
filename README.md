@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of the half truth. You may have gotten hold of the wrong half."</i>
+<i>"I feel like a good mom. I'm a strong woman now... Don't look down on me. Pray for me because I'm trying."</i>
 <br>
-<b>- Anonymous</b>
+<b>- Fantasia Barrino</b>
 </blockquote>
 </p>
 
