@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Canadians tend to be a bit more religious than most Europeans - though not more than the Poles or Ukrainians. Most important, their attitude to immigration and ethnic minorities is more positive than that of most Europeans."</i>
+<i>"Beware of the half truth. You may have gotten hold of the wrong half."</i>
 <br>
-<b>- Timothy Garton Ash</b>
+<b>- Anonymous</b>
 </blockquote>
 </p>
 
