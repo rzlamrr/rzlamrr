@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I had done some flimflam movies, but I didn't understand what being an actor meant anymore."</i>
+<i>"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."</i>
 <br>
-<b>- Liam Neeson</b>
+<b>- Max Planck</b>
 </blockquote>
 </p>
 
