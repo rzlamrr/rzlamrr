@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
+<i>"Sinn Fein has productively taken the example of South Africa and, as we develop the peace process, we continue to use examples from South Africa."</i>
 <br>
-<b>- Satchel Paige</b>
+<b>- Gerry Adams</b>
 </blockquote>
 </p>
 
