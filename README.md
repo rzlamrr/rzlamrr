@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."</i>
+<i>"It is easier to live through someone else than to become complete yourself."</i>
 <br>
-<b>- John Quincy Adams</b>
+<b>- Betty Friedan</b>
 </blockquote>
 </p>
 
