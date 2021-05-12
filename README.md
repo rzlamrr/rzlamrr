@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again."</i>
+<i>"Canadians tend to be a bit more religious than most Europeans - though not more than the Poles or Ukrainians. Most important, their attitude to immigration and ethnic minorities is more positive than that of most Europeans."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Timothy Garton Ash</b>
 </blockquote>
 </p>
 
