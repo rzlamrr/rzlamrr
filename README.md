@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well, I've never looked upon myself as being a beauty, per se."</i>
+<i>"The power of intuitive understanding will protect you from harm until the end of your days."</i>
 <br>
-<b>- Cate Blanchett</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
