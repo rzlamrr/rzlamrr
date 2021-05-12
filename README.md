@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have a hotline to the tabloids. When I get up in the morning, I call the Star, and the last thing at night, I call them. I want them to have the inside track."</i>
+<i>"The older I get the more wisdom I find in the ancient rule of taking first things first. A process which often reduces the most complex human problem to a manageable proportion."</i>
 <br>
-<b>- Kirstie Alley</b>
+<b>- Dwight D. Eisenhower</b>
 </blockquote>
 </p>
 
