@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I used to be such a militant city-ist, but more and more I've seen forests and nature and oceans, and I don't know any more if this is the awesomest way to live."</i>
+<i>"Gratitude is the fairest blossom which springs from the soul."</i>
 <br>
-<b>- Regina Spektor</b>
+<b>- Henry K. Beecher</b>
 </blockquote>
 </p>
 
