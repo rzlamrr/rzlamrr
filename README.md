@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"Well, I've never looked upon myself as being a beauty, per se."</i>
 <br>
-<b>- Henry K. Beecher</b>
+<b>- Cate Blanchett</b>
 </blockquote>
 </p>
 
