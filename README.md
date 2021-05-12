@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be mindful of the kindness and not the faults of others."</i>
+<i>"Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art."</i>
 <br>
-<b>- Buddha</b>
+<b>- Andy Warhol</b>
 </blockquote>
 </p>
 
