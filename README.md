@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art."</i>
+<i>"Be yourself; everyone else is already taken."</i>
 <br>
-<b>- Andy Warhol</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
