@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The space industry is developing and delivering benefits that tie into our immediate needs and priorities here on Earth-for example, medical and materials research, and satellite communications."</i>
+<i>"Ideas are the beginning points of all fortunes."</i>
 <br>
-<b>- Marc Garneau</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
