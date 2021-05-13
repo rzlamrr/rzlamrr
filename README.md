@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is being in harmony with what you are."</i>
+<i>"The space industry is developing and delivering benefits that tie into our immediate needs and priorities here on Earth-for example, medical and materials research, and satellite communications."</i>
 <br>
-<b>- Peter Nivio Zarlenga</b>
+<b>- Marc Garneau</b>
 </blockquote>
 </p>
 
