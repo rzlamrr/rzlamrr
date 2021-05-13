@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"You can die of the cure before you die of the illness."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Michael Landon</b>
 </blockquote>
 </p>
 
