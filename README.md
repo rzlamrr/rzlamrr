@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of us women like men, you know it's just that we find them a constant disappointment."</i>
+<i>"If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place."</i>
 <br>
-<b>- Clare Short</b>
+<b>- Nora Roberts</b>
 </blockquote>
 </p>
 
