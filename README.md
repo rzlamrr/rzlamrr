@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I write early in the morning, usually after reading portions of at least half a dozen newspapers on the web."</i>
+<i>"To conquer fear is the beginning of wisdom."</i>
 <br>
-<b>- Alan Dean Foster</b>
+<b>- Bertrand Russell</b>
 </blockquote>
 </p>
 
