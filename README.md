@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A city with one newspaper, or with a morning and an evening paper under one ownership, is like a man with one eye, and often the eye is glass."</i>
+<i>"My sisters and my mom, those people help me get through every single day."</i>
 <br>
-<b>- A. J. Liebling</b>
+<b>- Demi Lovato</b>
 </blockquote>
 </p>
 
