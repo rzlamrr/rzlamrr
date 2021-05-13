@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?"</i>
+<i>"A city with one newspaper, or with a morning and an evening paper under one ownership, is like a man with one eye, and often the eye is glass."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- A. J. Liebling</b>
 </blockquote>
 </p>
 
