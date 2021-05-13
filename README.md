@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A house divided against itself cannot stand."</i>
+<i>"Most of us women like men, you know it's just that we find them a constant disappointment."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Clare Short</b>
 </blockquote>
 </p>
 
