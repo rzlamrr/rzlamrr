@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have 20,000 girlfriends, all around the world."</i>
+<i>"The least of things with a meaning is worth more in life than the greatest of things without it."</i>
 <br>
-<b>- Justin Timberlake</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
