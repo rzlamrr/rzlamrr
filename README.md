@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My sisters and my mom, those people help me get through every single day."</i>
+<i>"I have 20,000 girlfriends, all around the world."</i>
 <br>
-<b>- Demi Lovato</b>
+<b>- Justin Timberlake</b>
 </blockquote>
 </p>
 
