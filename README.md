@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To conquer fear is the beginning of wisdom."</i>
+<i>"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?"</i>
 <br>
-<b>- Bertrand Russell</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
