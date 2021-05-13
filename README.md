@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing great was ever achieved without enthusiasm."</i>
+<i>"Unless our conception of patriotism is progressive, it cannot hope to embody the real affection and the real interest of the nation."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Jane Addams</b>
 </blockquote>
 </p>
 
