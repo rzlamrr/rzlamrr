@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least of things with a meaning is worth more in life than the greatest of things without it."</i>
+<i>"It is dangerous for mortal beauty, or terrestrial virtue, to be examined by too strong a light. The torch of Truth shows much that we cannot, and all that we would not, see."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
