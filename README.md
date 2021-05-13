@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easier to live through someone else than to become complete yourself."</i>
+<i>"Beauty is being in harmony with what you are."</i>
 <br>
-<b>- Betty Friedan</b>
+<b>- Peter Nivio Zarlenga</b>
 </blockquote>
 </p>
 
