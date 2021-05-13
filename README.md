@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless our conception of patriotism is progressive, it cannot hope to embody the real affection and the real interest of the nation."</i>
+<i>"I write early in the morning, usually after reading portions of at least half a dozen newspapers on the web."</i>
 <br>
-<b>- Jane Addams</b>
+<b>- Alan Dean Foster</b>
 </blockquote>
 </p>
 
