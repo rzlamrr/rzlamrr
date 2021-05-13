@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas are the beginning points of all fortunes."</i>
+<i>"When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
