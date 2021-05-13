@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself."</i>
+<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
 <br>
-<b>- Henry Miller</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
