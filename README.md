@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity."</i>
+<i>"I believe that every person is born with talent."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
