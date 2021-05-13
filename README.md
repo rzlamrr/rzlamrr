@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place."</i>
+<i>"Nothing great was ever achieved without enthusiasm."</i>
 <br>
-<b>- Nora Roberts</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
