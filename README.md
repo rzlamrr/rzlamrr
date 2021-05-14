@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always thought of myself as a moderate liberal, a fighter for peace and justice. I never thought of myself as being all that far out."</i>
+<i>"All cities are mad: but the madness is gallant. All cities are beautiful: but the beauty is grim."</i>
 <br>
-<b>- George McGovern</b>
+<b>- Christopher Morley</b>
 </blockquote>
 </p>
 
