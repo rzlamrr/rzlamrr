@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be what we are, and to become what we are capable of becoming, is the only end of life."</i>
+<i>"Even youngish men can acquire wisdom as time goes by."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- John Bercow</b>
 </blockquote>
 </p>
 
