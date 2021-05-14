@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can, you can. And if you think you can't, you're right."</i>
+<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Benjamin Haydon</b>
 </blockquote>
 </p>
 
