@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I might have some character traits that some might see as innocence or naive. That's because I discovered peace and happiness in my soul. And with this knowledge, I also see the beauty of human life."</i>
+<i>"It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship."</i>
 <br>
-<b>- Tobey Maguire</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
