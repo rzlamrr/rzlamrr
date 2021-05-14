@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mom was a model. She had me at 20, so she was a young mother."</i>
+<i>"She's always there for me when I need her She's my best friend she's just my everything."</i>
 <br>
-<b>- Michael Kors</b>
+<b>- Ashley Olsen</b>
 </blockquote>
 </p>
 
