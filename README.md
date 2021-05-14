@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even youngish men can acquire wisdom as time goes by."</i>
+<i>"I always thought of myself as a moderate liberal, a fighter for peace and justice. I never thought of myself as being all that far out."</i>
 <br>
-<b>- John Bercow</b>
+<b>- George McGovern</b>
 </blockquote>
 </p>
 
