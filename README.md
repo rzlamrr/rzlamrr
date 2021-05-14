@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the unknown frightens men. But once a man has faced the unknown, that terror becomes the known."</i>
+<i>"There is nothing men are so generous of as advice."</i>
 <br>
-<b>- Antoine de Saint-Exupery</b>
+<b>- Francois de La Rochefoucauld</b>
 </blockquote>
 </p>
 
