@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never once does 'Snow White' herself look in the mirror so she isn't aware of her beauty or what apparently that does to people. It's really just the queen and the prince that talk about it."</i>
+<i>"My mom had started to go to work when I was nine or ten, so I was aware of women trying to find their own identities by working. But I was still influenced by men to such an extreme. I wanted to play their games and wanted to compete in their world and be like them."</i>
 <br>
-<b>- Lily Collins</b>
+<b>- Elisabeth Shue</b>
 </blockquote>
 </p>
 
