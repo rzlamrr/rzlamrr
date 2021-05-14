@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"To be what we are, and to become what we are capable of becoming, is the only end of life."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
