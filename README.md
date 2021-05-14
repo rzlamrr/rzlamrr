@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing men are so generous of as advice."</i>
+<i>"Never once does 'Snow White' herself look in the mirror so she isn't aware of her beauty or what apparently that does to people. It's really just the queen and the prince that talk about it."</i>
 <br>
-<b>- Francois de La Rochefoucauld</b>
+<b>- Lily Collins</b>
 </blockquote>
 </p>
 
