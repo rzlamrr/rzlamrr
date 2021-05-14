@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always thought of myself as a moderate liberal, a fighter for peace and justice. I never thought of myself as being all that far out."</i>
+<i>"I might have some character traits that some might see as innocence or naive. That's because I discovered peace and happiness in my soul. And with this knowledge, I also see the beauty of human life."</i>
 <br>
-<b>- George McGovern</b>
+<b>- Tobey Maguire</b>
 </blockquote>
 </p>
 
