@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing. We're all friends and friendly. So when the cameras go down, depending on the mood or the nature of the material we're dealing with, there's usually a kind of a prevailing light attitude that's floating around."</i>
+<i>"If you think you can, you can. And if you think you can't, you're right."</i>
 <br>
-<b>- Richard Dean Anderson</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
