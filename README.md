@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All cities are mad: but the madness is gallant. All cities are beautiful: but the beauty is grim."</i>
+<i>"Anyone who wants to sell you overnight success or wealth is not interested in your success they are interested in your money."</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- Bo Bennett</b>
 </blockquote>
 </p>
 
