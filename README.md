@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is dangerous for mortal beauty, or terrestrial virtue, to be examined by too strong a light. The torch of Truth shows much that we cannot, and all that we would not, see."</i>
+<i>"Imagination is the living power and prime agent of all human perception."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Samuel Taylor Coleridge</b>
 </blockquote>
 </p>
 
