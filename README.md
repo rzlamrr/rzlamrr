@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it."</i>
+<i>"Only the unknown frightens men. But once a man has faced the unknown, that terror becomes the known."</i>
 <br>
-<b>- John Steinbeck</b>
+<b>- Antoine de Saint-Exupery</b>
 </blockquote>
 </p>
 
