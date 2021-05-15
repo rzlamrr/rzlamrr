@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning never exhausts the mind."</i>
+<i>"Technology is anything that wasn’t around when you were born."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Man Ray</b>
 </blockquote>
 </p>
 
