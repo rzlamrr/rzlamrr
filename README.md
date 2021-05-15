@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is great love, there are always miracles."</i>
+<i>"I was made to believe there was a plan in place for ending Donald's previous marriage. I pulled away because I wanted to allow him the time to deal with his wife."</i>
 <br>
-<b>- Willa Cather</b>
+<b>- Marla Maples</b>
 </blockquote>
 </p>
 
