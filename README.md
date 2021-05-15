@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is anything that wasn’t around when you were born."</i>
+<i>"It’s supposed to be automatic, but actually you have to push this button."</i>
 <br>
-<b>- Man Ray</b>
+<b>- John Brunner</b>
 </blockquote>
 </p>
 
