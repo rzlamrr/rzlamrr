@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the flower you've got to let grow."</i>
+<i>"Ah, the power of two. There's nothing quite like it. Especially when it comes to paying utility bills, parenting, cooking elaborate meals, purchasing a grown-up bed, jumping rope and lifting heavy machinery. The world favours pairs. Who wants to waste the wood building an ark for singletons?"</i>
 <br>
-<b>- John Lennon</b>
+<b>- Sloane Crosley</b>
 </blockquote>
 </p>
 
