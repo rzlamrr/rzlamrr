@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Marriage takes work - it doesn't just happen."</i>
+<i>"I am 73 years old. I've seen everything. I've met the kings, the queens, the presidents, I've been around the world. I have one thing that I would like to do: to try to reach peace."</i>
 <br>
-<b>- Lara Stone</b>
+<b>- Ariel Sharon</b>
 </blockquote>
 </p>
 
