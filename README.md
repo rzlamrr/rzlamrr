@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is fatal to enter any war without the will to win it."</i>
+<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
 <br>
-<b>- Douglas MacArthur</b>
+<b>- Kurt Vonnegut</b>
 </blockquote>
 </p>
 
