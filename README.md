@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is the best way for me to say I love you."</i>
+<i>"The worst men often give the best advice."</i>
 <br>
-<b>- Mireille Mathieu</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
