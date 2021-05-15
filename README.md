@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On every thorn, delightful wisdom grows, In every rill a sweet instruction flows."</i>
+<i>"If you've got a talent, protect it."</i>
 <br>
-<b>- Edward Young</b>
+<b>- Jim Carrey</b>
 </blockquote>
 </p>
 
