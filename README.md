@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The worst men often give the best advice."</i>
+<i>"Countries have lost their culture because what they wanted was money. Money became the running theme in every country and culture was sacrificed."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
