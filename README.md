@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never find fault with the absent."</i>
+<i>"To know oneself is to study oneself in action with another person."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
