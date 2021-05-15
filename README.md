@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think if I could be any superhero, it'd probably be my mom... but I don't think I'd look too good in high heels, so it's not gonna happen."</i>
+<i>"Music is the best way for me to say I love you."</i>
 <br>
-<b>- Jason Behr</b>
+<b>- Mireille Mathieu</b>
 </blockquote>
 </p>
 
