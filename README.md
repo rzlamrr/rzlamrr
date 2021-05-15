@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ah, the power of two. There's nothing quite like it. Especially when it comes to paying utility bills, parenting, cooking elaborate meals, purchasing a grown-up bed, jumping rope and lifting heavy machinery. The world favours pairs. Who wants to waste the wood building an ark for singletons?"</i>
+<i>"I think if I could be any superhero, it'd probably be my mom... but I don't think I'd look too good in high heels, so it's not gonna happen."</i>
 <br>
-<b>- Sloane Crosley</b>
+<b>- Jason Behr</b>
 </blockquote>
 </p>
 
