@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was made to believe there was a plan in place for ending Donald's previous marriage. I pulled away because I wanted to allow him the time to deal with his wife."</i>
+<i>"On every thorn, delightful wisdom grows, In every rill a sweet instruction flows."</i>
 <br>
-<b>- Marla Maples</b>
+<b>- Edward Young</b>
 </blockquote>
 </p>
 
