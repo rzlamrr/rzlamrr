@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you label me you negate me."</i>
+<i>"Learning never exhausts the mind."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
