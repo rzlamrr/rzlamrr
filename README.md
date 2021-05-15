@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've got a talent, protect it."</i>
+<i>"Love is the flower you've got to let grow."</i>
 <br>
-<b>- Jim Carrey</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
