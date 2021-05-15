@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it."</i>
+<i>"Once you label me you negate me."</i>
 <br>
-<b>- Hugh Jackman</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
