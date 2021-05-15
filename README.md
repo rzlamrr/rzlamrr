@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best preparation for tomorrow is doing your best today."</i>
+<i>"Never find fault with the absent."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
