@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It’s supposed to be automatic, but actually you have to push this button."</i>
+<i>"We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel."</i>
 <br>
-<b>- John Brunner</b>
+<b>- Marcia Fudge</b>
 </blockquote>
 </p>
 
