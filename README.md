@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have to say that when you tour the world, obviously, the jetlags and different hours and ways of living and traveling, a lot of hours in the plane, and you wake up in the morning and you're not quite sure where you are, and it is very tiring."</i>
+<i>"It is fatal to enter any war without the will to win it."</i>
 <br>
-<b>- Celine Dion</b>
+<b>- Douglas MacArthur</b>
 </blockquote>
 </p>
 
