@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All is flux; nothing stays still."</i>
+<i>"I would define, in brief, the poetry of words as the rhythmical creation of Beauty."</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
