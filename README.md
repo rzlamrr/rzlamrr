@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many a genius has been slow of growth. Oaks that flourish for a thousand years do not spring up into beauty like a reed."</i>
+<i>"Nature is neutral."</i>
 <br>
-<b>- George Henry Lewes</b>
+<b>- Adlai E. Stevenson</b>
 </blockquote>
 </p>
 
