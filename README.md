@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature is neutral."</i>
+<i>"These women whose antics we smirk at good-naturedly in the pap-traps put themselves out there at least partly on their beauty they are in showbiz, and showing what they've got is part of their business as much as it is for male show-ponies from the Chippendales to George Clooney."</i>
 <br>
-<b>- Adlai E. Stevenson</b>
+<b>- Julie Burchill</b>
 </blockquote>
 </p>
 
