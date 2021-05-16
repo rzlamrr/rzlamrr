@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
+<i>"All children are artists. The problem is how to remain an artist once he grows up."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
