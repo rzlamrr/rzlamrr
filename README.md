@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men make more opportunities than they find."</i>
+<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
