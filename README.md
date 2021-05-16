@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our goal is to make the best devices in the world, not to be the biggest."</i>
+<i>"A successful marriage isn't necessarily one that lasts until you're dead."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Ellen Barkin</b>
 </blockquote>
 </p>
 
