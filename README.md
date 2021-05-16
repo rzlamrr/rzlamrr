@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fill you mind with the meaningless stimuli of a world preoccupied with meaningless things, and it will not be easy to feel peace in your heart."</i>
+<i>"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do."</i>
 <br>
-<b>- Marianne Williamson</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
