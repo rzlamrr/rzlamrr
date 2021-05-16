@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Nobel Peace Prize opened up a door in my heart."</i>
+<i>"What irritates me is the bland way people go around saying, 'Oh, our attitude has changed. We don't dislike these people any more.' But by the strangest coincidence, they haven't taken away the injustice the laws are still on the books."</i>
 <br>
-<b>- Aung San Suu Kyi</b>
+<b>- Christopher Isherwood</b>
 </blockquote>
 </p>
 
