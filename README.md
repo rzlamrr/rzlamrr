@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are going as fast as we can as soon as we can. We're in a race against time, until we run out of money."</i>
+<i>"Wise men make more opportunities than they find."</i>
 <br>
-<b>- Jack Nicholson</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
