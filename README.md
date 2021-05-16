@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel."</i>
+<i>"We are going as fast as we can as soon as we can. We're in a race against time, until we run out of money."</i>
 <br>
-<b>- Marcia Fudge</b>
+<b>- Jack Nicholson</b>
 </blockquote>
 </p>
 
