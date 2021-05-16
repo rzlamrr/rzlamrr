@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All children are artists. The problem is how to remain an artist once he grows up."</i>
+<i>"Our goal is to make the best devices in the world, not to be the biggest."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
