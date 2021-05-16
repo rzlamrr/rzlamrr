@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful marriage isn't necessarily one that lasts until you're dead."</i>
+<i>"Many a genius has been slow of growth. Oaks that flourish for a thousand years do not spring up into beauty like a reed."</i>
 <br>
-<b>- Ellen Barkin</b>
+<b>- George Henry Lewes</b>
 </blockquote>
 </p>
 
