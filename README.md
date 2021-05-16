@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do."</i>
+<i>"The Nobel Peace Prize opened up a door in my heart."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Aung San Suu Kyi</b>
 </blockquote>
 </p>
 
