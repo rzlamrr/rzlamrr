@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the educated are free."</i>
+<i>"Beauty without expression is boring."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
