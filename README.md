@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."</i>
+<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
 <br>
-<b>- Vernon Cooper</b>
+<b>- Hal Abelson</b>
 </blockquote>
 </p>
 
