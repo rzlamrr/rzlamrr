@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No fathers or mothers think their own children ugly."</i>
+<i>"I think it's brought the world a lot closer together, and will continue to do that. There are downsides to everything there are unintended consequences to everything. The most corrosive piece of technology that I've ever seen is called television - but then, again, television, at its best, is magnificent."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
