@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty without expression is boring."</i>
+<i>"When fate hands us a lemon, lets try to make lemonade."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
