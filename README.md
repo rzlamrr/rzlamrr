@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It was not a healthy marriage for long time. It was never about another man, it was about what my and Dennis's relationship could not sustain."</i>
+<i>"I don't know why, but I've always been a sucker for roller coasters in movies."</i>
 <br>
-<b>- Meg Ryan</b>
+<b>- Diablo Cody</b>
 </blockquote>
 </p>
 
