@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
+<i>"I am a night painter, so when I come into the studio the next morning the delirium is over."</i>
 <br>
-<b>- Hal Abelson</b>
+<b>- Philip Guston</b>
 </blockquote>
 </p>
 
