@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When fate hands us a lemon, lets try to make lemonade."</i>
+<i>"Love is not weakness. It is strong. Only the sacrament of marriage can contain it."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Boris Pasternak</b>
 </blockquote>
 </p>
 
