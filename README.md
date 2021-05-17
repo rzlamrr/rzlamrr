@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am a night painter, so when I come into the studio the next morning the delirium is over."</i>
+<i>"To be successful in real estate, you must always and consistently put your clients' best interests first. When you do, your personal needs will be realized beyond your greatest expectations."</i>
 <br>
-<b>- Philip Guston</b>
+<b>- Anthony Hitt</b>
 </blockquote>
 </p>
 
