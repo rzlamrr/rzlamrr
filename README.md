@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
+<i>"It is not a lack of love, but a lack of friendship that makes unhappy marriages."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
