@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's a good thing that beauty is only skin deep, or I'd be rotten to the core."</i>
+<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
 <br>
-<b>- Phyllis Diller</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
