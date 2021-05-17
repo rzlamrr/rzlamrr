@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love life, don't waste time, for time is what life is made up of."</i>
+<i>"In separateness lies the world's great misery, in compassion lies the world's true strength."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
