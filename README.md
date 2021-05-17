@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was bringing my attitude as a regular person 'cause this is my attitude."</i>
+<i>"It was not a healthy marriage for long time. It was never about another man, it was about what my and Dennis's relationship could not sustain."</i>
 <br>
-<b>- Glenn Danzig</b>
+<b>- Meg Ryan</b>
 </blockquote>
 </p>
 
