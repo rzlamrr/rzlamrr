@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It remains to consider what attitude thoughtful men and Christian believers should take respecting them, and how they stand related to beliefs of another order."</i>
+<i>"These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future."</i>
 <br>
-<b>- Asa Gray</b>
+<b>- Vernon Cooper</b>
 </blockquote>
 </p>
 
