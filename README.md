@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must become the change we want to see."</i>
+<i>"It's a good thing that beauty is only skin deep, or I'd be rotten to the core."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Phyllis Diller</b>
 </blockquote>
 </p>
 
