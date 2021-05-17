@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My memory of my mom is a wine glass in one hand and a cigarette in the other. She was a runway fashion model, and she was quite a glamorous woman."</i>
+<i>"No fathers or mothers think their own children ugly."</i>
 <br>
-<b>- Loni Anderson</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
