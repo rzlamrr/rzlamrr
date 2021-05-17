@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be successful in real estate, you must always and consistently put your clients' best interests first. When you do, your personal needs will be realized beyond your greatest expectations."</i>
+<i>"I was bringing my attitude as a regular person 'cause this is my attitude."</i>
 <br>
-<b>- Anthony Hitt</b>
+<b>- Glenn Danzig</b>
 </blockquote>
 </p>
 
