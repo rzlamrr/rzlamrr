@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't know why, but I've always been a sucker for roller coasters in movies."</i>
+<i>"We need to stop spending money we don't have."</i>
 <br>
-<b>- Diablo Cody</b>
+<b>- Paul Ryan</b>
 </blockquote>
 </p>
 
