@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In separateness lies the world's great misery, in compassion lies the world's true strength."</i>
+<i>"We must become the change we want to see."</i>
 <br>
-<b>- Buddha</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
