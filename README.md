@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I destroy my enemies when I make them my friends."</i>
+<i>"It remains to consider what attitude thoughtful men and Christian believers should take respecting them, and how they stand related to beliefs of another order."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Asa Gray</b>
 </blockquote>
 </p>
 
