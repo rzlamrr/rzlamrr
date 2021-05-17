@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not a lack of love, but a lack of friendship that makes unhappy marriages."</i>
+<i>"My memory of my mom is a wine glass in one hand and a cigarette in the other. She was a runway fashion model, and she was quite a glamorous woman."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Loni Anderson</b>
 </blockquote>
 </p>
 
