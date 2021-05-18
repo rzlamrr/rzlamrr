@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is necessary to change a person is to change his awareness of himself."</i>
+<i>"All of us kids ended up 'doing Mom.' There are four of us who've tried show business. Five if you insist on counting my sister the nun, who does liturgical dance."</i>
 <br>
-<b>- Abraham Maslow</b>
+<b>- Bill Murray</b>
 </blockquote>
 </p>
 
