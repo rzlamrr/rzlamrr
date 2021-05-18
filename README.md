@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If anything I consider myself non-violent, I'm from the hippy era, peace, love, groovy."</i>
+<i>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</i>
 <br>
-<b>- Rick James</b>
+<b>- John Muir</b>
 </blockquote>
 </p>
 
