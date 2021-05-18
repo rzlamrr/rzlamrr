@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If women are supposed to be less rational and more emotional at the beginning of our menstrual cycle when the female hormone is at its lowest level, then why isn't it logical to say that, in those few days, women behave the most like the way men behave all month long?"</i>
+<i>"When my dad divorced my mom it was kind of like him leaving me also."</i>
 <br>
-<b>- Gloria Steinem</b>
+<b>- Nicole Richie</b>
 </blockquote>
 </p>
 
