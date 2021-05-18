@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable."</i>
+<i>"Habit, if not resisted, soon becomes necessity."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
