@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace."</i>
+<i>"Everyone told me to pass on Speed because it was a 'bus movie.'"</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sandra Bullock</b>
 </blockquote>
 </p>
 
