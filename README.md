@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need to stop spending money we don't have."</i>
+<i>"Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable."</i>
 <br>
-<b>- Paul Ryan</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
