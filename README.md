@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby's temperature. Plus, it really teaches the baby who's boss."</i>
+<i>"It is not enough to say we must not wage war. It is necessary to love peace and sacrifice for it."</i>
 <br>
-<b>- Tina Fey</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
