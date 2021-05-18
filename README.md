@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What makes Superman a hero is not that he has power, but that he has the wisdom and the maturity to use the power wisely. From an acting point of view, that's how I approached the part."</i>
+<i>"Nature, who for the perfect maintenance of the laws of her general equilibrium, has sometimes need of vices and sometimes of virtues, inspires now this impulse, now that one, in accordance with what she requires."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Marquis de Sade</b>
 </blockquote>
 </p>
 
