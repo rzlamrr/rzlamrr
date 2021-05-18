@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."</i>
+<i>"Never idealize others. They will never live up to your expectations."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
