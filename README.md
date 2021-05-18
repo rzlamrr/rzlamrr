@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune."</i>
+<i>"The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
