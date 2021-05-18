@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never idealize others. They will never live up to your expectations."</i>
+<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
