@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When my dad divorced my mom it was kind of like him leaving me also."</i>
+<i>"To love beauty is to see light."</i>
 <br>
-<b>- Nicole Richie</b>
+<b>- Victor Hugo</b>
 </blockquote>
 </p>
 
