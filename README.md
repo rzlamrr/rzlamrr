@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is blind; friendship closes its eyes."</i>
+<i>"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
