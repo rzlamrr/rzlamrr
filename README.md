@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All of us kids ended up 'doing Mom.' There are four of us who've tried show business. Five if you insist on counting my sister the nun, who does liturgical dance."</i>
+<i>"A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby's temperature. Plus, it really teaches the baby who's boss."</i>
 <br>
-<b>- Bill Murray</b>
+<b>- Tina Fey</b>
 </blockquote>
 </p>
 
