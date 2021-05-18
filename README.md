@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</i>
+<i>"To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god."</i>
 <br>
-<b>- John Muir</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
