@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."</i>
+<i>"When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
