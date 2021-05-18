@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest stage in moral ure at which we can arrive is when we recognize that we ought to control our thoughts."</i>
+<i>"What is necessary to change a person is to change his awareness of himself."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Abraham Maslow</b>
 </blockquote>
 </p>
 
