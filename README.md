@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
+<i>"A really great talent finds its happiness in execution."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
