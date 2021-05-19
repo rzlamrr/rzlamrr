@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What does good in bed mean to me? When I'm sick and I stay home from school propped up with lots of pillows watching TV and my mom brings me soup - that's good in bed."</i>
+<i>"Truth isn't always beauty, but the hunger for it is."</i>
 <br>
-<b>- Brooke Shields</b>
+<b>- Nadine Gordimer</b>
 </blockquote>
 </p>
 
