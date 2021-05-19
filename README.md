@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have many times thought I did the wrong thing, but the reason was not to be a medical doctor - it was just to have the information. But then, maybe I was wrong, I don't know."</i>
+<i>"I routinely never discuss my marriage. It's nice to have things in my life that are totally mine."</i>
 <br>
-<b>- Lennart Nilsson</b>
+<b>- Ryan Adams</b>
 </blockquote>
 </p>
 
