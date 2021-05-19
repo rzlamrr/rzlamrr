@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But I do know focusing on the exterior doesn't make me happy. If I want peace and serenity, it won't be reached by getting thinner or fatter."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- Elle Macpherson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
