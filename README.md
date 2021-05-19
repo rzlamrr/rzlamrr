@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fears are nothing more than a state of mind."</i>
+<i>"There's also a sense of freedom. I was so obsessed by this problem that I was thinking about if all the time - when I woke up in the morning, when I went to sleep at night, and that went on for eight years."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Andrew Wiles</b>
 </blockquote>
 </p>
 
