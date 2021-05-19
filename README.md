@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
+<i>"What does good in bed mean to me? When I'm sick and I stay home from school propped up with lots of pillows watching TV and my mom brings me soup - that's good in bed."</i>
 <br>
-<b>- Confucius</b>
+<b>- Brooke Shields</b>
 </blockquote>
 </p>
 
