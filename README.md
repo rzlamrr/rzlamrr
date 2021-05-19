@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never find fault with the absent."</i>
+<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
