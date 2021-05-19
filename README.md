@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not allow ourselves to become like the system we oppose."</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
 <br>
-<b>- Desmond Tutu</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
