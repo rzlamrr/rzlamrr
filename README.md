@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Movies are a fad. Audiences really want to see live actors on a stage."</i>
+<i>"How we spend our days is, of course, how we spend our lives."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Annie Dillard</b>
 </blockquote>
 </p>
 
