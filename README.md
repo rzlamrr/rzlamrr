@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mother worked in factories, worked as a domestic, worked in a restaurant, always had a second job."</i>
+<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
 <br>
-<b>- Ed Bradley</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
