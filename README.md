@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I routinely never discuss my marriage. It's nice to have things in my life that are totally mine."</i>
+<i>"If you want to go somewhere, it is best to find someone who has already been there."</i>
 <br>
-<b>- Ryan Adams</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
