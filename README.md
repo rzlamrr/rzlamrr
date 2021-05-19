@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well begun is half done."</i>
+<i>"My mother worked in factories, worked as a domestic, worked in a restaurant, always had a second job."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ed Bradley</b>
 </blockquote>
 </p>
 
