@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One way or another, we all have to find what best fosters the flowering of our humanity in this contemporary life, and dedicate ourselves to that."</i>
+<i>"But I do know focusing on the exterior doesn't make me happy. If I want peace and serenity, it won't be reached by getting thinner or fatter."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Elle Macpherson</b>
 </blockquote>
 </p>
 
