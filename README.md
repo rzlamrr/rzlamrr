@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty always promises, but never gives anything."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Simone Weil</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
