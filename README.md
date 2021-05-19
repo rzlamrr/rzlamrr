@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth isn't always beauty, but the hunger for it is."</i>
+<i>"We must not allow ourselves to become like the system we oppose."</i>
 <br>
-<b>- Nadine Gordimer</b>
+<b>- Desmond Tutu</b>
 </blockquote>
 </p>
 
