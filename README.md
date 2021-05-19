@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to go somewhere, it is best to find someone who has already been there."</i>
+<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Satchel Paige</b>
 </blockquote>
 </p>
 
