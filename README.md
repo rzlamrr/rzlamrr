@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's also a sense of freedom. I was so obsessed by this problem that I was thinking about if all the time - when I woke up in the morning, when I went to sleep at night, and that went on for eight years."</i>
+<i>"Work while you have the light. You are responsible for the talent that has been entrusted to you."</i>
 <br>
-<b>- Andrew Wiles</b>
+<b>- Henri-Frédéric Amiel</b>
 </blockquote>
 </p>
 
