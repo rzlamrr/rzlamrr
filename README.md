@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot find yourself by going into the past. You can find yourself by coming into the present."</i>
+<i>"I have many times thought I did the wrong thing, but the reason was not to be a medical doctor - it was just to have the information. But then, maybe I was wrong, I don't know."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Lennart Nilsson</b>
 </blockquote>
 </p>
 
