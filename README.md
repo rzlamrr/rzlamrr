@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone told me to pass on Speed because it was a 'bus movie.'"</i>
+<i>"Beauty always promises, but never gives anything."</i>
 <br>
-<b>- Sandra Bullock</b>
+<b>- Simone Weil</b>
 </blockquote>
 </p>
 
