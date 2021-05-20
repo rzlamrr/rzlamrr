@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Totalitarianism is patriotism institutionalized."</i>
+<i>"Why do you think the old stories tell of men who set out on great journeys to impress the gods? Because trying to impress people just isn't worth the time and effort."</i>
 <br>
-<b>- Steve Allen</b>
+<b>- Henry Rollins</b>
 </blockquote>
 </p>
 
