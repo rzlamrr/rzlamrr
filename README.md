@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have done my best: that is about all the philosophy of living one needs."</i>
+<i>"I'm not suggesting people abandon musical instruments and start playing their cars and apartments, but I do think the reign of music as a commodity made only by professionals might be winding down."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- David Byrne</b>
 </blockquote>
 </p>
 
