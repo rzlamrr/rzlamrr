@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to make your dreams come true is to wake up."</i>
+<i>"And queenly is the state she keeps, In beauty's lofty trust secure."</i>
 <br>
-<b>- Paul Valery</b>
+<b>- William Allen Butler</b>
 </blockquote>
 </p>
 
