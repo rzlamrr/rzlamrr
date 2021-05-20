@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm not suggesting people abandon musical instruments and start playing their cars and apartments, but I do think the reign of music as a commodity made only by professionals might be winding down."</i>
+<i>"Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit."</i>
 <br>
-<b>- David Byrne</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
