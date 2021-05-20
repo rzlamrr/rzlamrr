@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"But men are men the best sometimes forget."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
