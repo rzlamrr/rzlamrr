@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And queenly is the state she keeps, In beauty's lofty trust secure."</i>
+<i>"The best thing about the future is that it only comes one day at a time."</i>
 <br>
-<b>- William Allen Butler</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
