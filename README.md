@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
+<i>"The thing that gave me the most pain in life, psychologically, and it gave me tremendous pain psychologically, is man's disrespect for nature."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Joni Mitchell</b>
 </blockquote>
 </p>
 
