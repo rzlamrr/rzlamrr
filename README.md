@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I welcome the President and working with him to try to get some of that medical malpractice reform so we can get the cost of health care to come down."</i>
+<i>"I'm strongly for a patient Bill of Rights. Decisions ought to be made by doctors, not accountants."</i>
 <br>
-<b>- Ben Quayle</b>
+<b>- Charles Schumer</b>
 </blockquote>
 </p>
 
