@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My work is not about 'form follows function,' but 'form follows beauty' or, even better, 'form follows feminine.'"</i>
+<i>"Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine."</i>
 <br>
-<b>- Oscar Niemeyer</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
