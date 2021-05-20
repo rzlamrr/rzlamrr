@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control."</i>
+<i>"Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
