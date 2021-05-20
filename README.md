@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm strongly for a patient Bill of Rights. Decisions ought to be made by doctors, not accountants."</i>
+<i>"Little islands of human happiness, peace, and prosperity are so exceptional at this point in history that I'm not even sure we can draw lessons from them."</i>
 <br>
-<b>- Charles Schumer</b>
+<b>- P. J. O'Rourke</b>
 </blockquote>
 </p>
 
