@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing about the future is that it only comes one day at a time."</i>
+<i>"False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Richard Burton</b>
 </blockquote>
 </p>
 
