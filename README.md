@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thing that gave me the most pain in life, psychologically, and it gave me tremendous pain psychologically, is man's disrespect for nature."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- Joni Mitchell</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
