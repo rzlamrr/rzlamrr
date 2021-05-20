@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Little islands of human happiness, peace, and prosperity are so exceptional at this point in history that I'm not even sure we can draw lessons from them."</i>
+<i>"Totalitarianism is patriotism institutionalized."</i>
 <br>
-<b>- P. J. O'Rourke</b>
+<b>- Steve Allen</b>
 </blockquote>
 </p>
 
