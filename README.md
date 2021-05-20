@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But men are men the best sometimes forget."</i>
+<i>"I have done my best: that is about all the philosophy of living one needs."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
