@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us not deceive ourselves we must elect world peace or world destruction."</i>
+<i>"Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price well have to pay to achieve that goal, or any goal."</i>
 <br>
-<b>- Bernard Baruch</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
