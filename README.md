@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When fate hands us a lemon, lets try to make lemonade."</i>
+<i>"A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby's temperature. Plus, it really teaches the baby who's boss."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Tina Fey</b>
 </blockquote>
 </p>
 
