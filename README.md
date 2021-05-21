@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An idea that is developed and put into action is more important than an idea that exists only as an idea."</i>
+<i>"Perfect friendship is the friendship of men who are good, and alike in excellence for these wish well alike to each other qua good, and they are good in themselves."</i>
 <br>
-<b>- Buddha</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
