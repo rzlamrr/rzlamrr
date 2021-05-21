@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands."</i>
+<i>"When fate hands us a lemon, lets try to make lemonade."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
