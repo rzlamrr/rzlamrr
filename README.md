@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
+<i>"I was up watching Meet Joe Black at four AM. I was hoping Brad Pitt would die, and he was still alive at seven forty in the morning! I actually felt sorry for once, for critics."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Rose McGowan</b>
 </blockquote>
 </p>
 
