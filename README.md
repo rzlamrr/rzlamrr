@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thought came to me that all one loves in art becomes beautiful. Beauty is nothing but the expression of the fact that something is being loved. Only thus could she be defined."</i>
+<i>"Let us not deceive ourselves we must elect world peace or world destruction."</i>
 <br>
-<b>- Robert Musil</b>
+<b>- Bernard Baruch</b>
 </blockquote>
 </p>
 
