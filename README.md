@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."</i>
+<i>"The beginning is always today."</i>
 <br>
-<b>- Dhammapada</b>
+<b>- Mary Wollstonecraft</b>
 </blockquote>
 </p>
 
