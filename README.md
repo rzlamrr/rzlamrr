@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfect friendship is the friendship of men who are good, and alike in excellence for these wish well alike to each other qua good, and they are good in themselves."</i>
+<i>"Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
