@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man in our society is the breadwinner the woman has enough to do as the homemaker, wife and mother."</i>
+<i>"The thought came to me that all one loves in art becomes beautiful. Beauty is nothing but the expression of the fact that something is being loved. Only thus could she be defined."</i>
 <br>
-<b>- Dorothy Fields</b>
+<b>- Robert Musil</b>
 </blockquote>
 </p>
 
