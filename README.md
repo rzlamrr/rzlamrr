@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not possible to create peace in the Middle East by jeopardizing the peace of the world."</i>
+<i>"A goal without a plan is just a wish."</i>
 <br>
-<b>- Aneurin Bevan</b>
+<b>- Larry Elder</b>
 </blockquote>
 </p>
 
