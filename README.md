@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal without a plan is just a wish."</i>
+<i>"I don't think it's a good attitude in your life to feel that you have to be rich to have self-esteem."</i>
 <br>
-<b>- Larry Elder</b>
+<b>- Tom Petty</b>
 </blockquote>
 </p>
 
