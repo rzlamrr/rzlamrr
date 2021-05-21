@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't think it's a good attitude in your life to feel that you have to be rich to have self-esteem."</i>
+<i>"If you change the way you look at things, the things you look at change."</i>
 <br>
-<b>- Tom Petty</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
