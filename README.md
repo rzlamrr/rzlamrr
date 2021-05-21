@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To profit from good advice requires more wisdom than to give it."</i>
+<i>"Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best."</i>
 <br>
-<b>- Wilson Mizner</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
