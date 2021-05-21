@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why do you think the old stories tell of men who set out on great journeys to impress the gods? Because trying to impress people just isn't worth the time and effort."</i>
+<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
 <br>
-<b>- Henry Rollins</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
