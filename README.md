@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maybe I'm old-fashioned. But I remember the beauty and thrill of being moved by Broadway musicals - particularly the endings of shows."</i>
+<i>"An idea that is developed and put into action is more important than an idea that exists only as an idea."</i>
 <br>
-<b>- Marvin Hamlisch</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
