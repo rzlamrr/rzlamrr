@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must conceive of this whole universe as one commonwealth of which both gods and men are members."</i>
+<i>"We can realise a lasting peace and transform the East-West relationship to one of enduring co-operation."</i>
 <br>
-<b>- Marcus Tullius Cicero</b>
+<b>- George H. W. Bush</b>
 </blockquote>
 </p>
 
