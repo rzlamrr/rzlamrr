@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning is always today."</i>
+<i>"The man in our society is the breadwinner the woman has enough to do as the homemaker, wife and mother."</i>
 <br>
-<b>- Mary Wollstonecraft</b>
+<b>- Dorothy Fields</b>
 </blockquote>
 </p>
 
