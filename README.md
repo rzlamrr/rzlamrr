@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Harvard Medical School study has determined that rectal thermometers are still the best way to tell a baby's temperature. Plus, it really teaches the baby who's boss."</i>
+<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
 <br>
-<b>- Tina Fey</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
