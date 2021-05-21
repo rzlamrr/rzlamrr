@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in its highest and noblest form calls for peace of mind and enjoyment and happiness which come only to the man who has found the work that he likes best."</i>
+<i>"It is not possible to create peace in the Middle East by jeopardizing the peace of the world."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Aneurin Bevan</b>
 </blockquote>
 </p>
 
