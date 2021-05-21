@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
+<i>"We must conceive of this whole universe as one commonwealth of which both gods and men are members."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Marcus Tullius Cicero</b>
 </blockquote>
 </p>
 
