@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I was up watching Meet Joe Black at four AM. I was hoping Brad Pitt would die, and he was still alive at seven forty in the morning! I actually felt sorry for once, for critics."</i>
+<i>"To profit from good advice requires more wisdom than to give it."</i>
 <br>
-<b>- Rose McGowan</b>
+<b>- Wilson Mizner</b>
 </blockquote>
 </p>
 
