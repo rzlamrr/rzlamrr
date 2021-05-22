@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men know they are sexual exiles. They wander the earth seeking satisfaction, craving and despising, never content. There is nothing in that anguished motion for women to envy."</i>
+<i>"The principle part of faith is patience."</i>
 <br>
-<b>- Camille Paglia</b>
+<b>- George MacDonald</b>
 </blockquote>
 </p>
 
