@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Here take back the stuff that I am, nature, knead it back into the dough of being, make of me a bush, a cloud, whatever you will, even a man, only no longer make me me."</i>
+<i>"The man of knowledge must be able not only to love his enemies but also to hate his friends."</i>
 <br>
-<b>- Georg C. Lichtenberg</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
