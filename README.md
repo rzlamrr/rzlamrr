@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The principle part of faith is patience."</i>
+<i>"True friendship is like sound health; the value of it is seldom known until it is lost."</i>
 <br>
-<b>- George MacDonald</b>
+<b>- Charles Caleb Colton</b>
 </blockquote>
 </p>
 
