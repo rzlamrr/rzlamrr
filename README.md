@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't build a reputation on what you are going to do."</i>
+<i>"Men who are unhappy, like men who sleep badly, are always proud of the fact."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Bertrand Russell</b>
 </blockquote>
 </p>
 
