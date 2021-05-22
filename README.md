@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Baalbek is so beautiful. It is the heart of beauty in the Middle East - I want to embrace these people with my music. I will try so hard for them. Their president is a Christian, their prime minister is a Muslim. Music is for everyone."</i>
+<i>"To accomplish great things, we must dream as well as act."</i>
 <br>
-<b>- Mstislav Rostropovich</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
