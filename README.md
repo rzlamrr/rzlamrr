@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I tried to play something and screwed up, I'd hear some other note that would come into play. Then I started trying different things to find the beauty in it."</i>
+<i>"Congressman Berg will repeatedly talk about Harry Reid and Barack Obama, and I find it interesting, because this morning, when I woke up and brushed my teeth, I looked in the mirror and I did not see a tall, African-American, skinny man. So let's make it clear that my priorities are North Dakota priorities."</i>
 <br>
-<b>- Dimebag Darrell</b>
+<b>- Heidi Heitkamp</b>
 </blockquote>
 </p>
 
