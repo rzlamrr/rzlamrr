@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship is like sound health; the value of it is seldom known until it is lost."</i>
+<i>"When I tried to play something and screwed up, I'd hear some other note that would come into play. Then I started trying different things to find the beauty in it."</i>
 <br>
-<b>- Charles Caleb Colton</b>
+<b>- Dimebag Darrell</b>
 </blockquote>
 </p>
 
