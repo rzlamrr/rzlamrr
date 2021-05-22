@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men who are unhappy, like men who sleep badly, are always proud of the fact."</i>
+<i>"Men know they are sexual exiles. They wander the earth seeking satisfaction, craving and despising, never content. There is nothing in that anguished motion for women to envy."</i>
 <br>
-<b>- Bertrand Russell</b>
+<b>- Camille Paglia</b>
 </blockquote>
 </p>
 
