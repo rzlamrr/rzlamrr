@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These fallen heroes represent the character of a nation who has a long history of patriotism and honor - and a nation who has fought many battles to keep our country free from threats of terror."</i>
+<i>"Always be smarter than the people who hire you."</i>
 <br>
-<b>- Michael N. Castle</b>
+<b>- Lena Horne</b>
 </blockquote>
 </p>
 
