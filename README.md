@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First say to yourself what you would be; and then do what you have to do."</i>
+<i>"You can't build a reputation on what you are going to do."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
