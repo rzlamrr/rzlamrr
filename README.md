@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men make more opportunities than they find."</i>
+<i>"Be like the flower, turn your face to the sun."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
