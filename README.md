@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders aren't born they are made. And they are made just like anything else, through hard work. And that's the price well have to pay to achieve that goal, or any goal."</i>
+<i>"Here take back the stuff that I am, nature, knead it back into the dough of being, make of me a bush, a cloud, whatever you will, even a man, only no longer make me me."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Georg C. Lichtenberg</b>
 </blockquote>
 </p>
 
