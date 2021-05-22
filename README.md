@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doctors will have more lives to answer for in the next world than even we generals."</i>
+<i>"These fallen heroes represent the character of a nation who has a long history of patriotism and honor - and a nation who has fought many battles to keep our country free from threats of terror."</i>
 <br>
-<b>- Napoleon Bonaparte</b>
+<b>- Michael N. Castle</b>
 </blockquote>
 </p>
 
