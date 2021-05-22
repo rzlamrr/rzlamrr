@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be like the flower, turn your face to the sun."</i>
+<i>"Doctors will have more lives to answer for in the next world than even we generals."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Napoleon Bonaparte</b>
 </blockquote>
 </p>
 
