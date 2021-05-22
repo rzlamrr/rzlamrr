@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man of knowledge must be able not only to love his enemies but also to hate his friends."</i>
+<i>"Baalbek is so beautiful. It is the heart of beauty in the Middle East - I want to embrace these people with my music. I will try so hard for them. Their president is a Christian, their prime minister is a Muslim. Music is for everyone."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Mstislav Rostropovich</b>
 </blockquote>
 </p>
 
