@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stop loving or wanting to love because when its right it's the best thing in the world. When you're in a relationship and its good, even if nothing else in your life is right, you feel like your whole world is complete."</i>
+<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
 <br>
-<b>- Keith Sweat</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
