@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"You can't stop loving or wanting to love because when its right it's the best thing in the world. When you're in a relationship and its good, even if nothing else in your life is right, you feel like your whole world is complete."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Keith Sweat</b>
 </blockquote>
 </p>
 
