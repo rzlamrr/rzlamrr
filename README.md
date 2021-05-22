@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only those who dare to fail greatly can ever achieve greatly."</i>
+<i>"A short saying often contains much wisdom."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
