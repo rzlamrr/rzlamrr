@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In three words I can sum up everything Ive learned about life: it goes on."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
