@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man finds it hard to get what he wants, because he does not want the best God finds it hard to give, because He would give the best, and man will not take it."</i>
+<i>"John Ford was so funny that I couldn't wait to go to work in the morning."</i>
 <br>
-<b>- George MacDonald</b>
+<b>- Richard Widmark</b>
 </blockquote>
 </p>
 
