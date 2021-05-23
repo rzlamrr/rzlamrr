@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did the things we are capable of, we would astound ourselves."</i>
+<i>"I think that a song, when it works, never mind a piece of long form music, even a song is something that speaks to itself but has a language all of its own, ideally."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Steve Hackett</b>
 </blockquote>
 </p>
 
