@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My goal wasn't to make a ton of money. It was to build good computers."</i>
+<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
 <br>
-<b>- Steve Wozniak</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
