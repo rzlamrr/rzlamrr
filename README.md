@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"John Ford was so funny that I couldn't wait to go to work in the morning."</i>
+<i>"Wars will remain while human nature remains. I believe in my soul in cooperation, in arbitration but the soldier's occupation we cannot say is gone until human nature is gone."</i>
 <br>
-<b>- Richard Widmark</b>
+<b>- Rutherford B. Hayes</b>
 </blockquote>
 </p>
 
