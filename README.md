@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
