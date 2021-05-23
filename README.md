@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Congressman Berg will repeatedly talk about Harry Reid and Barack Obama, and I find it interesting, because this morning, when I woke up and brushed my teeth, I looked in the mirror and I did not see a tall, African-American, skinny man. So let's make it clear that my priorities are North Dakota priorities."</i>
+<i>"If marriage can be redefined so that it no longer means a man and a woman but two men or two women, why stop there? Why not allow three men or a woman and two men to constitute a marriage?"</i>
 <br>
-<b>- Heidi Heitkamp</b>
+<b>- Keith O'Brien</b>
 </blockquote>
 </p>
 
