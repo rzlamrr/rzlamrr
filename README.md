@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The old interests of aristocracy - the romance of action, the exalted passions of chivalry and war - faded into the background, and their place was taken by the refined and intimate pursuits of peace and civilization."</i>
+<i>"Humanity is acquiring all the right technology for all the wrong reasons."</i>
 <br>
-<b>- Lytton Strachey</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
