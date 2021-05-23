@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If marriage can be redefined so that it no longer means a man and a woman but two men or two women, why stop there? Why not allow three men or a woman and two men to constitute a marriage?"</i>
+<i>"You know you’re in love when you can’t fall asleep because reality is finally better than your dreams."</i>
 <br>
-<b>- Keith O'Brien</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
