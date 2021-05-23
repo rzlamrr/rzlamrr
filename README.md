@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A few years ago I lost 30 pounds, and people still wanted to criticize. And honestly, I'm happy with myself if I'm a little heavier. I realized: 'Why am I trying to conform to someone else's idea of beauty?' I think I'm beautiful either way."</i>
+<i>"You're never a loser until you quit trying."</i>
 <br>
-<b>- Khloe Kardashian</b>
+<b>- Mike Ditka</b>
 </blockquote>
 </p>
 
