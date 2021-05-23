@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot live only for ourselves. A thousand fibers connect us with our fellow men."</i>
+<i>"Time is the most valuable thing a man can spend."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Theophrastus</b>
 </blockquote>
 </p>
 
