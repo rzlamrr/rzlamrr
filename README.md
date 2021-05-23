@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you’re in love when you can’t fall asleep because reality is finally better than your dreams."</i>
+<i>"A few years ago I lost 30 pounds, and people still wanted to criticize. And honestly, I'm happy with myself if I'm a little heavier. I realized: 'Why am I trying to conform to someone else's idea of beauty?' I think I'm beautiful either way."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Khloe Kardashian</b>
 </blockquote>
 </p>
 
