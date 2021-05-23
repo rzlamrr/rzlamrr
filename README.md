@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I had more clothes than I had closets, more cars than garage space, but no money."</i>
+<i>"The old interests of aristocracy - the romance of action, the exalted passions of chivalry and war - faded into the background, and their place was taken by the refined and intimate pursuits of peace and civilization."</i>
 <br>
-<b>- Sammy Davis, Jr.</b>
+<b>- Lytton Strachey</b>
 </blockquote>
 </p>
 
