@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
+<i>"Man finds it hard to get what he wants, because he does not want the best God finds it hard to give, because He would give the best, and man will not take it."</i>
 <br>
-<b>- Epictetus</b>
+<b>- George MacDonald</b>
 </blockquote>
 </p>
 
