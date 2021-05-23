@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"Marriage is a religious and state issue."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Jim DeMint</b>
 </blockquote>
 </p>
 
