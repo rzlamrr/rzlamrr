@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that a song, when it works, never mind a piece of long form music, even a song is something that speaks to itself but has a language all of its own, ideally."</i>
+<i>"We cannot live only for ourselves. A thousand fibers connect us with our fellow men."</i>
 <br>
-<b>- Steve Hackett</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
