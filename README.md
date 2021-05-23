@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."</i>
+<i>"I had more clothes than I had closets, more cars than garage space, but no money."</i>
 <br>
-<b>- Buddha</b>
+<b>- Sammy Davis, Jr.</b>
 </blockquote>
 </p>
 
