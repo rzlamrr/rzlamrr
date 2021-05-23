@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Marriage is a religious and state issue."</i>
+<i>"If we did the things we are capable of, we would astound ourselves."</i>
 <br>
-<b>- Jim DeMint</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
