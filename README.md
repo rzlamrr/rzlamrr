@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never a loser until you quit trying."</i>
+<i>"If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair."</i>
 <br>
-<b>- Mike Ditka</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
