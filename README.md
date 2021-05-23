@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wars will remain while human nature remains. I believe in my soul in cooperation, in arbitration but the soldier's occupation we cannot say is gone until human nature is gone."</i>
+<i>"Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared."</i>
 <br>
-<b>- Rutherford B. Hayes</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
