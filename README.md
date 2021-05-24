@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the most valuable thing a man can spend."</i>
+<i>"No, like I said, my dad was never really part of the tennis. His involvement around what I did with the tennis and with my mom and my grandparents was really not a part of my life."</i>
 <br>
-<b>- Theophrastus</b>
+<b>- Jimmy Connors</b>
 </blockquote>
 </p>
 
