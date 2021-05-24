@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The choice, however, is as clear now for nations as it was once for the individual: peace or extinction."</i>
+<i>"Zoos are becoming facsimiles - or perhaps caricatures - of how animals once were in their natural habitat. If the right policies toward nature were pursued, we would need no zoos at all."</i>
 <br>
-<b>- Lester B. Pearson</b>
+<b>- Michael J. Fox</b>
 </blockquote>
 </p>
 
