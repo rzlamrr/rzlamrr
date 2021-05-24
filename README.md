@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Zoos are becoming facsimiles - or perhaps caricatures - of how animals once were in their natural habitat. If the right policies toward nature were pursued, we would need no zoos at all."</i>
+<i>"Nature never makes any blunders, when she makes a fool she means it."</i>
 <br>
-<b>- Michael J. Fox</b>
+<b>- Archibald Alexander</b>
 </blockquote>
 </p>
 
