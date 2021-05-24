@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
+<i>"We must learn our limits. We are all something, but none of us are everything."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
