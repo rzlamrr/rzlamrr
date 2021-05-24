@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No, like I said, my dad was never really part of the tennis. His involvement around what I did with the tennis and with my mom and my grandparents was really not a part of my life."</i>
+<i>"Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate."</i>
 <br>
-<b>- Jimmy Connors</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
