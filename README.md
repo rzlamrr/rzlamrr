@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
+<i>"It has become appallingly obvious that our technology has exceeded our humanity."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
