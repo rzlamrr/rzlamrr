@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"A wise man will make more opportunities than he finds."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
