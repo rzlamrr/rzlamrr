@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a girl, you're supposed to love Sleeping Beauty. I mean, who wants to love Sleeping Beauty when you can be Aladdin?"</i>
+<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
 <br>
-<b>- Ellen Page</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
