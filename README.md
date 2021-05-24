@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
+<i>"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Joseph Roux</b>
 </blockquote>
 </p>
 
