@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has become appallingly obvious that our technology has exceeded our humanity."</i>
+<i>"If you light a lamp for somebody, it will also brighten your path."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
