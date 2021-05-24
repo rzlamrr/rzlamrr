@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."</i>
+<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
 <br>
-<b>- Joseph Roux</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
