@@ -105,6 +105,7 @@ quotes() {
             author=$(jq -r '.author' data.json)
         fi
     else
+        cat data.json
         echo "Fetch quotes api failed!"
         exit 1
     fi
