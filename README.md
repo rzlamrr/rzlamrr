@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"You can't choose up sides on a round world."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
