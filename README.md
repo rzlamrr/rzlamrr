@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must learn our limits. We are all something, but none of us are everything."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
