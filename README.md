@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature never makes any blunders, when she makes a fool she means it."</i>
+<i>"As a girl, you're supposed to love Sleeping Beauty. I mean, who wants to love Sleeping Beauty when you can be Aladdin?"</i>
 <br>
-<b>- Archibald Alexander</b>
+<b>- Ellen Page</b>
 </blockquote>
 </p>
 
