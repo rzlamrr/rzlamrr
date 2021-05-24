@@ -30,6 +30,8 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 </p>
 <p align="center">
+<a href="https://rzlamrr.github.io" alt="rzlamrr's top languages"><img src="https://dvst-stats.vercel.app/api/top-langs/?username=rzlamrr&langs_count=20&layout=compact&theme=tokyonight&show_icons=true"></a>
+<br>
 <a href="https://rzlamrr.github.io" alt="rzlamrr's github stat"><img src="https://dvst-stats.vercel.app/api?username=rzlamrr&theme=tokyonight&show_icons=true"></a>
 </p>
 
@@ -37,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise man will make more opportunities than he finds."</i>
+<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
