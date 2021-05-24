@@ -37,9 +37,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you light a lamp for somebody, it will also brighten your path."</i>
+<i>"The choice, however, is as clear now for nations as it was once for the individual: peace or extinction."</i>
 <br>
-<b>- Buddha</b>
+<b>- Lester B. Pearson</b>
 </blockquote>
 </p>
 
