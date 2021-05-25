@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
+<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
 <br>
-<b>- Marie Curie</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
