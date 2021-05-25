@@ -96,6 +96,7 @@ clean() {
 
 quotes() {
     if curl -s ${api[$rapi]} > data.json; then
+        cat data.json
         quote=$(jq -r '.content' data.json)
         if [[ "$quote" == "null" ]]; then
             quote=$(jq -r '.quotes[] .text' data.json)
@@ -105,7 +106,6 @@ quotes() {
             author=$(jq -r '.author' data.json)
         fi
     else
-        cat data.json
         echo "Fetch quotes api failed!"
         exit 1
     fi
