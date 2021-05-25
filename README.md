@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't choose up sides on a round world."</i>
+<i>"The pine stays green in winter... wisdom in hardship."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Norman Douglas</b>
 </blockquote>
 </p>
 
