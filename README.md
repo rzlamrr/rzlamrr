@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest."</i>
+<i>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</i>
 <br>
-<b>- Sri Chinmoy</b>
+<b>- Muhammad Ali</b>
 </blockquote>
 </p>
 
