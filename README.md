@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our character is what we do when we think no one is looking."</i>
+<i>"Judge nothing, you will be happy. Forgive everything, you will be happier. Love everything, you will be happiest."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Sri Chinmoy</b>
 </blockquote>
 </p>
 
