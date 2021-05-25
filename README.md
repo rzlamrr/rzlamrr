@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</i>
+<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
