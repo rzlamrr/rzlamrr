@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pine stays green in winter... wisdom in hardship."</i>
+<i>"The smallest deed is better than the greatest intention."</i>
 <br>
-<b>- Norman Douglas</b>
+<b>- John Burroughs</b>
 </blockquote>
 </p>
 
