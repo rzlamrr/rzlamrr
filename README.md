@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life."</i>
+<i>"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Susan Orlean</b>
 </blockquote>
 </p>
 
