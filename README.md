@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions."</i>
+<i>"A friend is what the heart needs all the time."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Henry van Dyke Jr.</b>
 </blockquote>
 </p>
 
