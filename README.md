@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are wiser than we know."</i>
+<i>"Doing what you love is the cornerstone of having abundance in your life."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
