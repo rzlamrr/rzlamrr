@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
+<i>"Chaos and Order are not enemies, only opposites."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Richard Garriott</b>
 </blockquote>
 </p>
 
