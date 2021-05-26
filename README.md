@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is what the heart needs all the time."</i>
+<i>"We are wiser than we know."</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
