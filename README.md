@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos and Order are not enemies, only opposites."</i>
+<i>"The only person who never makes mistakes is the person who never does anything."</i>
 <br>
-<b>- Richard Garriott</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
