@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
