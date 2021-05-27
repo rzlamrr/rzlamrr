@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one success - to be able to spend your life in your own way."</i>
+<i>"You know you’re in love when you can’t fall asleep because reality is finally better than your dreams."</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
