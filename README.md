@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is full of magical things, patiently waiting for our wits to grow sharper."</i>
+<i>"It is with words as with sunbeams. The more they are condensed, the deeper they burn."</i>
 <br>
-<b>- Eden Phillpotts</b>
+<b>- Robert Southey</b>
 </blockquote>
 </p>
 
