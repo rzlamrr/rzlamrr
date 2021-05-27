@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you’re in love when you can’t fall asleep because reality is finally better than your dreams."</i>
+<i>"Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
