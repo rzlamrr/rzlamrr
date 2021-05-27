@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture."</i>
+<i>"Whoever is happy will make others happy, too."</i>
 <br>
-<b>- Susan Orlean</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
