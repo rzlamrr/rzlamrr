@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart has its reasons which reason knows not of."</i>
+<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Benjamin Haydon</b>
 </blockquote>
 </p>
 
