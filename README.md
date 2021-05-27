@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"Life is like a sewer. What you get out of it depends on what you put into it."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Tom Lehrer</b>
 </blockquote>
 </p>
 
