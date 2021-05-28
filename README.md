@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is with words as with sunbeams. The more they are condensed, the deeper they burn."</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of somebody else."</i>
 <br>
-<b>- Robert Southey</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
