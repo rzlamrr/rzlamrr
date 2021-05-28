@@ -13,8 +13,8 @@ var() {
     arr[7]="bot: 👻 New word."
 
     api[0]="https://api.quotable.io/random"
-    api[1]="https://goquotes-api.herokuapp.com/api/v1/random?count=1"
-    api[2]="https://zenquotes.io/api/random"
+    #api[1]="https://goquotes-api.herokuapp.com/api/v1/random?count=1"
+    api[1]="https://zenquotes.io/api/random"
 
     rand=$[$RANDOM % ${#arr[@]}]
     rapi=$[$RANDOM % ${#api[@]}]
