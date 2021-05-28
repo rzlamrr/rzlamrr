@@ -14,6 +14,7 @@ var() {
 
     api[0]="https://api.quotable.io/random"
     api[1]="https://goquotes-api.herokuapp.com/api/v1/random?count=1"
+    api[2]="https://zenquotes.io/api/random"
 
     rand=$[$RANDOM % ${#arr[@]}]
     rapi=$[$RANDOM % ${#api[@]}]
@@ -100,19 +101,21 @@ quotes() {
     if curl -s ${api[$rapi]} > data.json; then
         cat data.json
         quote=$(jq -r '.content' data.json)
+        author=$(jq -r '.author' data.json)
         if [[ "$quote" == "null" ]]; then
             quote=$(jq -r '.quotes[] .text' data.json)
             author=$(jq -r '.quotes[] .author' data.json)
-        else
-            quote=$(jq -r '.content' data.json)
-            author=$(jq -r '.author' data.json)
+            if [[ "$quote" == "null" ]]; then
+                quote=$(jq -r '.[] .q' data.json)
+                author=$(jq -r '.[] .a' data.json)
+            fi
         fi
     else
         echo "Fetch quotes api failed!"
         exit 1
     fi
 
-    if [[ -z "${quote}" && -z "${author}" ]]; then
+    if [[ -z "${quote}" || -z "${author}" ]]; then
         echo "Fetch quotes failed!"
         exit 1
     fi
