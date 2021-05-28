@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No alibi will save you from accepting the responsibility."</i>
+<i>"The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
