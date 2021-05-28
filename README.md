@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living at risk is jumping off the cliff and building your wings on the way down."</i>
+<i>"No alibi will save you from accepting the responsibility."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
