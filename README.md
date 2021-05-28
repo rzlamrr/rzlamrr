@@ -39,9 +39,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the wisest counsellor of all."</i>
+<i>"Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship."</i>
 <br>
-<b>- Pericles</b>
+<b>- Mother Angelica</b>
 </blockquote>
 </p>
 
