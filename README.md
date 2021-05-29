@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do not want done to yourself, do not do to others."</i>
+<i>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far."</i>
 <br>
-<b>- Confucius</b>
+<b>- Swami Vivekananda</b>
 </blockquote>
 </p>
 
