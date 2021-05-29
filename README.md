@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to travel well than to arrive."</i>
+<i>"Do more than dream: work."</i>
 <br>
-<b>- Buddha</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
