@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do more than dream: work."</i>
+<i>"When people are like each other they tend to like each other."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
