@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity for brotherhood presents itself every time you meet a human being."</i>
+<i>"All achievements, all earned riches, have their beginning in an idea."</i>
 <br>
-<b>- Jane Wyman</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
