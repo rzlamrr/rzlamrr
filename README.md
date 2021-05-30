@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care."</i>
+<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
