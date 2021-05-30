@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn to value yourself, which means: fight for your happiness."</i>
+<i>"The heart has eyes which the brain knows nothing of."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Charles Henry Parkhurst</b>
 </blockquote>
 </p>
 
