@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
