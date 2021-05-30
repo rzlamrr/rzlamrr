@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't shake hands with a clenched fist."</i>
+<i>"When the fish is caught we pay no more attention to the trap."</i>
 <br>
-<b>- Indira Gandhi</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
