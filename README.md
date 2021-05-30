@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
+<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
