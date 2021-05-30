@@ -123,7 +123,7 @@ quotes() {
 }
 
 
-push() {
+commit() {
     git config --local user.email "rzlamrr.dvst@protonmail.com"
     git config --local user.name "rzlamrr"
     git commit -asm "${arr[$rand]} (${tgl})"
@@ -136,4 +136,4 @@ var
 quotes
 main
 clean post
-push
+commit
