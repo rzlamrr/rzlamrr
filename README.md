@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All achievements, all earned riches, have their beginning in an idea."</i>
+<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
