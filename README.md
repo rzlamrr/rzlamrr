@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
