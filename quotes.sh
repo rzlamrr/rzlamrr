@@ -13,8 +13,8 @@ var() {
     arr[7]="bot: 👻 New word."
 
     api[0]="https://api.quotable.io/random"
-    #api[1]="https://goquotes-api.herokuapp.com/api/v1/random?count=1"
     api[1]="https://zenquotes.io/api/random"
+    # api[2]="https://goquotes-api.herokuapp.com/api/v1/random?count=1"
 
     rand=$[$RANDOM % ${#arr[@]}]
     rapi=$[$RANDOM % ${#api[@]}]
@@ -100,14 +100,15 @@ clean() {
 quotes() {
     if curl -s ${api[$rapi]} > data.json; then
         cat data.json
-        quote=$(jq -r '.content' data.json)
-        author=$(jq -r '.author' data.json)
-        if [[ "$quote" == "null" ]]; then
-            quote=$(jq -r '.quotes[] .text' data.json)
-            author=$(jq -r '.quotes[] .author' data.json)
+        if jq -r '.[] .q' data.json; then
+            quote=$(jq -r '.[] .q' data.json)
+            author=$(jq -r '.[] .a' data.json)
+        elif jq -r '.content' data.json; then
+            quote=$(jq -r '.content' data.json)
+            author=$(jq -r '.author' data.json)
             if [[ "$quote" == "null" ]]; then
-                quote=$(jq -r '.[] .q' data.json)
-                author=$(jq -r '.[] .a' data.json)
+                quote=$(jq -r '.quotes[] .text' data.json)
+                author=$(jq -r '.quotes[] .author' data.json)
             fi
         fi
     else
@@ -115,7 +116,7 @@ quotes() {
         exit 1
     fi
 
-    if [[ -z "${quote}" || -z "${author}" ]]; then
+    if [[ -z "${quote}" || -z "${author}" || "$quote" == "null" ]]; then
         echo "Fetch quotes failed!"
         exit 1
     fi
