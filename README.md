@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
