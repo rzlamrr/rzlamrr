@@ -16,8 +16,8 @@ var() {
     api[1]="https://zenquotes.io/api/random"
     # api[2]="https://goquotes-api.herokuapp.com/api/v1/random?count=1"
 
-    rand=$[$RANDOM % ${#arr[@]}]
-    rapi=$[$RANDOM % ${#api[@]}]
+    rand=$((RANDOM % ${#arr[@]}))
+    rapi=$((RANDOM % ${#api[@]}))
 }
 
 main() {
