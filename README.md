@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"The fall of dropping water wears away the Stone."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Lucretius</b>
 </blockquote>
 </p>
 
