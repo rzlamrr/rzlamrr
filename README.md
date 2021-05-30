@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fall of dropping water wears away the Stone."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Lucretius</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
