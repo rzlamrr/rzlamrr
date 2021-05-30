@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
+<i>"The longer we dwell on our misfortunes, the greater is their power to harm us."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
