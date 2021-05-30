@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart has eyes which the brain knows nothing of."</i>
+<i>"You can't shake hands with a clenched fist."</i>
 <br>
-<b>- Charles Henry Parkhurst</b>
+<b>- Indira Gandhi</b>
 </blockquote>
 </p>
 
