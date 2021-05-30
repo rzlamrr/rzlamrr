@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people find fault like there is a reward for it.  "</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
