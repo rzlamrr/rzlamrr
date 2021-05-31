@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The language of friendship is not words but meanings."</i>
+<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
