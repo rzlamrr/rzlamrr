@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
+<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
