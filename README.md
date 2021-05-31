@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
