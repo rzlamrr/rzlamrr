@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
