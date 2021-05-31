@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
