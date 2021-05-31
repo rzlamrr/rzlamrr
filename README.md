@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did all the things we are capable of, we would literally astound ourselves."</i>
+<i>"If you smile when no one else is around, you really mean it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Andy Rooney</b>
 </blockquote>
 </p>
 
