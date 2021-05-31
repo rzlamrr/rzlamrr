@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is more wisdom in your body than in your deepest philosophy."</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
@@ -62,5 +62,5 @@
 <h2 align="center">Thank You 🙏🏼</h2>
 <p align="center"><b><i>Nothing special with me!</i></b></p>
 <p align="center">
-<a href="https://rzlamrr.github.io" alt="rzlamrr's profile visitors"><img src="https://dvst-visitor.herokuapp.com/badge">
+<a href="https://rzlamrr.github.io" alt="rzlamrr's profile visitors"><img src="https://dvstr.herokuapp.com/badge">
 </p>
