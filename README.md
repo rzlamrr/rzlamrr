@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
+<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
