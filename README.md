@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
+<i>"The language of friendship is not words but meanings."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
