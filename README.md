@@ -32,7 +32,7 @@
 <p align="center">
 <a href="https://rzlamrr.github.io" alt="rzlamrr's top languages"><img src="https://dvst-stats.vercel.app/api/top-langs/?username=rzlamrr&langs_count=6&layout=compact&theme=tokyonight&show_icons=true"></a>
 <br>
-<a href="https://rzlamrr.github.io" alt="rzlamrr's github stat"><img src="https://dvst-streak.herokuapp.com/?user=rzlamrr&theme=tokyonight&fire=DD472C"></a>
+<a href="https://rzlamrr.github.io" alt="rzlamrr's github streak"><img src="https://dvst-streak.herokuapp.com/?user=rzlamrr&theme=tokyonight&fire=DD472C"></a>
 <br>
 <a href="https://rzlamrr.github.io" alt="rzlamrr's github stat"><img src="https://dvst-stats.vercel.app/api?username=rzlamrr&theme=tokyonight&show_icons=true"></a>
 </p>
@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
@@ -62,5 +62,5 @@
 <h2 align="center">Thank You 🙏🏼</h2>
 <p align="center"><b><i>Nothing special with me!</i></b></p>
 <p align="center">
-<a href="https://rzlamrr.github.io" alt="rzlamrr's profile view stat"><img src="https://dvst-visitor.glitch.me/badge">
+<a href="https://rzlamrr.github.io" alt="rzlamrr's profile visitors"><img src="https://dvst-visitor.herokuapp.com/badge">
 </p>
