@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To listen well is as powerful a means of communication and influence as to talk well."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- John Marshall</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
