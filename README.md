@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
+<i>"Good, better, best. Never let it rest. 'Til your good is better and your better is best. "</i>
 <br>
-<b>- Marie Curie</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
