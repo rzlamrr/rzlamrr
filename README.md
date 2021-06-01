@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
 <br>
-<b>- Laozi</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
