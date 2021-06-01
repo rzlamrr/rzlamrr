@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity."</i>
+<i>"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise. "</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
