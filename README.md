@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Rumi</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
