@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"Think big thoughts but relish small pleasures."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
