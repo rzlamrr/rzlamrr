@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each time we don't say what we wanna say, we're dying."</i>
+<i>"The best way to pay for a lovely moment is to enjoy it."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
