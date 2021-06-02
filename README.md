@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is your worst enemy. Risk is your best friend."</i>
+<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- William Saroyan</b>
 </blockquote>
 </p>
 
