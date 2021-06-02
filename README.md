@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad times have a scientific value. These are occasions a good learner would not miss."</i>
+<i>"Fear is your worst enemy. Risk is your best friend."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
