@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think big thoughts but relish small pleasures."</i>
+<i>"Bad times have a scientific value. These are occasions a good learner would not miss."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
