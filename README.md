@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- William Saroyan</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
