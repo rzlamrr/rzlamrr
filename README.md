@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless."</i>
+<i>"The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Peter Abelard</b>
 </blockquote>
 </p>
 
