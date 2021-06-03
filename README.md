@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Chuck Swindoll</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
