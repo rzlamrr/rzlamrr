@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the only force capable of transforming an enemy into a friend."</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
