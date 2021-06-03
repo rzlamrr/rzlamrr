@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."</i>
+<i>"Just because something doesn’t do what you planned it to do doesn’t mean it’s useless."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
