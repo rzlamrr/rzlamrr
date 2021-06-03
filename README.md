@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
+<i>"Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Plotinus</b>
 </blockquote>
 </p>
 
