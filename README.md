@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the dancer and you are the dance."</i>
+<i>"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
