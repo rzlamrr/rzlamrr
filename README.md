@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
