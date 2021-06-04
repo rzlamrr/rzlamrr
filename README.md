@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
+<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
