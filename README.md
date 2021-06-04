@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Reality leaves a lot to the imagination."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
