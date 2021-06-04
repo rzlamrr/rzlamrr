@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do to others what you would not like them to do to you. "</i>
+<i>"The most I can do for my friend is simply be his friend."</i>
 <br>
-<b>- Confucius </b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
