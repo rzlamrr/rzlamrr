@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"Knowing is not enough; we must apply!"</i>
 <br>
-<b>- Plato</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
