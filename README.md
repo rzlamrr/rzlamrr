@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"Never do to others what you would not like them to do to you. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Confucius </b>
 </blockquote>
 </p>
 
