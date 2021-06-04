@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever a man may happen to turn, whatever a man may undertake, he will always end up by returning to the path which nature has marked out for him."</i>
+<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
