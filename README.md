@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"Experience is simply the name we give our mistakes. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
