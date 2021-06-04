@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections."</i>
+<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
