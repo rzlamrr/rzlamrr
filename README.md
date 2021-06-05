@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it."</i>
+<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
