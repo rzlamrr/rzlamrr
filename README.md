@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
+<i>"When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
