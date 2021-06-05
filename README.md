@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot change anything in your life with intention alone, which can become a watered-down, occasional hope that you'll get to tomorrow. Intention without action is useless."</i>
+<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Caroline Myss</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
