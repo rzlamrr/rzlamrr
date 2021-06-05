@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune."</i>
+<i>"If you are far from the enemy, make him believe you are near."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
