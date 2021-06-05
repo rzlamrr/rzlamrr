@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality leaves a lot to the imagination."</i>
+<i>"To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
