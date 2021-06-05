@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are far from the enemy, make him believe you are near."</i>
+<i>"Failure is feedback. Learn from it and move on."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
