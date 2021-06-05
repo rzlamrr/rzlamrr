@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."</i>
+<i>"Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins."</i>
 <br>
-<b>- Mortimer J. Adler</b>
+<b>- Charles Eastman</b>
 </blockquote>
 </p>
 
