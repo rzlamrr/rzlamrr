@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"Out of your vulnerabilities will come your strength."</i>
 <br>
-<b>- Confucius </b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
