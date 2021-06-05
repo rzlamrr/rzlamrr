@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him."</i>
+<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. "</i>
 <br>
-<b>- Buddha</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
