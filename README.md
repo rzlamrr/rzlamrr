@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always try to be a little kinder than necessary."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try. "</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
