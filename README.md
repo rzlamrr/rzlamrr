@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is exact correspondence with reality. "</i>
+<i>"Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
