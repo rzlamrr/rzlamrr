@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
+<i>"Always try to be a little kinder than necessary."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
