@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness often sneaks in through a door you didn't know you left open."</i>
+<i>"The cause is hidden. The effect is visible to all."</i>
 <br>
-<b>- John Barrymore</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
