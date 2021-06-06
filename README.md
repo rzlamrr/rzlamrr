@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
