@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We need never be ashamed of our tears."</i>
+<i>"Happiness often sneaks in through a door you didn't know you left open."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- John Barrymore</b>
 </blockquote>
 </p>
 
