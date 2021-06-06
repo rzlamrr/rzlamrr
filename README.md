@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Out of your vulnerabilities will come your strength."</i>
+<i>"Trust your instincts: my first reaction is almost invariably the right one.  "</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
