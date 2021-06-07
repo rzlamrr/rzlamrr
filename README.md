@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."</i>
+<i>"No man can succeed in a line of endeavor which he does not like."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
