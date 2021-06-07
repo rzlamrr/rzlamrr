@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship."</i>
+<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
 <br>
-<b>- Mother Angelica</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
