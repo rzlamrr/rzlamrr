@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You always succeed in producing a result."</i>
+<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
