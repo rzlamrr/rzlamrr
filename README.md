@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"Muddy water is best cleared by leaving it alone."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
