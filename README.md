@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can succeed in a line of endeavor which he does not like."</i>
+<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
