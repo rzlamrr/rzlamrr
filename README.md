@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
+<i>"Be kind, for everyone you meet is fighting a hard battle."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
