@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of worrying about what you cannot control, shift your energy to what you can create."</i>
+<i>"Id rather regret the things that I have done than the things that I have not done."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
