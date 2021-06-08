@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Id rather regret the things that I have done than the things that I have not done."</i>
+<i>"All I can say about life is, Oh God, enjoy it!"</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Bob Newhart</b>
 </blockquote>
 </p>
 
