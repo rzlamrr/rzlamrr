@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
+<i>"Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Amy Bloom</b>
 </blockquote>
 </p>
 
