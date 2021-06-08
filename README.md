@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest doer must also be a great dreamer."</i>
+<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
