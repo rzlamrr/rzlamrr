@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are useless. They can only give you answers."</i>
+<i>"A house divided against itself cannot stand."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
