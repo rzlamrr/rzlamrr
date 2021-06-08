@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
+<i>"You give before you get."</i>
 <br>
-<b>- Carrie Snow</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
