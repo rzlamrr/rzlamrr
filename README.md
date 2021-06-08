@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love at first sight is easy to understand; its when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
+<i>"I can't listen to that much Wagner. I start getting the urge to conquer Poland."</i>
 <br>
-<b>- Amy Bloom</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
