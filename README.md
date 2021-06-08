@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give before you get."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
