@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must do the things you think you cannot do."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
