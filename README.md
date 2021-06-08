@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind, for everyone you meet is fighting a hard battle."</i>
+<i>"All cruelty springs from weakness.  "</i>
 <br>
-<b>- Plato</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
