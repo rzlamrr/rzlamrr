@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
+<i>"Computers are useless. They can only give you answers."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
