@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has never made a bigot, but learning has."</i>
+<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
 <br>
-<b>- Josh Billings</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
