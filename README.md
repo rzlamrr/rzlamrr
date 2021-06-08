@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
+<i>"Begin at once to live and count each separate day as a separate life."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
