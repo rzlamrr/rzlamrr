@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
+<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Viktor Frankl</b>
 </blockquote>
 </p>
 
