@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"Life itself is the most wonderful fairy tale."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
