@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Speak low, if you speak love."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
