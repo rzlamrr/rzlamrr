@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
+<i>"Ponder and deliberate before you make a move."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
