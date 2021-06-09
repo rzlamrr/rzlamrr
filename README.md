@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life itself is the most wonderful fairy tale."</i>
+<i>"A friend is someone who gives you total freedom to be yourself."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Jim Morrison</b>
 </blockquote>
 </p>
 
