@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."</i>
+<i>"If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you."</i>
 <br>
-<b>- Charlotte Perkins Gilman</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
