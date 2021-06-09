@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Viktor Frankl</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
