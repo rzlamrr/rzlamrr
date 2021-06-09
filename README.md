@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ponder and deliberate before you make a move."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
