@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
+<i>"The only way round is through."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
