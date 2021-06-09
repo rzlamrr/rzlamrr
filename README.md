@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."</i>
+<i>"The first duty of a human being is to assume the right functional relationship to society - more briefly, to find your real job, and do it."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Charlotte Perkins Gilman</b>
 </blockquote>
 </p>
 
