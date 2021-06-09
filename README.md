@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consult not your fears but your hopes and your dreams. Think not about your frustrations, but about your unfulfilled potential. Concern yourself not with what you tried and failed in, but with what it is still possible for you to do."</i>
+<i>"A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success."</i>
 <br>
-<b>- Pope John XXIII</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
