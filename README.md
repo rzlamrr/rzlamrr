@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows, does not speak. He who speaks, does not know."</i>
+<i>"I will not walk backward in life."</i>
 <br>
-<b>- Laozi</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
