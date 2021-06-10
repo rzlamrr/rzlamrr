@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
+<i>"When it hurts - observe. Life is trying to teach you something."</i>
 <br>
-<b>- James F. Byrnes</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
