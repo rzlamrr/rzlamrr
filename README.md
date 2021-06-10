@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
