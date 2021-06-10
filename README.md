@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Stay committed to your decisions, but stay flexible in your approach."</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
