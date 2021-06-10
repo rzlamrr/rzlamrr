@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most effective way to do it, is to do it."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
