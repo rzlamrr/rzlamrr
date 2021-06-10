@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
