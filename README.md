@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
+<i>"Forget safety. Live where you fear to live."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
