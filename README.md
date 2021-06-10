@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"Rather than love, than money, than fame, give me truth."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
