@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
+<i>"Being a good example is the best form of service."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
