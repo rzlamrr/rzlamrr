@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is a book, and those who do not travel read only a page."</i>
+<i>"The most effective way to do it, is to do it."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
