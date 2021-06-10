@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is someone who gives you total freedom to be yourself."</i>
+<i>"The world is a book, and those who do not travel read only a page."</i>
 <br>
-<b>- Jim Morrison</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
