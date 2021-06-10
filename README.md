@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just a chance to grow a soul."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
