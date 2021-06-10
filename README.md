@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Holy wisdom confounds Satan and all his wickednesses."</i>
+<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
