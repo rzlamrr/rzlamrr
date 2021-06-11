@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little details that are vital. Little things make big things happen."</i>
+<i>"Kindness is the language which the deaf can hear and the blind can see."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
