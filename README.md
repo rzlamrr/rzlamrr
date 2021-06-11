@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No garden is without its weeds."</i>
+<i>"Success is like reaching an important birthday and finding you're exactly the same."</i>
 <br>
-<b>- Thomas Fuller</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
