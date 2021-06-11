@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
+<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
