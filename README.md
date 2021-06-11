@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is such a thing as a good marriage, it is because it resembles friendship rather than love."</i>
+<i>"Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Nathaniel Hawthorne</b>
 </blockquote>
 </p>
 
