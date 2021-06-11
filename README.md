@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most virtuous are those who content themselves with being virtuous without seeking to appear so."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Plato</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
