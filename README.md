@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"Life is a progress, and not a station."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
