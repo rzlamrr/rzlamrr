@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope is not a strategy. Luck is not a factor. Fear is not an option."</i>
+<i>"What you become is far more important than what you get."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
