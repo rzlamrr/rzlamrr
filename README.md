@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Determine never to be idle. No person will have occasion to complain of the want of time who never loses any."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
