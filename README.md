@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"If there is such a thing as a good marriage, it is because it resembles friendship rather than love."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
