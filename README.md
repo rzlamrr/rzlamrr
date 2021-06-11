@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
+<i>"The sincere friends of this world are as ship lights in the stormiest of nights."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Giotto</b>
 </blockquote>
 </p>
 
