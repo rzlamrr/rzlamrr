@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
