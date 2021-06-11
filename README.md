@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you become is far more important than what you get."</i>
+<i>"No garden is without its weeds."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Thomas Fuller</b>
 </blockquote>
 </p>
 
