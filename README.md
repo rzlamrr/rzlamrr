@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"Great things happen to those who don't stop believing, trying, learning, and being grateful."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
