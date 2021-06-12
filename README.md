@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
+<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
