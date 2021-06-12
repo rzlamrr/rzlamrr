@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
