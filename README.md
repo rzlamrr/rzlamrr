@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is at last sacred but the integrity of your own mind."</i>
+<i>"You can tell more about a person by what he says about others than you can by what others say about him."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
