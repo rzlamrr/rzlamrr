@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no value in anything until it is finished. "</i>
+<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
 <br>
-<b>- Genghis Khan</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
