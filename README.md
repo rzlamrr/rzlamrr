@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know your gifts and share them."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
