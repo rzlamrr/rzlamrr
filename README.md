@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
+<i>"Everybody's life is either rewarding or an example."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
