@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows how to wait need make no concessions."</i>
+<i>"To acquire knowledge, one must study; but to acquire wisdom, one must observe."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Marilyn vos Savant</b>
 </blockquote>
 </p>
 
