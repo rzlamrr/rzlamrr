@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a perfume you cannot pour on others without getting a few drops on yourself."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
