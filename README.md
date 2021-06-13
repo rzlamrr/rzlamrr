@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doors of wisdom are never shut."</i>
+<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
