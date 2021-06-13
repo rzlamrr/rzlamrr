@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment."</i>
+<i>"Courage is knowing what not to fear."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
