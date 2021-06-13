@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have learned that to be with those I like is enough."</i>
+<i>"Winners never quit and quitters never win."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
