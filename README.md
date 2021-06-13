@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not use life to give life to death. Do not use death to bring death to life."</i>
+<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
