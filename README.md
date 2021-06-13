@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
+<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
 <br>
 <b>- Laurence J. Peter</b>
 </blockquote>
