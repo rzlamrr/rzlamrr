@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
