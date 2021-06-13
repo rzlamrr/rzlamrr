@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port is sailing, no wind is favorable."</i>
+<i>"Love is the only force capable of transforming an enemy into a friend."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
