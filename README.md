@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let making a living prevent you from making a life."</i>
+<i>"I'd rather regret the things I've done than regret the things I haven't done."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
