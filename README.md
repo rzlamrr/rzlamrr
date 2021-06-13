@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is a friendship set to music."</i>
+<i>"When the time is gone, you can never get it back."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
