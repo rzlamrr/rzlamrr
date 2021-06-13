@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like credit, is highest when it is not used."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
