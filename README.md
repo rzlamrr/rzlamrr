@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you learn, teach. When you get, give."</i>
+<i>"Speak when you are angry - and you'll make the best speech you'll ever regret."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
