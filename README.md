@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
