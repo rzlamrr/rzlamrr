@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
