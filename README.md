@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
+<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
 <br>
-<b>- Socrates</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
