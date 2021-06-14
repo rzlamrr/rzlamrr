@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
