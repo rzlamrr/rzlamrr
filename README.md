@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone is a moon, and has a dark side which he never shows to anybody."</i>
+<i>"Our strength grows out of our weaknesses."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
