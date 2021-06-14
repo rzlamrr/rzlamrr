@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The important thing is not to stop questioning. Curiosity has its own reason for existing."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
