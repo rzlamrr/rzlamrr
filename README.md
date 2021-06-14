@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study the past, if you would divine the future."</i>
+<i>"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."</i>
 <br>
-<b>- Confucius</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
