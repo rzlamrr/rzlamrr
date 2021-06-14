@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."</i>
+<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
