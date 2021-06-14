@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"Study the past, if you would divine the future."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
