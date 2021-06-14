@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No kind action ever stops with itself. One kind action leads to another. Good example is followed."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
