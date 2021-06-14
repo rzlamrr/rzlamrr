@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future depends on what you do today. "</i>
+<i>"Marriage is the highest state of friendship. If happy, it lessens our cares by dividing them, at the same time that it doubles our pleasures by mutual participation."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Samuel Richardson</b>
 </blockquote>
 </p>
 
