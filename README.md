@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is to do a common thing in an uncommon way."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- Booker T. Washington</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
