@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"You might well remember that nothing can bring you success but yourself."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
