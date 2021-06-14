@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists of the anticipation of consequences."</i>
+<i>"Excellence is to do a common thing in an uncommon way."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Booker T. Washington</b>
 </blockquote>
 </p>
 
