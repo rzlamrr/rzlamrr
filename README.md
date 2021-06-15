@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
