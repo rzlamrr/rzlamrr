@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
+<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
