@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless you change how you are, you will always have what you got."</i>
+<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
 <br>
 <b>- Jim Rohn</b>
 </blockquote>
