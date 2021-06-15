@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
+<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
