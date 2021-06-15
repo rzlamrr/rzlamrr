@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love, friendship and respect do not unite people as much as a common hatred for something."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Anton Chekhov</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
