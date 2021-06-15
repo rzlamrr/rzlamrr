@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
