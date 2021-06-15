@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember that the most valuable antiques are dear old friends."</i>
+<i>"Lack of emotion causes lack of progress and lack of motivation."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
