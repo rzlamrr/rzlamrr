@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the sleep that nourishes wisdom."</i>
+<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Eustace Budgell</b>
 </blockquote>
 </p>
 
