@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you have to lose all you have to find out who you truly are."</i>
+<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
