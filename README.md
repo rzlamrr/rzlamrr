@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"Remember that the most valuable antiques are dear old friends."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
