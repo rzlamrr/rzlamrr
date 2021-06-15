@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
+<i>"Genius unrefined resembles a flash of lightning, but wisdom is like the sun."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Franz Grillparzer</b>
 </blockquote>
 </p>
 
