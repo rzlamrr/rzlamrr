@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Eustace Budgell</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
