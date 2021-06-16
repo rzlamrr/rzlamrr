@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
+<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Douglas Coupland</b>
 </blockquote>
 </p>
 
