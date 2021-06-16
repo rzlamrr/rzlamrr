@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing."</i>
+<i>"We can only learn to love by loving."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Iris Murdoch</b>
 </blockquote>
 </p>
 
