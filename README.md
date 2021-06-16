@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"I know not age, nor weariness nor defeat."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Rose Kennedy</b>
 </blockquote>
 </p>
 
