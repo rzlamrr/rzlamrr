@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
+<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
 <br>
-<b>- Etty Hillesum</b>
+<b>- John Updike</b>
 </blockquote>
 </p>
 
