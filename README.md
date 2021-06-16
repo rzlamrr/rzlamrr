@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- John Updike</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
