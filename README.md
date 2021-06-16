@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"The smallest act of kindness is worth more than the grandest intention."</i>
 <br>
-<b>- Rumi</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
