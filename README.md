@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can only learn to love by loving."</i>
+<i>"If you aren't going all the way, why go at all?"</i>
 <br>
-<b>- Iris Murdoch</b>
+<b>- Joe Namath</b>
 </blockquote>
 </p>
 
