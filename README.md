@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
