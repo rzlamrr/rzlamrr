@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
+<i>"Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be."</i>
 <br>
-<b>- Douglas Coupland</b>
+<b>- Thomas à Kempis</b>
 </blockquote>
 </p>
 
