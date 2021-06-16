@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
+<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
