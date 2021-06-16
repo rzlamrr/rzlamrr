@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"Silence is the sleep that nourishes wisdom."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
