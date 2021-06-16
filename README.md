@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the grandest intention."</i>
+<i>"A life spent making mistakes is not only more honourable, but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
