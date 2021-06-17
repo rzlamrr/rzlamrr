@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are clothes that thoughts wear"</i>
+<i>"Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Wolfgang Amadeus Mozart</b>
 </blockquote>
 </p>
 
