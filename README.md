@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies."</i>
+<i>"Of all possessions a friend is the most precious."</i>
 <br>
-<b>- Confucius</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
