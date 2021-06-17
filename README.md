@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
+<i>"The question is not what you look at, but what you see."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
