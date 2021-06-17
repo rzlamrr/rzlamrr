@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Michelle Obama</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
