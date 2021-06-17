@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't going all the way, why go at all?"</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Joe Namath</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
