@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friend is your needs answered."</i>
+<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
