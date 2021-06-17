@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many of life's failures are people who did not realize how close they were to success when they gave up."</i>
+<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
