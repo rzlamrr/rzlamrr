@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
+<i>"To be of use to the world is the only way to be happy."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
