@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be of use to the world is the only way to be happy."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
