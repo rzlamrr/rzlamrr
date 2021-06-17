@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again."</i>
+<i>"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
