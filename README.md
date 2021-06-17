@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
+<i>"A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."</i>
 <br>
-<b>- Robert Fulghum</b>
+<b>- Fawn M. Brodie</b>
 </blockquote>
 </p>
 
