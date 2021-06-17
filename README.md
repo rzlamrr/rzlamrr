@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!"</i>
+<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
