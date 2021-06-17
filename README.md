@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The question is not what you look at, but what you see."</i>
+<i>"Your friend is your needs answered."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
