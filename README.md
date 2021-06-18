@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."</i>
+<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
 <br>
-<b>- Joseph Roux</b>
+<b>- Carrie Snow</b>
 </blockquote>
 </p>
 
