@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
