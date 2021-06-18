@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to change an opinion than to persist in a wrong one."</i>
+<i>"Some people find fault like there is a reward for it.  "</i>
 <br>
-<b>- Socrates</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
