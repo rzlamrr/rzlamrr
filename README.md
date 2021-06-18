@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
+<i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i>
 <br>
-<b>- Carrie Snow</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
