@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i>
+<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
