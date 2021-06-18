@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more man meditates upon good thoughts, the better will be his world and the world at large."</i>
+<i>"You have to do your own growing no matter how tall your grandfather was."</i>
 <br>
-<b>- Confucius</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
