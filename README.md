@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act."</i>
+<i>"It is better to change an opinion than to persist in a wrong one."</i>
 <br>
-<b>- G. K. Chesterton</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
