@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love fools' experiments. I am always making them."</i>
+<i>"My friends are my estate."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
