@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom consists of the anticipation of consequences."</i>
+<i>"The truest wisdom is a resolute determination."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
