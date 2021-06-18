@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My friends are my estate."</i>
+<i>"The only limit to our realization of tomorrow will be our doubts of today."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
