@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest wisdom is a resolute determination."</i>
+<i>"I love fools' experiments. I am always making them."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
