@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
+<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
