@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The attempt to combine wisdom and power has only rarely been successful and then only for a short while."</i>
+<i>"A good head and a good heart are always a formidable combination."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
