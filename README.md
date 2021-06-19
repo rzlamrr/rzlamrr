@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Everything that exists is in a manner the seed of that which will be."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
