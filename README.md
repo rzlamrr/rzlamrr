@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good head and a good heart are always a formidable combination."</i>
+<i>"The future is completely open, and we are writing it moment to moment."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
