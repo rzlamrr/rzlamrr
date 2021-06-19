@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nine-tenths of wisdom is being wise in time."</i>
+<i>"A good decision is based on knowledge and not on numbers."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
