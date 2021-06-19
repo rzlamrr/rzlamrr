@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All children are artists. The problem is how to remain an artist once he grows up."</i>
+<i>"If you always do what you've always done, you'll always get what you've always got. "</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
