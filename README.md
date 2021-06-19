@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is the meaning and the purpose of life, the whole aim and end of human existence."</i>
+<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
