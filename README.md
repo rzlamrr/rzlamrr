@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
+<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
 <br>
-<b>- Louise Hay</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
