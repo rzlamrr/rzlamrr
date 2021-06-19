@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."</i>
+<i>"Whatever happens, take responsibility."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
