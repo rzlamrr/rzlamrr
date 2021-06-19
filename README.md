@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
+<i>"Nine-tenths of wisdom is being wise in time."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
