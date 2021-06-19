@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"All children are artists. The problem is how to remain an artist once he grows up."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
