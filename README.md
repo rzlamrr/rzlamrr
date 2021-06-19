@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future is completely open, and we are writing it moment to moment."</i>
+<i>"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
