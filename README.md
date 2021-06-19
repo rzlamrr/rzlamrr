@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The measure of who we are is what we do with what we have."</i>
+<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Louise Hay</b>
 </blockquote>
 </p>
 
