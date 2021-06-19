@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
+<i>"The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
