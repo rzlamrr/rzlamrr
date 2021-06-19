@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
+<i>"The measure of who we are is what we do with what we have."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
