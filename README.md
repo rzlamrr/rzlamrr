@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"Without courage, wisdom bears no fruit."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Baltasar Gracián</b>
 </blockquote>
 </p>
 
