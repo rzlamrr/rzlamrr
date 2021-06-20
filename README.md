@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
+<i>"The universe doesn�t give you what you ask for with your thoughts - it gives you what you demand with your actions."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
