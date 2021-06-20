@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final proof of greatness lies in being able to endure criticism without resentment."</i>
+<i>"Life is what happens while you are making other plans."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
