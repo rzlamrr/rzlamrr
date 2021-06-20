@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
