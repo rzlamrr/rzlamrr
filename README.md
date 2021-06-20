@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end we retain from our studies only that which we practically apply."</i>
+<i>"Do what is right, not what is easy, nor what is popular."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
