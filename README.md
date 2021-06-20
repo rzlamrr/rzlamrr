@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace comes from within. Do not seek it without."</i>
+<i>"To know your Enemy, you must become your Enemy."</i>
 <br>
-<b>- Buddha</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
