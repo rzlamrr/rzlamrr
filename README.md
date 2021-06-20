@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without courage, wisdom bears no fruit."</i>
+<i>"A prudent question is one half of wisdom."</i>
 <br>
-<b>- Baltasar Gracián</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
