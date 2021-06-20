@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what is right, not what is easy, nor what is popular."</i>
+<i>"Everything that happens as it should, and if you observe carefully, you will find this to be so."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
