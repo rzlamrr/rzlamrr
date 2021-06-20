@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A prudent question is one half of wisdom."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
