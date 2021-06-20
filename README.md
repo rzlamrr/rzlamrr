@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one mind in two bodies."</i>
+<i>"Peace comes from within. Do not seek it without."</i>
 <br>
-<b>- Mencius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
