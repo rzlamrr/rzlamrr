@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded."</i>
+<i>"Love is the master key that opens the gates of happiness."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
