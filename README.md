@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the final test of a gentleman: his respect for those who can be of no possible value to him."</i>
+<i>"A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one."</i>
 <br>
-<b>- William Lyon Phelps</b>
+<b>- Chuck Norris</b>
 </blockquote>
 </p>
 
