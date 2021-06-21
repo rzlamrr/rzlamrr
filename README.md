@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the master key that opens the gates of happiness."</i>
+<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
