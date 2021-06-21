@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's friends are that part of the human race with which one can be human."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- George Santayana</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
