@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"Keep your face always toward the sunshine - and shadows will fall behind you."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
