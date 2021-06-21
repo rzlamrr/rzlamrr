@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An idea that is developed and put into action is more important than an idea that exists only as an idea."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Buddha</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
