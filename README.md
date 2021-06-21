@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one."</i>
+<i>"When you know what you want, and you want it bad enough, you will find a way to get it."</i>
 <br>
-<b>- Chuck Norris</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
