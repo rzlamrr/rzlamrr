@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
