@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"An idea that is developed and put into action is more important than an idea that exists only as an idea."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
