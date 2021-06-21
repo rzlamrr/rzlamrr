@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are many ways of going forward, but only one way of standing still."</i>
+<i>"One's friends are that part of the human race with which one can be human."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- George Santayana</b>
 </blockquote>
 </p>
 
