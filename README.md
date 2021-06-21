@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind unlearns with difficulty what it has long learned."</i>
+<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
