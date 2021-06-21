@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
 <br>
-<b>- Buddha</b>
+<b>- Benjamin Franklin </b>
 </blockquote>
 </p>
 
