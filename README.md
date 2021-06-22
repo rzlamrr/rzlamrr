@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perpetual optimism is a force multiplier."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
