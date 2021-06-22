@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"A single rose can be my garden... a single friend, my world."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
