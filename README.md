@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
+<i>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
