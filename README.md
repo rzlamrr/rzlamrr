@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"The more you care, the stronger you can be."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
