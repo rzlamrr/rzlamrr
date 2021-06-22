@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single rose can be my garden... a single friend, my world."</i>
+<i>"Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- George Foreman</b>
 </blockquote>
 </p>
 
