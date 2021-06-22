@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are done by a series of small things brought together. "</i>
+<i>"Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
