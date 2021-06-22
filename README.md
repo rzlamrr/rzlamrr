@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Henry van Dyke Jr.</b>
 </blockquote>
 </p>
 
