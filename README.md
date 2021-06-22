@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"Action is the foundational key to all success."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
