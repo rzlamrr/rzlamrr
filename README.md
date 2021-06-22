@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you care, the stronger you can be."</i>
+<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
