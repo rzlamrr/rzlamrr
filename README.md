@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Speak when you are angry, and you will make the best speech you will ever regret."</i>
+<i>"Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."</i>
 <br>
-<b>- Ambrose Bierce</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
