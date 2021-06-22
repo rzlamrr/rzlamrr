@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
+<i>"Speak when you are angry, and you will make the best speech you will ever regret."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Ambrose Bierce</b>
 </blockquote>
 </p>
 
