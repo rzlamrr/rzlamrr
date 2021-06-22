@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."</i>
+<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
