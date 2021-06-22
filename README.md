@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"The world is a book, and those who do not travel read only a page."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
