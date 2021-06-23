@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is well known that those who do not trust themselves never trust others."</i>
+<i>"It's not the love you make. It's the love you give. "</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
