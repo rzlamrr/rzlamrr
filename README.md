@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
+<i>"If you don't know where you are going, any road will get you there."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Lewis Carroll</b>
 </blockquote>
 </p>
 
