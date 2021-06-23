@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
+<i>"There are no limitations to the mind except those we acknowledge."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
