@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the love you make. It's the love you give. "</i>
+<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
