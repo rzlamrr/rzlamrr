@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no limitations to the mind except those we acknowledge."</i>
+<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
