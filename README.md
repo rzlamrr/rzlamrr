@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mountains cannot be surmounted except by winding paths."</i>
+<i>"It is well known that those who do not trust themselves never trust others."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
