@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
 <b>- Nelson Mandela</b>
 </blockquote>
