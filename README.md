@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man may fulfil the object of his existence by asking a question he cannot answer and attempting a task he cannot achieve."</i>
+<i>"People inspire you, or they drain you. Pick them wisely."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
