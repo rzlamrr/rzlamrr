@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A dream you dream alone is only a dream. A dream you dream together is reality."</i>
+<i>"An ounce of emotion is equal to a ton of facts."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- John Junor</b>
 </blockquote>
 </p>
 
