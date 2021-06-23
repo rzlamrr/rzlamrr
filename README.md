@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
+<i>"Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
