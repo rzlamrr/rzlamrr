@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm a great believer in luck and I find the harder I work, the more I have of it."</i>
+<i>"Mountains cannot be surmounted except by winding paths."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
