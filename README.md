@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you are going, any road will get you there."</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- Lewis Carroll</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
