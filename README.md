@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"Technology is anything that wasn’t around when you were born."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Man Ray</b>
 </blockquote>
 </p>
 
