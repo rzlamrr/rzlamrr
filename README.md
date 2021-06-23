@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Become the kind of leader that people would follow voluntarily, even if you had no title or position."</i>
+<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
