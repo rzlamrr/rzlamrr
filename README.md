@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be kind whenever possible. It is always possible."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
