@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never reach out your hand unless you're willing to extend an arm."</i>
+<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
 <br>
-<b>- Pope Paul VI</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
