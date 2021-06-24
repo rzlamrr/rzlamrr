@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
+<i>"He who possesses most must be most afraid of loss."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
