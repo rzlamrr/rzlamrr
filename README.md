@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is but a canvas to the imagination."</i>
+<i>"Life is the flower for which love is the honey."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Victor Hugo</b>
 </blockquote>
 </p>
 
