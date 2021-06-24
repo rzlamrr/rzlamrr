@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who possesses most must be most afraid of loss."</i>
+<i>"Friendship always benefits; love sometimes injures."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
