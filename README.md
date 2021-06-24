@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final, failure is never fatal. It's courage that counts."</i>
+<i>"Never reach out your hand unless you're willing to extend an arm."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Pope Paul VI</b>
 </blockquote>
 </p>
 
