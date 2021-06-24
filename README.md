@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
