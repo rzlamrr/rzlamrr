@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future belongs to those who believe in the beauty of their dreams."</i>
+<i>"The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Bertrand Russell</b>
 </blockquote>
 </p>
 
