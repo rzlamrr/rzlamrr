@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship always benefits; love sometimes injures."</i>
+<i>"Be kind whenever possible. It is always possible."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
