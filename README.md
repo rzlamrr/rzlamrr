@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be where your enemy is not."</i>
+<i>"Paths are made by walking."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
