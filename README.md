@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can, you should, and if you're brave enough to start, you will."</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
