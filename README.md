@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that is giddy thinks the world turns round."</i>
+<i>"I don't want to achieve immortality through my work... I want to achieve it through not dying."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
