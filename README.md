@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
+<i>"A friend is someone who gives you total freedom to be yourself."</i>
 <br>
-<b>- Doris Mortman</b>
+<b>- Jim Morrison</b>
 </blockquote>
 </p>
 
