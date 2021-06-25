@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."</i>
+<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
