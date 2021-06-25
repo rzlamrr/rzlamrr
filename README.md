@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is harder to deprive oneself of a pain than of a pleasure."</i>
+<i>"Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
