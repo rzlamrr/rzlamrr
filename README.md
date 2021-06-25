@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is someone who gives you total freedom to be yourself."</i>
+<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
 <br>
-<b>- Jim Morrison</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
