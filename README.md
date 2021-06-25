@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
