@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
