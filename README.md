@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"Programs must be written for people to read, and only incidentally for machines to execute."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Hal Abelson</b>
 </blockquote>
 </p>
 
