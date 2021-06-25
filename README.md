@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots."</i>
+<i>"Treat people as if they were what they ought to be, and you help them to become what they are capable of being."</i>
 <br>
-<b>- George Santayana</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
