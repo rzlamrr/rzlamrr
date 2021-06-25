@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the most difficult things is not to change society - but to change yourself."</i>
+<i>"Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- George Santayana</b>
 </blockquote>
 </p>
 
