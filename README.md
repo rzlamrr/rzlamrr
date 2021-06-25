@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
+<i>"He that is giddy thinks the world turns round."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
