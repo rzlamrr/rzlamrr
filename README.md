@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</i>
+<i>"Man is affected not by events but by the view he takes of them.  "</i>
 <br>
-<b>- Marian Wright Edelman</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
