@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
+<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
