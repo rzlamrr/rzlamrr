@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All I can say about life is, Oh God, enjoy it!"</i>
+<i>"If we are not fully ourselves, truly in the present moment, we miss everything."</i>
 <br>
-<b>- Bob Newhart</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
