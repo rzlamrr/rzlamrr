@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"There is no friendship, no love, like that of the parent for the child."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
