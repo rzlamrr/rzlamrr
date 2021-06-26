@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
