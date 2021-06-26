@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoyed wasting was not wasted."</i>
+<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
