@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most certain sign of wisdom is cheerfulness."</i>
+<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
