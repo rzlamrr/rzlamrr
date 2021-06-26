@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make the most of yourself, for that is all there is of you."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
