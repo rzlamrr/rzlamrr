@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Seneca</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
