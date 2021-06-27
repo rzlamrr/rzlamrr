@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship."</i>
+<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
 <br>
-<b>- Johann Kaspar Lavater</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
