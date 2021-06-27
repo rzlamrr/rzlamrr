@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
