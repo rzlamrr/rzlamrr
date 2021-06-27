@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask no questions, and you'll be told no lies."</i>
+<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
