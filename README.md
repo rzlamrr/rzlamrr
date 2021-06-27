@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
