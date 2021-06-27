@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"The exercise of an extraordinary gift is the supremist pleasure in life."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
