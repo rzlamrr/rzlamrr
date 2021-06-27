@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
