@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
+<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
