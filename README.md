@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A really great talent finds its happiness in execution."</i>
+<i>"Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Johann Kaspar Lavater</b>
 </blockquote>
 </p>
 
