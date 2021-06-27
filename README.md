@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Louise Hay</b>
 </blockquote>
 </p>
 
