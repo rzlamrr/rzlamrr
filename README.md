@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning without reflection is a waste, reflection without learning is dangerous."</i>
+<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
 <br>
-<b>- Confucius</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
