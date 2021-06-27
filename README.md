@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Louise Hay</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
