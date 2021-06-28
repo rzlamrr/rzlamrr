@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
+<i>"The superior man acts before he speaks, and afterwards speaks according to his action."</i>
 <br>
-<b>- Buddha</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
