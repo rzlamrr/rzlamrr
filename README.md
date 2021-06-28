@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
