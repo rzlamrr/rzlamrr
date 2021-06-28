@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
