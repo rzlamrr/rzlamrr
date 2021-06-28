@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
+<i>"People grow through experience if they meet life honestly and courageously. This is how character is built."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
