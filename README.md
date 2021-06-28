@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the final test of a gentleman: his respect for those who can be of no possible value to him."</i>
+<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
 <br>
-<b>- William Lyon Phelps</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
