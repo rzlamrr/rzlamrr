@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't give up the fight, Stand up for your rights."</i>
+<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
 <br>
-<b>- Bob Marley</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
