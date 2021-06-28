@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The essence of true friendship is to make allowance for another's little lapses."</i>
+<i>"Leadership is solving problems"</i>
 <br>
-<b>- Ovid</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
