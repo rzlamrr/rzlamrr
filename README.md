@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
+<i>"True friendship is like sound health; the value of it is seldom known until it is lost."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Charles Caleb Colton</b>
 </blockquote>
 </p>
 
