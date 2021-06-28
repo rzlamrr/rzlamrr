@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance."</i>
+<i>"Love does not consist of gazing at each other, but in looking together in the same direction."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
