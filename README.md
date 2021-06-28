@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man acts before he speaks, and afterwards speaks according to his action."</i>
+<i>"We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity."</i>
 <br>
-<b>- Confucius</b>
+<b>- Barbara De Angelis</b>
 </blockquote>
 </p>
 
