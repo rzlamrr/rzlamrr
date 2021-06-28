@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship is like sound health; the value of it is seldom known until it is lost."</i>
+<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
 <br>
-<b>- Charles Caleb Colton</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
