@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself."</i>
+<i>"Motivation gets you going and habit gets you there.  "</i>
 <br>
-<b>- Henry James</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
