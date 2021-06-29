@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't where you come from, it's where you're going that counts."</i>
+<i>"And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm."</i>
 <br>
-<b>- Ella Fitzgerald</b>
+<b>- Rowan Williams</b>
 </blockquote>
 </p>
 
