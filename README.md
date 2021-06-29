@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
+<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Confucius </b>
 </blockquote>
 </p>
 
