@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Ivy Baker Priest</b>
 </blockquote>
 </p>
 
