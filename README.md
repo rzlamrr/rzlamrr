@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think as a wise man but communicate in the language of the people."</i>
+<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
 <br>
-<b>- William Butler Yeats</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
