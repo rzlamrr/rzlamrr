@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is the campfire around which we tell our stories."</i>
+<i>"One secret of success in life is for a man to be ready for his opportunity when it comes."</i>
 <br>
-<b>- Laurie Anderson</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
