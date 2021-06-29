@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
+<i>"One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
