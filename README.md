@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's life has value so long as one attributes value to the life of others, by means of love, friendship, indignation and compassion."</i>
+<i>"Technology is the campfire around which we tell our stories."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Laurie Anderson</b>
 </blockquote>
 </p>
 
