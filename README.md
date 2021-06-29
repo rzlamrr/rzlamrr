@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful."</i>
+<i>"If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
