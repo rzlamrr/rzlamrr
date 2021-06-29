@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership is solving problems"</i>
+<i>"No problem can be solved from the same level of consciousness that created it."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
