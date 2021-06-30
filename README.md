@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
