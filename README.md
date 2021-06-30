@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
+<i>"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
