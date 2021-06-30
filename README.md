@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never settle for the crumbs of life."</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
