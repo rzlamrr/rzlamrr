@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience keeps a dear school, but fools will learn in no other."</i>
+<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
