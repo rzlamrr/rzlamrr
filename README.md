@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
