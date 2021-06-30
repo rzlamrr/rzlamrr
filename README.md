@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."</i>
+<i>"I like the dreams of the future better than the history of the past."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
