@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity."</i>
+<i>"Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
