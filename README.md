@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either you run the day or the day runs you."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
