@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind."</i>
+<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
 <br>
-<b>- Plato</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
