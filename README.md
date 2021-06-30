@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"Experience keeps a dear school, but fools will learn in no other."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
