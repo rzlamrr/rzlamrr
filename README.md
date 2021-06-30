@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
+<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
 <br>
-<b>- Martha Washington</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
