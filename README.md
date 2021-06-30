@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."</i>
+<i>"Either you run the day or the day runs you."</i>
 <br>
-<b>- Cicero</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
