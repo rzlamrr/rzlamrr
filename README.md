@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right do not do it; if it is not true do not say it."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
