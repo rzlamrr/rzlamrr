@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation."</i>
+<i>"I'm not afraid of storms, for I’m learning how to sail my ship."</i>
 <br>
-<b>- George Washington</b>
+<b>- Louisa May Alcott</b>
 </blockquote>
 </p>
 
