@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest deed is better than the greatest intention."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- John Burroughs</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
