@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
+<i>"The superior man blames himself. The inferior man blames others."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Don Shula</b>
 </blockquote>
 </p>
 
