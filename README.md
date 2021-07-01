@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this."</i>
+<i>"Perfection is not attainable, but if we chase perfection we can catch excellence."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
