@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more light you allow within you, the brighter the world you live in will be."</i>
+<i>"The smallest deed is better than the greatest intention."</i>
 <br>
-<b>- Shakti Gawain</b>
+<b>- John Burroughs</b>
 </blockquote>
 </p>
 
