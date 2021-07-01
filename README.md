@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our character is what we do when we think no one is looking."</i>
+<i>"There is no failure except in no longer trying."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
