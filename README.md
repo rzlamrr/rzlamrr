@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Between saying and doing, many a pair of shoes is worn out."</i>
+<i>"If you want others to be happy, practice compassion. If you want to be happy, practice compassion."</i>
 <br>
-<b>- Iris Murdoch</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
