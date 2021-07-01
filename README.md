@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important things are the hardest to say."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
