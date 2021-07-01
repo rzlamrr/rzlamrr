@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Our character is what we do when we think no one is looking."</i>
 <br>
-<b>- Stephen King</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
