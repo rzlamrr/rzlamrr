@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man blames himself. The inferior man blames others."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Don Shula</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
