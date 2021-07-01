@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness."</i>
+<i>"If you smile when no one else is around, you really mean it."</i>
 <br>
-<b>- Vusi Mahlasela</b>
+<b>- Andy Rooney</b>
 </blockquote>
 </p>
 
