@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"Between saying and doing, many a pair of shoes is worn out."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Iris Murdoch</b>
 </blockquote>
 </p>
 
