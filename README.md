@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying."</i>
+<i>"I have done my best: that is about all the philosophy of living one needs."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
