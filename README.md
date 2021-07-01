@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
