@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have done my best: that is about all the philosophy of living one needs."</i>
+<i>"The right thing to do and the hard thing to do are usually the same."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
