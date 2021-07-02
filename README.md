@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"If you cannot do great things, do small things in a great way."</i>
 <br>
-<b>- Euripides</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
