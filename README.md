@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
