@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the flower for which love is the honey."</i>
+<i>"Everything is possible. The impossible just takes longer."</i>
 <br>
-<b>- Victor Hugo</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
