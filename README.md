@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"I would rather be a little nobody, then to be an evil somebody."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
