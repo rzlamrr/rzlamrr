@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
