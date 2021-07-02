@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot do great things, do small things in a great way."</i>
+<i>"Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
