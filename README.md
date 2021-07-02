@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One loyal friend is worth ten thousand relatives."</i>
+<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
 <br>
-<b>- Euripides</b>
+<b>- George Marshall</b>
 </blockquote>
 </p>
 
