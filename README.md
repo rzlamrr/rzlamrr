@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
+<i>"The ladder of success is never crowded at the top."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
