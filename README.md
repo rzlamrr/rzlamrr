@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Life is the flower for which love is the honey."</i>
 <br>
-<b>- Laozi</b>
+<b>- Victor Hugo</b>
 </blockquote>
 </p>
 
