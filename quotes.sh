@@ -124,8 +124,8 @@ quotes() {
 
 
 commit() {
-    git config --local user.email "rzlamrr.dvst@protonmail.com"
-    git config --local user.name "rzlamrr"
+    git config --global user.email "rzlamrr.dvst@protonmail.com"
+    git config --global user.name "rzlamrr"
     git commit -asm "${arr[$rand]} (${tgl})"
 }
 
