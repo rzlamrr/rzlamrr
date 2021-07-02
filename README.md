@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"A man with outward courage dares to die: a man with inner courage dares to live."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
