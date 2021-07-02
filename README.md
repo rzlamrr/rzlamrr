@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather be a little nobody, then to be an evil somebody."</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
