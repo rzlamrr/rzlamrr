@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are always forgivable, if one has the courage to admit them."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
