@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life."</i>
+<i>"Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
