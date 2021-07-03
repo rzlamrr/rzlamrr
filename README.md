@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."</i>
+<i>"Mistakes are always forgivable, if one has the courage to admit them."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
