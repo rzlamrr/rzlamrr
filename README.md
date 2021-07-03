@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
+<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
 <br>
-<b>- George Marshall</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
