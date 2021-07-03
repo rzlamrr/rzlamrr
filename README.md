@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be great in act, as you have been in thought."</i>
+<i>"The world is but a canvas to the imagination."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
