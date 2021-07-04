@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think big thoughts but relish small pleasures."</i>
+<i>"If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
