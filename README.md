@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
+<i>"Knowledge rests not upon truth alone, but upon error also."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
