@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is but a canvas to the imagination."</i>
+<i>"All great achievements require time."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
