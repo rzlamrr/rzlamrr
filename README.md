@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
+<i>"Kind words do not cost much. Yet they accomplish much."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
