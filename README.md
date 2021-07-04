@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make the most of yourself, for that is all there is of you."</i>
+<i>"The world is but a canvas to the imagination."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
