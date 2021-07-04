@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great achievements require time."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
