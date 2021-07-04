@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
