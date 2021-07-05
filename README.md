@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."</i>
+<i>"It's better to be a lion for a day than a sheep all your life."</i>
 <br>
-<b>- Marie Curie</b>
+<b>- Elizabeth Kenny</b>
 </blockquote>
 </p>
 
