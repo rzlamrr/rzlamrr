@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
+<i>"It’s supposed to be automatic, but actually you have to push this button."</i>
 <br>
-<b>- Marianne Williamson</b>
+<b>- John Brunner</b>
 </blockquote>
 </p>
 
