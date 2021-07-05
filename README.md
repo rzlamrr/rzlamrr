@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
+<i>"There is nothing happens to any person but what was in his power to go through with."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
