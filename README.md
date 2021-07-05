@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to be a lion for a day than a sheep all your life."</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
