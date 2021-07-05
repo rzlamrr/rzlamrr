@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
