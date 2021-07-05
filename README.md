@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think like a man of action; act like a man of thought."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
