@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
+<i>"You might well remember that nothing can bring you success but yourself."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
