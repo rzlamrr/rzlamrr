@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
+<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Marianne Williamson</b>
 </blockquote>
 </p>
 
