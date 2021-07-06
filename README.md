@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Democracy's premise rests on the notion that the collective wisdom of the majority will prove right more often than it's wrong; that given sufficient opportunity in the pursuit of happiness, your population will develop its talents, its intellect, its better judgment; that over time its capacity for discernment and self-correction will be enlarged."</i>
+<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
 <br>
-<b>- Ben Fountain</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
