@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you learn, teach. When you get, give."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
