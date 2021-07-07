@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never accept ultimatums, conventional wisdom, or absolutes."</i>
+<i>"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
