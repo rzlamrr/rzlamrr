@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Commitment is an act, not a word."</i>
+<i>"When your desires are strong enough you will appear to possess superhuman powers to achieve."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
