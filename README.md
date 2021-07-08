@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give before you get."</i>
+<i>"Pick battles big enough to matter, small enough to win."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Jonathan Kozol</b>
 </blockquote>
 </p>
 
