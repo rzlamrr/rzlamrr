@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else’s."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Billy Wilder</b>
 </blockquote>
 </p>
 
