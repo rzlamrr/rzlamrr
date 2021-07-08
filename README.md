@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has never been my object to record my dreams, just to realize them."</i>
+<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
 <br>
-<b>- Man Ray</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
