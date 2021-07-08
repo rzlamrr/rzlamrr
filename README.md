@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With pride, there are many curses. With humility, there come many blessings."</i>
+<i>"To do two things at once is to do neither."</i>
 <br>
-<b>- Ezra Taft Benson</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
