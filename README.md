@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"America's freedom of religion, and freedom from religion, offers every wisdom tradition an opportunity to address our soul-deep needs: Christianity, Judaism, Islam, Buddhism, Hinduism, secular humanism, agnosticism and atheism among others."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Parker Palmer</b>
 </blockquote>
 </p>
 
