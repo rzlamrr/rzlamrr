@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
