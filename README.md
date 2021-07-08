@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pick battles big enough to matter, small enough to win."</i>
+<i>"With pride, there are many curses. With humility, there come many blessings."</i>
 <br>
-<b>- Jonathan Kozol</b>
+<b>- Ezra Taft Benson</b>
 </blockquote>
 </p>
 
