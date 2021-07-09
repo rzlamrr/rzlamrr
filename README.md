@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sees in the world what he carries in his heart."</i>
+<i>"Don't Let Yesterday Take Up Too Much Of Today."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
