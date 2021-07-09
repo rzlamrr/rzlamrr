@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Opportunity comes when you continually push forward."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
