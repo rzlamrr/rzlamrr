@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
