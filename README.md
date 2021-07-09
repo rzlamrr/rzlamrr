@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one success - to be able to spend your life in your own way."</i>
+<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
