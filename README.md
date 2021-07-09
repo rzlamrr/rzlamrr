@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you do, not what you say you'll do."</i>
+<i>"You are the only real obstacle in your path to a fulfilling life."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
