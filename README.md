@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity comes when you continually push forward."</i>
+<i>"You can't cross the sea merely by standing and staring at the water."</i>
 <br>
-<b>- Sonia Ricotti</b>
+<b>- Rabindranath Tagore</b>
 </blockquote>
 </p>
 
