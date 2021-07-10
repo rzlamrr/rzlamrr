@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is able who thinks he is able."</i>
+<i>"Love isn't something you find. Love is something that finds you."</i>
 <br>
-<b>- Buddha</b>
+<b>- Loretta Young</b>
 </blockquote>
 </p>
 
