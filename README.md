@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't cross the sea merely by standing and staring at the water."</i>
+<i>"The rule of friendship means there should be mutual sympathy between them, each supplying what the other lacks and trying to benefit the other, always using friendly and sincere words."</i>
 <br>
-<b>- Rabindranath Tagore</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
