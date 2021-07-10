@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love isn't something you find. Love is something that finds you."</i>
+<i>"He who fears being conquered is sure of defeat."</i>
 <br>
-<b>- Loretta Young</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
