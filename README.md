@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to be a lion for a day than a sheep all your life."</i>
+<i>"When deeds and words are in accord, the whole world is transformed."</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- Zhuang Zhou</b>
 </blockquote>
 </p>
 
