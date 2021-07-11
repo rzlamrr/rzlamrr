@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
+<i>"Life is trying things to see if they work."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
