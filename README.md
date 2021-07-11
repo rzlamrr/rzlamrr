@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God has given you one face, and you make yourself another."</i>
+<i>"The pain of parting is nothing to the joy of meeting again."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
