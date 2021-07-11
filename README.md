@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know oneself is to study oneself in action with another person."</i>
+<i>"God has given you one face, and you make yourself another."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
