@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When deeds and words are in accord, the whole world is transformed."</i>
+<i>"Our life isn't how much we can take out, but how much we can put in.  "</i>
 <br>
-<b>- Zhuang Zhou</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
