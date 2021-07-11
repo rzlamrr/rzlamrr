@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
+<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
 <br>
-<b>- Buddha</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
