@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain of parting is nothing to the joy of meeting again."</i>
+<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
