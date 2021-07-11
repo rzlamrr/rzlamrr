@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is trying things to see if they work."</i>
+<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
