@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot travel the path until you have become the path itself."</i>
+<i>"The road of excess leads to the palace of wisdom."</i>
 <br>
-<b>- Buddha</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
