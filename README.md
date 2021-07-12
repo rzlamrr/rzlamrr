@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that exists is in a manner the seed of that which will be."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
