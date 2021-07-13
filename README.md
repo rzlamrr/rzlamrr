@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growing up is losing some illusions, in order to acquire others."</i>
+<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Satchel Paige</b>
 </blockquote>
 </p>
 
