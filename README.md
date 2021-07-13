@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime."</i>
+<i>"You know you’re in love when you can’t fall asleep because reality is finally better than your dreams."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
