@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- Satchel Paige</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
