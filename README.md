@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know you’re in love when you can’t fall asleep because reality is finally better than your dreams."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
