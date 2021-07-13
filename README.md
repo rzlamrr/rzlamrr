@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
