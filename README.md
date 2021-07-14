@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Eternal nothingness is fine if you happen to be dressed for it."</i>
+<i>"Difficult roads often lead to beautiful destinations."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
