@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a learning experience, only if you learn."</i>
+<i>"Turn off your mind, relax, and float downstream."</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
