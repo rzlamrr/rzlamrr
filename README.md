@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
