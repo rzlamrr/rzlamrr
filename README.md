@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
+<i>"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune."</i>
 <br>
-<b>- Richard Whately</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
