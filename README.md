@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"Lose an hour in the morning, and you will spend all day looking for it."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Richard Whately</b>
 </blockquote>
 </p>
 
