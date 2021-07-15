@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Till it has loved, no man or woman can become itself."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
