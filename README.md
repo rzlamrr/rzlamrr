@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we see depends mainly on what we look for."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
