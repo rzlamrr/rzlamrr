@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?"</i>
+<i>"Logic is like the sword – those who appeal to it shall perish by it."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
