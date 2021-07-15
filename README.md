@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Outstanding people have one thing in common: an absolute sense of mission.  "</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
