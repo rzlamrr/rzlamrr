@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?"</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
