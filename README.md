@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"How we spend our days is, of course, how we spend our lives."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Annie Dillard</b>
 </blockquote>
 </p>
 
