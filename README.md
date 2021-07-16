@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there?"</i>
+<i>"Technology has to be invented or adopted."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jared Diamond</b>
 </blockquote>
 </p>
 
