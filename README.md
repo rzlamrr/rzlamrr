@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live life as though nobody is watching, and express yourself as though everyone is listening."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
