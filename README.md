@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology has to be invented or adopted."</i>
+<i>"To be great is to be misunderstood."</i>
 <br>
-<b>- Jared Diamond</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
