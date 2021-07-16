@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How we spend our days is, of course, how we spend our lives."</i>
+<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
 <br>
-<b>- Annie Dillard</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
