@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about creating value."</i>
+<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
 <br>
-<b>- Candice Carpenter</b>
+<b>- Joseph Wood Krutch</b>
 </blockquote>
 </p>
 
