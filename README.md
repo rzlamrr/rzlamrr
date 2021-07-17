@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."</i>
+<i>"The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Charles Lamb</b>
 </blockquote>
 </p>
 
