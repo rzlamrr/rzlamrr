@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
+<i>"Work out your own salvation. Do not depend on others."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
