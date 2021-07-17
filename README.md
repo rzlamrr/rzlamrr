@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident."</i>
+<i>"The road to success and the road to failure are almost exactly the same."</i>
 <br>
-<b>- Charles Lamb</b>
+<b>- Colin R. Davis</b>
 </blockquote>
 </p>
 
