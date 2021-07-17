@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
+<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
 <br>
-<b>- Joseph Wood Krutch</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
