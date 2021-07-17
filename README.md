@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The road to success and the road to failure are almost exactly the same."</i>
+<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
 <br>
-<b>- Colin R. Davis</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
