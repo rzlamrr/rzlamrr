@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
+<i>"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
