@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only person who never makes mistakes is the person who never does anything."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
