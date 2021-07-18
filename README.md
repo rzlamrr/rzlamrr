@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
+<i>"Growing up is losing some illusions, in order to acquire others."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
