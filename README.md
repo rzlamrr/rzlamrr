@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
