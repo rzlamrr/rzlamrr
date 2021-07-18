@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not for the future, weep not for the past."</i>
+<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
 <br>
-<b>- Percy Bysshe Shelley</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
