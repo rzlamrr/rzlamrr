@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think for yourselves and let others enjoy the privilege to do so too."</i>
+<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
