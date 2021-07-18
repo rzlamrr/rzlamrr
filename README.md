@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- Confucius</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
