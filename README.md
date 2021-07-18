@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"Fear not for the future, weep not for the past."</i>
 <br>
-<b>- James Allen</b>
+<b>- Percy Bysshe Shelley</b>
 </blockquote>
 </p>
 
