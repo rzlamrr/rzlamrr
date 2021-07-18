@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"Think for yourselves and let others enjoy the privilege to do so too."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
