@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do something wonderful, people may imitate it."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
