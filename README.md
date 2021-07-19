@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
