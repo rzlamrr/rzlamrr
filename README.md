@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great by deeds, not by birth."</i>
+<i>"It matters not what someone is born, but what they grow to be."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
