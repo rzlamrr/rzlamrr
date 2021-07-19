@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
