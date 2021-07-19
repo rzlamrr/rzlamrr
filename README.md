@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
