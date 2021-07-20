@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
+<i>"When you come to the end of your rope, tie a knot and hang on."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
