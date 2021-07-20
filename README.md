@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never understand how little we need in this world until we know the loss of it."</i>
+<i>"Excellence is to do a common thing in an uncommon way."</i>
 <br>
-<b>- J. M. Barrie</b>
+<b>- Booker T. Washington</b>
 </blockquote>
 </p>
 
