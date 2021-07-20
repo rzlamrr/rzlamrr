@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Excellence is to do a common thing in an uncommon way."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Booker T. Washington</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
