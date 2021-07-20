@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"We never understand how little we need in this world until we know the loss of it."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- J. M. Barrie</b>
 </blockquote>
 </p>
 
