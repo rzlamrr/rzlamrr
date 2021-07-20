@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
