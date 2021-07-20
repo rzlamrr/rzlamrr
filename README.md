@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?"</i>
+<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
 <br>
-<b>- Seneca</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
