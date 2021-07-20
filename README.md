@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you come to the end of your rope, tie a knot and hang on."</i>
+<i>"Intelligence is the ability to adapt to change."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
