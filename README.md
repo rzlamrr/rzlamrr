@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"When deeds and words are in accord, the whole world is transformed."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Zhuang Zhou</b>
 </blockquote>
 </p>
 
