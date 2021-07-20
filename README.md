@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. "</i>
+<i>"Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief."</i>
 <br>
-<b>- Jack London</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
