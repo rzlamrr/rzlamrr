@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"Give more than you think you can, trusting that you are richer than you think."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
