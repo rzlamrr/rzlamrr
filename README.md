@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is a weed? A plant whose virtues have not yet been discovered."</i>
+<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
