@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"What is a weed? A plant whose virtues have not yet been discovered."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
