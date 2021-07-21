@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who angers you conquers you."</i>
+<i>"Nothing is really work unless you would rather be doing something else. "</i>
 <br>
-<b>- Elizabeth Kenny</b>
+<b>- James Matthew Barrie</b>
 </blockquote>
 </p>
 
