@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ruin the present with the ruined past."</i>
+<i>"All animals except man know that the principal business of life is to enjoy it."</i>
 <br>
-<b>- Ellen Gilchrist</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
