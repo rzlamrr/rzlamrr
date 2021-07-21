@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
+<i>"The man who removes a mountain begins by carrying away small stones."</i>
 <br>
-<b>- Isaac D'Israeli</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
