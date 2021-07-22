@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so important to know everything as to appreciate what we learn."</i>
+<i>"There is no retirement for an artist, it's your way of living so there is no end to it."</i>
 <br>
-<b>- Hannah More</b>
+<b>- Henry Moore</b>
 </blockquote>
 </p>
 
