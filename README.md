@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory belongs to the most persevering."</i>
+<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
