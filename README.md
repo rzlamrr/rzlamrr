@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people are about as happy as they make up their minds to be"</i>
+<i>"It is not so important to know everything as to appreciate what we learn."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Hannah More</b>
 </blockquote>
 </p>
 
