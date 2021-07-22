@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The past has no power over the present moment. "</i>
+<i>"Living at risk is jumping off the cliff and building your wings on the way down."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
