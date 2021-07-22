@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Most people are about as happy as they make up their minds to be"</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
