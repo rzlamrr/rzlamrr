@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
+<i>"The power to make and break habits and learning how to do that is really important."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
