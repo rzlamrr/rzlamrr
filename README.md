@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living at risk is jumping off the cliff and building your wings on the way down."</i>
+<i>"The businessman's tool is value."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
