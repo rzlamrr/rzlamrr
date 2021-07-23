@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can do a thing or think you can't do a thing, you're right."</i>
+<i>"The way to get started is to quit talking and begin doing."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
