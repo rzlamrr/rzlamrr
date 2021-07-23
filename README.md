@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to get started is to quit talking and begin doing."</i>
+<i>"The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Reinhold Niebuhr</b>
 </blockquote>
 </p>
 
