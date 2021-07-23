@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world."</i>
+<i>"If you do not push the boundaries, you will never know where they are."</i>
 <br>
-<b>- Judy Collins</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
