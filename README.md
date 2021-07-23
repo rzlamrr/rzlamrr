@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"A man who doesn't trust himself can never really trust anyone else."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Jean François Paul de Gondi</b>
 </blockquote>
 </p>
 
