@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship multiplies the good in life and divides its evils. Strive to have friends, for life without friends is like life on a desert island... to find one real friend in a lifetime is good fortune; to keep him is a blessing."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Baltasar Gracián</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
