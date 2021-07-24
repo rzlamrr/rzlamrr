@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a travelling to the edge of knowledge, then a leap taken."</i>
+<i>"He who is fixed to a star does not change his mind."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
