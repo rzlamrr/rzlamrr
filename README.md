@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one."</i>
+<i>"Life is a travelling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Chuck Norris</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
