@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?"</i>
+<i>"A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Chuck Norris</b>
 </blockquote>
 </p>
 
