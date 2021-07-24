@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is fixed to a star does not change his mind."</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
