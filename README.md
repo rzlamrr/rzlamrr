@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
