@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We suffer more often in imagination than in reality."</i>
+<i>"Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?"</i>
 <br>
-<b>- Seneca</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
