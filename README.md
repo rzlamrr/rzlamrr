@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right do not do it; if it is not true do not say it."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
