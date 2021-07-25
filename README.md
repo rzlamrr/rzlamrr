@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
