@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
+<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Arthur Rubinstein</b>
 </blockquote>
 </p>
 
