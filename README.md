@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What worries you, masters you."</i>
+<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
 <br>
-<b>- John Locke</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
