@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings."</i>
+<i>"Age does not protect you from love. But love, to some extent, protects you from age."</i>
 <br>
-<b>- Arthur Rubinstein</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
