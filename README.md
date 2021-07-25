@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age does not protect you from love. But love, to some extent, protects you from age."</i>
+<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
