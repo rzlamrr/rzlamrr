@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They who have conquered doubt and fear have conquered failure."</i>
+<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
 <br>
-<b>- James Allen</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
