@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is particularly hard if you divide it into small jobs. "</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
