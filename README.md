@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way a woman carries herself and the way she dresses ought to promote the following types of words: modesty, discretion, wisdom, beauty, elegance and refinement, but not sensuality, luxury, extravagance."</i>
+<i>"If you love someone, set them free. If they come back, they're yours; if they don’t, they never were."</i>
 <br>
-<b>- Paul Washer</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
