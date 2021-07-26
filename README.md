@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love someone, set them free. If they come back, they're yours; if they don’t, they never were."</i>
+<i>"Let my skin and sinews and bones dry up, together with all the flesh and blood of my body! I welcome it! But I will not move from this spot until I have attained the supreme and final wisdom."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
