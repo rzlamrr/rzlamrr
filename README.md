@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
+<i>"I love my past. I love my present. I’m not ashamed of what I’ve had, and I’m not sad because I have it no longer."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Colette</b>
 </blockquote>
 </p>
 
