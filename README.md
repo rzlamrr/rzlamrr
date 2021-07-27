@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
+<i>"Trust only movement. Life happens at the level of events, not of words. Trust movement."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
