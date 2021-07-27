@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want, happiness is wanting what you get."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
