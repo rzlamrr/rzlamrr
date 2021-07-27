@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline is the mark of intelligent living."</i>
+<i>"Don't ruin the present with the ruined past."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Ellen Gilchrist</b>
 </blockquote>
 </p>
 
