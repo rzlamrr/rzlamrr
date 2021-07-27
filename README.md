@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
+<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
