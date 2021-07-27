@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
