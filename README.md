@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why live an ordinary life, when you can live an extraordinary one."</i>
+<i>"Success is getting what you want, happiness is wanting what you get."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
