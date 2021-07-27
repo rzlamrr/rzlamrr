@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust only movement. Life happens at the level of events, not of words. Trust movement."</i>
+<i>"Always be smarter than the people who hire you."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Lena Horne</b>
 </blockquote>
 </p>
 
