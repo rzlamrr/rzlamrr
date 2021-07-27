@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ruin the present with the ruined past."</i>
+<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
 <br>
-<b>- Ellen Gilchrist</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
