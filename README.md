@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be smarter than the people who hire you."</i>
+<i>"Mistakes are the usual bridge between inexperience and wisdom."</i>
 <br>
-<b>- Lena Horne</b>
+<b>- Phyllis Grissim-Theroux</b>
 </blockquote>
 </p>
 
