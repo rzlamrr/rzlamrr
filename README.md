@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are the usual bridge between inexperience and wisdom."</i>
+<i>"Keep your eyes on the stars and your feet on the ground."</i>
 <br>
-<b>- Phyllis Grissim-Theroux</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
