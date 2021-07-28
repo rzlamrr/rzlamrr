@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
