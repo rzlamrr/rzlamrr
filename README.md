@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great achievements require time."</i>
+<i>"If you can't, you must. If you must, you can."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
