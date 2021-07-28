@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
+<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
