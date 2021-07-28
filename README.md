@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community."</i>
+<i>"Self-control is strength."</i>
 <br>
-<b>- Steven Van Zandt</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
