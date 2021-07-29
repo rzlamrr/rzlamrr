@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
+<i>"It is very obvious that we are not influenced by “facts” but by our interpretation of the facts."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
