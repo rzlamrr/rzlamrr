@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As an organizer I start from where the world is, as it is, not as I would like it to be."</i>
+<i>"This is the final test of a gentleman: his respect for those who can be of no possible value to him."</i>
 <br>
-<b>- Saul Alinsky</b>
+<b>- William Lyon Phelps</b>
 </blockquote>
 </p>
 
