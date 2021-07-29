@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much wisdom often goes with fewer words."</i>
+<i>"Wisdom is always an overmatch for strength."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
