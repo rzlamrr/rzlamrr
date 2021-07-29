@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is the final test of a gentleman: his respect for those who can be of no possible value to him."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- William Lyon Phelps</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
