@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dare to fail miserably can achieve greatly."</i>
+<i>"As an organizer I start from where the world is, as it is, not as I would like it to be."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Saul Alinsky</b>
 </blockquote>
 </p>
 
