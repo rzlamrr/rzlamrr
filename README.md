@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."</i>
+<i>"Those who dare to fail miserably can achieve greatly."</i>
 <br>
-<b>- Laozi</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
