@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is always an overmatch for strength."</i>
+<i>"Keep yourself to the sunshine and you cannot see the shadow."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
