@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very obvious that we are not influenced by “facts” but by our interpretation of the facts."</i>
+<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
