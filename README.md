@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the highway to success."</i>
+<i>"If you don't know where you are going, you will probably end up somewhere else."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
