@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know where you are going, you will probably end up somewhere else."</i>
+<i>"Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- David Rockefeller</b>
 </blockquote>
 </p>
 
