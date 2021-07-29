@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep yourself to the sunshine and you cannot see the shadow."</i>
+<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- James F. Byrnes</b>
 </blockquote>
 </p>
 
