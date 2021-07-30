@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship without self-interest is one of the rare and beautiful things of life."</i>
+<i>"Never lose hope. Storms make people stronger and never last forever."</i>
 <br>
-<b>- James F. Byrnes</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
