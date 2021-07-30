@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
