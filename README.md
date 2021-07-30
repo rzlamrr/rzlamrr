@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not what we have but what we enjoy constitutes our abundance."</i>
+<i>"The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."</i>
 <br>
-<b>- Jean Antoine Petit-Senn</b>
+<b>- Mortimer J. Adler</b>
 </blockquote>
 </p>
 
