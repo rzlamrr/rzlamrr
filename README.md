@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't let praise or criticism get to you. It's a weakness to get caught up in either one."</i>
+<i>"Build a better mousetrap and the world will beat a path to your door."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
