@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain passes, but the beauty remains."</i>
+<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
 <br>
-<b>- Pierre-Auguste Renoir</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
