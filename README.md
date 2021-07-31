@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Compassion and happiness are not a sign of weakness but a sign of strength."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
