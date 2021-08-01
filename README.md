@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never make friends with people who are above or below you in status. Such friendships will never give you any happiness."</i>
+<i>"Be like the flower, turn your face to the sun."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
