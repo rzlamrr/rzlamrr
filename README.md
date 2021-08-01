@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
+<i>"Success is never final; failure is never fatal."</i>
 <br>
-<b>- William Blake</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
