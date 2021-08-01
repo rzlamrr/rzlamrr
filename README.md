@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
+<i>"In seed time learn, in harvest teach, in winter enjoy."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
