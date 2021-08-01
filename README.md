@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
+<i>"Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
