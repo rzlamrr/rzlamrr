@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is never final; failure is never fatal."</i>
+<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
