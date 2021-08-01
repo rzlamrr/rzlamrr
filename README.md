@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are useless. They can only give you answers."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
