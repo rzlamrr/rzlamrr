@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
