@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I’m not in this world to live up to your expectations and you're not in this world to live up to mine."</i>
+<i>"It is fatal to enter any war without the will to win it."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Douglas MacArthur</b>
 </blockquote>
 </p>
 
