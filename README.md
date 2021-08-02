@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer, so I strive to make them better."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
