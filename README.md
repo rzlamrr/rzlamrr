@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may delay, but time will not."</i>
+<i>"I’m not in this world to live up to your expectations and you're not in this world to live up to mine."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
