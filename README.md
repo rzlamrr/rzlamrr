@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formal education will make you a living, self-education will make you a fortune."</i>
+<i>"There are no shortcuts to any place worth going."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
