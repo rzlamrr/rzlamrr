@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By living deeply in the present moment we can understand the past better and we can prepare for a better future."</i>
+<i>"You can always tell a real friend: when you've made a fool of yourself he doesn't feel you've done a permanent job."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
