@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- Doris Mortman</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
