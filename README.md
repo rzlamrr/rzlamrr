@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"I cannot make my days longer, so I strive to make them better."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
