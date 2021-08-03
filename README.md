@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."</i>
+<i>"Chaos and Order are not enemies, only opposites."</i>
 <br>
-<b>- Eknath Easwaran</b>
+<b>- Richard Garriott</b>
 </blockquote>
 </p>
 
