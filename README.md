@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why fit in when you were born to stand out?"</i>
+<i>"Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Eknath Easwaran</b>
 </blockquote>
 </p>
 
