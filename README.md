@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not be punished for your anger; you will be punished by your anger."</i>
+<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
 <br>
-<b>- Buddha</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
