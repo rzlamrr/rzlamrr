@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos and Order are not enemies, only opposites."</i>
+<i>"Whoever is happy will make others happy, too."</i>
 <br>
-<b>- Richard Garriott</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
