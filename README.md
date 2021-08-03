@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take no thought of who is right or wrong or who is better than. Be not for or against."</i>
+<i>"Given the choice between the experience of pain and nothing, I would choose pain."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
