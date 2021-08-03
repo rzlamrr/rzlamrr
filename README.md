@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
