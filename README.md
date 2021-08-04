@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
