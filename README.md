@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
+<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
