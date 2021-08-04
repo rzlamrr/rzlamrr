@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"Ignorant men raise questions that wise men answered a thousand years ago."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
