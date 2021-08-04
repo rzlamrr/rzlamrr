@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Too much sanity may be madness and the maddest of all, to see life as it is and not as it should be. "</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
