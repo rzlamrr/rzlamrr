@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
