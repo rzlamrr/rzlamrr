@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truth is not for all men, but for those who seek it."</i>
+<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
