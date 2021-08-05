@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
