@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
+<i>"If you have knowledge, let others light their candles in it."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Margaret Fuller</b>
 </blockquote>
 </p>
 
