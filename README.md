@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life."</i>
+<i>"You got to be careful if you don't know where you're going, because you might not get there."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
