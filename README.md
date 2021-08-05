@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day."</i>
+<i>"Without some goals and some efforts to reach it, no man can live."</i>
 <br>
-<b>- George Foreman</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
