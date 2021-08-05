@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With the realization of one’s own potential and self-confidence in one’s ability, one can build a better world."</i>
+<i>"As a matter of fact is an expression that precedes many an expression that isn't."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
