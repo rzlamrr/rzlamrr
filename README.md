@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"The way is not in the sky. The way is in the heart."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
