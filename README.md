@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You got to be careful if you don't know where you're going, because you might not get there."</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
