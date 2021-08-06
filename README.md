@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As we are liberated from our own fear, our presence automatically liberates others."</i>
+<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
