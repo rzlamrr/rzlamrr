@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through perseverance many people win success out of what seemed destined to be certain failure."</i>
+<i>"Sometimes it is better to lose and do the right thing than to win and do the wrong thing."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Tony Blair</b>
 </blockquote>
 </p>
 
