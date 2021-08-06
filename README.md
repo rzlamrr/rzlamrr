@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let your hook always be cast; in the pool where you least expect it, there will be a fish."</i>
+<i>"Through perseverance many people win success out of what seemed destined to be certain failure."</i>
 <br>
-<b>- Ovid</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
