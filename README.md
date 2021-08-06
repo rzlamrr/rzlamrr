@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without some goals and some efforts to reach it, no man can live."</i>
+<i>"You are what you do, not what you say you'll do."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
