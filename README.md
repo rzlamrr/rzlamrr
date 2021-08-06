@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do more than dream: work."</i>
+<i>"Success is not final; failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
