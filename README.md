@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is better to lose and do the right thing than to win and do the wrong thing."</i>
+<i>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</i>
 <br>
-<b>- Tony Blair</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
