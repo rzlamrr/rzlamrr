@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"Do more than dream: work."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
