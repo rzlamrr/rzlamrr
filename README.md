@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are what you do, not what you say you'll do."</i>
+<i>"Let your hook always be cast; in the pool where you least expect it, there will be a fish."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
