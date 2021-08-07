@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most successful people are those who are good at plan B."</i>
+<i>"It is impossible for a man to learn what he thinks he already knows."</i>
 <br>
-<b>- James A. Yorke</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
