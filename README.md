@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be willing to be a beginner every single morning."</i>
+<i>"You have within you right now, everything you need to deal with whatever the world can throw at you."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
