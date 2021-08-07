@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"The most successful people are those who are good at plan B."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- James A. Yorke</b>
 </blockquote>
 </p>
 
