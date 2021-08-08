@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you surrender to the wind, you can ride it."</i>
+<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Jawaharlal Nehru</b>
 </blockquote>
 </p>
 
