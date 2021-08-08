@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short cuts make long delays."</i>
+<i>"Life is like underwear, should be changed twice a day.  "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
