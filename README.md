@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like underwear, should be changed twice a day.  "</i>
+<i>"Pleasure in the job puts perfection in the work."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
