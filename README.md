@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure in the job puts perfection in the work."</i>
+<i>"People don't care how much you know until they know how much you care."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
