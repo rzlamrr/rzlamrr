@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes being a friend means mastering the art of timing. There is a time for silence. A time to let go and allow people to hurl themselves into their own destiny. And a time to prepare to pick up the pieces when it's all over."</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- Octavia E. Butler</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
