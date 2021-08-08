@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"If you surrender to the wind, you can ride it."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Toni Morrison</b>
 </blockquote>
 </p>
 
