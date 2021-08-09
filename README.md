@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep an open mind and a compassionate heart."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
