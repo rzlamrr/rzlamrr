@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words are the clothing of our thoughts."</i>
+<i>"Problems are only opportunities with thorns on them."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Hugh Miller</b>
 </blockquote>
 </p>
 
