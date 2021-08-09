@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
+<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
 <br>
-<b>- Norman Cousins</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
