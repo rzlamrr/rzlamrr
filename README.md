@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"If you do not change direction, you may end up where you are heading."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
