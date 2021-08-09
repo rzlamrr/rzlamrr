@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will not walk backward in life."</i>
+<i>"Never deny a diagnosis but do deny the negative verdict that may go with it."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Norman Cousins</b>
 </blockquote>
 </p>
 
