@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great by deeds, not by birth."</i>
+<i>"Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Steven Van Zandt</b>
 </blockquote>
 </p>
 
