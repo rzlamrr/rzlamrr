@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are made wise not by the recollection of our past, but by the responsibility for our future."</i>
+<i>"An invasion of armies can be resisted, but not an idea whose time has come."</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- Victor Hugo</b>
 </blockquote>
 </p>
 
