@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"Imagination is the beginning of creation."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
