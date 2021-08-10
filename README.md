@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An invasion of armies can be resisted, but not an idea whose time has come."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Victor Hugo</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
