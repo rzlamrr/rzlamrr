@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chaos is inherent in all compounded things. Strive on with diligence."</i>
+<i>"When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
