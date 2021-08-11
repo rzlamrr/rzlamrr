@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meaning is not what you start with but what you end up with."</i>
+<i>"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose."</i>
 <br>
-<b>- Peter Elbow</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
