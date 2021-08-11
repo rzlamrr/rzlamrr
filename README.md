@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are more people who wish to be loved than there are who are willing to love. "</i>
+<i>"Reality leaves a lot to the imagination."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
