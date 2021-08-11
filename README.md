@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
+<i>"Meaning is not what you start with but what you end up with."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Peter Elbow</b>
 </blockquote>
 </p>
 
