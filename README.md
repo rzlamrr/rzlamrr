@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"Think and wonder, wonder and think."</i>
 <br>
-<b>- Rumi</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
