@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reality leaves a lot to the imagination."</i>
+<i>"Chaos is inherent in all compounded things. Strive on with diligence."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
