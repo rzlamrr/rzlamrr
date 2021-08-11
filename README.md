@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All leaders are readers."</i>
+<i>"It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
