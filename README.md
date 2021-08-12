@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Watch the little things; a small leak will sink a great ship."</i>
+<i>"Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
