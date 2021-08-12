@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
+<i>"Follow your heart, listen to your inner voice, stop caring about what others think."</i>
 <br>
-<b>- Martha Washington</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
