@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They must often change, who would be constant in happiness or wisdom."</i>
+<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
 <br>
-<b>- Confucius</b>
+<b>- Martha Washington</b>
 </blockquote>
 </p>
 
