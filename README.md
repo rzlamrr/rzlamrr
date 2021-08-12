@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back?"</i>
+<i>"Watch the little things; a small leak will sink a great ship."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
