@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's necessary to get the losers out of your life if you want to live your dream."</i>
+<i>"There are no limitations to the mind except those we acknowledge."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
