@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
+<i>"With the realization of one’s own potential and self-confidence in one’s ability, one can build a better world."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
