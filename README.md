@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
