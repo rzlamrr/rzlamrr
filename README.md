@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never do things others can do and will do, if there are things others cannot do or will not do."</i>
+<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
