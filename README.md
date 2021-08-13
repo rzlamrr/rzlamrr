@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"The greatest deception men suffer is from their own opinions."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
