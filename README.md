@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
