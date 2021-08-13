@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
+<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
