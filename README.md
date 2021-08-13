@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
+<i>"The way a woman carries herself and the way she dresses ought to promote the following types of words: modesty, discretion, wisdom, beauty, elegance and refinement, but not sensuality, luxury, extravagance."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Paul Washer</b>
 </blockquote>
 </p>
 
