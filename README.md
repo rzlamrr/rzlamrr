@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
