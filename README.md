@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All has not been said and never will be."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
