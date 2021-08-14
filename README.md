@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"The art challenges the technology, and the technology inspires the art."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- John Lasseter</b>
 </blockquote>
 </p>
 
