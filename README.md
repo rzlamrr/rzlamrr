@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art challenges the technology, and the technology inspires the art."</i>
+<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
 <br>
-<b>- John Lasseter</b>
+<b>- Ansel Adams</b>
 </blockquote>
 </p>
 
