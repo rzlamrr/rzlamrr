@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In wisdom gathered over time I have found that every experience is a form of exploration."</i>
+<i>"All has not been said and never will be."</i>
 <br>
-<b>- Ansel Adams</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
