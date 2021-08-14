@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never understand how little we need in this world until we know the loss of it."</i>
+<i>"It is indeed a radical act of love just to sit down and be quiet for a time by yourself."</i>
 <br>
-<b>- J. M. Barrie</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
