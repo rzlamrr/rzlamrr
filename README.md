@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The primary cause of unhappiness is never the situation but your thoughts about it."</i>
+<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
