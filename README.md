@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity is missed by most people because it is dressed in overalls and looks like work."</i>
+<i>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
