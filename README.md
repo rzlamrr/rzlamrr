@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You, yourself, as much as anybody in the entire universe, deserve your love and affection."</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- Buddha</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
