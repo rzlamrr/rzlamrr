@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
+<i>"You, yourself, as much as anybody in the entire universe, deserve your love and affection."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
