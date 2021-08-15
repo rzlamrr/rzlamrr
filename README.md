@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it."</i>
+<i>"Peace comes from within. Do not seek it without."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
