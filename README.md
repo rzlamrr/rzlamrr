@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
+<i>"Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
