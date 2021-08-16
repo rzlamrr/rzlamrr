@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is never an accident; it is always the result of intelligent effort."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- John Ruskin</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
