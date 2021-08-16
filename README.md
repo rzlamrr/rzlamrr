@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"When people are like each other they tend to like each other."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
