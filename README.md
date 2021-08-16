@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing worse than being blind is having sight but no vision."</i>
+<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
