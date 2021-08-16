@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When angry count to ten before you speak. If very angry, count to one hundred."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
