@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning without reflection is a waste, reflection without learning is dangerous."</i>
+<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
 <br>
-<b>- Confucius</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
