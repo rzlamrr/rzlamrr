@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our passion is our strength."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Billie Armstrong</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
