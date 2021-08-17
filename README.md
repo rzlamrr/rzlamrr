@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Honoré de Balzac</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
