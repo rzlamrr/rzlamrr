@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable."</i>
+<i>"When one door closes another door opens. "</i>
 <br>
-<b>- Kathleen Norris</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
