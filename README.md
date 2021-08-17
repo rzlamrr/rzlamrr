@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
