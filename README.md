@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has ever become poor by giving."</i>
+<i>"Everything you’ve ever wanted is on the other side of fear."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
