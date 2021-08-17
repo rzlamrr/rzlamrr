@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one door closes another door opens. "</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
