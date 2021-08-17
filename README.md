@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
+<i>"Learning without reflection is a waste, reflection without learning is dangerous."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
