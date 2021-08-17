@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"Friendship with oneself is all important because without it one cannot be friends with anybody else in the world."</i>
 <br>
-<b>- Euripides</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
