@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great minds discuss ideas; average minds discuss events; small minds discuss people."</i>
+<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
