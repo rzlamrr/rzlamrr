@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character."</i>
+<i>"Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day."</i>
 <br>
-<b>- Margaret Chase Smith</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
