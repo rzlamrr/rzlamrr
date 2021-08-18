@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?"</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- Confucius</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
