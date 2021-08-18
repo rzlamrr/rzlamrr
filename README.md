@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Jawaharlal Nehru</b>
 </blockquote>
 </p>
 
