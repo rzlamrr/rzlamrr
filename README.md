@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Build a better mousetrap and the world will beat a path to your door."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
