@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+<i>"Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?"</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
