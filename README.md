@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
+<i>"The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character."</i>
 <br>
-<b>- Jawaharlal Nehru</b>
+<b>- Margaret Chase Smith</b>
 </blockquote>
 </p>
 
