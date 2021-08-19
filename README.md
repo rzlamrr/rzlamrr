@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue."</i>
+<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
