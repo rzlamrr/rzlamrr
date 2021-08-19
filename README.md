@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Edward Young</b>
 </blockquote>
 </p>
 
