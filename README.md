@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
