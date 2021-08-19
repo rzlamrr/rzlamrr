@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."</i>
+<i>"Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue."</i>
 <br>
-<b>- Edward Young</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
