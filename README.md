@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Disobedience is the true foundation of liberty. The obedient must be slaves."</i>
+<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
