@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light."</i>
+<i>"You make your own luck if you stay at it long enough."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
