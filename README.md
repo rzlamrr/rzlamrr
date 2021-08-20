@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time heals what reason cannot.  "</i>
+<i>"To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best."</i>
 <br>
-<b>- Seneca</b>
+<b>- Margaret Thatcher</b>
 </blockquote>
 </p>
 
