@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"Where words fail, music speaks."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
