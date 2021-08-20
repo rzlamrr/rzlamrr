@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are not animals. We are not a product of what has happened to us in our past. We have the power of choice."</i>
+<i>"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."</i>
 <br>
-<b>- Stephen Covey</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
