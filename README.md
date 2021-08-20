@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best."</i>
+<i>"If anything is worth doing, do it with all your heart."</i>
 <br>
-<b>- Margaret Thatcher</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
