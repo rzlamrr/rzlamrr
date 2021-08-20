@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</i>
+<i>"If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
