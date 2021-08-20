@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important single ingredient in the formula of success is knowing how to get along with people."</i>
+<i>"Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
