@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where words fail, music speaks."</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
