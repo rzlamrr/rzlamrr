@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure is what lies ahead."</i>
+<i>"If you want peace, you won't get it with violence."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
