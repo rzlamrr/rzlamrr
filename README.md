@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make each day your masterpiece."</i>
+<i>"The friendship that can cease has never been real. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
