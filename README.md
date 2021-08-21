@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
