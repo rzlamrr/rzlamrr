@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
