@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discipline yourself, and others won't need to."</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
