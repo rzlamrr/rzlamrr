@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
