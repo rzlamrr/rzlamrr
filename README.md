@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless."</i>
+<i>"Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
