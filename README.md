@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down."</i>
+<i>"Great things are done by a series of small things brought together. "</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
