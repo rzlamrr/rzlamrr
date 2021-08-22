@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great things are done by a series of small things brought together. "</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
