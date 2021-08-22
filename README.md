@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are things so deep and complex that only intuition can reach it in our stage of development as human beings."</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- John Astin</b>
+<b>- Confucius </b>
 </blockquote>
 </p>
 
