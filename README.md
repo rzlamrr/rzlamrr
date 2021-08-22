@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True knowledge exists in knowing that you know nothing."</i>
+<i>"I have often regretted my speech, never my silence."</i>
 <br>
-<b>- Socrates</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
