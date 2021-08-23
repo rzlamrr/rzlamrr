@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Awaken. Take heed, do not squander your life."</i>
+<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
 <br>
-<b>- Dogen</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
