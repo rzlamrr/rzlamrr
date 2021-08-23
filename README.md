@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing about the future is that it only comes one day at a time."</i>
+<i>"Nothing is more real than nothing."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
