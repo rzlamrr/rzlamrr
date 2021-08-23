@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more real than nothing."</i>
+<i>"Dream big and dare to fail."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Norman Vaughan</b>
 </blockquote>
 </p>
 
