@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
+<i>"I don't want to achieve immortality through my work... I want to achieve it through not dying."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
