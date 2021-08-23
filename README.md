@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one."</i>
+<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
