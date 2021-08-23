@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
 <br>
 <b>- Roy T. Bennett</b>
 </blockquote>
