@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
+<i>"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Peter Abelard</b>
 </blockquote>
 </p>
 
