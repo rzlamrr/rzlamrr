@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."</i>
+<i>"Awaken. Take heed, do not squander your life."</i>
 <br>
-<b>- Peter Abelard</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
