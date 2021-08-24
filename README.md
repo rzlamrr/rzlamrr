@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The minute you settle for less than you deserve, you get even less than you settled for."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Maureen Dowd</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
