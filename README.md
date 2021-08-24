@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect should be earned by actions, and not acquired by years."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Frank Lloyd Wright</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
