@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and a lot of that comes from bad judgment."</i>
+<i>"The minute you settle for less than you deserve, you get even less than you settled for."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Maureen Dowd</b>
 </blockquote>
 </p>
 
