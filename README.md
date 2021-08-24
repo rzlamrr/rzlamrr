@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"All this modern technology just makes people try to do everything at once."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Bill Watterson</b>
 </blockquote>
 </p>
 
