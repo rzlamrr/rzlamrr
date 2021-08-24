@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I gave my life to become the person I am right now. Was it worth it?"</i>
+<i>"Respect should be earned by actions, and not acquired by years."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Frank Lloyd Wright</b>
 </blockquote>
 </p>
 
