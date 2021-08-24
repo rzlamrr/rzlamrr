@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
+<i>"Autumn is a second spring when every leaf is a flower."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
