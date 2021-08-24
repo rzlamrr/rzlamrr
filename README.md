@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't want to achieve immortality through my work... I want to achieve it through not dying."</i>
+<i>"Good judgment comes from experience, and a lot of that comes from bad judgment."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
