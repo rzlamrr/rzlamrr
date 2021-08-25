@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world only exists in your eyes. You can make it as big or as small as you want."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
