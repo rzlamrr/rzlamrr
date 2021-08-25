@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be happy is to be able to become aware of oneself without fright."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
