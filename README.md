@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are born from a quiet sleep, and we die to a calm awakening"</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
