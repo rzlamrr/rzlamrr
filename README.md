@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."</i>
+<i>"The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind."</i>
 <br>
-<b>- Dhammapada</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
