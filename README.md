@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we are no longer able to change a situation - we are challenged to change ourselves."</i>
+<i>"Appear weak when you are strong, and strong when you are weak."</i>
 <br>
-<b>- Viktor Frankl</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
