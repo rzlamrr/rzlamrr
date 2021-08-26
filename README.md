@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not how much we give but how much love we put into giving."</i>
+<i>"Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- John Burroughs</b>
 </blockquote>
 </p>
 
