@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone."</i>
+<i>"The world is round so that friendship may encircle it."</i>
 <br>
-<b>- John Burroughs</b>
+<b>- Pierre Teilhard de Chardin</b>
 </blockquote>
 </p>
 
