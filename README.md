@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ethics change with technology."</i>
+<i>"Nature takes away any faculty that is not used."</i>
 <br>
-<b>- Larry Niven</b>
+<b>- William Inge</b>
 </blockquote>
 </p>
 
