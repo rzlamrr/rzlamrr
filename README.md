@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
