@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature takes away any faculty that is not used."</i>
+<i>"Creativity is the greatest rebellion in existence."</i>
 <br>
-<b>- William Inge</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
