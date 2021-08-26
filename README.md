@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</i>
+<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
 <br>
-<b>- Naguib Mahfouz</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
