@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Naguib Mahfouz</b>
 </blockquote>
 </p>
 
