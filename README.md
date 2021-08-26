@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I hear and I forget. I see and I remember. I do and I understand."</i>
+<i>"Cherish your visions and your dreams as they are the children of your soul; the blueprints of your ultimate achievements."</i>
 <br>
-<b>- Confucius</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
