@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is round so that friendship may encircle it."</i>
+<i>"Ethics change with technology."</i>
 <br>
-<b>- Pierre Teilhard de Chardin</b>
+<b>- Larry Niven</b>
 </blockquote>
 </p>
 
