@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"It's not how much we give but how much love we put into giving."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
