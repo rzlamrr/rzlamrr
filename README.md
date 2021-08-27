@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."</i>
+<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Margaret Laurence</b>
 </blockquote>
 </p>
 
