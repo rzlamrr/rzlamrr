@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
