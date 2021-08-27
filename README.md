@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is the greatest rebellion in existence."</i>
+<i>"You can't choose up sides on a round world."</i>
 <br>
-<b>- Osho</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
