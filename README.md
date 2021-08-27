@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
+<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
 <br>
-<b>- Margaret Laurence</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
