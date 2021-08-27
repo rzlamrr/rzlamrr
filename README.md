@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation."</i>
+<i>"Adopt the pace of nature: her secret is patience."</i>
 <br>
-<b>- George Washington</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
