@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"Always keep an open mind and a compassionate heart."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
