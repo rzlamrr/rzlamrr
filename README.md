@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't going all the way, why go at all?"</i>
+<i>"Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."</i>
 <br>
-<b>- Joe Namath</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
