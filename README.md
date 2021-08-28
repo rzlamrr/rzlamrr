@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning of knowledge is the discovery of something we do not understand."</i>
+<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
 <br>
-<b>- Frank Herbert</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
