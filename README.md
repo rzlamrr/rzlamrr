@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
+<i>"Knowledge rests not upon truth alone, but upon error also."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
