@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
