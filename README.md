@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts."</i>
+<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
 <br>
-<b>- Alan Cohen</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
