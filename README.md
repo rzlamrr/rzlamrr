@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't get in life what you want; you get in life what you are."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Les Brown</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
