@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances."</i>
+<i>"Silence is deep as Eternity; Speech is shallow as Time."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
