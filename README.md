@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is either a daring adventure, or nothing."</i>
+<i>"You don't get in life what you want; you get in life what you are."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
