@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the shoe doesn't fit, must we change the foot?"</i>
+<i>"To some degree, you control your life by controlling your time."</i>
 <br>
-<b>- Gloria Steinem</b>
+<b>- Conrad Hilton</b>
 </blockquote>
 </p>
 
