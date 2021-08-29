@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people are about as happy as they make up their minds to be"</i>
+<i>"Don't smother each other. No one can grow in the shade."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
