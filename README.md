@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all inclined to judge ourselves by our ideals; others, by their acts."</i>
+<i>"If the shoe doesn't fit, must we change the foot?"</i>
 <br>
-<b>- Harold Nicolson</b>
+<b>- Gloria Steinem</b>
 </blockquote>
 </p>
 
