@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't smother each other. No one can grow in the shade."</i>
+<i>"Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
