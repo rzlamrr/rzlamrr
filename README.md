@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
+<i>"We are all inclined to judge ourselves by our ideals; others, by their acts."</i>
 <br>
-<b>- Laozi</b>
+<b>- Harold Nicolson</b>
 </blockquote>
 </p>
 
