@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Boldness makes even the smallest animal dangerous."</i>
+<i>"Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
