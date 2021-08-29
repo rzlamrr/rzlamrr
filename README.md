@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Study the past, if you would divine the future."</i>
+<i>"The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself."</i>
 <br>
-<b>- Confucius</b>
+<b>- Henry Miller</b>
 </blockquote>
 </p>
 
