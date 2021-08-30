@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What lies behind us and what lies before us are small matters compared to what lies within us."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
