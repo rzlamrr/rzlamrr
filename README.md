@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all."</i>
+<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
 <br>
-<b>- Edward de Bono</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
