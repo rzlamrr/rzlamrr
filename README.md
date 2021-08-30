@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get the full value of joy you must have someone to divide it with."</i>
+<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
