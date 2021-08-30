@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is God given. Be humble. Fame is man-given. Be grateful. Conceit is self-given. Be careful."</i>
+<i>"Great acts are made up of small deeds."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
