@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I begin with an idea and then it becomes something else."</i>
+<i>"To get the full value of joy you must have someone to divide it with."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
