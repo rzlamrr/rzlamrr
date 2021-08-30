@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time."</i>
+<i>"To improve is to change, so to be perfect is to change often."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
