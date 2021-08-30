@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great acts are made up of small deeds."</i>
+<i>"Judge a man by his questions rather than his answers."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
