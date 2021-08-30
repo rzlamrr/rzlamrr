@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must create our own world or we will die from inaction."</i>
+<i>"Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
