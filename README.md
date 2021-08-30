@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
