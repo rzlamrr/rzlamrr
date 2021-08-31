@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The simplest things are often the truest."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
