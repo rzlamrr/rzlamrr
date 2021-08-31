@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
