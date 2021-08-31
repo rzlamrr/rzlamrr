@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may say I’m a dreamer, but I’m not the only one, I hope someday you will join us, and the world will live as one."</i>
+<i>"He who leaves the game wins it."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
