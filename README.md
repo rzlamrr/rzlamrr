@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let anyone define you. You define yourself."</i>
+<i>"The simplest things are often the truest."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
