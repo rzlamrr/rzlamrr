@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"You may say I’m a dreamer, but I’m not the only one, I hope someday you will join us, and the world will live as one."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
