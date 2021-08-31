@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
+<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
 <br>
 <b>- Dalai Lama</b>
 </blockquote>
