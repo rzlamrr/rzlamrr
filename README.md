@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Pema Chödrön</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
