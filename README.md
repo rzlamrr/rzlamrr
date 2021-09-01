@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great myth of our times is that technology is communication."</i>
+<i>"One fails forward toward success."</i>
 <br>
-<b>- Libby Larsen</b>
+<b>- Charles F. Kettering</b>
 </blockquote>
 </p>
 
