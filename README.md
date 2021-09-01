@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live a pure unselfish life, one must count nothing as one’s own in the midst of abundance."</i>
+<i>"You can't cross the sea merely by standing and staring at the water."</i>
 <br>
-<b>- Buddha</b>
+<b>- Rabindranath Tagore</b>
 </blockquote>
 </p>
 
