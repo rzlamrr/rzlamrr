@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't cross the sea merely by standing and staring at the water."</i>
+<i>"The great myth of our times is that technology is communication."</i>
 <br>
-<b>- Rabindranath Tagore</b>
+<b>- Libby Larsen</b>
 </blockquote>
 </p>
 
