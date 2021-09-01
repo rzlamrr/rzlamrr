@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One fails forward toward success."</i>
+<i>"Friendship always benefits; love sometimes injures."</i>
 <br>
-<b>- Charles F. Kettering</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
