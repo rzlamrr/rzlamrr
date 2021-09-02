@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Motivation is what gets you started. Habit is what keeps you going."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
