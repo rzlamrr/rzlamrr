@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"The dreamers are the saviors of the worlds."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
