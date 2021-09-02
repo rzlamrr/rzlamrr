@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
 <br>
-<b>- James Allen</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
