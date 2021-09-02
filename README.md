@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a sewer. What you get out of it depends on what you put into it."</i>
+<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
 <br>
-<b>- Tom Lehrer</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
