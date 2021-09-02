@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just a chance to grow a soul."</i>
+<i>"Life is like a sewer. What you get out of it depends on what you put into it."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- Tom Lehrer</b>
 </blockquote>
 </p>
 
