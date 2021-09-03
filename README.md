@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"The friendship that can cease has never been real."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Jerome</b>
 </blockquote>
 </p>
 
