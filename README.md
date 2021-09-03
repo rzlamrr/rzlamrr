@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the art of drawing sufficient conclusions from insufficient premises."</i>
+<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
