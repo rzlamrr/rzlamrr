@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The friendship that can cease has never been real."</i>
+<i>"You can observe a lot just by watching."</i>
 <br>
-<b>- Jerome</b>
+<b>- Yogi Berra</b>
 </blockquote>
 </p>
 
