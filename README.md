@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"Simplicity is the glory of expression."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
