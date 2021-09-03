@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adopt the pace of nature: her secret is patience."</i>
+<i>"Learning never exhausts the mind. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
