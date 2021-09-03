@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"There is no value in anything until it is finished. "</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
