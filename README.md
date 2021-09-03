@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask yourself the secret of your success. Listen to your answer and practice it."</i>
+<i>"Adopt the pace of nature: her secret is patience."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
