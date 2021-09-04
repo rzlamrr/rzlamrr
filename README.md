@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always wanted to be somebody, but I should have been more specific."</i>
+<i>"Life is not meant to be easy my child, but take courage: it can be delightful."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
