@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your mind can conceive and believe, it can achieve."</i>
+<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- George Marshall</b>
 </blockquote>
 </p>
 
