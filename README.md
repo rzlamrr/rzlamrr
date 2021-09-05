@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
