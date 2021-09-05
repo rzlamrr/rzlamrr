@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A very little key will open a very heavy door."</i>
+<i>"Today you are you! That is truer than true! There is no one alive who is you-er than you!"</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
