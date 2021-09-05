@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always forgive your enemies - nothing annoys them so much. "</i>
+<i>"A very little key will open a very heavy door."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
