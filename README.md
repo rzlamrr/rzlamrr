@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a thing is done, it's done. Don't look back. Look forward to your next objective."</i>
+<i>"The meaning of life is that it stops."</i>
 <br>
-<b>- George Marshall</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
