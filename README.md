@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams."</i>
+<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
