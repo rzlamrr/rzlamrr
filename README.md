@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not old as long as he is seeking something."</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- Edmond Rostand</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
