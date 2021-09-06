@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To enjoy life, we must touch much of it lightly."</i>
+<i>"Argue for your limitations, and sure enough they’re yours."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
