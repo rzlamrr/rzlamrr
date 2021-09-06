@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you choose hope, anything’s possible."</i>
+<i>"The only person who never makes mistakes is the person who never does anything."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
