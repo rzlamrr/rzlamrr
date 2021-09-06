@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will never do anything in this world without courage. It is the greatest quality of the mind next to honor."</i>
+<i>"Once you choose hope, anything’s possible."</i>
 <br>
-<b>- James Allen</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
