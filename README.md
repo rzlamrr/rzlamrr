@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to do your own growing no matter how tall your grandfather was."</i>
+<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
