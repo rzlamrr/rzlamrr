@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who can make you believe absurdities can make you commit atrocities. "</i>
+<i>"Every man gotta right to decide his own destiny."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
