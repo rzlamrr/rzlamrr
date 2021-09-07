@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask no questions, and you'll be told no lies."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
