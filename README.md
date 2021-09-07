@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn’t heal emotional pain, you need to learn how to let go."</i>
+<i>"The path to success is to take massive, determined action."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
