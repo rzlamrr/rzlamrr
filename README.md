@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"We need never be ashamed of our tears."</i>
 <br>
-<b>- Laozi</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
