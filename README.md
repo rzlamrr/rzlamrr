@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
