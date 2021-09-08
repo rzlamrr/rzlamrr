@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"At the center of your being you have the answer; you know who you are and you know what you want."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
