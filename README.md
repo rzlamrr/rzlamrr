@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"Sooner or later, those who win are those who think they can."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
