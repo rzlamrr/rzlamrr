@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
