@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"Identify your problems, but give your power and energy to solutions."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
