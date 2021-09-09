@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know of only one duty, and that is to love."</i>
+<i>"Look back over the past, with its changing empires that rose and fell, and you can foresee the future, too."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
