@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the most valuable thing a man can spend."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Theophrastus</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
