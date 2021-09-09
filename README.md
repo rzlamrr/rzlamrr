@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Benjamin Franklin </b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
