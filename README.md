@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"Dreams are the royal road to the unconscious. "</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
