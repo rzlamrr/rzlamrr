@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are important enough to ask and you are blessed enough to receive back."</i>
+<i>"Time is the most valuable thing a man can spend."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Theophrastus</b>
 </blockquote>
 </p>
 
