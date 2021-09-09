@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Identify your problems, but give your power and energy to solutions."</i>
+<i>"You are important enough to ask and you are blessed enough to receive back."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
