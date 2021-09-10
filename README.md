@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."</i>
+<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
