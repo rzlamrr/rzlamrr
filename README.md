@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</i>
+<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
