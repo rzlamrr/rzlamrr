@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who doesn't trust himself can never really trust anyone else."</i>
+<i>"Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."</i>
 <br>
-<b>- Jean François Paul de Gondi</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
