@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you see a get rich quick scheme, that's someone else trying to get rich off of you."</i>
+<i>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
