@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
+<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
