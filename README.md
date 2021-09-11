@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quieter you become, the more you are able to hear."</i>
+<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
 <br>
-<b>- Rumi</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
