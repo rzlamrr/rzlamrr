@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is with words as with sunbeams. The more they are condensed, the deeper they burn."</i>
+<i>"God always takes the simplest way."</i>
 <br>
-<b>- Robert Southey</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
