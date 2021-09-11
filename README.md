@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How wonderful that we have met with a paradox. Now we have some hope of making progress."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Niels Bohr</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
