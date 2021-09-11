@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen."</i>
+<i>"It is with words as with sunbeams. The more they are condensed, the deeper they burn."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Robert Southey</b>
 </blockquote>
 </p>
 
