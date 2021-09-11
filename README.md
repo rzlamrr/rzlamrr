@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
+<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- John Updike</b>
 </blockquote>
 </p>
 
