@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge."</i>
+<i>"How wonderful that we have met with a paradox. Now we have some hope of making progress."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Niels Bohr</b>
 </blockquote>
 </p>
 
