@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"Everything you look at can become a fairy tale and you can get a story from everything you touch."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
