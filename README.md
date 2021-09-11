@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is impossible. The word itself says 'I'm possible!'"</i>
+<i>"In the end we retain from our studies only that which we practically apply."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
