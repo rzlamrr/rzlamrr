@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"Be strong. Be confident. Be the star of your own life."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
