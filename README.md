@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
+<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
 <br>
-<b>- Elizabeth Browning</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
