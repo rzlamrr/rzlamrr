@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
+<i>"The man who trusts men will make fewer mistakes than he who distrusts them."</i>
 <br>
-<b>- John Updike</b>
+<b>- Camillo Benso, Count of Cavour</b>
 </blockquote>
 </p>
 
