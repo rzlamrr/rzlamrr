@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lost because we told ourselves we lost."</i>
+<i>"A short saying often contains much wisdom."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
