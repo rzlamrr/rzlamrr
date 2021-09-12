@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are able to employ your will always for constructive purposes, you become the controller of your destiny."</i>
+<i>"Knowledge speaks, but wisdom listens."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Jimi Hendrix</b>
 </blockquote>
 </p>
 
