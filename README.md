@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"We lost because we told ourselves we lost."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
