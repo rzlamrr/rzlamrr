@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge speaks, but wisdom listens."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Jimi Hendrix</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
