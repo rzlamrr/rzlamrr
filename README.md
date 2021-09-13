@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know how to listen, and you will profit even from those who talk badly."</i>
+<i>"As you think, so shall you become."</i>
 <br>
-<b>- Plutarch</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
