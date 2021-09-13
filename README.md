@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
