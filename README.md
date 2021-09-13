@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
+<i>"I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
