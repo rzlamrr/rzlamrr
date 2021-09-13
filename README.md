@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The shoe that fits one person pinches another; there is no recipe for living that suits all cases."</i>
+<i>"Every man is a volume if you know how to read him."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
