@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formula for success: under promise and over deliver."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Tom Peters</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
