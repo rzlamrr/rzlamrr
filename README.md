@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In life you need either inspiration or desperation."</i>
+<i>"Only the hand that erases can write the true thing."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
