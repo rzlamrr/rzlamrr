@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enlightenment is intimacy with all things."</i>
+<i>"All problems are interpersonal relationship problems."</i>
 <br>
-<b>- Dogen</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
