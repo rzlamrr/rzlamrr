@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The opportunity of defeating the enemy is provided by the enemy himself."</i>
+<i>"Never find fault with the absent."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
