@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only the hand that erases can write the true thing."</i>
+<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
