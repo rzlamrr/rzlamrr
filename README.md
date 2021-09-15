@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no failures. Just experiences and your reactions to them."</i>
+<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
 <br>
-<b>- Tom Krause</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
