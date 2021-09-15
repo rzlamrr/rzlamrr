@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love fools' experiments. I am always making them."</i>
+<i>"Never put off till tomorrow what you can do today."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
