@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has been made for some particular work, and the desire for that work has been put in every heart."</i>
+<i>"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."</i>
 <br>
-<b>- Rumi</b>
+<b>- Harriet Tubman</b>
 </blockquote>
 </p>
 
