@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off till tomorrow what you can do today."</i>
+<i>"The truest wisdom is a resolute determination."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
