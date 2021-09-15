@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
