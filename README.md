@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
+<i>"There are no failures. Just experiences and your reactions to them."</i>
 <br>
-<b>- Confucius</b>
+<b>- Tom Krause</b>
 </blockquote>
 </p>
 
