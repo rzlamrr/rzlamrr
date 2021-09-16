@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is contagious. So is lack of confidence."</i>
+<i>"The most wasted day of all is that on which we have not laughed."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
