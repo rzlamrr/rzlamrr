@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"There is nothing happens to any person but what was in his power to go through with."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
