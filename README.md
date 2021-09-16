@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Autumn is a second spring when every leaf is a flower."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
