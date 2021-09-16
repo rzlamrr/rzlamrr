@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing happens to any person but what was in his power to go through with."</i>
+<i>"Love is never lost. If not reciprocated, it will flow back and soften and purify the heart."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Washington Irving</b>
 </blockquote>
 </p>
 
