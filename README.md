@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has its root in goodness, not goodness its root in wisdom."</i>
+<i>"Confidence is contagious. So is lack of confidence."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
