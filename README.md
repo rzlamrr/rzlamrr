@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
+<i>"Life is like a wheel. Sooner or later, it always comes around to where you started again."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
