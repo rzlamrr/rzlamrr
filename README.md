@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
+<i>"Wisdom has its root in goodness, not goodness its root in wisdom."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
