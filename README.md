@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"I have always thought the actions of men the best interpreters of their thoughts."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
