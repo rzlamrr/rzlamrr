@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when we are no longer afraid do we begin to live."</i>
+<i>"I don't want to achieve immortality through my work... I want to achieve it through not dying."</i>
 <br>
-<b>- Dorothy Thompson</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
