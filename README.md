@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't want to achieve immortality through my work... I want to achieve it through not dying."</i>
+<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
