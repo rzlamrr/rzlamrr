@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"We must cultivate our garden. "</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
