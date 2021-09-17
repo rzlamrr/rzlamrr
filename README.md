@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To bring anything into your life, imagine that it's already there."</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
