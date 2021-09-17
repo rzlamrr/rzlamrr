@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is never lost. If not reciprocated, it will flow back and soften and purify the heart."</i>
+<i>"Life reflects your own thoughts back to you."</i>
 <br>
-<b>- Washington Irving</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
