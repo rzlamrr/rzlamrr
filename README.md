@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what you make of it. Always has been, always will be."</i>
+<i>"To bring anything into your life, imagine that it's already there."</i>
 <br>
-<b>- Grandma Moses</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
