@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would rather die on my feet than live on my knees."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Euripides</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
