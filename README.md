@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To every action there is always opposed an equal reaction."</i>
+<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
