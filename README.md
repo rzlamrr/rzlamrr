@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
+<i>"Wisdom begins at the end."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Daniel Webster</b>
 </blockquote>
 </p>
 
