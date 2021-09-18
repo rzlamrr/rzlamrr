@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know the rules well, so you can break them effectively."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
