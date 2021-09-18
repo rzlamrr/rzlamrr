@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A really great talent finds its happiness in execution."</i>
+<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
