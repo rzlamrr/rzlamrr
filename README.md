@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to a better understanding of ourselves."</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
