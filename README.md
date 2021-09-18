@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life does not get better by chance, it gets better by change."</i>
+<i>"If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
