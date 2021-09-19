@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want."</i>
+<i>"A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Fawn M. Brodie</b>
 </blockquote>
 </p>
 
