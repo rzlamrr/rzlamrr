@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't shake hands with a clenched fist."</i>
+<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
 <br>
-<b>- Indira Gandhi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
