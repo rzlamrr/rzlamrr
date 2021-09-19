@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Repetition does not transform a lie into a truth."</i>
+<i>"Always be a first-rate version of yourself, instead of a second-rate version of somebody else."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
