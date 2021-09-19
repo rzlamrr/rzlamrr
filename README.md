@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"You are the only real obstacle in your path to a fulfilling life."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
