@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people find fault like there is a reward for it.  "</i>
+<i>"The superior man acts before he speaks, and afterwards speaks according to his action."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
