@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good timber does not grow with ease; the stronger the wind, the stronger the trees."</i>
+<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
 <br>
-<b>- J. Willard Marriott</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
