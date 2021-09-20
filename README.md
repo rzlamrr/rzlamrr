@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant."</i>
+<i>"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Eckhart Tolle </b>
 </blockquote>
 </p>
 
