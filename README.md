@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As we are liberated from our own fear, our presence automatically liberates others."</i>
+<i>"Friendship is the marriage of the soul, and this marriage is liable to divorce."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
