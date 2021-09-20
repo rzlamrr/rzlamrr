@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
+<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Ed Cunningham</b>
 </blockquote>
 </p>
 
