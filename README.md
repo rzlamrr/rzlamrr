@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be a first-rate version of yourself, instead of a second-rate version of somebody else."</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
