@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
+<i>"As we are liberated from our own fear, our presence automatically liberates others."</i>
 <br>
-<b>- Ed Cunningham</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
