@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can think of nothing less pleasurable than a life devoted to pleasure."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
