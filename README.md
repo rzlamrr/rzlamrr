@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
