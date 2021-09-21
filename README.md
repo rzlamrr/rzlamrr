@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is the marriage of the soul, and this marriage is liable to divorce."</i>
+<i>"He who controls others may be powerful, but he who has mastered himself is mightier still."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
