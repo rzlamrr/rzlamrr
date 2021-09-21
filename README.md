@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who controls others may be powerful, but he who has mastered himself is mightier still."</i>
+<i>"There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered."</i>
 <br>
-<b>- Laozi</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
