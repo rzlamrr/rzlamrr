@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The conditions of conquest are always easy. We have but to toil awhile, endure awhile, believe always, and never turn back."</i>
+<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Jean de La Bruyère</b>
 </blockquote>
 </p>
 
