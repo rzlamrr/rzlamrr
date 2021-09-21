@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
