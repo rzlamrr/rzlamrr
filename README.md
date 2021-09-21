@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered."</i>
+<i>"Meditation brings wisdom, lack of meditation leaves ignorance. Know well what leads you forward and what holds you back and choose the path that leads to wisdom."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
