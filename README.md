@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The few who do are the envy of the many who only watch."</i>
+<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
