@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who seek the easy way do not seek the true way."</i>
+<i>"Difficulties strengthen the mind, as labor does the body.  "</i>
 <br>
-<b>- Dogen</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
