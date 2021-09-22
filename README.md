@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality."</i>
+<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
