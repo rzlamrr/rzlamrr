@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship increases in visiting friends, but in visiting them seldom."</i>
+<i>"Never mistake motion for action."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Ernest Hemingway</b>
 </blockquote>
 </p>
 
