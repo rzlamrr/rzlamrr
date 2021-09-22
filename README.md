@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is found in doing, not merely possessing."</i>
+<i>"Friendship is certainly the finest balm for the pangs of disappointed love."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Jane Austen</b>
 </blockquote>
 </p>
 
