@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
+<i>"The least movement is of importance to all nature. The entire ocean is affected by a pebble."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
