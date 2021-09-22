@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is certainly the finest balm for the pangs of disappointed love."</i>
+<i>"Friendship increases in visiting friends, but in visiting them seldom."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
