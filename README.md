@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The least movement is of importance to all nature. The entire ocean is affected by a pebble."</i>
+<i>"If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Robert Fulghum</b>
 </blockquote>
 </p>
 
