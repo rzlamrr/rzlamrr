@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Either get busy living or get busy dying."</i>
+<i>"A person is only by the thoughts that he chooses."</i>
 <br>
-<b>- Stephen King</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
