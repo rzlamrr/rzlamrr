@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world."</i>
+<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
