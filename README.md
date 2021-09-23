@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The farther backward you can look, the farther forward you are likely to see."</i>
+<i>"Our lives are a sum total of the choices we have made."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
