@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul."</i>
+<i>"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. "</i>
 <br>
-<b>- Judy Garland</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
