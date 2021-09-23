@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"The farther backward you can look, the farther forward you are likely to see."</i>
 <br>
-<b>- Dogen</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
