@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams. "</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
