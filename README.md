@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are never given a wish without also being given the power to make it come true. You may have to work for it, however."</i>
+<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
