@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What wisdom can you find that is greater than kindness?"</i>
+<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
 <br>
-<b>- Jean-Jacques Rousseau</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
