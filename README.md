@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take things as they are. Punch when you have to punch. Kick when you have to kick."</i>
+<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
