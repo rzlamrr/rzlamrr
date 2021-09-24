@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves."</i>
+<i>"If you can't explain it simply, you don't understand it well enough."</i>
 <br>
-<b>- Laozi</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
