@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- Jerome</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
