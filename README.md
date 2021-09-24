@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
+<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
