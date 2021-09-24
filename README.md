@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you will never know the value of something, until it becomes a memory."</i>
+<i>"The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
