@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is on our failures that we base a new and different and better success."</i>
+<i>"We aim above the mark to hit the mark."</i>
 <br>
-<b>- Havelock Ellis</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
