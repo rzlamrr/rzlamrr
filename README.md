@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
+<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Harvey Mackay</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
