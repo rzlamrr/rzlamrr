@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are disturbed not by things, but by the view which they take of them."</i>
+<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Harvey Mackay</b>
 </blockquote>
 </p>
 
