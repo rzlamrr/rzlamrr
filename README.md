@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle."</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
