@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"It is on our failures that we base a new and different and better success."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Havelock Ellis</b>
 </blockquote>
 </p>
 
