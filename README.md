@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is as a butterfly which, when pursued, is always beyond our grasp, but which if you will sit down quietly, may alight upon you."</i>
+<i>"Men are disturbed not by things, but by the view which they take of them."</i>
 <br>
-<b>- Nathaniel Hawthorne</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
