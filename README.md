@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be your own hero, it's cheaper than a movie ticket."</i>
+<i>"Take into account that great love and great achievements involve great risk."</i>
 <br>
-<b>- Doug Horton</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
