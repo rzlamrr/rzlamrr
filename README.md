@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of success is constancy to purpose."</i>
+<i>"A true friend is someone who is there for you when he'd rather be anywhere else."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Len Wein</b>
 </blockquote>
 </p>
 
