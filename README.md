@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The health of nations is more important than the wealth of nations."</i>
+<i>"If I persist long enough I will win."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
