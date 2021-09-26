@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
+<i>"Be your own hero, it's cheaper than a movie ticket."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Doug Horton</b>
 </blockquote>
 </p>
 
