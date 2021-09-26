@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always focus on the front windshield and not the rear view mirror."</i>
+<i>"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
