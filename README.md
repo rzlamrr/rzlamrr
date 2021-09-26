@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no charm equal to tenderness of heart."</i>
+<i>"Success is not to be pursued, it is to be attracted by the person you become."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
