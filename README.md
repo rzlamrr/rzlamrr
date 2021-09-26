@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I persist long enough I will win."</i>
+<i>"Memory is the mother of all wisdom."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
