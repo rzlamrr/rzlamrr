@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real meditation is how you live your life."</i>
+<i>"How wonderful that we have met with a paradox. Now we have some hope of making progress."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Niels Bohr</b>
 </blockquote>
 </p>
 
