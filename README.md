@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without the confidence, nothing can be accomplished."</i>
+<i>"When the root is strong, the fruit is sweet."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
