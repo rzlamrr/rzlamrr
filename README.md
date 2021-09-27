@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
+<i>"The self is not something ready-made, but something in continuous formation through choice of action."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
