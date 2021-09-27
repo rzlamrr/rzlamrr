@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How wonderful that we have met with a paradox. Now we have some hope of making progress."</i>
+<i>"The more perfect a person is on the outside, the more demons they have on the inside."</i>
 <br>
-<b>- Niels Bohr</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
