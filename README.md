@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From error to error one discovers the entire truth."</i>
+<i>"Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
