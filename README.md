@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The self is not something ready-made, but something in continuous formation through choice of action."</i>
+<i>"You can't wait for inspiration. You have to go after it with a club. "</i>
 <br>
-<b>- John Dewey</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
