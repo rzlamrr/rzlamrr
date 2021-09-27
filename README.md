@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the root is strong, the fruit is sweet."</i>
+<i>"From error to error one discovers the entire truth."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
