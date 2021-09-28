@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change, and change is Nature’s delight."</i>
+<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
