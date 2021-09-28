@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all inclined to judge ourselves by our ideals; others, by their acts."</i>
+<i>"More often than not, anger is actually an indication of weakness rather than of strength."</i>
 <br>
-<b>- Harold Nicolson</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
