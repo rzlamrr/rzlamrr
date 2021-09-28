@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I skate to where the puck is going to be, not where it has been."</i>
+<i>"Skill to do comes of doing."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
