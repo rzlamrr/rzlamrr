@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want peace, you won't get it with violence."</i>
+<i>"We are all inclined to judge ourselves by our ideals; others, by their acts."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Harold Nicolson</b>
 </blockquote>
 </p>
 
