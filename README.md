@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Skill to do comes of doing."</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
