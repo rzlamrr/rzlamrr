@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"More often than not, anger is actually an indication of weakness rather than of strength."</i>
+<i>"Loss is nothing else but change, and change is Nature’s delight."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
