@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"Accept the challenges so that you can feel the exhilaration of victory."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
