@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept the challenges so that you can feel the exhilaration of victory."</i>
+<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Jane Addams</b>
 </blockquote>
 </p>
 
