@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to free fools from the chains they revere. "</i>
+<i>"The best thing to hold onto in life is each other."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
