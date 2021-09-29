@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars."</i>
+<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
