@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
+<i>"The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
