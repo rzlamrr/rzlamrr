@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"The season of failure is the best time for sowing the seeds of success. "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
