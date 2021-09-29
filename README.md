@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Walking with a friend in the dark is better than walking alone in the light."</i>
+<i>"Winners never quit and quitters never win."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
