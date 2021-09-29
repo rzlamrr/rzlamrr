@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our doubts are traitors and make us lose the good we often might win, by fearing to attempt."</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
 <br>
-<b>- Jane Addams</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
