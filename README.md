@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
