@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
+<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
 <br>
-<b>- Vernon Cooper</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
