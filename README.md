@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the average of the five people you spend the most time with."</i>
+<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
