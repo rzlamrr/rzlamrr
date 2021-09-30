@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning never exhausts the mind."</i>
+<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Vernon Cooper</b>
 </blockquote>
 </p>
 
