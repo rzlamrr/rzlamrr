@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants."</i>
+<i>"Time is the wisest counsellor of all."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Pericles</b>
 </blockquote>
 </p>
 
