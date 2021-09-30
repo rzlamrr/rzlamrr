@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
+<i>"If we have no peace, it is because we have forgotten that we belong to each other."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
