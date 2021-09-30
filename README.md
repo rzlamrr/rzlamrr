@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success does not consist in never making mistakes but in never making the same one a second time."</i>
+<i>"You are the average of the five people you spend the most time with."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
