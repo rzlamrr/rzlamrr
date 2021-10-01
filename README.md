@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."</i>
+<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
