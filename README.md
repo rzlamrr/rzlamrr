@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
