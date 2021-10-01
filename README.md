@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dare to fail miserably can achieve greatly."</i>
+<i>"One today is worth two tomorrows."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
