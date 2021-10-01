@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
+<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
