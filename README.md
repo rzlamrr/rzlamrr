@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
