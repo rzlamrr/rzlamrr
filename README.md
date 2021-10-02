@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"Good entrepreneurs don't fail because they stay at it."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
