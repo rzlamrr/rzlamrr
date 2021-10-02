@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisest men follow their own direction."</i>
+<i>"Courage is not the absence of fear, but simply moving on with dignity despite that fear."</i>
 <br>
-<b>- Euripides</b>
+<b>- Pat Riley</b>
 </blockquote>
 </p>
 
