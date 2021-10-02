@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"Life shrinks or expands in proportion to one's courage."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
