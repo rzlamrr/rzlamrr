@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life shrinks or expands in proportion to one's courage."</i>
+<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
