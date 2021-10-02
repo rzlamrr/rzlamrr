@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
