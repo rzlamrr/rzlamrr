@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single rose can be my garden... a single friend, my world."</i>
+<i>"As you think, you travel, and as you love, you attract."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
