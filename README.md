@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An inventor is a man who asks Why? of the universe and lets nothing stand between the answer and his mind."</i>
+<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
