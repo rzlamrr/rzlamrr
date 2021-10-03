@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to a man. It is what a man does with what happens to him."</i>
+<i>"A single rose can be my garden... a single friend, my world."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
