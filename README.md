@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Superior Man is aware of Righteousness, the inferior man is aware of advantage."</i>
+<i>"Experience is not what happens to a man. It is what a man does with what happens to him."</i>
 <br>
-<b>- Confucius</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
