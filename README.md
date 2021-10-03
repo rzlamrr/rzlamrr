@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let yourself be silently drawn by the stronger pull of what you really love."</i>
+<i>"Just do the best you can. No one can do more than that."</i>
 <br>
-<b>- Rumi</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
