@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you think, you travel, and as you love, you attract."</i>
+<i>"Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."</i>
 <br>
-<b>- James Allen</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
