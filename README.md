@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To fly as fast as thought, you must begin by knowing that you have already arrived."</i>
+<i>"Let yourself be silently drawn by the stronger pull of what you really love."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
