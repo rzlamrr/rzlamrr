@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing."</i>
+<i>"To fly as fast as thought, you must begin by knowing that you have already arrived."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
