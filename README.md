@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good entrepreneurs don't fail because they stay at it."</i>
+<i>"Humanity is acquiring all the right technology for all the wrong reasons."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Buckminster Fuller</b>
 </blockquote>
 </p>
 
