@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
+<i>"Men learn to love the woman they are attracted to. Women learn to become attracted to the man they fall in love with."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
