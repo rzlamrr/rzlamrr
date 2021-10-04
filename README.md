@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not."</i>
+<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Mignon McLaughlin</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
