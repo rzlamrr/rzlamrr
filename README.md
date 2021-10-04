@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
+<i>"Don't judge each day by the harvest you reap but by the seeds that you plant."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
