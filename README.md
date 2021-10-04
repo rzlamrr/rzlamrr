@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah."</i>
+<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
 <br>
-<b>- Afrika Bambaataa</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
