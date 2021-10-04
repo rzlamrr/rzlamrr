@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing."</i>
+<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
