@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't judge each day by the harvest you reap but by the seeds that you plant."</i>
+<i>"To be alive - is Power."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
