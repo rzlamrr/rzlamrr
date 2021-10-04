@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
+<i>"That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
