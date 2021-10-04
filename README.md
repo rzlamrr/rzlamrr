@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be alive - is Power."</i>
+<i>"Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Henry Wadsworth Longfellow</b>
 </blockquote>
 </p>
 
