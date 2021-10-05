@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"You are the only real obstacle in your path to a fulfilling life."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
