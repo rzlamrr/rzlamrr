@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A scientific man ought to have no wishes, no affections, - a mere heart of stone."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
