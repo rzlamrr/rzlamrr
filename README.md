@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only real obstacle in your path to a fulfilling life."</i>
+<i>"If your actions inspire others to dream more, learn more, do more and become more, you are a leader."</i>
 <br>
-<b>- Les Brown</b>
+<b>- John Quincy Adams</b>
 </blockquote>
 </p>
 
