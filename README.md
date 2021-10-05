@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is the price that life exacts for granting peace."</i>
+<i>"I’m not in this world to live up to your expectations and you're not in this world to live up to mine."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
