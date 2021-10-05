@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
