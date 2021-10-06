@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love all, trust a few, do wrong to none."</i>
+<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
