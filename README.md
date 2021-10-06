@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before we acquire great power, we must acquire wisdom to use it well."</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
