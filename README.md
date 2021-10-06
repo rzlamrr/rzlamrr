@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity causes some men to break, others to break records."</i>
+<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
