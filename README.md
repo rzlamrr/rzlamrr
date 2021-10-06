@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
+<i>"A friend is what the heart needs all the time."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Henry van Dyke Jr.</b>
 </blockquote>
 </p>
 
