@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The years teach much which the days never know."</i>
+<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
