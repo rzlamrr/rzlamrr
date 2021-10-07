@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Henri Nouwen</b>
 </blockquote>
 </p>
 
