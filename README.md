@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever something negative happens to you, there is a deep lesson concealed within it."</i>
+<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Sam Keen</b>
 </blockquote>
 </p>
 
