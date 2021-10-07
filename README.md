@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."</i>
+<i>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Alfred Korzybski</b>
 </blockquote>
 </p>
 
