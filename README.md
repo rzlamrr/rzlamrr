@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
+<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
 <br>
-<b>- Sam Keen</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
