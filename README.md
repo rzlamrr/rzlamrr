@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Alfred Korzybski</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
