@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you care, the stronger you can be."</i>
+<i>"Everything has beauty but not everyone sees it."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Confucius </b>
 </blockquote>
 </p>
 
