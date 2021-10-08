@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off till tomorrow what you can do today."</i>
+<i>"Life can only be understood backwards; but it must be lived forwards."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Soren Kierkegaard</b>
 </blockquote>
 </p>
 
