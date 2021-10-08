@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death walks faster than the wind and never returns what he has taken."</i>
+<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
