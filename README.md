@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can only be understood backwards; but it must be lived forwards."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
