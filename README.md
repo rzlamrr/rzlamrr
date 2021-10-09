@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
