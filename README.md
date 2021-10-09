@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
