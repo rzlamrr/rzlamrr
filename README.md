@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but we insist on making it complicated."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Confucius</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
