@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you really want, you can attain, if you really go after it."</i>
+<i>"The smallest act of kindness is worth more than the grandest intention."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
