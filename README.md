@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
