@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can, you can. And if you think you can't, you're right."</i>
+<i>"Anything you really want, you can attain, if you really go after it."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
