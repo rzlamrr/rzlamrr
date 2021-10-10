@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
