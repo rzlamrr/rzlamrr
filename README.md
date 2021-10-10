@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is literally what he thinks."</i>
+<i>"Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others."</i>
 <br>
-<b>- James Allen</b>
+<b>- Harriet Lerner</b>
 </blockquote>
 </p>
 
