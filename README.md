@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
