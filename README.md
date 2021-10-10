@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability will never catch up with the demand for it."</i>
+<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
 <br>
-<b>- Confucius</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
