@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
+<i>"The biggest room in the world is room for improvement."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Helmut Schmidt</b>
 </blockquote>
 </p>
 
