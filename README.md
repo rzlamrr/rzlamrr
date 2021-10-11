@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
+<i>"You are not what you think you are, You are not what others think you are, You are what you think others think you are."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
