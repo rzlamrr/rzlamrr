@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am a man of fixed and unbending principles, the first of which is to be flexible at all times."</i>
+<i>"A prudent question is one half of wisdom."</i>
 <br>
-<b>- Everett Dirksen</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
