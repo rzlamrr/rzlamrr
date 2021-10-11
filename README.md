@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tradition is the illusion of permanence. "</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
