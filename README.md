@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"First we thought the PC was a calculator. Then we found out how to turn numbers into letters with ASCII — and we thought it was a typewriter. Then we discovered graphics, and we thought it was a television. With the World Wide Web, we’ve realized it’s a brochure."</i>
+<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
