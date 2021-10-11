@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any idea, plan, or purpose may be placed in the mind through repetition of thought."</i>
+<i>"You don't need anybody to tell you who you are or what you are. You are what you are!"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
