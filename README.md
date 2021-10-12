@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side."</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
 <br>
-<b>- Yolanda Hadid</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
