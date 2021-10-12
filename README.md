@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
