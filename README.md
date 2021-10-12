@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
+<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
