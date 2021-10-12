@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end."</i>
 <br>
 <b>- Roy T. Bennett</b>
 </blockquote>
