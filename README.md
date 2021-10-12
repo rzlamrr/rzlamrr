@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Almost everything comes from nothing."</i>
+<i>"We are wiser than we know."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
