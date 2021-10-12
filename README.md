@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow where the path may lead. Go, instead, where there is no path and leave a trail."</i>
+<i>"Time is the most valuable thing a man can spend."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Theophrastus</b>
 </blockquote>
 </p>
 
