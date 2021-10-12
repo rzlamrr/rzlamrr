@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go as long as you do not stop."</i>
+<i>"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations."</i>
 <br>
-<b>- Confucius</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
