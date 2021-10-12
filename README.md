@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the most valuable thing a man can spend."</i>
+<i>"It does not matter how slowly you go as long as you do not stop."</i>
 <br>
-<b>- Theophrastus</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
