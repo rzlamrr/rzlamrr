@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
