@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
+<i>"The greatest way to live with honor in this world is to be what we pretend to be."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
