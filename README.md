@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get angry is like to revenge yourself for the guilt of others."</i>
+<i>"If the happiness and prosperity of other people depend on you, you have nothing to fear anymore."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
