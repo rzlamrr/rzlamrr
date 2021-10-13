@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't cry because it's over. Smile because it happened."</i>
+<i>"To get angry is like to revenge yourself for the guilt of others."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
