@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am always doing that which I cannot do, in order that I may learn how to do it."</i>
+<i>"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
