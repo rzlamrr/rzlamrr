@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you genuinely want something, don't wait for it - teach yourself."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
