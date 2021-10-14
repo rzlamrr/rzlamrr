@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, don't."</i>
+<i>"Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
