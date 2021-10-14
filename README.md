@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"Fear can hold you prisoner. Hope can set you free."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
