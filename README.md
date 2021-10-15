@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship can afford true knowledge. It does not depend on darkness and ignorance."</i>
+<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
