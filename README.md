@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What are we doing here, that is the question."</i>
+<i>"A prudent question is one half of wisdom."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
