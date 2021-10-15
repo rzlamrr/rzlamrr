@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart."</i>
+<i>"What are we doing here, that is the question."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
