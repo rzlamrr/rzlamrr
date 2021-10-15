@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A prudent question is one half of wisdom."</i>
+<i>"True friendship can afford true knowledge. It does not depend on darkness and ignorance."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
