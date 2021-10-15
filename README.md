@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing permanent except change."</i>
+<i>"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now!"</i>
 <br>
-<b>- Heraclitus</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
