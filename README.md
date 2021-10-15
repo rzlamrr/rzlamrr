@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The noblest worship is to make yourself as good and as just as you can."</i>
+<i>"There is nothing permanent except change."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
