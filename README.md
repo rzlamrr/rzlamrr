@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now."</i>
+<i>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
