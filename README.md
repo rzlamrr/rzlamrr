@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
+<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
