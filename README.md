@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We would accomplish many more things if we did not think of them as impossible."</i>
+<i>"New beginnings are disguised as painful endings."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
