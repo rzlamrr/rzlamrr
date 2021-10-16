@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking."</i>
+<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
