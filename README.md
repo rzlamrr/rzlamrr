@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is the language which the deaf can hear and the blind can see."</i>
+<i>"Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- John Burroughs</b>
 </blockquote>
 </p>
 
