@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts."</i>
+<i>"If you're not making mistakes, then you're not doing anything."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
