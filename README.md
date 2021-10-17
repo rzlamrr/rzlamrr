@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no friendship, no love, like that of the parent for the child."</i>
+<i>"Confidence is the greatest friend."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
