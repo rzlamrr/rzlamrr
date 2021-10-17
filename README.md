@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't learn to do, but learn in doing."</i>
+<i>"There is no friendship, no love, like that of the parent for the child."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
