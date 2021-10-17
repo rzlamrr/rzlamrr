@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Care about what other people think and you will always be their prisoner."</i>
+<i>"If it turns out that there is a God, I don't think that he's evil. But the worst that you can say about him is that basically he's an underachiever."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
