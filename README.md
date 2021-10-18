@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
+<i>"To seek is to suffer. To seek nothing is bliss."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
