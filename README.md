@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live."</i>
+<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
 <br>
-<b>- Mortimer J. Adler</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
