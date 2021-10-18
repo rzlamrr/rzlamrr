@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level."</i>
+<i>"All human wisdom is contained in these two words - Wait and Hope"</i>
 <br>
-<b>- Eckhart Tolle </b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
