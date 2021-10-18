@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
