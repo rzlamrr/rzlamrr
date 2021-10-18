@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We could never learn to be brave and patient if there were only joy in the world."</i>
+<i>"Today you are you, that is truer than true. There is no one alive who is you-er than you."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
