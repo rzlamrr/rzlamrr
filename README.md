@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
+<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
 <br>
-<b>- George Washington</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
