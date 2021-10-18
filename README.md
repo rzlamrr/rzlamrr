@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in any endeavor depends on the degree to which it is an expression of your true self. "</i>
+<i>"Treat everyone with politeness and kindness, not because they are nice, but because you are."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
