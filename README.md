@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
+<i>"In the middle of chaos lies opportunity.  "</i>
 <br>
-<b>- Confucius</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
