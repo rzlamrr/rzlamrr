@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The aim of life is self-development. To realize one’s nature perfectly - that is what each of us is here for."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
