@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is really work unless you would rather be doing something else. "</i>
+<i>"The aim of life is self-development. To realize one’s nature perfectly - that is what each of us is here for."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
