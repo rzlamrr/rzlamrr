@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
