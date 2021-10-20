@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"The greatest healing therapy is friendship and love."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Hubert Humphrey</b>
 </blockquote>
 </p>
 
