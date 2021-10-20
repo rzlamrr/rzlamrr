@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest healing therapy is friendship and love."</i>
+<i>"Life is like a sewer. What you get out of it depends on what you put into it."</i>
 <br>
-<b>- Hubert Humphrey</b>
+<b>- Tom Lehrer</b>
 </blockquote>
 </p>
 
