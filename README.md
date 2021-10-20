@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like a sewer. What you get out of it depends on what you put into it."</i>
+<i>"One of the first signs of the beginning of understanding is the wish to die. "</i>
 <br>
-<b>- Tom Lehrer</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
