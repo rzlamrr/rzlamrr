@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
+<i>"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."</i>
 <br>
-<b>- Kurt Vonnegut</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
