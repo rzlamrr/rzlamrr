@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never put off till tomorrow what you can do today."</i>
+<i>"Be brave to stand for what you believe in even if you stand alone."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
