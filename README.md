@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all something, but none of us are everything."</i>
+<i>"Never put off till tomorrow what you can do today."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
