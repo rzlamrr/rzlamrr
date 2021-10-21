@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is a very taxing and arduous form of leisure activity."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
-<b>- Mortimer J. Adler</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
