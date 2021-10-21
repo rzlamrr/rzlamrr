@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has never been my object to record my dreams, just to realize them."</i>
+<i>"Our lives are a sum total of the choices we have made."</i>
 <br>
-<b>- Man Ray</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
