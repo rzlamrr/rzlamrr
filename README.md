@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start where you are. Use what you have. Do what you can."</i>
+<i>"Friendship is a very taxing and arduous form of leisure activity."</i>
 <br>
-<b>- Arthur Ashe</b>
+<b>- Mortimer J. Adler</b>
 </blockquote>
 </p>
 
