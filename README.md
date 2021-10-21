@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our lives are a sum total of the choices we have made."</i>
+<i>"Love is composed of a single soul inhabiting two bodies."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
