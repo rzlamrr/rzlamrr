@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much wisdom often goes with fewest words."</i>
+<i>"None but ourselves can free our minds."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
