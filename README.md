@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hardly anybody recognizes the most significant moments of their life at the time they happen."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
