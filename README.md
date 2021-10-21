@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is composed of a single soul inhabiting two bodies."</i>
+<i>"Much wisdom often goes with fewest words."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
