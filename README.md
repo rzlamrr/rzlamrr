@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"A good head and a good heart are always a formidable combination."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
