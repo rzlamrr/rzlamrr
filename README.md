@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"The most technologically efficient machine that man has ever invented is the book."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Northrop Frye</b>
 </blockquote>
 </p>
 
