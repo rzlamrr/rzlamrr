@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"You are the only real obstacle in your path to a fulfilling life."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
