@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is someone who is there for you when he'd rather be anywhere else."</i>
+<i>"Forever is composed of now's."</i>
 <br>
-<b>- Len Wein</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
