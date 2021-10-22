@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait. The time will never be just right."</i>
+<i>"A true friend is someone who is there for you when he'd rather be anywhere else."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Len Wein</b>
 </blockquote>
 </p>
 
