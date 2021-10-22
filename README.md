@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forever is composed of now's."</i>
+<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
