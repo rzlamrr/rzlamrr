@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
+<i>"Don't wait. The time will never be just right."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
