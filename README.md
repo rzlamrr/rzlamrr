@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People tend to complicate their own lives, as if living weren't already complicated enough."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
