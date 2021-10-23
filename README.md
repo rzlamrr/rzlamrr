@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
+<i>"Words used to attract the dull of wit are not to be relied on."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
