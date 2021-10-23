@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where does a thought go when it's forgotten?"</i>
+<i>"He that respects himself is safe from others; he wears a coat of mail that none can pierce."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Henry Wadsworth Longfellow</b>
 </blockquote>
 </p>
 
