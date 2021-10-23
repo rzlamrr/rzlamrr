@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for a sanctuary in anyone except your self."</i>
+<i>"Art is the signature of civilizations. "</i>
 <br>
-<b>- Buddha</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
