@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything."</i>
+<i>"Our kindness may be the most persuasive argument for that which we believe."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
