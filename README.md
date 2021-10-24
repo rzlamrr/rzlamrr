@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Paths are made by walking."</i>
+<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Harriet Woods</b>
 </blockquote>
 </p>
 
