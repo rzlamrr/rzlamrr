@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What happens is not as important as how you react to what happens."</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do."</i>
 <br>
-<b>- Ellen Glasgow</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
