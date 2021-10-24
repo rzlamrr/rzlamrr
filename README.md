@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."</i>
+<i>"What happens is not as important as how you react to what happens."</i>
 <br>
-<b>- Laozi</b>
+<b>- Ellen Glasgow</b>
 </blockquote>
 </p>
 
