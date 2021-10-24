@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education."</i>
+<i>"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
