@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
+<i>"A mountain never yields to the wind no matter how strong it is."</i>
 <br>
-<b>- Marianne Williamson</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
