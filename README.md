@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must cultivate our garden. "</i>
+<i>"You are free, and that is why you are lost."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
