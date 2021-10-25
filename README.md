@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
+<i>"Successful people do what unsuccessful people are not willing to do."</i>
 <br>
-<b>- Harriet Woods</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
