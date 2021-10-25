@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most powerful is he who has himself in his own power."</i>
+<i>"He who fears being conquered is sure of defeat."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
