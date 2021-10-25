@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day of worry is more exhausting than a day of work."</i>
+<i>"You have to keep breaking your heart until it opens."</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
