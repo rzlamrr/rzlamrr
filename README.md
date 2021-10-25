@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far better to be alone, than to be in bad company."</i>
+<i>"Quality means doing it right when no one is looking."</i>
 <br>
-<b>- George Washington</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
