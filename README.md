@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The price of inaction is far greater than the cost of making a mistake."</i>
+<i>"Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Mark Goulston</b>
 </blockquote>
 </p>
 
