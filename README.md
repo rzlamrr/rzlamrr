@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality means doing it right when no one is looking."</i>
+<i>"Repetition does not transform a lie into a truth."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
