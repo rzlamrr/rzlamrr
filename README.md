@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk."</i>
+<i>"One may say the eternal mystery of the world is its comprehensibility."</i>
 <br>
-<b>- Cicero</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
