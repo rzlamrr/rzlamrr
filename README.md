@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One may say the eternal mystery of the world is its comprehensibility."</i>
+<i>"If I know what love is, it is because of you."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
