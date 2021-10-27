@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
+<i>"Experts on romance say for a happy marriage there has to be more than a passionate love. For a lasting union, they insist, there must be a genuine liking for each other. Which, in my book, is a good definition for friendship."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
