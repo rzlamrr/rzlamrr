@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always forgive your enemies - nothing annoys them so much. "</i>
+<i>"Fear is a natural reaction to moving closer to the truth."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
