@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to win, you must expect to win."</i>
+<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
