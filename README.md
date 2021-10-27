@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
+<i>"You can start changing our world for the better daily, no matter how small the action."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
