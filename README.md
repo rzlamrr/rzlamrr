@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"It is only with the heart that one can see rightly, what is essential is invisible to the eye."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
