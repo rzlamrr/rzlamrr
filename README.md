@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
+<i>"Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
