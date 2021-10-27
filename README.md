@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship is like sound health; the value of it is seldom known until it is lost."</i>
+<i>"You won't skid if you stay in a rut."</i>
 <br>
-<b>- Charles Caleb Colton</b>
+<b>- Kin Hubbard</b>
 </blockquote>
 </p>
 
