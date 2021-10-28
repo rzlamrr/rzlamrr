@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish big things, I am convinced you must first dream big dreams."</i>
+<i>"There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded."</i>
 <br>
-<b>- Conrad Hilton</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
