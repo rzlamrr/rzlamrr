@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Jessamyn West</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
