@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never a loser until you quit trying."</i>
+<i>"If anything is worth doing, do it with all your heart."</i>
 <br>
-<b>- Mike Ditka</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
