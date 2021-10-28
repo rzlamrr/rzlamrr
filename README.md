@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With every experience, you alone are painting your own canvas, thought by thought, choice by choice."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
