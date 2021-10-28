@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
