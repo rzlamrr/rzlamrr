@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"Every gift from a friend is a wish for your happiness."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
