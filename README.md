@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time."</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
