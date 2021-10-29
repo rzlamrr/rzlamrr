@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of handling conflict is don't hang around people who are constantly engaging in conflict."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
