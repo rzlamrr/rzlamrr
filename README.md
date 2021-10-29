@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded."</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
