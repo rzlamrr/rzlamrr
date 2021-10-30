@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
+<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
