@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
