@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Self-trust is the first secret of success."</i>
+<i>"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Joan Didion</b>
 </blockquote>
 </p>
 
