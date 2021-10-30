@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- J. R. R. Tolkien</b>
 </blockquote>
 </p>
 
