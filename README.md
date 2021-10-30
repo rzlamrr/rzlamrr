@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- J. R. R. Tolkien</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
