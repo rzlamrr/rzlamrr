@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose."</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. "</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
