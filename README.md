@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"Self-trust is the first secret of success."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
