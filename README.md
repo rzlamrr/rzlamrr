@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"Wise men make more opportunities than they find."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
