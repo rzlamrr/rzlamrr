@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do in life, surround yourself with smart people who'll argue with you."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
