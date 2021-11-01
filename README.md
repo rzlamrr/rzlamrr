@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do what you can. Want what you have. Be who you are."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid! "</i>
 <br>
-<b>- Forrest Church</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
