@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more we have the less we own."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
