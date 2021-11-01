@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"Do what you can. Want what you have. Be who you are."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Forrest Church</b>
 </blockquote>
 </p>
 
