@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"Don't judge each day by the harvest you reap but by the seeds that you plant."</i>
 <br>
-<b>- James Allen</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
