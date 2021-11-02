@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
+<i>"The heart wants what it wants - or else it does not care."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
