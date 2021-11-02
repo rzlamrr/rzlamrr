@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man takes the limits of his own field of vision for the limits of the world."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
 <br>
-<b>- Arthur Schopenhauer</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
