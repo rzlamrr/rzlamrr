@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants - or else it does not care."</i>
+<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
