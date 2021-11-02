@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."</i>
+<i>"Confidence is what you have before you understand the problem."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
