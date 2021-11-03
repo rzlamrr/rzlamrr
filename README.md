@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i>
+<i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
