@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
+<i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
