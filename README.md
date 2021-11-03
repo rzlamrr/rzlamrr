@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
+<i>"In all things of nature there is something of the marvelous."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
