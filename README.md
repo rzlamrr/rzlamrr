@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In all things of nature there is something of the marvelous."</i>
+<i>"Knowledge rests not upon truth alone, but upon error also."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
