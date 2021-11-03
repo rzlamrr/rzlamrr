@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
