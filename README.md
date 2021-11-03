@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not here merely to make a living. You are here in order to enable the world to live more amply, with greater vision, with a finer spirit of hope and achievement. You are here to enrich the world, and you impoverish yourself if you forget the errand."</i>
+<i>"There is only one success: to be able to spend your life in your own way."</i>
 <br>
-<b>- Woodrow Wilson</b>
+<b>- Christopher Morley</b>
 </blockquote>
 </p>
 
