@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one success: to be able to spend your life in your own way."</i>
+<i>"Decision is a risk rooted in the courage of being free."</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- Paul Tillich</b>
 </blockquote>
 </p>
 
