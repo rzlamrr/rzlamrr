@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
+<i>"Every man desires to live long, but no man wishes to be old."</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
