@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid that you do not know something. Be afraid of not learning about it."</i>
+<i>"Conflict is the gadfly of thought. It stirs us to observation and memory. It instigates to invention. It shocks us out of sheeplike passivity, and sets us at noting and contriving."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
