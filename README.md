@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no blessing like a prudent friend."</i>
+<i>"The only thing to do with good advice is to pass it on. It is never of any use to oneself."</i>
 <br>
-<b>- Euripides</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
