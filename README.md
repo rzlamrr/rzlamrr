@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
+<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
 <br>
-<b>- Carrie Snow</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
