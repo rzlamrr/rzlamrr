@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology frightens me to death. It’s designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- John Cleese</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
