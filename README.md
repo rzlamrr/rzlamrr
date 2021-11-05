@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is not old as long as he is seeking something."</i>
+<i>"Applause is a receipt, not a bill."</i>
 <br>
-<b>- Edmond Rostand</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
