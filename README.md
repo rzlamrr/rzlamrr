@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing to do with good advice is to pass it on. It is never of any use to oneself."</i>
+<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
