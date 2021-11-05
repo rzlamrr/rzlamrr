@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Applause is a receipt, not a bill."</i>
+<i>"Life has no blessing like a prudent friend."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
