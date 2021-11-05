@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
+<i>"A man is not old as long as he is seeking something."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Edmond Rostand</b>
 </blockquote>
 </p>
 
