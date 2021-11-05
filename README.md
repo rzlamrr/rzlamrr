@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
+<i>"Technology… is a queer thing. It brings you great gifts with one hand, and it stabs you in the back with the other."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Carrie Snow</b>
 </blockquote>
 </p>
 
