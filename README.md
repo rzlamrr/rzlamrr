@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
