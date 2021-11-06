@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You must find the place inside yourself where nothing is impossible."</i>
+<i>"A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Chuck Norris</b>
 </blockquote>
 </p>
 
