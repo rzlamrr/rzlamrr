@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
+<i>"Any sufficiently advanced technology is equivalent to magic."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Arthur C. Clarke</b>
 </blockquote>
 </p>
 
