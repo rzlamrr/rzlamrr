@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
+<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
 <br>
 <b>- Brian Tracy</b>
 </blockquote>
