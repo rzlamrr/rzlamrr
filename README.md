@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"You must find the place inside yourself where nothing is impossible."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
