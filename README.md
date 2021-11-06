@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any sufficiently advanced technology is equivalent to magic."</i>
+<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
 <br>
-<b>- Arthur C. Clarke</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
