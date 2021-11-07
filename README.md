@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
