@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"Memory is the mother of all wisdom."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
