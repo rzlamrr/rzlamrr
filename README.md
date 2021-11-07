@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life."</i>
+<i>"If the plan doesn't work, change the plan, but never the goal."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
