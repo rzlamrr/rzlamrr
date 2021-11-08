@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want your life to be more rewarding, you have to change the way you think."</i>
+<i>"It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
