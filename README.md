@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more."</i>
+<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
