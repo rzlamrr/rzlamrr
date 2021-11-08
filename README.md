@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"Without the rain there would be no rainbow."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
