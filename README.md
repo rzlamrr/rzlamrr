@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ladder of success is never crowded at the top."</i>
+<i>"The journey, not the destination matters."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
