@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
+<i>"Your sacred space is where you can find yourself again and again."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
