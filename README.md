@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
+<i>"Happiness depends upon ourselves."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
