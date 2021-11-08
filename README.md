@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your sacred space is where you can find yourself again and again."</i>
+<i>"The ladder of success is never crowded at the top."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
