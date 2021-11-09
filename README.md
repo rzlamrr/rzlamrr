@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
+<i>"If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink."</i>
 <br>
-<b>- Doris Mortman</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
