@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a constant series of opportunities."</i>
+<i>"To be prepared is half the victory. "</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
