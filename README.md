@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Accept the challenges so that you can feel the exhilaration of victory."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
