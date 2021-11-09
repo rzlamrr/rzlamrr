@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
+<i>"Life is a constant series of opportunities."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
