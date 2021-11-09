@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
