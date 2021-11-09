@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatness lies not so much in being able to remake the world as being able to remake ourselves."</i>
+<i>"You can't shake hands with a clenched fist."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Indira Gandhi</b>
 </blockquote>
 </p>
 
