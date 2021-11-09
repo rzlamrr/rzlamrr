@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink."</i>
+<i>"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
