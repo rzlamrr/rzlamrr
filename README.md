@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
+<i>"The mind is everything. What you think you become."</i>
 <br>
-<b>- Marianne Williamson</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
