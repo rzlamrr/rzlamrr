@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't shake hands with a clenched fist."</i>
+<i>"There is more wisdom in your body than in your deepest philosophy."</i>
 <br>
-<b>- Indira Gandhi</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
