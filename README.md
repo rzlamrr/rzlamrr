@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is finding out what you already know."</i>
+<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Marianne Williamson</b>
 </blockquote>
 </p>
 
