@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need a weatherman to know which way the wind blows."</i>
+<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
