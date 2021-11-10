@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that we are fundamentally the same and have the same basic potential."</i>
+<i>"You don't need a weatherman to know which way the wind blows."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
