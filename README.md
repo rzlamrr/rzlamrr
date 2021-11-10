@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throughout this life, you can never be certain of living long enough to take another breath."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
