@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is not started today is never finished tomorrow."</i>
+<i>"One of the advantages of being disorderly is that one is constantly making exciting discoveries."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- A. A. Milne</b>
 </blockquote>
 </p>
 
