@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorderly is that one is constantly making exciting discoveries."</i>
+<i>"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."</i>
 <br>
-<b>- A. A. Milne</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
