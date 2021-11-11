@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."</i>
+<i>"Keep silence for the most part, and speak only when you must, and then briefly."</i>
 <br>
 <b>- Epictetus</b>
 </blockquote>
