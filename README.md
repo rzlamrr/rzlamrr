@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
+<i>"No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit."</i>
 <br>
-<b>- David Brinkley</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
