@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you cannot do great things, do small things in a great way."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
