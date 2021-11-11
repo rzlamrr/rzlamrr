@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind is everything. What you think you become."</i>
+<i>"They who have conquered doubt and fear have conquered failure."</i>
 <br>
-<b>- Buddha</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
