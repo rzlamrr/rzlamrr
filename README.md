@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the ability, now apply yourself."</i>
+<i>"A successful person is one who can lay a firm foundation with the bricks that others throw at him or her."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
