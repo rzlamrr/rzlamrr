@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge."</i>
+<i>"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny."</i>
 <br>
-<b>- Daniel J. Boorstin</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
