@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends show their love in times of trouble, not in happiness."</i>
+<i>"The greatest obstacle to discovery is not ignorance - it is the illusion of knowledge."</i>
 <br>
-<b>- Euripides</b>
+<b>- Daniel J. Boorstin</b>
 </blockquote>
 </p>
 
