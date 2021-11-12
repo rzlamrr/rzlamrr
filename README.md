@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A bird does not sing because it has an answer. It sings because it has a song."</i>
+<i>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
