@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep silence for the most part, and speak only when you must, and then briefly."</i>
+<i>"The pen is the tongue of the mind. "</i>
 <br>
-<b>- Epictetus</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
