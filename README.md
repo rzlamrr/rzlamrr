@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has long been an axiom of mine that the little things are infinitely the most important."</i>
+<i>"Some people are old at 18 and some are young at 90. Time is a concept that humans created."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
