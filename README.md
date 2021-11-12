@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anticipate the difficult by managing the easy."</i>
+<i>"It has long been an axiom of mine that the little things are infinitely the most important."</i>
 <br>
-<b>- Laozi</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
