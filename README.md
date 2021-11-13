@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is so cunning, so clever, that it distorts everything for its own convenience."</i>
+<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
