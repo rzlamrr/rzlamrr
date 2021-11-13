@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is more shameful to distrust our friends than to be deceived by them."</i>
+<i>"No alibi will save you from accepting the responsibility."</i>
 <br>
-<b>- Confucius</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
