@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you."</i>
+<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
