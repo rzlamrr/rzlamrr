@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
+<i>"A wise man will make more opportunities than he finds."</i>
 <br>
-<b>- Julie Morgenstern</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
