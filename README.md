@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
+<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Julie Morgenstern</b>
 </blockquote>
 </p>
 
