@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your greatest asset is your earning ability. Your greatest resource is your time."</i>
+<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
