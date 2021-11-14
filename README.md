@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
+<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Francis of Assisi</b>
 </blockquote>
 </p>
 
