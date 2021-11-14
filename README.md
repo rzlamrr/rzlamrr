@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lord, make me an instrument of thy peace. Where there is hatred, let me sow love."</i>
+<i>"Stop acting so small. You are the universe in ecstatic motion."</i>
 <br>
-<b>- Francis of Assisi</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
