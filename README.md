@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future."</i>
+<i>"Friends... they cherish one another's hopes. They are kind to one another's dreams."</i>
 <br>
-<b>- Plutarch</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
