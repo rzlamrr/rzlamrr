@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the greatest of all mistakes to do nothing because you can only do little; do something."</i>
+<i>"There are many ways of going forward, but only one way of standing still."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
