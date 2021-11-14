@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends... they cherish one another's hopes. They are kind to one another's dreams."</i>
+<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
