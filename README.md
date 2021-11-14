@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The invariable mark of wisdom is to see the miraculous in the common."</i>
+<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
