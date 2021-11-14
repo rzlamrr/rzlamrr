@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
