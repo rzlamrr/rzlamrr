@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are many ways of going forward, but only one way of standing still."</i>
+<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
