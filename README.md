@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is luck. The important thing in life is courage."</i>
+<i>"All action results from thought, so it is thoughts that matter."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Sai Baba</b>
 </blockquote>
 </p>
 
