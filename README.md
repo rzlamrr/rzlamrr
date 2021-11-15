@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Thomas J. Watson</b>
 </blockquote>
 </p>
 
