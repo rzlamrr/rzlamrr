@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The amount of happiness that you have depends on the amount of freedom you have in your heart."</i>
+<i>"Friendship is the marriage of the soul, and this marriage is liable to divorce."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
