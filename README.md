@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every human being is the author of his own health or disease."</i>
+<i>"The amount of happiness that you have depends on the amount of freedom you have in your heart."</i>
 <br>
-<b>- Buddha</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
