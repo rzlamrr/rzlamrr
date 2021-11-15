@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
+<i>"Ignorant men don't know what good they hold in their hands until they've flung it away."</i>
 <br>
-<b>- Thomas J. Watson</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
