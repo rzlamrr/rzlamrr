@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is the marriage of the soul, and this marriage is liable to divorce."</i>
+<i>"Love is flower like; Friendship is like a sheltering tree."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Samuel Taylor Coleridge</b>
 </blockquote>
 </p>
 
