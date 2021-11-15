@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who dares to waste one hour of time has not discovered the value of life."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
