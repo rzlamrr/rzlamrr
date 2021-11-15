@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is flower like; Friendship is like a sheltering tree."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Samuel Taylor Coleridge</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
