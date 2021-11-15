@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All action results from thought, so it is thoughts that matter."</i>
+<i>"Opportunity is missed by most because it is dressed in overalls and looks like work."</i>
 <br>
-<b>- Sai Baba</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
