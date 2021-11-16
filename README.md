@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nobody will believe in you unless you believe in yourself."</i>
+<i>"Adventure is not outside man; it is within."</i>
 <br>
-<b>- Liberace</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
