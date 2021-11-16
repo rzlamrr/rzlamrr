@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone sees what you appear to be, few experience what you really are."</i>
+<i>"Share your smile with the world. It's a symbol of friendship and peace."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Christie Brinkley</b>
 </blockquote>
 </p>
 
