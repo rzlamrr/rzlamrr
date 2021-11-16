@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Laziness may appear attractive, but work gives satisfaction."</i>
+<i>"The superior man is satisfied and composed; the mean man is always full of distress."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
