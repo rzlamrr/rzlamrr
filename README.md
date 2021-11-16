@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ignorant men don't know what good they hold in their hands until they've flung it away."</i>
+<i>"Nobody will believe in you unless you believe in yourself."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Liberace</b>
 </blockquote>
 </p>
 
