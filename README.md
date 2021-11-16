@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man is satisfied and composed; the mean man is always full of distress."</i>
+<i>"Life begins where fear ends."</i>
 <br>
-<b>- Confucius</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
