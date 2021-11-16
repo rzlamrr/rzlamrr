@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can never get enough of what you don't need to make you happy."</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
