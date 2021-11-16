@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have achieved their greatest success just one step beyond their greatest failure."</i>
+<i>"Laziness may appear attractive, but work gives satisfaction."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
