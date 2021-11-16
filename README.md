@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
+<i>"You can never get enough of what you don't need to make you happy."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
