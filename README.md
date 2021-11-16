@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life begins where fear ends."</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Osho</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
