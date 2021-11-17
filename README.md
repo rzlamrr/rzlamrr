@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
