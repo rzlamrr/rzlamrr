@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen."</i>
+<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
