@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
