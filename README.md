@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Old age is like everything else. To make a success of it, you've got to start young."</i>
+<i>"I've always tried to go a step past wherever people expected me to end up."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
