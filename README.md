@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."</i>
+<i>"Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."</i>
 <br>
-<b>- Margaret Thatcher</b>
+<b>- Epicurus</b>
 </blockquote>
 </p>
 
