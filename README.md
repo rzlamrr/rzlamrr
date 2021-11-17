@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life can be wonderful if you're not afraid of it."</i>
+<i>"Do good by stealth, and blush to find it fame."</i>
 <br>
-<b>- Charlie Chaplin</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
