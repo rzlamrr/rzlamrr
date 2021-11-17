@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one is useless in this world who lightens the burdens of another."</i>
+<i>"If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Margaret Thatcher</b>
 </blockquote>
 </p>
 
