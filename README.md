@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
