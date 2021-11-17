@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."</i>
+<i>"You cannot change your destination overnight but you can change your direction overnight."</i>
 <br>
-<b>- Epicurus</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
