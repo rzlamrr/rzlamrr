@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
+<i>"They say love is the best investment; the more you give, the more you get in return."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
