@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wherever a man turns he can find someone who needs him."</i>
+<i>"Life would be tragic if it weren't funny."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
