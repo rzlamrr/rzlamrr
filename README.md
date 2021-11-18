@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both."</i>
+<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
 <br>
-<b>- Mariella Frostrup</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
