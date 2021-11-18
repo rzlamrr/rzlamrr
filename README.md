@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you spend too much time thinking about a thing, you'll never get it done. "</i>
+<i>"Wherever a man turns he can find someone who needs him."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
