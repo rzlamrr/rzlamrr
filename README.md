@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say love is the best investment; the more you give, the more you get in return."</i>
+<i>"There is no way to prosperity, prosperity is the way."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
