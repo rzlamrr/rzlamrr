@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future."</i>
+<i>"Never mistake motion for action."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Ernest Hemingway</b>
 </blockquote>
 </p>
 
