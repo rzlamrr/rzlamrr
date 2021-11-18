@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no way to prosperity, prosperity is the way."</i>
+<i>"In romance, we feel the need to zoom in and expound on our partner's foibles in intimate detail; in friendship, we tend to do the opposite, avoiding confrontation through fear, lethargy or both."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Mariella Frostrup</b>
 </blockquote>
 </p>
 
