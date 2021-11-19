@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind."</i>
+<i>"The quieter you become, the more you are able to hear."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
