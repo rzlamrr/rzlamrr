@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"If you done it, it ain't bragging."</i>
 <br>
-<b>- Osho</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
