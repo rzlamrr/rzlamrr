@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you done it, it ain't bragging."</i>
+<i>"It is not so much our friends' help that helps us, as the confidence of their help."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Epicurus</b>
 </blockquote>
 </p>
 
