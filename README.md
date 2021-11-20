@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Step with care and great tact and remember that Life's a Great Balancing Act."</i>
+<i>"If you smile when no one else is around, you really mean it."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Andy Rooney</b>
 </blockquote>
 </p>
 
