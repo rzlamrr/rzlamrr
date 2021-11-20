@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is really simple, but we insist on making it complicated."</i>
+<i>"Just do what must be done. This may not be happiness but it is greatness."</i>
 <br>
-<b>- Confucius</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
