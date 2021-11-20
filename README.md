@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you smile when no one else is around, you really mean it."</i>
+<i>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</i>
 <br>
-<b>- Andy Rooney</b>
+<b>- John Muir</b>
 </blockquote>
 </p>
 
