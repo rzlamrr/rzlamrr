@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can handle rejection, you'll learn to get everything you want."</i>
+<i>"Life is really simple, but we insist on making it complicated."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
