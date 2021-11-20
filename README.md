@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
+<i>"Death smiles at us all. All we can do is smile back."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
