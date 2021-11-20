@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They can conquer who believe they can."</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
 <br>
-<b>- Virgil</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
