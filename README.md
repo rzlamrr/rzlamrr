@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When one tugs at a single thing in nature, he finds it attached to the rest of the world."</i>
+<i>"They can conquer who believe they can."</i>
 <br>
-<b>- John Muir</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
