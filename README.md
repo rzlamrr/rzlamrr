@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. "</i>
+<i>"Do one thing every day that scares you."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
