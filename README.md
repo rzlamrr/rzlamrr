@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intuition will tell the thinking mind where to look next."</i>
+<i>"It is not the knowing that is difficult, but the doing. "</i>
 <br>
-<b>- Jonas Salk</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
