@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do one thing every day that scares you."</i>
+<i>"You must do the things you think you cannot do."</i>
 <br>
 <b>- Eleanor Roosevelt</b>
 </blockquote>
