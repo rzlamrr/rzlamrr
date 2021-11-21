@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not the knowing that is difficult, but the doing. "</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
