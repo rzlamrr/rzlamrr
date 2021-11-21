@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?"</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
