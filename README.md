@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to have a friend is to be one."</i>
+<i>"Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?"</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
