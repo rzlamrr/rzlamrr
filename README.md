@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
+<i>"Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
