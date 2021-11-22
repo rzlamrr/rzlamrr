@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Archimedes</b>
 </blockquote>
 </p>
 
