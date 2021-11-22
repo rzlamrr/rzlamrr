@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better."</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
