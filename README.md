@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Archimedes</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
