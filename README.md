@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It may happen sometimes that a long debate becomes the cause of a longer friendship. Commonly, those who dispute with one another at last agree."</i>
+<i>"All our dreams can come true, if we have the courage to pursue them."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
