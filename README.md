@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better than a thousand hollow words, is one word that brings peace."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- Buddha</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
