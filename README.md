@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."</i>
+<i>"Better than a thousand hollow words, is one word that brings peace."</i>
 <br>
-<b>- John Locke</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
