@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our dreams can come true, if we have the courage to pursue them."</i>
+<i>"Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- Zhuang Zhou</b>
 </blockquote>
 </p>
 
