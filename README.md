@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
