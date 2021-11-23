@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate."</i>
+<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
 <br>
-<b>- Zhuang Zhou</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
