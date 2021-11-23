@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ability will never catch up with the demand for it."</i>
+<i>"If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?"</i>
 <br>
-<b>- Confucius</b>
+<b>- Rabbi Hillel</b>
 </blockquote>
 </p>
 
