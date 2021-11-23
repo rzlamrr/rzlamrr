@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
