@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?"</i>
+<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality."</i>
 <br>
-<b>- Rabbi Hillel</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
