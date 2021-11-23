@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to find yourself is to lose yourself in the service of others."</i>
+<i>"Things that were hard to bear are sweet to remember."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
