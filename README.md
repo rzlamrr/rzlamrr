@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right."</i>
+<i>"Be kind, for everyone you meet is fighting a hard battle."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
