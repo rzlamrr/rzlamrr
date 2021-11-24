@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning."</i>
+<i>"Everything eaten is killed. Every meal is a sacrifice."</i>
 <br>
-<b>- Gloria Steinem</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
