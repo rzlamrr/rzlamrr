@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cunning... is but the low mimic of wisdom."</i>
+<i>"You always succeed in producing a result."</i>
 <br>
-<b>- Plato</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
