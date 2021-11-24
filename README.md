@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Love is the attempt to form a friendship inspired by beauty."</i>
 <br>
-<b>- Laozi</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
