@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness."</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
