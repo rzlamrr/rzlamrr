@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
+<i>"Truth, and goodness, and beauty are but different faces of the same all."</i>
 <br>
-<b>- Dogen</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
