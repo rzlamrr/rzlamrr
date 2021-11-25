@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth, and goodness, and beauty are but different faces of the same all."</i>
+<i>"Things do not have meaning. We assign meaning to everything."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
