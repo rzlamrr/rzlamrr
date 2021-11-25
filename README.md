@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like credit, is highest when it is not used."</i>
+<i>"He who lives in harmony with himself lives in harmony with the world."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
