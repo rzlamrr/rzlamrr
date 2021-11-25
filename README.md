@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't have time to do it right, when will you have time to do it over?"</i>
+<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
