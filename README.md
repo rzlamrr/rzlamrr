@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"Fear of death is fear of the Unknown."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
