@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear of death is fear of the Unknown."</i>
+<i>"Friendship, like credit, is highest when it is not used."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
