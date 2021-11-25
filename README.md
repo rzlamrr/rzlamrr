@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not have meaning. We assign meaning to everything."</i>
+<i>"In three words I can sum up everything I’ve learned about life: it goes on."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
