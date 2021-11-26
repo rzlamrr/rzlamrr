@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
+<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
