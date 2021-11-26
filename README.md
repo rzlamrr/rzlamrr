@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Laozi</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
