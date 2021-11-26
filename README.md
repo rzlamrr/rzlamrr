@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
+<i>"It is not so much our friends' help that helps us, as the confidence of their help."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Epicurus</b>
 </blockquote>
 </p>
 
