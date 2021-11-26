@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"It is up to each of us to sing as we feel moved by the overall song of life."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
