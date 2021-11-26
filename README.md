@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so much our friends' help that helps us, as the confidence of their help."</i>
+<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
 <br>
-<b>- Epicurus</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
