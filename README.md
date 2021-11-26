@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing is to enjoy your life, to be happy, it's all that matters."</i>
+<i>"Beware of missing chances; otherwise it may be altogether too late someday."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- Franz Liszt</b>
 </blockquote>
 </p>
 
