@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"A man is great by deeds, not by birth."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- Chanakya</b>
 </blockquote>
 </p>
 
