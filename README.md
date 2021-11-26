@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of missing chances; otherwise it may be altogether too late someday."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Franz Liszt</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
