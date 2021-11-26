@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great by deeds, not by birth."</i>
+<i>"Don't shortchange yourself when it comes to investing in your own better future."</i>
 <br>
-<b>- Chanakya</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
