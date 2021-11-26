@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't ever give up. I'd have to be dead or completely incapacitated."</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
