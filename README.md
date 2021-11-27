@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
