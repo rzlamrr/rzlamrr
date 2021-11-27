@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You change the world by being yourself."</i>
+<i>"Great minds are always feared by lesser minds."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
