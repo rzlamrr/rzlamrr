@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
