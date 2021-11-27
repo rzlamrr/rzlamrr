@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no self-discovery without pain and loss."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
