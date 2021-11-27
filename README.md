@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the highest kite one can fly."</i>
+<i>"Coming together is a beginning; keeping together is progress; working together is success."</i>
 <br>
-<b>- Lauren Bacall</b>
+<b>- Edward Everett Hale</b>
 </blockquote>
 </p>
 
