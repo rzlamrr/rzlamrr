@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Akhenaten</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
