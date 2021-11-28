@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is only depth of character that determines the profundity with which we face life."</i>
+<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
