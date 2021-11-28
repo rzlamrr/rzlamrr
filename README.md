@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, don't."</i>
+<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
