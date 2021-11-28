@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness depends on your mindset and attitude."</i>
+<i>"I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
