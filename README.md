@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
+<i>"When in doubt, don't."</i>
 <br>
-<b>- Laozi</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
