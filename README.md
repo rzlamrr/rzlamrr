@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is, as it were, a second self."</i>
+<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
 <br>
-<b>- Cicero</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
