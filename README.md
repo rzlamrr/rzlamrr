@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A golden cage is still just a cage."</i>
+<i>"A friend is a gift you give yourself."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
