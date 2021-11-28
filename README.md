@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
+<i>"A golden cage is still just a cage."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
