@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What people say, what people do, and what they say they do are entirely different things. "</i>
+<i>"People seldom do what they believe in. They do what is convenient, then repent."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
