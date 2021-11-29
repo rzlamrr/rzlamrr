@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
+<i>"God has given you one face, and you make yourself another."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
