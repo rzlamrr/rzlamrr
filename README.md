@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"God has given you one face, and you make yourself another."</i>
+<i>"Until you make peace with who you are, you will never be content with what you have."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
