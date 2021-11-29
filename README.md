@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything."</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
 <br>
-<b>- Muhammad Ali</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
