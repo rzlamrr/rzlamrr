@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude."</i>
+<i>"The noblest worship is to make yourself as good and as just as you can."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
