@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The noblest worship is to make yourself as good and as just as you can."</i>
+<i>"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence?"</i>
 <br>
-<b>- Isocrates</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
