@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail."</i>
+<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
