@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest and be kind, you don't have to prove anything."</i>
+<i>"Doing nothing is better than being busy doing nothing."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
