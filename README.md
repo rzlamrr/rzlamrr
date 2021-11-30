@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."</i>
+<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
 <br>
-<b>- Joseph Roux</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
