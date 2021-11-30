@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
+<i>"You are the only problem you will ever have and you are the only solution."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
