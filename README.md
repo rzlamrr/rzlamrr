@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are the only problem you will ever have and you are the only solution."</i>
+<i>"It is better to offer no excuse than a bad one. "</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
