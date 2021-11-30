@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing nothing is better than being busy doing nothing."</i>
+<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
 <br>
-<b>- Laozi</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
