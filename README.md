@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not."</i>
+<i>"A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool."</i>
 <br>
-<b>- Dhammapada</b>
+<b>- Joseph Roux</b>
 </blockquote>
 </p>
 
