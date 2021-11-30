@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is richest who is content with the least, for content is the wealth of nature."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Socrates</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
