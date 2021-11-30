@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
