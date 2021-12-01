@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all."</i>
+<i>"Being entirely honest with oneself is a good exercise."</i>
 <br>
-<b>- Edward de Bono</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
