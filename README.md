@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature."</i>
+<i>"I have always thought the actions of men the best interpreters of their thoughts."</i>
 <br>
-<b>- Sydney Smith</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
