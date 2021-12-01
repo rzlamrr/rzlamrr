@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be thankful for everything that happens in your life; it's all an experience."</i>
+<i>"If you've made a mistake, it's better just to laugh at it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
