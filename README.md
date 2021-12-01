@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is generally the best vindication against slander."</i>
+<i>"Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Lord Byron</b>
 </blockquote>
 </p>
 
