@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"With pride, there are many curses. With humility, there come many blessings."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Ezra Taft Benson</b>
 </blockquote>
 </p>
 
