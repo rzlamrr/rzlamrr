@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have always thought the actions of men the best interpreters of their thoughts."</i>
+<i>"It is better to have enough ideas for some of them to be wrong, than to be always right by having no ideas at all."</i>
 <br>
-<b>- John Locke</b>
+<b>- Edward de Bono</b>
 </blockquote>
 </p>
 
