@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science is organized knowledge. Wisdom is organized life."</i>
+<i>"Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
