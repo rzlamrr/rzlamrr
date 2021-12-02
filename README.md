@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can see through others only when we can see through ourselves."</i>
+<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Thomas J. Watson</b>
 </blockquote>
 </p>
 
