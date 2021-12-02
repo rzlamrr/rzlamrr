@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can do it if you believe you can!"</i>
+<i>"We can see through others only when we can see through ourselves."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
