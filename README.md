@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you."</i>
 <br>
-<b>- Thomas J. Watson</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
