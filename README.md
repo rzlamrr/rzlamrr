@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go to your bosom: Knock there and ask your heart what it doth know."</i>
+<i>"Deeds will not be less valiant because they are upraised."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
