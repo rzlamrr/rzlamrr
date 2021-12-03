@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have."</i>
+<i>"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
