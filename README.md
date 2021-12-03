@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligence is the ability to adapt to change."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
