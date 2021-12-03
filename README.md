@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can do no great things, only small things with great love."</i>
+<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else’s."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Billy Wilder</b>
 </blockquote>
 </p>
 
