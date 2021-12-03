@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whereever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
+<i>"Freedom is not worth having if it does not connote freedom to err."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
