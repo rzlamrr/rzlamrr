@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start where you are. Use what you have. Do what you can."</i>
+<i>"We can do no great things, only small things with great love."</i>
 <br>
-<b>- Arthur Ashe</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
