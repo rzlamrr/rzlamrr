@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If opportunity doesn't knock, build a door."</i>
+<i>"Till it has loved, no man or woman can become itself."</i>
 <br>
-<b>- Milton Berle</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
