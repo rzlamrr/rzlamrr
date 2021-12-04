@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is a comb which nature gives us when we are bald. "</i>
+<i>"Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?"</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
