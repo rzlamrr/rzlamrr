@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first requisite for success is the ability to apply your physical and mental energies to one problem incessantly without growing weary."</i>
+<i>"Never interrupt your enemy when he is making a mistake."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
