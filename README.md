@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else’s."</i>
+<i>"Inspiration exists, but it has to find us working."</i>
 <br>
-<b>- Billy Wilder</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
