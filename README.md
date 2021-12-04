@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure doesn't mean you are a failure it just means you haven't succeeded yet."</i>
+<i>"Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity."</i>
 <br>
-<b>- Robert Schuller</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
