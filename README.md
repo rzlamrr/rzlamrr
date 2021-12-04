@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- George S. Patton</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
