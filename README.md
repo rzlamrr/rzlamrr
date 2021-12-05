@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is such a thing as a good marriage, it is because it resembles friendship rather than love."</i>
+<i>"The eye with which I see God is the same eye with which God sees me."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
