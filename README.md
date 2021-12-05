@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much wisdom often goes with fewer words."</i>
+<i>"True friendship is like sound health; the value of it is seldom known until it is lost."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Charles Caleb Colton</b>
 </blockquote>
 </p>
 
