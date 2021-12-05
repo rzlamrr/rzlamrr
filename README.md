@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
+<i>"If it entertains you now but will bore you someday, it's a distraction. Keep looking."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
