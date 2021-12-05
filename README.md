@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
