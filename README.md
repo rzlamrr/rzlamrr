@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't cry because it's over. Smile because it happened."</i>
+<i>"Life is like riding a bicycle. To keep your balance you must keep moving."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
