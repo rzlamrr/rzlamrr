@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing but heaven itself is better than a friend who is really a friend."</i>
+<i>"This is why I loved technology: if you used it right, it could give you power and privacy."</i>
 <br>
-<b>- Plautus</b>
+<b>- Cory Doctorow</b>
 </blockquote>
 </p>
 
