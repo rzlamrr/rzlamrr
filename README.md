@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
+<i>"Things do not change; we change."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
