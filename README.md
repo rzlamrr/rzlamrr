@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
+<i>"What you seek is seeking you."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
