@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numberless are the worlds wonders, but none more wonderful than man."</i>
+<i>"Re-examine all that you have been told... dismiss that which insults your soul."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
