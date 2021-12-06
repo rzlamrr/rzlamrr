@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"Courage is not the absence of fear, but simply moving on with dignity despite that fear."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Pat Riley</b>
 </blockquote>
 </p>
 
