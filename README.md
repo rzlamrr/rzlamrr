@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is why I loved technology: if you used it right, it could give you power and privacy."</i>
+<i>"The sum of wisdom is that time is never lost that is devoted to work."</i>
 <br>
-<b>- Cory Doctorow</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
