@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things do not change; we change."</i>
+<i>"The present moment is filled with joy and happiness. If you are attentive, you will see it."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
