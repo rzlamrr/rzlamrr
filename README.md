@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye with which I see God is the same eye with which God sees me."</i>
+<i>"He that is giddy thinks the world turns round."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
