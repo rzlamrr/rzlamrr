@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never confuse a single defeat with a final defeat."</i>
+<i>"Nothing but heaven itself is better than a friend who is really a friend."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Plautus</b>
 </blockquote>
 </p>
 
