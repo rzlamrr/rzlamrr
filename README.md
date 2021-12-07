@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the power to put our time and our knowledge to the proper use."</i>
+<i>"You're on earth. There's no cure for that."</i>
 <br>
-<b>- Thomas J. Watson</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
