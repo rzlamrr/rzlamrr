@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night. "</i>
+<i>"We must never forget that it is through our actions, words, and thoughts that we have a choice."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Sogyal Rinpoche</b>
 </blockquote>
 </p>
 
