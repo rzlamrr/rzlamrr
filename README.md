@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're on earth. There's no cure for that."</i>
+<i>"The only journey is the one within."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Rainer Maria Rilke</b>
 </blockquote>
 </p>
 
