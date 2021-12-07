@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you seek is seeking you."</i>
+<i>"Watch what you say, and whaterver you say, practice it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
