@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</i>
+<i>"If there is no struggle, there is no progress."</i>
 <br>
-<b>- Socrates</b>
+<b>- Frederick Douglass</b>
 </blockquote>
 </p>
 
