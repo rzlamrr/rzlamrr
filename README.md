@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes it is better to lose and do the right thing than to win and do the wrong thing."</i>
+<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
 <br>
-<b>- Tony Blair</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
