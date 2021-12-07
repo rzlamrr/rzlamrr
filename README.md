@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must never forget that it is through our actions, words, and thoughts that we have a choice."</i>
+<i>"Sometimes it is better to lose and do the right thing than to win and do the wrong thing."</i>
 <br>
-<b>- Sogyal Rinpoche</b>
+<b>- Tony Blair</b>
 </blockquote>
 </p>
 
