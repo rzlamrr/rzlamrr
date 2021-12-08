@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All has not been said and never will be."</i>
+<i>"Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
