@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clear conscience never fears midnight knocking."</i>
+<i>"The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
