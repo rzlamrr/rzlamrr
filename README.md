@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"A clear conscience never fears midnight knocking."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
