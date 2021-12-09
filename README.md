@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no failure except in no longer trying."</i>
+<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Etty Hillesum</b>
 </blockquote>
 </p>
 
