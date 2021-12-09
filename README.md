@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
+<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
 <br>
-<b>- Etty Hillesum</b>
+<b>- Franz Kafka</b>
 </blockquote>
 </p>
 
