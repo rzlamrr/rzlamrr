@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort."</i>
+<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Herbert Bayard Swope</b>
 </blockquote>
 </p>
 
