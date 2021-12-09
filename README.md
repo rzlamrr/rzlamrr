@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and friendship exclude each other."</i>
+<i>"Be yourself; everyone else is already taken "</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
