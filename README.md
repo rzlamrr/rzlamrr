@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken "</i>
+<i>"There is no failure except in no longer trying."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
