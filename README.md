@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
+<i>"The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts."</i>
 <br>
-<b>- Herbert Bayard Swope</b>
+<b>- Booker T. Washington</b>
 </blockquote>
 </p>
 
