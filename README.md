@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no excuse for not trying."</i>
+<i>"It is better to understand a little than to misunderstand a lot."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
