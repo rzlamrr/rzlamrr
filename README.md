@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow in choosing a friend, slower in changing."</i>
+<i>"The first rule of business; treat others like they want to treat you."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
