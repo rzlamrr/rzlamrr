@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I gave my life to become the person I am right now. Was it worth it?"</i>
+<i>"The best dreams happen when you're awake."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Cherie Gilderbloom</b>
 </blockquote>
 </p>
 
