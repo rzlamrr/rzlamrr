@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is one who overlooks your failures and tolerates your success!"</i>
+<i>"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."</i>
 <br>
-<b>- Doug Larson</b>
+<b>- G. K. Chesterton</b>
 </blockquote>
 </p>
 
