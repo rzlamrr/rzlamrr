@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder."</i>
+<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
 <br>
-<b>- G. K. Chesterton</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
