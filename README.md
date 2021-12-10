@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of business; treat others like they want to treat you."</i>
+<i>"Miracles come in moments. Be ready and willing."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
