@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The destiny of man is in his own soul. "</i>
+<i>"A true friend is one who overlooks your failures and tolerates your success!"</i>
 <br>
-<b>- Herodotus</b>
+<b>- Doug Larson</b>
 </blockquote>
 </p>
 
