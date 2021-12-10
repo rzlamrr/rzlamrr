@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Miracles come in moments. Be ready and willing."</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
