@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one corner of the universe you can be certain of improving, and that's your own self."</i>
+<i>"Be slow in choosing a friend, slower in changing."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
