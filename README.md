@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best dreams happen when you're awake."</i>
+<i>"Trust yourself. You know more than you think you do."</i>
 <br>
-<b>- Cherie Gilderbloom</b>
+<b>- Benjamin Spock</b>
 </blockquote>
 </p>
 
