@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together."</i>
+<i>"We lost because we told ourselves we lost."</i>
 <br>
-<b>- Mariella Frostrup</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
