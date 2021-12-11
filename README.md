@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Practice yourself, for heaven’s sake in little things, and then proceed to greater."</i>
+<i>"Every friendship goes through ups and downs. Dysfunctional patterns set in; external situations cause internal friction; you grow apart and then bounce back together."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Mariella Frostrup</b>
 </blockquote>
 </p>
 
