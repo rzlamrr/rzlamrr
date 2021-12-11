@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"Practice yourself, for heaven’s sake in little things, and then proceed to greater."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
