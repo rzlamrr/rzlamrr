@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
+<i>"Study the past, if you would divine the future."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
