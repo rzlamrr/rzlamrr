@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
