@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lost because we told ourselves we lost."</i>
+<i>"If you don't know where you are going, any road will get you there."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Lewis Carroll</b>
 </blockquote>
 </p>
 
