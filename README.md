@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you correct your mind, the rest of your life will fall into place."</i>
+<i>"Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Hannah Arendt</b>
 </blockquote>
 </p>
 
