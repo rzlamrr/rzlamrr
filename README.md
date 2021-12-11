@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a travelling to the edge of knowledge, then a leap taken."</i>
+<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
