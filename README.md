@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible."</i>
+<i>"Life is a travelling to the edge of knowledge, then a leap taken."</i>
 <br>
-<b>- Hannah Arendt</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
