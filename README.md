@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never accept ultimatums, conventional wisdom, or absolutes."</i>
+<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
