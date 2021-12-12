@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the change that you want to see in the world."</i>
+<i>"Find your Light; They can't love you if they can't see you."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
