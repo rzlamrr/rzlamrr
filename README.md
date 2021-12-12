@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person who does not read is no better than one cannot read."</i>
+<i>"Never accept ultimatums, conventional wisdom, or absolutes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
