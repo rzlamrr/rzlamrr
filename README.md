@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find your Light; They can't love you if they can't see you."</i>
+<i>"It's your life-but only if you make it so."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
