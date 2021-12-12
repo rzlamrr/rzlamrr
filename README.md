@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues."</i>
+<i>"Be the change that you want to see in the world."</i>
 <br>
-<b>- Abigail Adams</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
