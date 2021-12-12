@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Abigail Adams</b>
 </blockquote>
 </p>
 
