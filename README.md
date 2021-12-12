@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's your life-but only if you make it so."</i>
+<i>"To go against the dominant thinking of your friends, of most of the people you see every day, is perhaps the most difficult act of heroism you can perform."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Theodore H. White</b>
 </blockquote>
 </p>
 
