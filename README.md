@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the stars should appear but one night every thousand years how man would marvel and adore."</i>
+<i>"Inspiration exists, but it has to find us working."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
