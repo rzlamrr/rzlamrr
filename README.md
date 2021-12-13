@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
