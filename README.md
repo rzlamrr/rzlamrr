@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest."</i>
+<i>"Fear grows in darkness; if you think there’s a bogeyman around, turn on the light."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dorothy Thompson</b>
 </blockquote>
 </p>
 
