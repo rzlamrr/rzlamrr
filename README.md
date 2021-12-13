@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence comes not from always being right but not fearing to be wrong."</i>
+<i>"Every one of us is the sum total of his own thoughts."</i>
 <br>
-<b>- Unknown</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
