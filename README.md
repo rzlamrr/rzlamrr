@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find us working."</i>
+<i>"Be true to yourself, help others, make each day your masterpiece"</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
