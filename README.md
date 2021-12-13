@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want my friend to miss me as long as I miss him."</i>
+<i>"There is nothing permanent except change."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
