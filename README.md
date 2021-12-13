@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One beam, no matter how big, cannot support an entire house on its own."</i>
+<i>"If the stars should appear but one night every thousand years how man would marvel and adore."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
