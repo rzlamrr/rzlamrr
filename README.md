@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
+<i>"I want my friend to miss me as long as I miss him."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
