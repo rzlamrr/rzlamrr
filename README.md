@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity."</i>
+<i>"As soon as you trust yourself, you will know how to live."</i>
 <br>
-<b>- Robert Louis Stevenson</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
