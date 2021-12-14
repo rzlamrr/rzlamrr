@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do what is right. It will gratify half of mankind and astound the other."</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
