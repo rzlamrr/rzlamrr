@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."</i>
+<i>"Most of our pocket wisdom is conceived for the use of mediocre people, to discourage them from ambitious attempts, and generally console them in their mediocrity."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
