@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By living deeply in the present moment we can understand the past better and we can prepare for a better future."</i>
+<i>"True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Akhenaten</b>
 </blockquote>
 </p>
 
