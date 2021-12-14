@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Independence is happiness."</i>
+<i>"Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has."</i>
 <br>
-<b>- Susan B. Anthony</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
