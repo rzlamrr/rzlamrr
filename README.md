@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever your heart clings to and confides in, that is really your God."</i>
+<i>"The only Zen you find on the tops of mountains is the Zen you bring up there."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
