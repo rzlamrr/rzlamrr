@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
