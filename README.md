@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't cross the sea merely by standing and staring at the water."</i>
+<i>"A lot of people have gone further than they thought they could because someone else thought they could."</i>
 <br>
-<b>- Rabindranath Tagore</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
