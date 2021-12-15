@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
+<i>"You can't cross the sea merely by standing and staring at the water."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Rabindranath Tagore</b>
 </blockquote>
 </p>
 
