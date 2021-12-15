@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only Zen you find on the tops of mountains is the Zen you bring up there."</i>
+<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
