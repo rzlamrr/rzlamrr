@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let there be no purpose in friendship save the deepening of the spirit."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
