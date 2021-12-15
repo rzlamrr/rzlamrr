@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human mind defines things in relation to one another – without light the notion of darkness would be unintelligible."</i>
+<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Margaret Laurence</b>
 </blockquote>
 </p>
 
