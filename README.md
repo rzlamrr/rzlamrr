@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death."</i>
+<i>"When you're at the end of your rope, tie a knot and hold on."</i>
 <br>
-<b>- Socrates</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
