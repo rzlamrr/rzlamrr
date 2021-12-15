@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world."</i>
+<i>"Act the way you want to be and soon you'll be the way you act."</i>
 <br>
-<b>- Margaret Laurence</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
