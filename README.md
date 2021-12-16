@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like looking if you want to find something."</i>
+<i>"It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
