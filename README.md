@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
+<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Jawaharlal Nehru</b>
 </blockquote>
 </p>
 
