@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man cannot be said to succeed in this life who does not satisfy one friend."</i>
+<i>"Genius is the ability to act rightly without precedent - the power to do the right thing the first time."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
