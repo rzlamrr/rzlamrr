@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- Jawaharlal Nehru</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
