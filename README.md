@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgiveness is choosing to love. It is the first skill of self-giving love."</i>
+<i>"One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
