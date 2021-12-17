@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
+<i>"There is nothing happens to any person but what was in his power to go through with."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
