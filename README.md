@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the flower you've got to let grow."</i>
+<i>"Forgiveness is choosing to love. It is the first skill of self-giving love."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
