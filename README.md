@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing happens to any person but what was in his power to go through with."</i>
+<i>"Never do things others can do and will do if there are things others cannot do or will not do."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
