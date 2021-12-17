@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it."</i>
+<i>"The differences between friends cannot but reinforce their friendship."</i>
 <br>
-<b>- Reinhold Niebuhr</b>
+<b>- Mao Zedong</b>
 </blockquote>
 </p>
 
