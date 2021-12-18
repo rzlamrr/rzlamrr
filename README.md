@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
+<i>"Whenever you do a thing, act as if all the world were watching."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
