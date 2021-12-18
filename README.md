@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you like yourself, the less you are like anyone else, which makes you unique."</i>
+<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
 <br>
-<b>- Walt Disney</b>
+<b>- William Saroyan</b>
 </blockquote>
 </p>
 
