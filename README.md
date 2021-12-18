@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
+<i>"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."</i>
 <br>
-<b>- Confucius</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
