@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way to love anything is to realize that it may be lost."</i>
+<i>"It is the power of thought that gives man power over nature."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
