@@ -41,7 +41,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."</i>
+<i>"The only real valuable thing is intuition."</i>
 <br>
 <b>- Albert Einstein</b>
 </blockquote>
