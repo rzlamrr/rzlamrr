@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you do a thing, act as if all the world were watching."</i>
+<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
