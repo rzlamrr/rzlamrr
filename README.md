@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the power of thought that gives man power over nature."</i>
+<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
