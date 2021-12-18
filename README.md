@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real valuable thing is intuition."</i>
+<i>"Wisdom comes alone through suffering."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Aeschylus</b>
 </blockquote>
 </p>
 
