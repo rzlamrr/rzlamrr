@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is the golden chain by which society is bound together."</i>
+<i>"Discipline yourself, and others won't need to."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
