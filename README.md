@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you learn, teach. When you get, give."</i>
+<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
