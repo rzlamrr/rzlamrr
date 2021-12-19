@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive yourself for your faults and your mistakes and move on."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
