@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
+<i>"Forgive yourself for your faults and your mistakes and move on."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
