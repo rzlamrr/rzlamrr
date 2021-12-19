@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a succession of lessons, which must be lived to be understood."</i>
+<i>"When you learn, teach. When you get, give."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
