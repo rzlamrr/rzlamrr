@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To profit from good advice requires more wisdom than to give it."</i>
+<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
 <br>
-<b>- Wilson Mizner</b>
+<b>- Maria Shriver</b>
 </blockquote>
 </p>
 
