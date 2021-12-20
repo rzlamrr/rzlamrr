@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship needs no words - it is solitude delivered from the anguish of loneliness."</i>
+<i>"True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation."</i>
 <br>
-<b>- Dag Hammarskjöld</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
