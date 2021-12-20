@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom."</i>
+<i>"Behind every beautiful thing, there's some kind of pain."</i>
 <br>
-<b>- Rumi</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
