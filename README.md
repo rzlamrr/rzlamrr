@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By nature, man hates change; seldom will he quit his old home till it has actually fallen around his ears."</i>
+<i>"Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Babatunde Olatunji</b>
 </blockquote>
 </p>
 
