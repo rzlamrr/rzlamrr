@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity."</i>
+<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
 <br>
-<b>- William C. Menninger</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
