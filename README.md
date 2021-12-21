@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
+<i>"A jug fills drop by drop."</i>
 <br>
-<b>- Maria Shriver</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
