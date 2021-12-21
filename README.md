@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
+<i>"Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- John McCain</b>
 </blockquote>
 </p>
 
