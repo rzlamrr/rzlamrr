@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is filled with secrets. You can't learn them all at once."</i>
+<i>"Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
