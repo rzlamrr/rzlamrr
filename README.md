@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again."</i>
+<i>"I defeat my enemies when I make them my friends."</i>
 <br>
-<b>- John McCain</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
