@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
+<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
