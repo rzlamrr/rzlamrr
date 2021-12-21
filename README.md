@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A jug fills drop by drop."</i>
+<i>"Generosity is giving more than you can, and pride is taking less than you need."</i>
 <br>
-<b>- Buddha</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
