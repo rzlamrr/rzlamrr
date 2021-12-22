@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Sidney Hook</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
