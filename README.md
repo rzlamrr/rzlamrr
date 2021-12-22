@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Harvey Mackay</b>
 </blockquote>
 </p>
 
