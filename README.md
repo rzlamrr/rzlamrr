@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Choose a job you love, and you will never have to work a day in your life. "</i>
+<i>"I know but one freedom and that is the freedom of the mind."</i>
 <br>
-<b>- Confucius</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
