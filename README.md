@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful."</i>
+<i>"Make your mind your own business."</i>
 <br>
-<b>- Harvey Mackay</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
