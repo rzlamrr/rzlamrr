@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In every walk with nature, one receives far more than he seeks."</i>
+<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
 <br>
-<b>- John Muir</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
