@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know but one freedom and that is the freedom of the mind."</i>
+<i>"Short words are best and the old words when short are best of all."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
