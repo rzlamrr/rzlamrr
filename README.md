@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You always have two choices: your commitment versus your fear."</i>
+<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
 <br>
-<b>- Sammy Davis Jr.</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
