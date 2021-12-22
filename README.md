@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Short words are best and the old words when short are best of all."</i>
+<i>"In every walk with nature, one receives far more than he seeks."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- John Muir</b>
 </blockquote>
 </p>
 
