@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the solution is simple, God is answering."</i>
+<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
