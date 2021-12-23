@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you judge others, you do not define them, you define yourself."</i>
+<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
