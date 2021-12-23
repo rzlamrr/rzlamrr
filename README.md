@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cherish forever what makes you unique, cuz you're really a yawn if it goes."</i>
+<i>"When the solution is simple, God is answering."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
