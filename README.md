@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to not feel hopeless is to get up and do something."</i>
+<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
