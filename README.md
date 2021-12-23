@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
+<i>"What worries you masters you."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Haddon Robinson</b>
 </blockquote>
 </p>
 
