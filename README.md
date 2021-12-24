@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
+<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Estee Lauder</b>
 </blockquote>
 </p>
 
