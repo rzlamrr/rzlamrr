@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
+<i>"All love that has not friendship for its base, is like a mansion built upon the sand."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
