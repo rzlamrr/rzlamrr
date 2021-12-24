@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All love that has not friendship for its base, is like a mansion built upon the sand."</i>
+<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
 <br>
-<b>- Ella Wheeler Wilcox</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
