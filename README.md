@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faith is taking the first step even when you don't see the whole staircase."</i>
+<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
