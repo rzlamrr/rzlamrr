@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be approximately right rather than exactly wrong."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
