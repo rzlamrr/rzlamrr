@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
+<i>"We never live; we are always in the expectation of living."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
