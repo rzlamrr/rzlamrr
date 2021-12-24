@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"One's friends are that part of the human race with which one can be human."</i>
 <br>
-<b>- Aristotle</b>
+<b>- George Santayana</b>
 </blockquote>
 </p>
 
