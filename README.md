@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"A day of worry is more exhausting than a day of work."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- John Lubbock</b>
 </blockquote>
 </p>
 
