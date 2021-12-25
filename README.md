@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absence makes the heart grow fonder."</i>
+<i>"Confidence is the greatest friend."</i>
 <br>
-<b>- Thomas Haynes Bayly</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
