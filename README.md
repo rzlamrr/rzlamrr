@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day of worry is more exhausting than a day of work."</i>
+<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
