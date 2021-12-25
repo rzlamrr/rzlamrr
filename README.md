@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination will often carry us to worlds that never were. But without it we go nowhere."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Carl Sagan</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
