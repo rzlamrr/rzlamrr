@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is movement-we breathe, we eat, we walk, we move!"</i>
+<i>"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you."</i>
 <br>
-<b>- John Pierrakos</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
