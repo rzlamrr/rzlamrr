@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not afraid of growing slowly, be afraid only of standing still. "</i>
+<i>"Friendship is like money, easier made than kept."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
