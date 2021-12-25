@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is like money, easier made than kept."</i>
+<i>"Nothing can bring you peace but yourself."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
