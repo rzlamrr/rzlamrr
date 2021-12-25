@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down."</i>
+<i>"If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives."</i>
 <br>
-<b>- Socrates</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
