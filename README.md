@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
+<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
