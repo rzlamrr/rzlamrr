@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have often regretted my speech, never my silence."</i>
+<i>"It isn't that they can't see the solution. It is that they can't see the problem."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
