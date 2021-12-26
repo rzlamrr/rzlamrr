@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
+<i>"Still your waters."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
