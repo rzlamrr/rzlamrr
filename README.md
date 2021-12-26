@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Inspiration exists, but it has to find us working."</i>
+<i>"We choose our joys and sorrows long before we experience them."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
