@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only limits in our life are those we impose on ourselves."</i>
+<i>"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Max Planck</b>
 </blockquote>
 </p>
 
