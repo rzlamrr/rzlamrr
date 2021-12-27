@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
