@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show me a hero, and I'll write you a tragedy."</i>
+<i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
