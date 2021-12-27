@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart well prepared for adversity in bad times hopes, and in good times fears for a change in fortune."</i>
+<i>"The future depends on what you do today. "</i>
 <br>
-<b>- Horace</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
