@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A moving door hinge never corrodes. Flowing water never grows stagnant."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
