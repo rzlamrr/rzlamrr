@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We choose our joys and sorrows long before we experience them."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
