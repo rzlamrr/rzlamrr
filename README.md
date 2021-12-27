@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"Show me a hero, and I'll write you a tragedy."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
