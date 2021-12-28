@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is able who thinks he is able."</i>
+<i>"The only real valuable thing is intuition."</i>
 <br>
-<b>- Buddha</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
