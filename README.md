@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
