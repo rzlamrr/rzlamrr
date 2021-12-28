@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
+<i>"He is able who thinks he is able."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
