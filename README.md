@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
+<i>"The key to growth is the introduction of higher dimensions of consciousness into our awareness."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
