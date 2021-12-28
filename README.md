@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thinking is difficult, that's why most people judge."</i>
+<i>"Man must use what he has, not hope for what is not."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- G.I. Gurdjieff</b>
 </blockquote>
 </p>
 
