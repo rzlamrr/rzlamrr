@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
+<i>"Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
