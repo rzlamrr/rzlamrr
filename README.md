@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age does not protect you from love. But love, to some extent, protects you from age."</i>
+<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
