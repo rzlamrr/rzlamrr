@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to growth is the introduction of higher dimensions of consciousness into our awareness."</i>
+<i>"Change is inevitable but personal growth is a choice."</i>
 <br>
-<b>- Laozi</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
