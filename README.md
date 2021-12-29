@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We know the truth, not only by the reason, but by the heart."</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
