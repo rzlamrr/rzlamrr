@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Myths which are believed in tend to become true."</i>
+<i>"If there is no struggle, there is no progress."</i>
 <br>
-<b>- George Orwell</b>
+<b>- Frederick Douglass</b>
 </blockquote>
 </p>
 
