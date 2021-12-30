@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lie the loudest when we lie to ourselves."</i>
+<i>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Anne Brontë</b>
 </blockquote>
 </p>
 
