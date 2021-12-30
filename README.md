@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act."</i>
+<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
 <br>
-<b>- Buddha</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
