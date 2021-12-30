@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cause is hidden. The effect is visible to all."</i>
+<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
 <br>
-<b>- Ovid</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
