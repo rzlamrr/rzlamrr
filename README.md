@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy."</i>
+<i>"Love doesn't make the world go round; love is what makes the ride worthwhile."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
