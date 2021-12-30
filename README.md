@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe."</i>
+<i>"Just as true humor is laughter at oneself, true humanity is knowledge of oneself."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
