@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives."</i>
+<i>"Without hard work, nothing grows but weeds."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
