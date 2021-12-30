@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without hard work, nothing grows but weeds."</i>
+<i>"The cause is hidden. The effect is visible to all."</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
