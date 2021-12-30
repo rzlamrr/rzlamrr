@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship needs no words - it is solitude delivered from the anguish of loneliness."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Dag Hammarskjöld</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
