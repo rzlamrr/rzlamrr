@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</i>
+<i>"I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act."</i>
 <br>
-<b>- Anne Brontë</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
