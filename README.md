@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
+<i>"We lie the loudest when we lie to ourselves."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
