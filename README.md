@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
+<i>"The only way to have a friend is to be one."</i>
 <br>
-<b>- Alfred North Whitehead</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
