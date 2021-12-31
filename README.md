@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. "</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
 <br>
-<b>- Charles Swindoll</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
