@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to have a friend is to be one."</i>
+<i>"The least of things with a meaning is worth more in life than the greatest of things without it."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
