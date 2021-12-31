@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
+<i>"Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
