@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
+<i>"Whatever happens always happens on time."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
