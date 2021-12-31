@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever you have eliminated the impossible, whatever remains, however improbable, must be the truth."</i>
+<i>"Opportunities multiply as they are seized."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
