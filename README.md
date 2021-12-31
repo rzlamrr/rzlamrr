@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."</i>
+<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
