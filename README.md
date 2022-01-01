@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is always a sweet responsibility, never an opportunity."</i>
+<i>"Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
