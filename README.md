@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition."</i>
+<i>"We cannot solve our problems with the same thinking we used when we created them."</i>
 <br>
-<b>- Honoré de Balzac</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
