@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest good you can do for another is not just share your riches but reveal to them their own."</i>
+<i>"Friendship is always a sweet responsibility, never an opportunity."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
