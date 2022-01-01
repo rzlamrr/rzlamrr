@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases."</i>
+<i>"We never understand how little we need in this world until we know the loss of it."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- J. M. Barrie</b>
 </blockquote>
 </p>
 
