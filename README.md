@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chance is always powerful. Let your hook be always cast; in the pool where you least expect it, there will be a fish."</i>
+<i>"The people who are crazy enough to think they can change the world are the ones who do."</i>
 <br>
-<b>- Ovid</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
