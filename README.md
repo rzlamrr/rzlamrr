@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never understand how little we need in this world until we know the loss of it."</i>
+<i>"The greatest good you can do for another is not just share your riches but reveal to them their own."</i>
 <br>
-<b>- J. M. Barrie</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
