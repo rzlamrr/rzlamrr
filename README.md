@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the future tell the truth and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
