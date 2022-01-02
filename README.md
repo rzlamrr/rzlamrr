@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to keep breaking your heart until it opens."</i>
+<i>"Silence is the true friend that never betrays."</i>
 <br>
-<b>- Rumi</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
