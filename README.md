@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't ruin the present with the ruined past."</i>
+<i>"The world is round so that friendship may encircle it."</i>
 <br>
-<b>- Ellen Gilchrist</b>
+<b>- Pierre Teilhard de Chardin</b>
 </blockquote>
 </p>
 
