@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage Is a Love Affair with the Unknown"</i>
+<i>"Our greatest fears lie in anticipation."</i>
 <br>
-<b>- Osho</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
