@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish great things, we must dream as well as act."</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
