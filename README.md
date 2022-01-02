@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
