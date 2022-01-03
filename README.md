@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
+<i>"You have to do your own growing no matter how tall your grandfather was."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
