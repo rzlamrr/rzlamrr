@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit."</i>
+<i>"No man was ever wise by chance."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
