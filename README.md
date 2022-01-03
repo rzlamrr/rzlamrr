@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
+<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Sam Keen</b>
 </blockquote>
 </p>
 
