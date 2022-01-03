@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life without love is like a tree without blossoms or fruit."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
