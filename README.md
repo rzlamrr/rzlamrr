@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to do your own growing no matter how tall your grandfather was."</i>
+<i>"The power of human thought grows exponentially with the number of minds that share that thought."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
