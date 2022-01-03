@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly."</i>
+<i>"Life without love is like a tree without blossoms or fruit."</i>
 <br>
-<b>- Sam Keen</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
