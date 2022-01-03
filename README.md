@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man was ever wise by chance."</i>
+<i>"Learning never exhausts the mind."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
