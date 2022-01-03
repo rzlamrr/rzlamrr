@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Horace</b>
 </blockquote>
 </p>
 
