@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like stepping onto a boat which is about to sail out to sea and sink."</i>
+<i>"To wish you were someone else is to waste the person you are."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
