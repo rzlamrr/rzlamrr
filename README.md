@@ -1,17 +1,18 @@
 <h2 align="center"> Hi, RIZAL here!</h2>
 
-- My name is Rizal Amrr, you can call me Rizal 😉
+- You can call me Rizal 😉
 - I am a student in Senior High School 🏫
 - Born and live in Indonesia 🇮🇩
+- Visit my website <a href=https://rzlamrr.me>here</a> 🌐
 
 <details>
     <summary>Some interesting facts about me!</summary>
 
     - Settled in Madura Island 🌏
 
-    - Playing game when have a free time 🎮
+    - Playing game in free time 🎮
 
-    - While Coding, Listening Music and developing useful code. ⭐️
+    - Also watching movies, listening to music and coding ⭐️
 
 </details>
 
@@ -41,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
+<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
 <br>
-<b>- John Updike</b>
+<b>- Joseph Wood Krutch</b>
 </blockquote>
 </p>
 
