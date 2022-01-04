@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are far from the enemy, make him believe you are near."</i>
+<i>"Positive thinking will let you do everything better than negative thinking will."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
