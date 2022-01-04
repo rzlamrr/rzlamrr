@@ -41,9 +41,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man cannot be said to succeed in this life who does not satisfy one friend."</i>
+<i>"Step with care and great tact and remember that Life's a Great Balancing Act."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
