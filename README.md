@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We win by helping each other win."</i>
+<i>"Our truest life is when we are in dreams awake."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
