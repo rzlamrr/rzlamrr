@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology made large populations possible; large populations now make technology indispensable."</i>
+<i>"We must embrace pain and burn it as fuel for our journey."</i>
 <br>
-<b>- Joseph Wood Krutch</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
