@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
+<i>"Until you make peace with who you are, you'll never be content with what you have."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Doris Mortman</b>
 </blockquote>
 </p>
 
