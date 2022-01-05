@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties increase the nearer we get to the goal."</i>
+<i>"Cunning... is but the low mimic of wisdom."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
