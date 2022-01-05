@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every problem has a gift for you in its hands."</i>
+<i>"All leaders are readers."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
