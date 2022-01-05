@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're braver than you believe, and stronger than you seem, and smarter than you think."</i>
+<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
 <br>
 <b>- A.A. Milne</b>
 </blockquote>
