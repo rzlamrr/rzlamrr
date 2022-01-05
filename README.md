@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is the result of two things: mental attitude and the way we spend our time."</i>
+<i>"Difficulties increase the nearer we get to the goal."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
