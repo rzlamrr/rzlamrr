@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
+<i>"It still holds true that man is most uniquely human when he turns obstacles into opportunities."</i>
 <br>
-<b>- Ed Cunningham</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
