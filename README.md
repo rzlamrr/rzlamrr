@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift – today."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
