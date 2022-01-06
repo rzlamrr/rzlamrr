@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
