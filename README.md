@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The universe is made of stories, not atoms."</i>
+<i>"A fall into a ditch makes you wiser."</i>
 <br>
-<b>- Muriel Rukeyser</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
