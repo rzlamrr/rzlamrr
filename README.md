@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
+<i>"Communications tools don’t get socially interesting until they get technologically boring."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Clay Shirky</b>
 </blockquote>
 </p>
 
