@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude."</i>
+<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
