@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rivers know this: there is no hurry. We shall get there some day."</i>
+<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Ed Cunningham</b>
 </blockquote>
 </p>
 
