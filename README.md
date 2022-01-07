@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give whatever you are doing and whoever you are with the gift of your attention."</i>
+<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
