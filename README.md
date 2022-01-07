@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't everything, but wanting to win is."</i>
+<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
