@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is the man who expects nothing, for he shall never be disappointed."</i>
+<i>"Give whatever you are doing and whoever you are with the gift of your attention."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
