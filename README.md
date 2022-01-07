@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from."</i>
+<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Margaret Cousins</b>
 </blockquote>
 </p>
 
