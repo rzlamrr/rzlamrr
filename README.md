@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The extreme limit of wisdom, that's what the public calls madness."</i>
+<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
 <br>
-<b>- Jean Cocteau</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
