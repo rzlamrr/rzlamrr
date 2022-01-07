@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our character is what we do when we think no one is looking."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
