@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
+<i>"Be a master of change rather than a victim of change."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
