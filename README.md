@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
+<i>"Strong beliefs win strong men, and then make them stronger."</i>
 <br>
-<b>- Laurence J. Peter</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
