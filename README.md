@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"There are two kinds of failures: those who thought and never did, and those who did and never thought."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
