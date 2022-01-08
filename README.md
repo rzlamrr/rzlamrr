@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't want anything. Then you get everything."</i>
+<i>"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
