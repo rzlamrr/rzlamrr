@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must accept finite disappointment, but never lose infinite hope."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
