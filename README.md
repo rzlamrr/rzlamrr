@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."</i>
+<i>"The dead receive more flowers than the living because regret is stronger than gratitude."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
