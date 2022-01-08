@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like the immortality of the soul, is too good to be believed."</i>
+<i>"It's easier to resist at the beginning than at the end."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
