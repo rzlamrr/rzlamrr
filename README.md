@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easier to resist at the beginning than at the end."</i>
+<i>"How wonderful that we have met with a paradox. Now we have some hope of making progress."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Niels Bohr</b>
 </blockquote>
 </p>
 
