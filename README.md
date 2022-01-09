@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work is always an antidote to depression."</i>
+<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
