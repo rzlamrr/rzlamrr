@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a girl the right shoes, and she can conquer the world."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Bette Midler</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
