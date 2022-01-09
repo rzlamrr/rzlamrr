@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity: doing the same thing over and over again and expecting different results."</i>
+<i>"You'll see it when you believe it."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
