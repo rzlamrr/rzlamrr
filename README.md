@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strong beliefs win strong men, and then make them stronger."</i>
+<i>"There is no charm equal to tenderness of heart."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Jane Austen</b>
 </blockquote>
 </p>
 
