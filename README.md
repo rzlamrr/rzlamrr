@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"I will give you a definition of a proud man: he is a man who has neither vanity nor wisdom one filled with hatreds cannot be vain, neither can he be wise."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- John Keats</b>
 </blockquote>
 </p>
 
