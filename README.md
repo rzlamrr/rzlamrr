@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
+<i>"There are many ways of going forward, but only one way of standing still."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
