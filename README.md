@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Gordon Hinckley</b>
 </blockquote>
 </p>
 
