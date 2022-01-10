@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are many ways of going forward, but only one way of standing still."</i>
+<i>"Whatever happens, take responsibility."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
