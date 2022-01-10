@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean."</i>
+<i>"Love and friendship exclude each other."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Jean de La Bruyère</b>
 </blockquote>
 </p>
 
