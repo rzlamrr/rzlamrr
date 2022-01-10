@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our lives are the only meaningful expression of what we believe and in Whom we believe. And the only real wealth, for any of us, lies in our faith."</i>
+<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
 <br>
-<b>- Gordon Hinckley</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
