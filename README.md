@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and friendship exclude each other."</i>
+<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
 <br>
-<b>- Jean de La Bruyère</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
