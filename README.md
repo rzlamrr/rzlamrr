@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people dream of success, while others wake up and work hard at it."</i>
+<i>"You can't let praise or criticism get to you. It's a weakness to get caught up in either one."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
