@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let what you cannot do interfere with what you can do."</i>
+<i>"Don't criticize what you can't understand. "</i>
 <br>
-<b>- John Wooden</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
