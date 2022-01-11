@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first principle of success is desire."</i>
+<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
