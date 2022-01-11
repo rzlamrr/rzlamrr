@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking."</i>
+<i>"Stay committed to your decisions, but stay flexible in your approach."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
