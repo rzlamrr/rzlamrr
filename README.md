@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formal education will make you a living, self-education will make you a fortune."</i>
+<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
