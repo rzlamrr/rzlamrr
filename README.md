@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
+<i>"Don't let what you cannot do interfere with what you can do."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
