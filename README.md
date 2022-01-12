@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we seek to discover the best in others, we somehow bring out the best in ourselves."</i>
+<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
