@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
+<i>"Singleness of purpose is one of the chief essentials for success in life, no matter what may be one's aim."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- John D. Rockefeller</b>
 </blockquote>
 </p>
 
