@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I succeeded by saying what everyone else is thinking."</i>
+<i>"When we seek to discover the best in others, we somehow bring out the best in ourselves."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
