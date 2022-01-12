@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
