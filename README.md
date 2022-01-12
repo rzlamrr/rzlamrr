@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that is made beautiful and fair and lovely is made for the eye of one who sees."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Rumi</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
