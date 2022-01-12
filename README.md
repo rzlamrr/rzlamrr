@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest room in the world is room for improvement."</i>
+<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
 <br>
-<b>- Helmut Schmidt</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
