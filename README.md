@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
+<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Alexander Pope</b>
 </blockquote>
 </p>
 
