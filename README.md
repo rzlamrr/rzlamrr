@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
+<i>"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."</i>
 <br>
-<b>- Ed Cunningham</b>
+<b>- Sydney J. Harris</b>
 </blockquote>
 </p>
 
