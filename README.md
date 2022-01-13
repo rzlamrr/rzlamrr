@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
