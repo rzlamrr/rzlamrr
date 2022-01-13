@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect should be earned by actions, and not acquired by years."</i>
+<i>"There is no charm equal to tenderness of heart."</i>
 <br>
-<b>- Frank Lloyd Wright</b>
+<b>- Jane Austen</b>
 </blockquote>
 </p>
 
