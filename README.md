@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great are they who see that spiritual is stronger than any material force, that thoughts rule the world."</i>
+<i>"Respect should be earned by actions, and not acquired by years."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Frank Lloyd Wright</b>
 </blockquote>
 </p>
 
