@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime."</i>
+<i>"If you do what you've always done, you'll get what you've always gotten."</i>
 <br>
-<b>- Laozi</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
