@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our strength grows out of our weaknesses."</i>
+<i>"Friends are those rare people who ask how we are and then wait to hear the answer."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Ed Cunningham</b>
 </blockquote>
 </p>
 
