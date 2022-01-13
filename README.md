@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
+<i>"Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Calvin Coolidge</b>
 </blockquote>
 </p>
 
