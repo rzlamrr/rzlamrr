@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your attitude, not your aptitude, will determine your altitude."</i>
+<i>"Make the best use of what is in your power and take the rest as it happens."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
