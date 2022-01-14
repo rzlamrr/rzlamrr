@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Simone Weil</b>
 </blockquote>
 </p>
 
