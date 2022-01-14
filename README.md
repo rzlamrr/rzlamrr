@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
