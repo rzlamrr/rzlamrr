@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to a better understanding of ourselves."</i>
+<i>"You are important enough to ask and you are blessed enough to receive back."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
