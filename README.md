@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are important enough to ask and you are blessed enough to receive back."</i>
+<i>"When you win, say nothing, when you lose say less."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
