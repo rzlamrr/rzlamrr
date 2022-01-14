@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Liberty, taking the word in its concrete sense, consists in the ability to choose."</i>
+<i>"No man can succeed in a line of endeavor which he does not like."</i>
 <br>
-<b>- Simone Weil</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
