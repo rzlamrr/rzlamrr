@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do it with passion, or not at all."</i>
+<i>"It is truth that liberates, not your effort to be free."</i>
 <br>
-<b>- Rosa Nouchette Carey</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
