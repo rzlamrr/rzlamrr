@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
