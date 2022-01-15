@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have learned that to be with those I like is enough."</i>
+<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
