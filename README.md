@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
+<i>"To a mind that is still, the entire universe surrenders."</i>
 <br>
-<b>- Confucius</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
