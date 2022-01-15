@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To a mind that is still, the entire universe surrenders."</i>
+<i>"The wisest men follow their own direction."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
