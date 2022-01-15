@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It does not matter how slowly you go as long as you do not stop."</i>
+<i>"The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds."</i>
 <br>
-<b>- Confucius</b>
+<b>- Will Durant</b>
 </blockquote>
 </p>
 
