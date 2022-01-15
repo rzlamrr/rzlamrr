@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dreamers are the saviors of the worlds."</i>
+<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
 <br>
-<b>- James Allen</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
