@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
+<i>"I have learned that to be with those I like is enough."</i>
 <br>
-<b>- Confucius</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
