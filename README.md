@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can turn a blind eye but who knows what the ostrich sees in the sand."</i>
+<i>"It's the little details that are vital. Little things make big things happen."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
