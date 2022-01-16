@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never close your lips to those whom you have already opened your heart."</i>
+<i>"Think as a wise man but communicate in the language of the people."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- William Butler Yeats</b>
 </blockquote>
 </p>
 
