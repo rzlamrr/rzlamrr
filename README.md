@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face to the sunshine and you cannot see the shadows."</i>
+<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Douglas Coupland</b>
 </blockquote>
 </p>
 
