@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's the little details that are vital. Little things make big things happen."</i>
+<i>"Never close your lips to those whom you have already opened your heart."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
