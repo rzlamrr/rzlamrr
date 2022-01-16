@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
+<i>"It is not in the stars to hold our destiny but in ourselves."</i>
 <br>
-<b>- Douglas Coupland</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
