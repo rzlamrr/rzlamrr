@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think as a wise man but communicate in the language of the people."</i>
+<i>"You can't stop the waves, but you can learn to surf."</i>
 <br>
-<b>- William Butler Yeats</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
