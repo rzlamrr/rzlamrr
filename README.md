@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not in the stars to hold our destiny but in ourselves."</i>
+<i>"For all evils there are two remedies - time and silence."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
