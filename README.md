@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
