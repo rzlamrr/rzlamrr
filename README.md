@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A clever person turns great troubles into little ones, and little ones into none at all. "</i>
+<i>"Happiness does not come from having much, but from being attached to little."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Cheng Yen</b>
 </blockquote>
 </p>
 
