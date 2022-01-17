@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness does not come from having much, but from being attached to little."</i>
+<i>"Live your life as an exclamation rather than an explanation."</i>
 <br>
-<b>- Cheng Yen</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
