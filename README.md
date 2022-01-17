@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
