@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science is organized knowledge. Wisdom is organized life."</i>
+<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
