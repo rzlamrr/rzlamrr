@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
