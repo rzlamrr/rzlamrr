@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure doesn't mean you are a failure it just means you haven't succeeded yet."</i>
+<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
 <br>
-<b>- Robert Schuller</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
