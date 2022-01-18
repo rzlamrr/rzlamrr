@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do more than dream: work."</i>
+<i>"It is in your moments of decision that your destiny is shaped."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
