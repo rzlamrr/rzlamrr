@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in your moments of decision that your destiny is shaped."</i>
+<i>"The winds and waves are always on the side of the ablest navigators."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Edward Gibbon</b>
 </blockquote>
 </p>
 
