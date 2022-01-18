@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one."</i>
+<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
