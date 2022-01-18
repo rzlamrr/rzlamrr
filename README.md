@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?"</i>
+<i>"Nothing ever goes away until it has taught us what we need to know."</i>
 <br>
-<b>- Buddha</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
