@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you realize you've made a mistake, take immediate steps to correct it."</i>
+<i>"You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
