@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a succession of lessons, which must be lived to be understood."</i>
+<i>"A friend is, as it were, a second self."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
