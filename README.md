@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friend is, as it were, a second self."</i>
+<i>"Failure doesn't mean you are a failure it just means you haven't succeeded yet."</i>
 <br>
-<b>- Cicero</b>
+<b>- Robert Schuller</b>
 </blockquote>
 </p>
 
