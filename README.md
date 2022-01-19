@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."</i>
+<i>"Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
