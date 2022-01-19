@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
