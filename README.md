@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
+<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
