@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness does not come from having much, but from being attached to little."</i>
+<i>"Still your waters."</i>
 <br>
-<b>- Cheng Yen</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
