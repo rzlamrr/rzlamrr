@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Irony is the gaiety of reflection and the joy of wisdom."</i>
+<i>"Happiness does not come from having much, but from being attached to little."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Cheng Yen</b>
 </blockquote>
 </p>
 
