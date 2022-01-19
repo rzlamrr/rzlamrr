@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love all, trust a few, do wrong to none."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
