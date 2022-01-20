@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your mind your own business."</i>
+<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
