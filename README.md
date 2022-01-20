@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
+<i>"Winning isn't everything, but wanting to win is."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
