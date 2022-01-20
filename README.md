@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
+<i>"Do not give your attention to what others do or fail to do; give it to what you do or fail to do."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Dhammapada</b>
 </blockquote>
 </p>
 
