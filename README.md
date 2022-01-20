@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
+<i>"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face."</i>
 <br>
-<b>- Volker Grassmuck</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
