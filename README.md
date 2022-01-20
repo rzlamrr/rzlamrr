@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything."</i>
+<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
