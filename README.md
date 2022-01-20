@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not give your attention to what others do or fail to do; give it to what you do or fail to do."</i>
+<i>"It is startling to realize how much unbelief is necessary to make belief possible."</i>
 <br>
-<b>- Dhammapada</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
