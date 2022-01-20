@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
