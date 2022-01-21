@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The winner ain't the one with the fastest car it's the one who refuses to lose."</i>
+<i>"How we spend our days is, of course, how we spend our lives."</i>
 <br>
-<b>- Dale Earnhardt</b>
+<b>- Annie Dillard</b>
 </blockquote>
 </p>
 
