@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All wisdom does not reside in Delhi."</i>
+<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
 <br>
-<b>- P. Chidambaram</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
