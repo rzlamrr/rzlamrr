@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one success: to be able to spend your life in your own way."</i>
+<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
 <br>
-<b>- Christopher Morley</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
