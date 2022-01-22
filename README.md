@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time you enjoy wasting, was not wasted."</i>
+<i>"There is only one success: to be able to spend your life in your own way."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Christopher Morley</b>
 </blockquote>
 </p>
 
