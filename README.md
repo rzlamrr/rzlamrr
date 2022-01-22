@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take things as they are. Punch when you have to punch. Kick when you have to kick."</i>
+<i>"The ladder of success is best climbed by stepping on the rungs of opportunity."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
