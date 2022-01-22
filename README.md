@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is the most precious of all possessions and the one we take the least thought about acquiring."</i>
+<i>"The truest greatness lies in being kind, the truest wisdom in a happy mind."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
