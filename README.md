@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are free, and that is why you are lost."</i>
+<i>"Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!"</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
