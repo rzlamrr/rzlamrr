@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
