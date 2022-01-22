@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them."</i>
+<i>"The person who says something is impossible should not interrupt the person who is doing it."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
