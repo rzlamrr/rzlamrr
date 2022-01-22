@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"Time you enjoy wasting, was not wasted."</i>
 <br>
 <b>- John Lennon</b>
 </blockquote>
