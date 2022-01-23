@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We will outstretch the hand if you unclench your fist."</i>
+<i>"You miss 100% of the shots you don't take."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
