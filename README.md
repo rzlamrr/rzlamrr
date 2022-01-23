@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The one who praises you is a thief. The one who criticizes you is your true friend."</i>
+<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
