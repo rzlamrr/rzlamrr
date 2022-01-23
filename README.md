@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must embrace pain and burn it as fuel for our journey."</i>
+<i>"If it is not right do not do it; if it is not true do not say it."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
