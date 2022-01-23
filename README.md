@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how hard physics would be if particles could think."</i>
+<i>"The strongest and sweetest songs yet remain to be sung."</i>
 <br>
-<b>- Murray Gell-Mann</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
