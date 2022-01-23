@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right do not do it; if it is not true do not say it."</i>
+<i>"Think how hard physics would be if particles could think."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Murray Gell-Mann</b>
 </blockquote>
 </p>
 
