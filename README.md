@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I no doubt deserved my enemies, but I don't believe I deserved my friends."</i>
+<i>"Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'"</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Bill Bradley</b>
 </blockquote>
 </p>
 
