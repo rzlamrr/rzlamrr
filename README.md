@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You miss 100% of the shots you don't take."</i>
+<i>"When you're curious, you find lots of interesting things to do."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Walt Disney</b>
 </blockquote>
 </p>
 
