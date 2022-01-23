@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't believe that God put us on this earth to be ordinary."</i>
+<i>"We will outstretch the hand if you unclench your fist."</i>
 <br>
-<b>- Lou Holtz</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
