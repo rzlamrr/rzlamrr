@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
+<i>"I can't believe that God put us on this earth to be ordinary."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Lou Holtz</b>
 </blockquote>
 </p>
 
