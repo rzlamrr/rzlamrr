@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'"</i>
+<i>"Poverty and hardship are created by false thinking."</i>
 <br>
-<b>- Bill Bradley</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
