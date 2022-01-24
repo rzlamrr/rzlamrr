@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No day in which you learn something is a complete loss."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- David Eddings</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
