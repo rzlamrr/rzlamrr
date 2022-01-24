@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest act of kindness is worth more than the greatest intention.  "</i>
+<i>"True life is lived when tiny changes occur."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
