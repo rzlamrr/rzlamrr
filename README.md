@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes I am happy and sometimes not. I am, after all, a human being, you know. And I am glad that we are sometimes happy and sometimes not. You get your wisdom working by having different emotions."</i>
+<i>"The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
