@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you find yourself in a hole, the first thing to do is stop digging."</i>
+<i>"You talk when you cease to be at peace with your thoughts."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
