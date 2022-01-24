@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when."</i>
+<i>"Our character is what we do when we think no one is looking."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
