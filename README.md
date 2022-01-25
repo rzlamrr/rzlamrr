@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is like playing the violin in public and learning the instrument as one goes on."</i>
+<i>"A comfort zone is a beautiful place, but nothing ever grows there."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
