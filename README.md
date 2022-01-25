@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
+<i>"Real magic in relationships means an absence of judgement of others."</i>
 <br>
-<b>- Louis Pasteur</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
