@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lost because we told ourselves we lost."</i>
+<i>"Remembering a wrong is like carrying a burden on the mind."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
