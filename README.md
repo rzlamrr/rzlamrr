@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking."</i>
+<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
 <br>
-<b>- Alfred Korzybski</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
