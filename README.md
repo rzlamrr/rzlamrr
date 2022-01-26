@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You win the victory when you yield to friends."</i>
+<i>"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
