@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear does not have any special power unless you empower it by submitting to it."</i>
+<i>"You win the victory when you yield to friends."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
