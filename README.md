@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You need chaos in your soul to give birth to a dancing star."</i>
+<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
