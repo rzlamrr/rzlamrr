@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Start where you are. Use what you have. Do what you can."</i>
+<i>"The pain passes, but the beauty remains."</i>
 <br>
-<b>- Arthur Ashe</b>
+<b>- Pierre-Auguste Renoir</b>
 </blockquote>
 </p>
 
