@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
+<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
