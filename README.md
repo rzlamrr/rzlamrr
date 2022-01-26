@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing strengthens authority so much as silence."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
