@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins."</i>
+<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
 <br>
-<b>- Charles Eastman</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
