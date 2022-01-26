@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best fighter is never angry."</i>
+<i>"You need chaos in your soul to give birth to a dancing star."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Friedrich Nietzsche</b>
 </blockquote>
 </p>
 
