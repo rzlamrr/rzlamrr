@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never reach out your hand unless you're willing to extend an arm."</i>
+<i>"Make your stand today. On this spot. On this day."</i>
 <br>
-<b>- Pope Paul VI</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
