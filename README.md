@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pain passes, but the beauty remains."</i>
+<i>"Forgiveness is choosing to love. It is the first skill of self-giving love."</i>
 <br>
-<b>- Pierre-Auguste Renoir</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
