@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never was anything great achieved without danger."</i>
+<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
