@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make your stand today. On this spot. On this day."</i>
+<i>"Dreams come true. Without that possibility, nature would not incite us to have them."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- John Updike</b>
 </blockquote>
 </p>
 
