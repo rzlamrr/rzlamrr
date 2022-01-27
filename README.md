@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
