@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The young man knows the rules, but the old man knows the exceptions."</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
