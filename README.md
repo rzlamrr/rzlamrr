@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better a diamond with a flaw than a pebble without one."</i>
+<i>"The young man knows the rules, but the old man knows the exceptions."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
