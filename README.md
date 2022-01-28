@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like credit, is highest when it is not used."</i>
+<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
