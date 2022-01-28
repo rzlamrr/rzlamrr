@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about. "</i>
+<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
