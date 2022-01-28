@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
+<i>"The only way round is through."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
