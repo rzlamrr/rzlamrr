@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We win by helping each other win."</i>
+<i>"Friendship, like credit, is highest when it is not used."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
