@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Emancipate yourself from mental slavery, none but ourselves can free our mind."</i>
+<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
