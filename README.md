@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to light a single candle than to curse the darkness."</i>
+<i>"A man should do his job so well that the living, the dead, and the unborn could do it no better."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
