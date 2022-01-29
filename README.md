@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered."</i>
+<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
