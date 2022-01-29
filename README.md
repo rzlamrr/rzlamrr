@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
+<i>"It is better to light a single candle than to curse the darkness."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
