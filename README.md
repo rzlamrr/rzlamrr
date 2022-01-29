@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
