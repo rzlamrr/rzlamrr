@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Belief consists in accepting the affirmations of the soul; Unbelief, in denying them."</i>
+<i>"When you want to be honored by others, you learn to honor them first."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
