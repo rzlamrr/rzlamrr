@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Health is the greatest of all possessions."</i>
+<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
