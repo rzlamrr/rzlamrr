@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"Love and friendship exclude each other."</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- Jean de La Bruyère</b>
 </blockquote>
 </p>
 
