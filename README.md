@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you. "</i>
+<i>"Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
