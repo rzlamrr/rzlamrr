@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
+<i>"We shall never know all the good that a simple smile can do."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
