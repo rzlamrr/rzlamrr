@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shall never know all the good that a simple smile can do."</i>
+<i>"To succeed, we must first believe that we can."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Michael Korda</b>
 </blockquote>
 </p>
 
