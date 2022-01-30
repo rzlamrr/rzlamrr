@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is 10% what happens to you and 90% how you react to it."</i>
+<i>"Believe in one thing too much and you have no room for new ideas.  "</i>
 <br>
-<b>- Chuck Swindoll</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
