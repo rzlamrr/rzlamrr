@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The deepest craving of human nature is the need to be appreciated."</i>
+<i>"Marriage: A friendship recognized by the police."</i>
 <br>
-<b>- William James</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
