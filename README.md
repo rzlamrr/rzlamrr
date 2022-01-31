@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin."</i>
+<i>"Don't be afraid to go out on a limb. That's where the fruit is."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- H. Jackson Brown Jr.</b>
 </blockquote>
 </p>
 
