@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From morning till night, we should never rely on a single thing."</i>
+<i>"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
