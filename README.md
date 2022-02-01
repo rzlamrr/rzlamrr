@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has the right to make his own decisions, but none has the right to force his decision on others."</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
