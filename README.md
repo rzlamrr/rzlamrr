@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge rests not upon truth alone, but upon error also."</i>
+<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
