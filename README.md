@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who leaves the game wins it."</i>
+<i>"I never see what has been done; I only see what remains to be done."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Marie Curie</b>
 </blockquote>
 </p>
 
