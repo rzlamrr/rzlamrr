@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Swim upstream. Go the other way. Ignore the conventional wisdom."</i>
+<i>"By failing to prepare, you are preparing to fail."</i>
 <br>
-<b>- Sam Walton</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
