@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."</i>
+<i>"By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
