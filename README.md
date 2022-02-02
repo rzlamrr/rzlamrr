@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be confident, not certain."</i>
+<i>"Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Arthur Conan Doyle</b>
 </blockquote>
 </p>
 
