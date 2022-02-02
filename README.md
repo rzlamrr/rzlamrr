@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By going beyond your own problems and taking care of others, you gain inner strength, self-confidence, courage, and a greater sense of calm."</i>
+<i>"I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
