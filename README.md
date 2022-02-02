@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude."</i>
+<i>"Be confident, not certain."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
