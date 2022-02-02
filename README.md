@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving."</i>
+<i>"Positive thinking will let you do everything better than negative thinking will."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
