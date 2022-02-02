@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better."</i>
+<i>"A friendship founded on business is better than a business founded on friendship."</i>
 <br>
-<b>- Plutarch</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
