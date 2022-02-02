@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking will let you do everything better than negative thinking will."</i>
+<i>"In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
