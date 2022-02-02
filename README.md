@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A friendship founded on business is better than a business founded on friendship."</i>
+<i>"Be slow of tongue and quick of eye."</i>
 <br>
-<b>- John Locke</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
