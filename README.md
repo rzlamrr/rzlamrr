@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the midst of chaos, there is also opportunity."</i>
+<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
