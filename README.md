@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
