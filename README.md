@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
