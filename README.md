@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
+<i>"The heart wants what it wants. There's no logic. "</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
