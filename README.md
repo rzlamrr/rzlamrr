@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution."</i>
+<i>"You cannot be lonely if you like the person you're alone with."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
