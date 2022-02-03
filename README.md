@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart wants what it wants. There's no logic. "</i>
+<i>"Presents are made for the pleasure of who gives them, not the merits of who receives them."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
