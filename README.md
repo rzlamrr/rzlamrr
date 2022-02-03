@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Between saying and doing, many a pair of shoes is worn out."</i>
+<i>"In the midst of chaos, there is also opportunity."</i>
 <br>
-<b>- Iris Murdoch</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
