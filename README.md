@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars."</i>
+<i>"If you love someone, set them free. If they come back, they're yours; if they don't, they never were."</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
