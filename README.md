@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you love someone, set them free. If they come back, they're yours; if they don't, they never were."</i>
+<i>"Magic is believing in yourself, if you can do that, you can make anything happen."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
