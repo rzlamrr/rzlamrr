@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot be lonely if you like the person you're alone with."</i>
+<i>"Never explain - your friends do not need it and your enemies will not believe you anyway."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
