@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"Between saying and doing, many a pair of shoes is worn out."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Iris Murdoch</b>
 </blockquote>
 </p>
 
