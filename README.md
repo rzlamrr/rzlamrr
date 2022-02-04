@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently."</i>
+<i>"Make the best use of what is in your power and take the rest as it happens."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
