@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make the best use of what is in your power and take the rest as it happens."</i>
+<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
