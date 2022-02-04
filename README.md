@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is fatal to enter any war without the will to win it."</i>
+<i>"Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself."</i>
 <br>
-<b>- Douglas MacArthur</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
