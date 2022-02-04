@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself."</i>
+<i>"Whatever you believe with feeling becomes your reality. "</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
