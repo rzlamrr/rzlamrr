@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good head and a good heart are always a formidable combination."</i>
+<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
