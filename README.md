@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know, first, who you are, and then adorn yourself accordingly."</i>
+<i>"A good head and a good heart are always a formidable combination."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
