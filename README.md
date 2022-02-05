@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
+<i>"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."</i>
 <br>
-<b>- Buddha</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
