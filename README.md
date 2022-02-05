@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A change is brought about because ordinary people do extraordinary things."</i>
+<i>"He who wishes to secure the good of others, has already secured his own."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
