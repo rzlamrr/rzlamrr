@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give."</i>
+<i>"Music is a higher revelation than all wisdom and philosophy."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Ludwig van Beethoven</b>
 </blockquote>
 </p>
 
