@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
+<i>"What do we live for if not to make life less difficult for each other?"</i>
 <br>
-<b>- George Eliot</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
