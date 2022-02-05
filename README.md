@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to secure the good of others, has already secured his own."</i>
+<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
