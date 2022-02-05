@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
+<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
