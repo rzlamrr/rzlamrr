@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for if not to make life less difficult for each other?"</i>
+<i>"I'd rather regret the things I've done than regret the things I haven't done."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
