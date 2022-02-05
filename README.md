@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."</i>
+<i>"You don't need a weatherman to know which way the wind blows."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
