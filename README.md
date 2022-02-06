@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
+<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
 <br>
-<b>- Margaret Cousins</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
