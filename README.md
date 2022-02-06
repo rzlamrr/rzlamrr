@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship with oneself is all important, because without it one cannot be friends with anyone else in the world."</i>
+<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Margaret Cousins</b>
 </blockquote>
 </p>
 
