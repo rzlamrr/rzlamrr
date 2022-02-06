@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We tend to live up to our expectations."</i>
+<i>"The only difference between success and failure is the ability to take action."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
