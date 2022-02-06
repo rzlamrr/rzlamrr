@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Setting goals is the first step in turning the invisible into the visible."</i>
+<i>"We tend to live up to our expectations."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
