@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is literally true that you can succeed best and quickest by helping others succeed."</i>
+<i>"It is important that we forgive ourselves for making mistakes. We need to learn from our errors and move on."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
