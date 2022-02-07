@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shall never know all the good that a simple smile can do."</i>
+<i>"Understanding that rests in what it does not understand is the finest."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
