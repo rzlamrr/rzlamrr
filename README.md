@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want something in life, you just gotta reach out and grab it."</i>
+<i>"We shall never know all the good that a simple smile can do."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
