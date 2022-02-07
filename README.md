@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How wonderful it is that nobody need wait a single moment before starting to improve the world."</i>
+<i>"Reality does not conform to the ideal but confirms it."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
