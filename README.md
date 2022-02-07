@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not change direction, you may end up where you are heading."</i>
+<i>"What would life be if we had no courage to attempt anything? "</i>
 <br>
-<b>- Laozi</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
