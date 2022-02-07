@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What would life be if we had no courage to attempt anything? "</i>
+<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
