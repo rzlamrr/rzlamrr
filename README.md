@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
+<i>"An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men."</i>
 <br>
-<b>- Buddha</b>
+<b>- Thomas Fuller</b>
 </blockquote>
 </p>
 
