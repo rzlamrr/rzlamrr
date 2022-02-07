@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude, not aptitude, determines altitude.  "</i>
+<i>"When you want something in life, you just gotta reach out and grab it."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
