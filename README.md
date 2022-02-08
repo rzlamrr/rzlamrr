@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish."</i>
+<i>"People rarely succeed unless they have fun in what they are doing."</i>
 <br>
-<b>- John Adams</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
