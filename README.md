@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship can afford true knowledge. It does not depend on darkness and ignorance."</i>
+<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
