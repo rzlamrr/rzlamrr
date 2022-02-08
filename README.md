@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One that desires to excel should endeavor in those things that are in themselves most excellent."</i>
+<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
