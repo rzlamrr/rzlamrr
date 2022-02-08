@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We all live with the objective of being happy; our lives are all different and yet the same."</i>
+<i>"Don't leave a stone unturned. It's always something, to know you have done the most you could."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
