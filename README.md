@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Just as much as we see in others, we have in ourselves."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- William Hazlitt</b>
 </blockquote>
 </p>
 
