@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are free of resentful thoughts surely find peace."</i>
+<i>"True friendship can afford true knowledge. It does not depend on darkness and ignorance."</i>
 <br>
-<b>- Buddha</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
