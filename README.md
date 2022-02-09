@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health."</i>
+<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
 <br>
 <b>- Dalai Lama</b>
 </blockquote>
