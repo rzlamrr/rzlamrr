@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Be a master of change rather than a victim of change."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
