@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
+<i>"Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Epicurus</b>
 </blockquote>
 </p>
 
