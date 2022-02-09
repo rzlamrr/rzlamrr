@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship."</i>
+<i>"The search for happiness is one of the chief sources of unhappiness."</i>
 <br>
-<b>- Epicurus</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
