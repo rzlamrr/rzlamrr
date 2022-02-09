@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't explain your philosophy. Embody it."</i>
+<i>"Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
