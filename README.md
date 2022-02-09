@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People rarely succeed unless they have fun in what they are doing."</i>
+<i>"Nothing will work unless you do."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
