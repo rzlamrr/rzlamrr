@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
+<i>"We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."</i>
 <br>
-<b>- Seneca</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
