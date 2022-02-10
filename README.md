@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."</i>
+<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
 <br>
-<b>- Buddha</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
