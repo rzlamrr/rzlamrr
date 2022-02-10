@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever something negative happens to you, there is a deep lesson concealed within it."</i>
+<i>"A goal is a dream with a deadline."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
