@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're changing the world, you're working on important things. You're excited to get up in the morning."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Larry Page</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
