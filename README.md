@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your hunches. They're usually based on facts filed away just below the conscious level."</i>
+<i>"You can't make someone feel good about themselves until you feel good about yourself."</i>
 <br>
-<b>- Joyce Brothers</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
