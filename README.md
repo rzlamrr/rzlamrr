@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
+<i>"If you're changing the world, you're working on important things. You're excited to get up in the morning."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Larry Page</b>
 </blockquote>
 </p>
 
