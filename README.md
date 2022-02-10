@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have no methods; all I do is accept people as they are."</i>
+<i>"Every great advance in science has issued from a new audacity of the imagination."</i>
 <br>
-<b>- Joan Rivers</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
