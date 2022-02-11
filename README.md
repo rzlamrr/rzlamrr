@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to go east, don't go west."</i>
+<i>"Know yourself and you will win all battles."</i>
 <br>
-<b>- Ramakrishna</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
