@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm a great believer in luck and I find the harder I work, the more I have of it."</i>
+<i>"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Susan Orlean</b>
 </blockquote>
 </p>
 
