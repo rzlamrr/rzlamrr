@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness."</i>
+<i>"I'm a great believer in luck and I find the harder I work, the more I have of it."</i>
 <br>
-<b>- Rumi</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
