@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We never live; we are always in the expectation of living."</i>
+<i>"Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
