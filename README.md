@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conscience is a man's compass. "</i>
+<i>"Friendship is one mind in two bodies."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
