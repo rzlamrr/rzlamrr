@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal is a dream with a deadline."</i>
+<i>"We never live; we are always in the expectation of living."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
