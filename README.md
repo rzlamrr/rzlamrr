@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the highest kite one can fly."</i>
+<i>"Conscience is a man's compass. "</i>
 <br>
-<b>- Lauren Bacall</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
