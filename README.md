@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I don't turn to greeting cards for wisdom and advice, but they are a fine reflection of the general drift of the culture."</i>
+<i>"Imagination is the highest kite one can fly."</i>
 <br>
-<b>- Susan Orlean</b>
+<b>- Lauren Bacall</b>
 </blockquote>
 </p>
 
