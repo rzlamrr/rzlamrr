@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot be lonely if you like the person you're alone with."</i>
+<i>"If you want to go east, don't go west."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ramakrishna</b>
 </blockquote>
 </p>
 
