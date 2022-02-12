@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing what you love is the cornerstone of having abundance in your life."</i>
+<i>"Don't turn away from possible futures before you're certain you don't have anything to learn from them."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
