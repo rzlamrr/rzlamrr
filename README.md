@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not titles that honour men, but men that honour titles."</i>
+<i>"Doing what you love is the cornerstone of having abundance in your life."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
