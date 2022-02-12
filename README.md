@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't turn away from possible futures before you're certain you don't have anything to learn from them."</i>
+<i>"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
