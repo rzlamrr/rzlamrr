@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man reads both books and life itself."</i>
+<i>"Yesterday I dared to struggle. Today I dare to win."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Bernadette Devlin</b>
 </blockquote>
 </p>
 
