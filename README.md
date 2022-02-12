@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances."</i>
+<i>"I hear and I forget. I see and I remember. I do and I understand. "</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
