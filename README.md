@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the fish is caught we pay no more attention to the trap."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
