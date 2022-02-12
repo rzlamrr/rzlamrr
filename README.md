@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Luck is what happens when preparation meets opportunity."</i>
+<i>"Be polite to all, but intimate with few."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
