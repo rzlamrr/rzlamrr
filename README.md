@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dance first. Think later. It's the natural order."</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
