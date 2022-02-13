@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- Ivy Baker Priest</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
