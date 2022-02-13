@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Orson Welles</b>
 </blockquote>
 </p>
 
