@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
