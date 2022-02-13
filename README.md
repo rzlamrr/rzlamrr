@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
+<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Ivy Baker Priest</b>
 </blockquote>
 </p>
 
