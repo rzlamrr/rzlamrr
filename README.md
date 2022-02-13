@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Douglas Coupland</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
