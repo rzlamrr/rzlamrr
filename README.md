@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Attitude is a little thing that makes a BIG difference."</i>
+<i>"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
