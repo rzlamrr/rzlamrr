@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cautious seldom err."</i>
+<i>"Whereever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
 <br>
-<b>- Confucius</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
