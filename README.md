@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formula for success: under promise and over deliver."</i>
+<i>"Attitude is a little thing that makes a BIG difference."</i>
 <br>
-<b>- Tom Peters</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
