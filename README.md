@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whereever you are, you are one with the clouds and one with the sun and the stars you see. You are one with everything."</i>
+<i>"You'll see it when you believe it."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
