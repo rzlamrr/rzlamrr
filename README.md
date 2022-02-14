@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."</i>
+<i>"Where focus goes, energy flows."</i>
 <br>
-<b>- Buddha</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
