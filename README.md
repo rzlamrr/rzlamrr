@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"You are always free to change your mind and choose a different future, or a different past."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
