@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."</i>
+<i>"Everyone sees what you appear to be, few experience what you really are."</i>
 <br>
-<b>- Isocrates</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
