@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is essentially a partnership."</i>
+<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
