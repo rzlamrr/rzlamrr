@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have the mind or you can have the moment."</i>
+<i>"Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
