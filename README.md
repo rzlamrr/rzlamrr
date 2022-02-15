@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
