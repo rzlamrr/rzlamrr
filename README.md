@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is someone who is there for you when he'd rather be anywhere else."</i>
+<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
 <br>
-<b>- Len Wein</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
