@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone sees what you appear to be, few experience what you really are."</i>
+<i>"Success is getting what you want. Happiness is wanting what you get."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
