@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you get by achieving your goals is not as important as what you become by achieving your goals."</i>
+<i>"I would rather die on my feet than live on my knees."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
