@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"Friendship is essentially a partnership."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
