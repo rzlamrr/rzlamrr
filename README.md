@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
+<i>"A house divided against itself cannot stand."</i>
 <br>
-<b>- Confucius</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
