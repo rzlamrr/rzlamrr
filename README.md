@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Numberless are the worlds wonders, but none more wonderful than man."</i>
+<i>"We are all here for some special reason."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
