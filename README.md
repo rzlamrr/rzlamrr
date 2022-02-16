@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die."</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
