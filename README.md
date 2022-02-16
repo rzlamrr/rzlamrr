@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"Who sows virtue reaps honor."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
