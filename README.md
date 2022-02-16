@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think somehow, we learn who we really are and then live with that decision."</i>
+<i>"The greatest doer must also be a great dreamer."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
