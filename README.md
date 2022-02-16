@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your purpose will be clear only when you listen to your heart."</i>
+<i>"Numberless are the worlds wonders, but none more wonderful than man."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
