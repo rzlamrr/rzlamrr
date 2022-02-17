@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your big opportunity may be right where you are now."</i>
+<i>"If opportunity doesn't knock, build a door."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Milton Berle</b>
 </blockquote>
 </p>
 
