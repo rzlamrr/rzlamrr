@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
+<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
 <br>
-<b>- Herbert Bayard Swope</b>
+<b>- Simone de Beauvoir</b>
 </blockquote>
 </p>
 
