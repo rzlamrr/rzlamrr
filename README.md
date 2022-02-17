@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy, too."</i>
+<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Charles Péguy</b>
 </blockquote>
 </p>
 
