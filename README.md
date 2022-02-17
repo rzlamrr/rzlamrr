@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
+<i>"Don't settle for a relationship that won't let you be yourself."</i>
 <br>
-<b>- Charles Péguy</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
