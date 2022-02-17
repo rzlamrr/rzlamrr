@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle for a relationship that won't let you be yourself."</i>
+<i>"Life shrinks or expands in proportion to one's courage."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
