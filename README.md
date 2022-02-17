@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life shrinks or expands in proportion to one's courage."</i>
+<i>"I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Herbert Bayard Swope</b>
 </blockquote>
 </p>
 
