@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A loving heart is the truest wisdom."</i>
+<i>"When in doubt, tell the truth."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
