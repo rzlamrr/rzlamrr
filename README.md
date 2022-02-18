@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, tell the truth."</i>
+<i>"There are no strangers here; Only friends you haven't yet met."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- William Butler Yeats</b>
 </blockquote>
 </p>
 
