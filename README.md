@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"The time to repair the roof is when the sun is shining."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
