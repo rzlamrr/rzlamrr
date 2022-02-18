@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your life today. Don't gamble on the future, act now, without delay."</i>
+<i>"To enjoy life, we must touch much of it lightly."</i>
 <br>
-<b>- Simone de Beauvoir</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
