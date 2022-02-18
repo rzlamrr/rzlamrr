@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To enjoy life, we must touch much of it lightly."</i>
+<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Jim Elliot</b>
 </blockquote>
 </p>
 
