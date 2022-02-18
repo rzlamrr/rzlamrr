@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no strangers here; Only friends you haven't yet met."</i>
+<i>"Better to have loved and lost, than to have never loved at all."</i>
 <br>
-<b>- William Butler Yeats</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
