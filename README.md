@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have a vision. Be demanding."</i>
+<i>"A loving heart is the truest wisdom."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
