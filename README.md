@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is no fool who gives what he cannot keep to gain what he cannot lose."</i>
+<i>"One of the most difficult things is not to change society - but to change yourself."</i>
 <br>
-<b>- Jim Elliot</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
