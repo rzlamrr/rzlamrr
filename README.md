@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have loved and lost, than to have never loved at all."</i>
+<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
