@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature gave us one tongue and two ears so we could hear twice as much as we speak."</i>
+<i>"When you have to make a choice and don't make it, that is in itself a choice."</i>
 <br>
-<b>- Epictetus</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
