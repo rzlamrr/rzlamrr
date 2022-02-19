@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do not want done to yourself, do not do to others."</i>
+<i>"A day wasted on others is not wasted on one's self."</i>
 <br>
-<b>- Confucius</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
