@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no uninteresting things, only uninterested people."</i>
+<i>"Ethics change with technology."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Larry Niven</b>
 </blockquote>
 </p>
 
