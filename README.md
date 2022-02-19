@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise?"</i>
+<i>"Before you put on a frown, make absolutely sure there are no smiles available."</i>
 <br>
-<b>- Confucius</b>
+<b>- James M. Beggs</b>
 </blockquote>
 </p>
 
