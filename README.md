@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is the rarest thing in the world. Most people exist, that is all. "</i>
+<i>"There is no greater harm than that of time wasted."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Michelangelo</b>
 </blockquote>
 </p>
 
