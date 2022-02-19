@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ethics change with technology."</i>
+<i>"What you do not want done to yourself, do not do to others."</i>
 <br>
-<b>- Larry Niven</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
