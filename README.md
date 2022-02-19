@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment of happiness requires a great amount of Ignorance"</i>
+<i>"Not how long, but how well you have lived is the main thing."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
