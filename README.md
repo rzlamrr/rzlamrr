@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good judgment comes from experience, and experience comes from bad judgment."</i>
+<i>"Success is the progressive realization of a worthy goal or ideal."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
