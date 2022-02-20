@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is what we make out of what we have, not what we are given, that separates one person from another."</i>
+<i>"Quality is not an act; it is a habit."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
