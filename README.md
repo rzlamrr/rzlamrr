@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Great deeds are usually wrought at great risks."</i>
+<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
 <br>
-<b>- Herodotus</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
