@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An idea that is developed and put into action is more important than an idea that exists only as an idea."</i>
+<i>"Wealth consists not in having great possessions, but in having few wants."</i>
 <br>
-<b>- Buddha</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
