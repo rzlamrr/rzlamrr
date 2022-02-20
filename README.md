@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quality is not an act; it is a habit."</i>
+<i>"If you are bitter, you are like a dry leaf that you can just squash, and you can get blown away by the wind. There is much more wisdom in forgiveness."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Vusi Mahlasela</b>
 </blockquote>
 </p>
 
