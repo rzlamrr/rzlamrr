@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others."</i>
+<i>"Everything has its beauty, but not everyone sees it. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
