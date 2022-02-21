@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."</i>
+<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
