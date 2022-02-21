@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the progressive realization of a worthy goal or ideal."</i>
+<i>"You cannot have what you do not want."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- John Acosta</b>
 </blockquote>
 </p>
 
