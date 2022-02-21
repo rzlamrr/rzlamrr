@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
+<i>"Kind words can be short and easy to speak, but their echoes are truly endless."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
