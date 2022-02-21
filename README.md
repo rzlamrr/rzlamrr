@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?"</i>
+<i>"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
