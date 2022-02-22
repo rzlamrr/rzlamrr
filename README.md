@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you learn, teach. When you get, give."</i>
+<i>"To be able to forget means sanity."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
