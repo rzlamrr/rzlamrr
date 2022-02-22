@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."</i>
+<i>"If I know what love is, it is because of you."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
