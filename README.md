@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words do not cost much. Yet they accomplish much."</i>
+<i>"If you have knowledge, let others light their candles in it."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Margaret Fuller</b>
 </blockquote>
 </p>
 
