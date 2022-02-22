@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I know what love is, it is because of you."</i>
+<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
