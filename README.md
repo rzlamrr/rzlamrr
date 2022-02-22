@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adventure is worthwhile in itself."</i>
+<i>"What you seek is seeking you."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
