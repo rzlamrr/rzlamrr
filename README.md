@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"Adventure is worthwhile in itself."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
