@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream."</i>
+<i>"Kind words do not cost much. Yet they accomplish much."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
