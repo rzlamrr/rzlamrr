@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be able to forget means sanity."</i>
+<i>"I believe that we are fundamentally the same and have the same basic potential."</i>
 <br>
-<b>- Jack London</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
