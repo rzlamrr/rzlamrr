@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you have knowledge, let others light their candles in it."</i>
+<i>"When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run."</i>
 <br>
-<b>- Margaret Fuller</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
