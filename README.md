@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rest and be kind, you don't have to prove anything."</i>
+<i>"Life's too mysterious to take too serious."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
