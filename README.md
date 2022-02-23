@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste not fresh tears over old griefs."</i>
+<i>"He who is contented is rich."</i>
 <br>
-<b>- Euripides</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
