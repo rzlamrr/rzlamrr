@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is contented is rich."</i>
+<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
 <br>
-<b>- Laozi</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
