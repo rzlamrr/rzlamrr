@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will prepare and someday my chance will come."</i>
+<i>"Waste not fresh tears over old griefs."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
