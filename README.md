@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not turn back when you are just at the goal."</i>
+<i>"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
