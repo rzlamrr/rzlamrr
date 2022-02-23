@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Rest and be kind, you don't have to prove anything."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Jack Kerouac</b>
 </blockquote>
 </p>
 
