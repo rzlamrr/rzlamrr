@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way out is always through."</i>
+<i>"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- David Brinkley</b>
 </blockquote>
 </p>
 
