@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
+<i>"True friends stab you in the front."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
