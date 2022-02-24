@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness."</i>
+<i>"To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom."</i>
 <br>
-<b>- Unknown</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
