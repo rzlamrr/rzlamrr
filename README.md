@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To give oneself earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom."</i>
+<i>"The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief."</i>
 <br>
-<b>- Confucius</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
