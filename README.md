@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
