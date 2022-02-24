@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief."</i>
+<i>"Never take your position for granted and never let any favors you receive go to your head."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Robert Greene</b>
 </blockquote>
 </p>
 
