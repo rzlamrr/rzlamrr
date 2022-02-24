@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best of us sometimes eat our words.  "</i>
+<i>"We need to find the courage to say NO to the things and people that are not serving us if we want to rediscover ourselves and live our lives with authenticity."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Barbara De Angelis</b>
 </blockquote>
 </p>
 
