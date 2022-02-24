@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward."</i>
+<i>"If you practiced for the day, then you have won. If you were lazy for the day, then you have lost."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
