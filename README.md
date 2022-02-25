@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not."</i>
+<i>"Confidence is like a dragon where, for every head cut off, two more heads grow back."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
