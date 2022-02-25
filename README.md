@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Billy Wilder</b>
 </blockquote>
 </p>
 
