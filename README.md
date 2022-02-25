@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good things aren't supposed to just fall into your lap."</i>
+<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
 <br>
-<b>- Audrey Hepburn</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
