@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"The extreme limit of wisdom, that's what the public calls madness."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Jean Cocteau</b>
 </blockquote>
 </p>
 
