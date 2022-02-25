@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no differences but differences of degree between different degrees of difference and no difference."</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- William James</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
