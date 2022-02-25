@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to make God laugh, tell him about your plans. "</i>
+<i>"Night is a more quiet time to work. It aids thought."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
