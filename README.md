@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is the best makeup."</i>
+<i>"Good things aren't supposed to just fall into your lap."</i>
 <br>
-<b>- Anne Lamott</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
