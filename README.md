@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
+<i>"What is not started today is never finished tomorrow."</i>
 <br>
-<b>- Rumi</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
