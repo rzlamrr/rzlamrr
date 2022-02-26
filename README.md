@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
