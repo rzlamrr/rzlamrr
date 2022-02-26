@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have lost friends, some by death...others by sheer inability to cross the street."</i>
+<i>"Technological progress has merely provided us with more efficient means for going backwards."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
