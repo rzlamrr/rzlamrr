@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark."</i>
+<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
