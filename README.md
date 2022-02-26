@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is not started today is never finished tomorrow."</i>
+<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
