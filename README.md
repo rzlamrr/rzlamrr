@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thought manifests as the word. The word manifests as the deed. The deed develops into habit. And the habit hardens into character."</i>
+<i>"We will now discuss in a little more detail the Struggle for Existence."</i>
 <br>
-<b>- Buddha</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
