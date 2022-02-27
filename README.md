@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"His lack of education is more than compensated for by his keenly developed moral bankruptcy."</i>
+<i>"Fears are nothing more than a state of mind."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
