@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is composed of a single soul inhabiting two bodies."</i>
+<i>"Only do what your heart tells you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Princess Diana</b>
 </blockquote>
 </p>
 
