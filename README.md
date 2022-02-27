@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
+<i>"Love is composed of a single soul inhabiting two bodies."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
