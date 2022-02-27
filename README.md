@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love the life you live, live the life you love."</i>
+<i>"His lack of education is more than compensated for by his keenly developed moral bankruptcy."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
