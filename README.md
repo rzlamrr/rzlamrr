@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Practice yourself, for heaven's sake in little things, and then proceed to greater."</i>
+<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
