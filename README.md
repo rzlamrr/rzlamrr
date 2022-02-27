@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."</i>
+<i>"Practice yourself, for heaven's sake in little things, and then proceed to greater."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
