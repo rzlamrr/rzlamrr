@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only do what your heart tells you."</i>
+<i>"Love the life you live, live the life you love."</i>
 <br>
-<b>- Princess Diana</b>
+<b>- Bob Marley</b>
 </blockquote>
 </p>
 
