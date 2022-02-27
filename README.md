@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go out on a limb. That's where the fruit is."</i>
+<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
 <br>
-<b>- H. Jackson Brown Jr.</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
