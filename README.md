@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"Living at risk is jumping off the cliff and building your wings on the way down."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
