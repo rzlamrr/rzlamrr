@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doorstep to the temple of wisdom is a knowledge of our own ignorance."</i>
+<i>"The chief cause of failure and unhappiness is trading what you want most for what you want right now."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
