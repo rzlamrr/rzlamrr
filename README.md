@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A prudent question is one half of wisdom."</i>
+<i>"The doorstep to the temple of wisdom is a knowledge of our own ignorance."</i>
 <br>
-<b>- Francis Bacon</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
