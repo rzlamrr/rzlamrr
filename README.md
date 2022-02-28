@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living at risk is jumping off the cliff and building your wings on the way down."</i>
+<i>"Success comes to those who become success conscious."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
