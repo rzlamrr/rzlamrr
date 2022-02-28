@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you surrender to the wind, you can ride it."</i>
+<i>"A prudent question is one half of wisdom."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
