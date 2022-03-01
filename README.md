@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot travel the path until you have become the path itself."</i>
+<i>"The human spirit must prevail over technology."</i>
 <br>
-<b>- Buddha</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
