@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I always wanted to be somebody, but I should have been more specific."</i>
+<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
 <br>
-<b>- Lily Tomlin</b>
+<b>- Louise Hay</b>
 </blockquote>
 </p>
 
