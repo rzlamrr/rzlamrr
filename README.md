@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The thoughts we choose to think are the tools we use to paint the canvas of our lives."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Louise Hay</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
