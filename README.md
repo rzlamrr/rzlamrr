@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not tell the truth about yourself you cannot tell it about other people."</i>
+<i>"The mind unlearns with difficulty what it has long learned."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
