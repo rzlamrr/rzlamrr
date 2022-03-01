@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
 <br>
 <b>- Maya Angelou</b>
 </blockquote>
