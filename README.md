@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The human spirit must prevail over technology."</i>
+<i>"Life is and will ever remain an equation incapable of solution, but it contains certain known factors. "</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Nikola Tesla</b>
 </blockquote>
 </p>
 
