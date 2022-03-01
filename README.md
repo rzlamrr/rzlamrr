@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is liking yourself, liking what you do, and liking how you do it."</i>
+<i>"If you propose to speak, always ask yourself, is it true, is it necessary, is it kind."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
