@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mind unlearns with difficulty what it has long learned."</i>
+<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
