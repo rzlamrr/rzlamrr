@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
+<i>"I always wanted to be somebody, but I should have been more specific."</i>
 <br>
-<b>- James Allen</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
