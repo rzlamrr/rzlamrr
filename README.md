@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you propose to speak, always ask yourself, is it true, is it necessary, is it kind."</i>
+<i>"Only those who will risk going too far can possibly find out how far one can go."</i>
 <br>
-<b>- Buddha</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
