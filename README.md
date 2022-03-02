@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
+<i>"He who knows how to wait need make no concessions."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
