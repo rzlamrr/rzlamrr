@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where all think alike, no one thinks very much."</i>
+<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can."</i>
 <br>
-<b>- Walter Lippmann</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
