@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is never enough time to do everything, but there is always enough time to do the most important thing."</i>
+<i>"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
