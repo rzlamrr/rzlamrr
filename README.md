@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste time on excuses. Just get it done."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
