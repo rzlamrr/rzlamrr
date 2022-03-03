@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trusting our intuition often saves us from disaster. "</i>
+<i>"All this worldly wisdom was once the unamiable heresy of some wise man."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
