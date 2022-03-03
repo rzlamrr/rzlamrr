@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your mind is empty, it is always ready for anything, it is open to everything."</i>
+<i>"He who knows that enough is enough will always have enough."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
