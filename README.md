@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All children are artists. The problem is how to remain an artist once he grows up."</i>
+<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
