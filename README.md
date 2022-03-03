@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change in all things is sweet."</i>
+<i>"Only I can change my life. No one can do it for me."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Carol Burnett</b>
 </blockquote>
 </p>
 
