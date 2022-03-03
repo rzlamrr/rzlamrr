@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose."</i>
+<i>"A friend may well be reckoned the masterpiece of nature."</i>
 <br>
-<b>- Eknath Easwaran</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
