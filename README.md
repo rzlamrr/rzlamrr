@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows that enough is enough will always have enough."</i>
+<i>"Imagination is not a talent of some men but is the health of every man."</i>
 <br>
-<b>- Laozi</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
