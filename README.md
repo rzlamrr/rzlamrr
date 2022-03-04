@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
+<i>"Well begun is half done."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
