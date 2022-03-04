@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
+<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
 <br>
-<b>- Tryon Edwards</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
