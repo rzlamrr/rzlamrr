@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act as if what you do makes a difference. It does."</i>
+<i>"Any fool can paint a picture, but it takes a wise man to be able to sell it."</i>
 <br>
-<b>- William James</b>
+<b>- Samuel Butler</b>
 </blockquote>
 </p>
 
