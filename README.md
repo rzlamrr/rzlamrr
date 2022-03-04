@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well begun is half done."</i>
+<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
