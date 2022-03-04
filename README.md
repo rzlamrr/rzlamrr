@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Becoming a great leader doesn't mean being perfect. it means living with your imperfections."</i>
+<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Julian Casablancas</b>
 </blockquote>
 </p>
 
