@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only I can change my life. No one can do it for me."</i>
+<i>"He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Tryon Edwards</b>
 </blockquote>
 </p>
 
