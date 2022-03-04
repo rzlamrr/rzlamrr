@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far more crucial than what we know or do not know is what we do not want to know."</i>
+<i>"Act as if what you do makes a difference. It does."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
