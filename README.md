@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you believe you can, you can. If you believe you can't, then, well you can't."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
