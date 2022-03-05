@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have loved and lost, than to have never loved at all."</i>
+<i>"We win by helping each other win."</i>
 <br>
-<b>- Augustine of Hippo</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
