@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth."</i>
+<i>"There is only one happiness in life, to love and be loved."</i>
 <br>
-<b>- Peter Abelard</b>
+<b>- George Sand</b>
 </blockquote>
 </p>
 
