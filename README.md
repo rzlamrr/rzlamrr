@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing impossible to him who will try."</i>
+<i>"Better to have loved and lost, than to have never loved at all."</i>
 <br>
-<b>- Alexander the Great</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
