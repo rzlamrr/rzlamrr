@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"FOCUS - Follow One Course Until Successful"</i>
+<i>"Give more than you think you can, trusting that you are richer than you think."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
