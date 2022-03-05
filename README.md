@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your purpose will be clear only when you listen to your heart."</i>
+<i>"Hold yourself responsible for a higher standard than anybody else expects of you."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
