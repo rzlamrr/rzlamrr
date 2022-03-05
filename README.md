@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We build too many walls and not enough bridges."</i>
+<i>"Your worst enemy cannot harm you as much as your own unguarded thoughts."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
