@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals.  "</i>
+<i>"While we stop to think, we often miss our opportunity."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
