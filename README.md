@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
+<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
