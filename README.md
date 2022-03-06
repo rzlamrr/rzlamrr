@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
+<i>"If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Mary Pickford</b>
 </blockquote>
 </p>
 
