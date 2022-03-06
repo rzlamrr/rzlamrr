@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we stop to think, we often miss our opportunity."</i>
+<i>"In all things of nature there is something of the marvelous."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
