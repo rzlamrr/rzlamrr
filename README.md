@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him."</i>
+<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
