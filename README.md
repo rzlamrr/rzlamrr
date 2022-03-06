@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk,? but no flowers grow on it."</i>
+<i>"Integrity is telling myself the truth. And honesty is telling the truth to other people."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
