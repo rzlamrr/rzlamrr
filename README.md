@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There can be no deep disappointment where there is not deep love."</i>
+<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
