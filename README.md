@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
+<i>"Get mad, then get over it."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
