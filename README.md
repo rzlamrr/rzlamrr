@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't imagine it, you can't have it."</i>
+<i>"One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
 <br>
-<b>- Toni Morrison</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
