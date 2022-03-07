@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility."</i>
+<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
