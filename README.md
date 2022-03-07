@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature takes away any faculty that is not used."</i>
+<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
 <br>
-<b>- William Inge</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
