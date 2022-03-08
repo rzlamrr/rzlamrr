@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the royal road to the unconscious. "</i>
+<i>"Every day do something that will inch you closer to a better tomorrow."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
