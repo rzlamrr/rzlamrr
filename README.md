@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."</i>
+<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
