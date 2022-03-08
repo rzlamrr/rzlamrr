@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Focused, hard work is the real key to success."</i>
+<i>"As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them."</i>
 <br>
-<b>- John Carmack</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
