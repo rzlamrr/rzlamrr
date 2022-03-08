@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mediocrity knows nothing higher than itself, but talent instantly recognizes genius."</i>
+<i>"Get busy living or get busy dying."</i>
 <br>
-<b>- Arthur Conan Doyle</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
