@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do the one thing you think you cannot do. Fail at it. Try again. Do better the second time. The only people who never tumble are those who never mount the high wire. This is your moment. Own it."</i>
+<i>"Always be yourself, express yourself, have faith in yourself, do not go out and look for a successful personality and duplicate it."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
