@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
+<i>"Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
