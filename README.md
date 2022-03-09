@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoever is happy will make others happy too."</i>
+<i>"The supreme art of war is to subdue the enemy without fighting."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
