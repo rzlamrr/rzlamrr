@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
