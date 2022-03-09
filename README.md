@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"I skate to where the puck is going to be, not where it has been."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Wayne Gretzky</b>
 </blockquote>
 </p>
 
