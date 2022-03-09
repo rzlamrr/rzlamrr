@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
+<i>"There are no limitations to the mind except those we acknowledge."</i>
 <br>
-<b>- Marianne Williamson</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
