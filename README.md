@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So long as a person is capable of self-renewal they are a living being."</i>
+<i>"Joy is what happens to us when we allow ourselves to recognize how good things really are."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Marianne Williamson</b>
 </blockquote>
 </p>
 
