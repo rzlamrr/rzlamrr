@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money poisons you when you've got it, and starves you when you haven't."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
