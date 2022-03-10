@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A creative man is motivated by the desire to achieve, not by the desire to beat others."</i>
+<i>"The only limits in our life are those we impose on ourselves."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
