@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto."</i>
+<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
