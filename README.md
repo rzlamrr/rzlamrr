@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</i>
+<i>"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
