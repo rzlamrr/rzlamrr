@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
+<i>"20 percent of your activities will account for 80 percent of your results."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
