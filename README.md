@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
+<i>"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."</i>
 <br>
-<b>- Maria Shriver</b>
+<b>- Sydney J. Harris</b>
 </blockquote>
 </p>
 
