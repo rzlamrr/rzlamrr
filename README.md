@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"20 percent of your activities will account for 80 percent of your results."</i>
+<i>"It is the province of knowledge to speak, and it is the privilege of wisdom to listen."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
