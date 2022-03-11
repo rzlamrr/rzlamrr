@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not so important to know everything as to appreciate what we learn."</i>
+<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
 <br>
-<b>- Hannah More</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
