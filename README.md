@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
