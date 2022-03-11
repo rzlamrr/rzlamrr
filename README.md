@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the province of knowledge to speak, and it is the privilege of wisdom to listen."</i>
+<i>"Write your plans in pencil and give God the eraser."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
