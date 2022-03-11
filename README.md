@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."</i>
+<i>"It is not so important to know everything as to appreciate what we learn."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Hannah More</b>
 </blockquote>
 </p>
 
