@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The person who makes a success of living is the one who see his goal steadily and aims for it unswervingly. That is dedication."</i>
+<i>"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction."</i>
 <br>
-<b>- Cecil B. DeMille</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
