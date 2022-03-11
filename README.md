@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."</i>
+<i>"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err."</i>
 <br>
-<b>- Sydney J. Harris</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
