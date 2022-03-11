@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man is affected not by events but by the view he takes of them.  "</i>
+<i>"When the world is so complicated, the simple gift of friendship is within all of our hands."</i>
 <br>
-<b>- Seneca</b>
+<b>- Maria Shriver</b>
 </blockquote>
 </p>
 
