@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
+<i>"A true friend is the greatest of all blessings, and that which we take the least care of all to acquire."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
