@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are people who have money and people who are rich."</i>
+<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
