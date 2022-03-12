@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  "</i>
+<i>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</i>
 <br>
-<b>- Jack Kerouac</b>
+<b>- Rudolf Arnheim</b>
 </blockquote>
 </p>
 
