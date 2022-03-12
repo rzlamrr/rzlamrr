@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is the greatest of all blessings, and that which we take the least care of all to acquire."</i>
+<i>"Goals are the fuel in the furnace of achievement."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
