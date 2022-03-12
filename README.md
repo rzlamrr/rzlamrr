@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All perceiving is also thinking, all reasoning is also intuition, all observation is also invention."</i>
+<i>"Music in the soul can be heard by the universe."</i>
 <br>
-<b>- Rudolf Arnheim</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
