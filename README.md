@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?'"</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- J. R. R. Tolkien</b>
 </blockquote>
 </p>
 
