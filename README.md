@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take into account that great love and great achievements involve great risk."</i>
+<i>"Formula for success: under promise and over deliver."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Tom Peters</b>
 </blockquote>
 </p>
 
