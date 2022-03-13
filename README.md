@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
+<i>"The important thing is this: to be able at any moment to sacrifice what we are for what we could become."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Charles Du Bos</b>
 </blockquote>
 </p>
 
