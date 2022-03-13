@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formula for success: under promise and over deliver."</i>
+<i>"I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in."</i>
 <br>
-<b>- Tom Peters</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
