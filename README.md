@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are easily shocked should be shocked more often."</i>
+<i>"You don't choose your family. They are God's gift to you, as you are to them."</i>
 <br>
-<b>- Mae West</b>
+<b>- Desmond Tutu</b>
 </blockquote>
 </p>
 
