@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The significance of life is living."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
