@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
