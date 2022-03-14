@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it hurts - observe. Life is trying to teach you something."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
