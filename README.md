@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You, yourself, as much as anybody in the entire universe, deserve your love and affection."</i>
+<i>"The season of failure is the best time for sowing the seeds of success. "</i>
 <br>
-<b>- Buddha</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
