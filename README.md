@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Independence is happiness."</i>
+<i>"He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye."</i>
 <br>
-<b>- Susan B. Anthony</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
