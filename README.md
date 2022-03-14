@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the best policy."</i>
+<i>"You have as much laughter as you have faith."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
