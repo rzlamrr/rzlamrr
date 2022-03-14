@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime."</i>
+<i>"Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
