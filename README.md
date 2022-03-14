@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye."</i>
+<i>"Honesty is the best policy."</i>
 <br>
-<b>- Buddha</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
