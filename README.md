@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As a technology, the book is like a hammer. That is to say, it is perfect: a tool ideally suited to its task. Hammers can be tweaked and varied but will never go obsolete. Even when builders pound nails by the thousand with pneumatic nail guns, every household needs a hammer."</i>
+<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
 <br>
-<b>- James Gleick</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
