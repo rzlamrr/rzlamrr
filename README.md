@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"A friend is one who knows you and loves you just the same."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
