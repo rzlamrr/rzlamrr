@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do your duty and a little more and the future will take care of itself."</i>
+<i>"It is not wisdom but Authority that makes a law."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Thomas Hobbes</b>
 </blockquote>
 </p>
 
