@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never allow a person to tell you no who doesn't have the power to say yes."</i>
+<i>"We have two ears and one mouth so that we can listen twice as much as we speak."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
