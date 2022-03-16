@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Looking after my health today gives me a better hope for tomorrow. "</i>
+<i>"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
