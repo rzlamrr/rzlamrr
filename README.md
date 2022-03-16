@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster."</i>
+<i>"It is not uncommon for people to spend their whole life waiting to start living."</i>
 <br>
-<b>- Avery Brooks</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
