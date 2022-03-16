@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen."</i>
+<i>"Age does not protect you from love. But love, to some extent, protects you from age."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
