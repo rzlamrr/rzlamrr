@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The harder the conflict, the greater the triumph. "</i>
+<i>"The best way to find yourself is to lose yourself in the service of others."</i>
 <br>
-<b>- George Washington</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
