@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the fearless attitude of a hero and the loving heart of a child."</i>
+<i>"Well done is better than well said."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
