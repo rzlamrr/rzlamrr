@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater harm than that of time wasted."</i>
+<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
