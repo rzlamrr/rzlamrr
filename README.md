@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Age does not protect you from love. But love, to some extent, protects you from age."</i>
+<i>"The secret of getting ahead is getting started."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
