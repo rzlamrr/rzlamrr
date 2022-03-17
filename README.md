@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fine words and an insinuating appearance are seldom associated with true virtue"</i>
+<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
 <br>
-<b>- Confucius</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
