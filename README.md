@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather."</i>
+<i>"Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."</i>
 <br>
-<b>- John Ruskin</b>
+<b>- Carl Bard</b>
 </blockquote>
 </p>
 
