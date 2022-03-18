@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is love there is life."</i>
+<i>"The secret of success is constancy to purpose."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
