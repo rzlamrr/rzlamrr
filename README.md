@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about."</i>
+<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Billy Wilder</b>
 </blockquote>
 </p>
 
