@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust your own instinct. Your mistakes might as well be your own, instead of someone else's."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Billy Wilder</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
