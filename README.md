@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beauty is not in the face; beauty is a light in the heart."</i>
+<i>"All action results from thought, so it is thoughts that matter."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Sai Baba</b>
 </blockquote>
 </p>
 
