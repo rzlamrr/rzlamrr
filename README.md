@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
+<i>"I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
