@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind."</i>
+<i>"Beauty is not in the face; beauty is a light in the heart."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
