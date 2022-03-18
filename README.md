@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of your thoughts."</i>
+<i>"Success is often achieved by those who don't know that failure is inevitable."</i>
 <br>
-<b>- Unknown</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
