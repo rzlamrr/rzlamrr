@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You will not be punished for your anger; you will be punished by your anger."</i>
+<i>"The only Zen you find on the tops of mountains is the Zen you bring up there."</i>
 <br>
-<b>- Buddha</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
