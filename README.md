@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They can do all because they think they can."</i>
+<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
 <br>
-<b>- Virgil</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
