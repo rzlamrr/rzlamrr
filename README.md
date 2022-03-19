@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best."</i>
+<i>"Love is the wisdom of the fool and the folly of the wise."</i>
 <br>
-<b>- Henry van Dyke Jr.</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
