@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not bothered by the fact that I am unknown. I am bothered when I do not know others."</i>
+<i>"You will not be punished for your anger; you will be punished by your anger."</i>
 <br>
-<b>- Confucius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
