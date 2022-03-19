@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the one quality more associated with success and happiness than any other."</i>
+<i>"The doors of wisdom are never shut."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
