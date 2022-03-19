@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of success is constancy to purpose."</i>
+<i>"From wonder into wonder existence opens."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
