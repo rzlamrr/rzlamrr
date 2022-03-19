@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the wisdom of the fool and the folly of the wise."</i>
+<i>"By seeking and blundering we learn."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
