@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only Zen you find on the tops of mountains is the Zen you bring up there."</i>
+<i>"They can do all because they think they can."</i>
 <br>
-<b>- Robert M. Pirsig</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
