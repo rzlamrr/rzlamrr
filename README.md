@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From wonder into wonder existence opens."</i>
+<i>"Life isn't about finding yourself. Life is about creating yourself."</i>
 <br>
-<b>- Laozi</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
