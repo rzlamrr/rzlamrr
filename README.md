@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is during our darkest moments that we must focus to see the light."</i>
+<i>"The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Margaret Chase Smith</b>
 </blockquote>
 </p>
 
