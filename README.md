@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything is possible. The impossible just takes longer."</i>
+<i>"Friendship takes time and energy if it's going to work."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
