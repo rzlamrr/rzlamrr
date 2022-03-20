@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The older you get the stronger the wind gets - and it's always in your face."</i>
+<i>"The key to immortality is first living a life worth remembering. "</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
