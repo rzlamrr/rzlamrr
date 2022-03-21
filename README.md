@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Thomas Aquinas</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
