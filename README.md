@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I didn't get there by wishing for it or hoping for it, but by working for it."</i>
+<i>"Vanity can easily overtake wisdom. It usually overtakes common sense."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Julian Casablancas</b>
 </blockquote>
 </p>
 
