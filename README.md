@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present."</i>
+<i>"We choose our joys and sorrows long before we experience them."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
