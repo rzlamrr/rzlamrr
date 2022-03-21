@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We choose our joys and sorrows long before we experience them."</i>
+<i>"The only place success comes before work is in the dictionary."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
