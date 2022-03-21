@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability. "</i>
+<i>"What is a friend? A single soul dwelling in two bodies."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
