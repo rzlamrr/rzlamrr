@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only he who has no use for the empire is fit to be entrusted with it."</i>
+<i>"Friendship is the source of the greatest pleasures, and without friends even the most agreeable pursuits become tedious."</i>
 <br>
-<b>- Zhuangzi</b>
+<b>- Thomas Aquinas</b>
 </blockquote>
 </p>
 
