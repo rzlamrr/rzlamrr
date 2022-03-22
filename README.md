@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Instead of thinking outside the box, get rid of the box."</i>
+<i>"Those who dare to fail miserably can achieve greatly."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
