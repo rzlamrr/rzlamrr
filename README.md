@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't like something, change it. If you can't change it, change your attitude."</i>
+<i>"Enlightenment is intimacy with all things."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
