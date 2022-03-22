@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dare to fail miserably can achieve greatly."</i>
+<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
 <br>
-<b>- John F. Kennedy</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
