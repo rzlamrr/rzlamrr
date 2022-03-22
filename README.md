@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
+<i>"The most certain sign of wisdom is cheerfulness."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
