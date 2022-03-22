@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not all those who wander are lost."</i>
+<i>"Behind every beautiful thing, there's some kind of pain."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
