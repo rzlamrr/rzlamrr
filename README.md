@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"Your big opportunity may be right where you are now."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
