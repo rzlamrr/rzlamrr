@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your big opportunity may be right where you are now."</i>
+<i>"There is no such thing as a great talent without great willpower."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
