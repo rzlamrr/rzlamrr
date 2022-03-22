@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most certain sign of wisdom is cheerfulness."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Michel de Montaigne</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
