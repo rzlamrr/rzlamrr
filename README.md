@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is a friend? A single soul dwelling in two bodies."</i>
+<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
