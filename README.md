@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enlightenment is intimacy with all things."</i>
+<i>"Instead of thinking outside the box, get rid of the box."</i>
 <br>
-<b>- Dogen</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
