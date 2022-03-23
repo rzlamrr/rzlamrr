@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
+<i>"There is no charm equal to tenderness of heart."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Jane Austen</b>
 </blockquote>
 </p>
 
