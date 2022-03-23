@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Behind every beautiful thing, there's some kind of pain."</i>
+<i>"If there is no struggle, there is no progress."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- Frederick Douglass</b>
 </blockquote>
 </p>
 
