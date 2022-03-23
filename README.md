@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's easy to be a critic, but being a doer requires effort, risk, and change.  "</i>
+<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
