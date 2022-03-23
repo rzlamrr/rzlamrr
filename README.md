@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything in the universe goes by indirection. There are no straight lines."</i>
+<i>"Life is a gift. Never forget to enjoy and bask in every moment you are in."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
