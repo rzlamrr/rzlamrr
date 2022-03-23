@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no charm equal to tenderness of heart."</i>
+<i>"Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek."</i>
 <br>
-<b>- Jane Austen</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
