@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to growth is the introduction of higher dimensions of consciousness into our awareness."</i>
+<i>"These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future."</i>
 <br>
-<b>- Laozi</b>
+<b>- Vernon Cooper</b>
 </blockquote>
 </p>
 
