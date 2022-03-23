@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is no struggle, there is no progress."</i>
+<i>"The key to growth is the introduction of higher dimensions of consciousness into our awareness."</i>
 <br>
-<b>- Frederick Douglass</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
