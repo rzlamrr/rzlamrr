@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can pay the bills, I'm happy."</i>
+<i>"Only do what your heart tells you."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Princess Diana</b>
 </blockquote>
 </p>
 
