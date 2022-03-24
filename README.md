@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
