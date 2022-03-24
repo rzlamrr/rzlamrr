@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A gentleman accepts the responsibility of his actions and bears the burden of their consequences."</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
