@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing good ever comes of violence."</i>
+<i>"If I can pay the bills, I'm happy."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Morgan Wootten</b>
 </blockquote>
 </p>
 
