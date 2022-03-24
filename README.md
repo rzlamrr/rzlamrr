@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A failure is a man who has blundered but is not capable of cashing in on the experience."</i>
+<i>"It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Charles Kingsley</b>
 </blockquote>
 </p>
 
