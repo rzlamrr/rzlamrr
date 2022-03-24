@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how carefully you plan your goals they will never be more that pipe dreams unless you pursue them with gusto."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
