@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music in the soul can be heard by the universe."</i>
+<i>"You're never a loser until you quit trying."</i>
 <br>
-<b>- Laozi</b>
+<b>- Mike Ditka</b>
 </blockquote>
 </p>
 
