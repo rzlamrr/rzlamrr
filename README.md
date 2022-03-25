@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
+<i>"Cease striving. Then there will be transformation."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
