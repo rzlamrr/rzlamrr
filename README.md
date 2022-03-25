@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never a loser until you quit trying."</i>
+<i>"The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself."</i>
 <br>
-<b>- Mike Ditka</b>
+<b>- Henry Miller</b>
 </blockquote>
 </p>
 
