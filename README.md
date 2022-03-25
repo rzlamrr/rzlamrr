@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself."</i>
+<i>"What's right is what's left if you do everything else wrong."</i>
 <br>
-<b>- Henry Miller</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
