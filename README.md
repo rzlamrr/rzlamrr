@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"Fear not for the future, weep not for the past."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Percy Bysshe Shelley</b>
 </blockquote>
 </p>
 
