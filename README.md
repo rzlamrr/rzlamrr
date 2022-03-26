@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
+<i>"Wrinkles should merely indicate where smiles have been."</i>
 <br>
-<b>- Volker Grassmuck</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
