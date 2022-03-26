@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."</i>
+<i>"Productize your perspective."</i>
 <br>
-<b>- Buddha</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
