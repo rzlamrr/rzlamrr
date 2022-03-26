@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
