@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
 <br>
 <b>- Tony Robbins</b>
 </blockquote>
