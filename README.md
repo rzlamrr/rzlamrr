@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't."</i>
+<i>"Let us sacrifice our today so that our children can have a better tomorrow."</i>
 <br>
-<b>- Mark Goulston</b>
+<b>- A. P. J. Abdul Kalam</b>
 </blockquote>
 </p>
 
