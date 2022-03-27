@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
