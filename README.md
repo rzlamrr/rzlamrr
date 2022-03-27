@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Isaac Asimov</b>
+<b>- Isocrates</b>
 </blockquote>
 </p>
 
