@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
+<i>"Know what's important and what isn't. Have the wisdom to know the right thing to do, the integrity to do it, the character to stand up to those who don't, and the courage to stop those who won't."</i>
 <br>
-<b>- Doug Larson</b>
+<b>- Mark Goulston</b>
 </blockquote>
 </p>
 
