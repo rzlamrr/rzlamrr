@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you hang out with chickens, you're going to cluck and if you hang out with eagles, you're going to fly."</i>
+<i>"Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Doug Larson</b>
 </blockquote>
 </p>
 
