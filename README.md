@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us sacrifice our today so that our children can have a better tomorrow."</i>
+<i>"To choose what is difficult all one's days, as if it were easy, that is faith."</i>
 <br>
-<b>- A. P. J. Abdul Kalam</b>
+<b>- W. H. Auden</b>
 </blockquote>
 </p>
 
