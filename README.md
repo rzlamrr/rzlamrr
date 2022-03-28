@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The quality of your life is determined by the quality of your thoughts."</i>
+<i>"If we did the things we are capable of, we would astound ourselves."</i>
 <br>
-<b>- Unknown</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
