@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Turn your face to the sun, as flowers know how to do."</i>
+<i>"Do the hard jobs first. The easy jobs will take care of themselves."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
