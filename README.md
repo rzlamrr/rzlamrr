@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we did the things we are capable of, we would astound ourselves."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
