@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your home is where your thoughts find peace."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
