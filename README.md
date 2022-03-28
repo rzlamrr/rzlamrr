@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is just a chance to grow a soul."</i>
+<i>"Turn your face to the sun, as flowers know how to do."</i>
 <br>
-<b>- A. Powell Davies</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
