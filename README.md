@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not regret the past. Look to the future."</i>
+<i>"The quality of your life is determined by the quality of your thoughts."</i>
 <br>
-<b>- Soyen Shaku</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
