@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who know, do. Those that understand, teach."</i>
+<i>"Your work is to discover your world and then with all your heart give yourself to it."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
