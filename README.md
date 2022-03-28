@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is more important than knowledge."</i>
+<i>"Do not regret the past. Look to the future."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
