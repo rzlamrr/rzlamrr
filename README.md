@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
+<i>"If you think you can, you can. And if you think you can't, you're right."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
