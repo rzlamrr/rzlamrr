@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give more than you think you can, trusting that you are richer than you think."</i>
+<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
