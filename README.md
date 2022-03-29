@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your work is to discover your world and then with all your heart give yourself to it."</i>
+<i>"Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know."</i>
 <br>
-<b>- Buddha</b>
+<b>- William Saroyan</b>
 </blockquote>
 </p>
 
