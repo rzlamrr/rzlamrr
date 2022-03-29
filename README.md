@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The minute you settle for less than you deserve, you get even less than you settled for."</i>
+<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
 <br>
-<b>- Maureen Dowd</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
