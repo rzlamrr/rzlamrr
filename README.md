@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary."</i>
+<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
 <br>
-<b>- Margaret Cousins</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
