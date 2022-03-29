@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you think you can, you can. And if you think you can't, you're right."</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
