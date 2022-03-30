@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Almost everything comes from nothing."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
