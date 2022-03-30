@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not enough to have a good mind; the main thing is to use it well."</i>
+<i>"We cannot change anything unless we accept it."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
