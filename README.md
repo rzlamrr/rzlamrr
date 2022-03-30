@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People will forget what you said, people will forget what you did, but people will never forget how you made them feel."</i>
+<i>"Winners don't Quit. That's why they Win."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
