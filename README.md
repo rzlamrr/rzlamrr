@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners don't Quit. That's why they Win."</i>
+<i>"It is our choices that show what we truly are, far more than our abilities."</i>
 <br>
-<b>- Unknown</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
