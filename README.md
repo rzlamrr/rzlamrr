@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people tend to become more successful because they are always thinking about their successes."</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
