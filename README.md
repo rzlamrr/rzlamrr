@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our choices that show what we truly are, far more than our abilities."</i>
+<i>"If you can't feed a hundred people, then feed just one."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
