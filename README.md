@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't feed a hundred people, then feed just one."</i>
+<i>"A lot of people give up just before theyre about to make it. You know you never know when that next obstacle is going to be the last one."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Chuck Norris</b>
 </blockquote>
 </p>
 
