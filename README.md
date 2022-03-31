@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far easier to start something than it is to finish it."</i>
+<i>"It's better to stand by someone's side than by yourself."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Jack London</b>
 </blockquote>
 </p>
 
