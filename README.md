@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
+<i>"A journey of a thousand miles must begin with a single step."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
