@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is hopeless; we must hope for everything."</i>
+<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
 <br>
-<b>- Euripides</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
