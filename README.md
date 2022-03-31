@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Beware of false knowledge; it is more dangerous than ignorance."</i>
+<i>"If we will be quiet and ready enough, we shall find compensation in every disappointment."</i>
 <br>
-<b>- Bernard Shaw</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
