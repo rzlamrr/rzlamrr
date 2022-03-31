@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents."</i>
+<i>"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
