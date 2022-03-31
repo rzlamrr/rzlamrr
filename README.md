@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
+<i>"Beware of false knowledge; it is more dangerous than ignorance."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Bernard Shaw</b>
 </blockquote>
 </p>
 
