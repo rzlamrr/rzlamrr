@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to stand by someone's side than by yourself."</i>
+<i>"Nothing is hopeless; we must hope for everything."</i>
 <br>
-<b>- Jack London</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
