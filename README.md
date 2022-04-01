@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
+<i>"You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
