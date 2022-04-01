@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
+<i>"The more light you allow within you, the brighter the world you live in will be."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Shakti Gawain</b>
 </blockquote>
 </p>
 
