@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You use a glass mirror to see your face; you use works of art to see your soul."</i>
+<i>"All our knowledge has its origins in our perceptions."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
