@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more light you allow within you, the brighter the world you live in will be."</i>
+<i>"The Universal Zulu Nation stands to acknowledge wisdom, understanding, freedom, justice, and equality, peace, unity, love, and having fun, work, overcoming the negative through the positive, science, mathematics, faith, facts, and the wonders of God, whether we call him Allah, Jehovah, Yahweh, or Jah."</i>
 <br>
-<b>- Shakti Gawain</b>
+<b>- Afrika Bambaataa</b>
 </blockquote>
 </p>
 
