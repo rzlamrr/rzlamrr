@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."</i>
+<i>"The future belongs to those who believe in the beauty of their dreams."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
