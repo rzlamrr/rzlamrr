@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge has its origins in our perceptions."</i>
+<i>"Some people go to priests; others to poetry; I to my friends."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
