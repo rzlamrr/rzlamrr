@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people go to priests; others to poetry; I to my friends."</i>
+<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
