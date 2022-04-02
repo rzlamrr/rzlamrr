@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow effective action with quiet reflection. From the quiet reflection will come even more effective action."</i>
+<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
