@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."</i>
+<i>"I'd rather regret the things that I have done than the things that I have not done."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
