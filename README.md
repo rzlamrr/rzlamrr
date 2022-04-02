@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work is always an antidote to depression."</i>
+<i>"The greatest good you can do for another is not just share your riches but reveal to them their own."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
