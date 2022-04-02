@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather regret the things that I have done than the things that I have not done."</i>
+<i>"A day of worry is more exhausting than a day of work."</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- John Lubbock</b>
 </blockquote>
 </p>
 
