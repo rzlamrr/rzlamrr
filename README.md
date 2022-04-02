@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I like the dreams of the future better than the history of the past."</i>
+<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Marcel Proust</b>
 </blockquote>
 </p>
 
