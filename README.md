@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
+<i>"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists."</i>
 <br>
-<b>- Marcel Proust</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
