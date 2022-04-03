@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Skill to do comes of doing."</i>
+<i>"He is able who thinks he is able."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
