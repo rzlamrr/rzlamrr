@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
+<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
 <br>
-<b>- Buddha</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
