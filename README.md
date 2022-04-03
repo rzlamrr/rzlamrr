@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We should not give up and we should not allow the problem to defeat us."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- A. P. J. Abdul Kalam</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
