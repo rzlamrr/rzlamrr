@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He is able who thinks he is able."</i>
+<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
 <br>
 <b>- Buddha</b>
 </blockquote>
