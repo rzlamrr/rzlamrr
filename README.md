@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
