@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day of worry is more exhausting than a day of work."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- John Lubbock</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
