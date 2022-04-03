@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"We should not give up and we should not allow the problem to defeat us."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- A. P. J. Abdul Kalam</b>
 </blockquote>
 </p>
 
