@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own."</i>
+<i>"Life belongs to the living, and he who lives must be prepared for changes."</i>
 <br>
-<b>- Laozi</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
