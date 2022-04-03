@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live your life as an exclamation rather than an explanation."</i>
+<i>"Skill to do comes of doing."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
