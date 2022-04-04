@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest miracle is to be alive."</i>
+<i>"Gratitude is not only the greatest of virtues, but the parent of all the others."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
