@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do it with passion, or not at all."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Rosa Nouchette Carey</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
