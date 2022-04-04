@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
+<i>"Do it with passion, or not at all."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Rosa Nouchette Carey</b>
 </blockquote>
 </p>
 
