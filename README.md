@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."</i>
+<i>"To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future."</i>
 <br>
-<b>- Buddha</b>
+<b>- Plutarch</b>
 </blockquote>
 </p>
 
