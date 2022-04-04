@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write to help yourself, publish to help others."</i>
+<i>"Thoughts become things. If you see it in your mind, you will hold it in your hand."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
