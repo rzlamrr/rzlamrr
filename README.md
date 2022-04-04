@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no strangers here; Only friends you haven't yet met."</i>
+<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
 <br>
-<b>- William Butler Yeats</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
