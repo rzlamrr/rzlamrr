@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Decide whether or not the goal is worth the risks involved. If it is, stop worrying."</i>
+<i>"Write to help yourself, publish to help others."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
