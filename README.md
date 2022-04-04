@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future."</i>
+<i>"There are no strangers here; Only friends you haven't yet met."</i>
 <br>
-<b>- Plutarch</b>
+<b>- William Butler Yeats</b>
 </blockquote>
 </p>
 
