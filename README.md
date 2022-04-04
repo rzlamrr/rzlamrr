@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It isn't where you come from, it's where you're going that counts."</i>
+<i>"Faithless is he that says farewell when the road darkens."</i>
 <br>
-<b>- Ella Fitzgerald</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
