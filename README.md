@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is not only the greatest of virtues, but the parent of all the others."</i>
+<i>"It isn't where you come from, it's where you're going that counts."</i>
 <br>
-<b>- Cicero</b>
+<b>- Ella Fitzgerald</b>
 </blockquote>
 </p>
 
