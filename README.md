@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
+<i>"Learning without reflection is a waste, reflection without learning is dangerous."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
