@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing."</i>
+<i>"The more sand that has escaped from the hourglass of our life, the clearer we should see through it."</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
