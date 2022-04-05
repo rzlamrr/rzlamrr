@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everybody needs a passion. That's what keeps life interesting."</i>
+<i>"Wisdom has its root in goodness, not goodness its root in wisdom."</i>
 <br>
-<b>- Betty White</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
