@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom has its root in goodness, not goodness its root in wisdom."</i>
+<i>"Action is eloquence."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
