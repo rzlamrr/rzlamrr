@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Faithless is he that says farewell when the road darkens."</i>
+<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
