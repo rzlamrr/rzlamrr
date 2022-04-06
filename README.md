@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship often ends in love, but love in friendship - never."</i>
+<i>"Music in the soul can be heard by the universe."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
