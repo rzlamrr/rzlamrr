@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music in the soul can be heard by the universe."</i>
+<i>"A really great talent finds its happiness in execution."</i>
 <br>
-<b>- Laozi</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
