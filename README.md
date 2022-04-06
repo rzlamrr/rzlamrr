@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To do two things at once is to do neither."</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
