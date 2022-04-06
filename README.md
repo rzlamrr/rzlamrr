@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
