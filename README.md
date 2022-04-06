@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Being in a good frame of mind helps keep one in the picture of health."</i>
+<i>"Thought is the blossom; language the bud; action the fruit behind it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
