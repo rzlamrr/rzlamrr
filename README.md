@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mountains cannot be surmounted except by winding paths."</i>
+<i>"Friendship often ends in love, but love in friendship - never."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
