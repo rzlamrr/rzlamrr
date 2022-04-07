@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thought is the blossom; language the bud; action the fruit behind it."</i>
+<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
