@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way."</i>
+<i>"With self-discipline, almost anything is possible."</i>
 <br>
-<b>- Osho</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
