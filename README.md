@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final, failure is not fatal: it is the courage to continue that counts."</i>
+<i>"When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
