@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive those who have hurt you."</i>
+<i>"TV and the Internet are good because they keep stupid people from spending too much time out in public."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Douglas Coupland</b>
 </blockquote>
 </p>
 
