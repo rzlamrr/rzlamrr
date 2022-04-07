@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody."</i>
+<i>"A monarchy conducted with infinite wisdom and infinite benevolence is the most perfect of all possible governments."</i>
 <br>
-<b>- Henry Wadsworth Longfellow</b>
+<b>- Ezra Stiles</b>
 </blockquote>
 </p>
 
