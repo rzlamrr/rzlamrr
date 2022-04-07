@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way."</i>
+<i>"Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
