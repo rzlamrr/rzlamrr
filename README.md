@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With self-discipline, almost anything is possible."</i>
+<i>"Tomorrow is only found in the calendar of fools."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
