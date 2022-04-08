@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
