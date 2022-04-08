@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex."</i>
+<i>"Don't wish it were easier, wish you were better."</i>
 <br>
-<b>- Kurt Vonnegut</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
