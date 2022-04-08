@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wish it were easier, wish you were better."</i>
+<i>"It is not in the stars to hold our destiny but in ourselves."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
