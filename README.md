@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
+<i>"You cannot travel the path until you have become the path itself."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
