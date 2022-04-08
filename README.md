@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those that know, do. Those that understand, teach."</i>
+<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
