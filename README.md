@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every limit is a beginning as well as an ending."</i>
+<i>"If you accept the expectations of others, especially negative ones, then you never will change the outcome."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
