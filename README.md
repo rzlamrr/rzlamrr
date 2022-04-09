@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
+<i>"Our view of the world is truly shaped by what we decide to hear."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
