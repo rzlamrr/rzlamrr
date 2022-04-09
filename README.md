@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our view of the world is truly shaped by what we decide to hear."</i>
+<i>"There is nothing impossible to him who will try."</i>
 <br>
-<b>- William James</b>
+<b>- Alexander the Great</b>
 </blockquote>
 </p>
 
