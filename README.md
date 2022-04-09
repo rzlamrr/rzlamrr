@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave."</i>
+<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
