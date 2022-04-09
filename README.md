@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat."</i>
 <br>
-<b>- Marcel Proust</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
