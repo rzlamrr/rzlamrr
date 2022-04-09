@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for the people who make the best of the way things turn out."</i>
+<i>"We are stuck with technology when what we really want is just stuff that works."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
