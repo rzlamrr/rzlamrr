@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You do not become good by trying to be good, but by finding the goodness that is already within you."</i>
+<i>"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
