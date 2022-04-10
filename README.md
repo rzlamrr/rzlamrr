@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world."</i>
+<i>"If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
