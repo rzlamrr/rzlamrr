@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
+<i>"Life is the only real counselor; wisdom unfiltered through personal experience does not become a part of the moral tissue."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
