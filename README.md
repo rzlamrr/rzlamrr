@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man sees in the world what he carries in his heart."</i>
+<i>"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
