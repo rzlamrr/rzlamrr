@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"We are all faced with a series of great opportunities brilliantly disguised as impossible situations."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Chuck Swindoll</b>
 </blockquote>
 </p>
 
