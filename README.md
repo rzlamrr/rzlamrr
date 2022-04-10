@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
+<i>"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
