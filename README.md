@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can often change your circumstances by changing your attitude."</i>
+<i>"The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Margaret Chase Smith</b>
 </blockquote>
 </p>
 
