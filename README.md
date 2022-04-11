@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Distant water does not put out a nearby fire."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
