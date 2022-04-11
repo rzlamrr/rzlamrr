@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The meaning of life is to find your gift. The purpose of life is to give it away."</i>
+<i>"Distant water does not put out a nearby fire."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
