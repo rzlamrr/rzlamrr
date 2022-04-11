@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste not fresh tears over old griefs."</i>
+<i>"If you can't argue both sides, you can't argue."</i>
 <br>
-<b>- Euripides</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
