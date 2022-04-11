@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</i>
+<i>"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
