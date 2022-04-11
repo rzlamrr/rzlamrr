@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"Be - don't try to become "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
