@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
+<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
