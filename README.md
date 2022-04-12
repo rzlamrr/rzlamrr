@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
+<i>"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."</i>
 <br>
-<b>- Betty White</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
