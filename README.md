@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest."</i>
+<i>"I have always thought the actions of men the best interpreters of their thoughts."</i>
 <br>
-<b>- Confucius</b>
+<b>- John Locke</b>
 </blockquote>
 </p>
 
