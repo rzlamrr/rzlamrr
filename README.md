@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have always thought the actions of men the best interpreters of their thoughts."</i>
+<i>"When you realize there is nothing lacking, the whole world belongs to you."</i>
 <br>
-<b>- John Locke</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
