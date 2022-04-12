@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live calmly. The time will come when the flowers bloom by themselves."</i>
+<i>"Let your hook always be cast; in the pool where you least expect it, there will be a fish."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
