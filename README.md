@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
