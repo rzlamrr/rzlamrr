@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be angry is to revenge the faults of others on ourselves."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
