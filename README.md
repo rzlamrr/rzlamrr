@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let your hook always be cast; in the pool where you least expect it, there will be a fish."</i>
+<i>"Never accept ultimatums, conventional wisdom, or absolutes."</i>
 <br>
-<b>- Ovid</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
