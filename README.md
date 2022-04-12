@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never accept ultimatums, conventional wisdom, or absolutes."</i>
+<i>"A garden is always a series of losses set against a few triumphs, like life itself."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- May Sarton</b>
 </blockquote>
 </p>
 
