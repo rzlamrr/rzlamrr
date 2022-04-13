@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't shake hands with a clenched fist."</i>
+<i>"Be sure you put your feet in the right place, then stand firm."</i>
 <br>
-<b>- Indira Gandhi</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
