@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Freedom is what you do with what's been done to you."</i>
+<i>"You can't shake hands with a clenched fist."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Indira Gandhi</b>
 </blockquote>
 </p>
 
