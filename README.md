@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
+<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
 <br>
-<b>- Vaclav Havel</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
