@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday I dared to struggle. Today I dare to win."</i>
+<i>"Follow the man who seeks the truth; run from the man who has found it."</i>
 <br>
-<b>- Bernadette Devlin</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
