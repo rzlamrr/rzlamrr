@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be sure you put your feet in the right place, then stand firm."</i>
+<i>"He who conquers others is strong; He who conquers himself is mighty."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
