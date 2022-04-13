@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
