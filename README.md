@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
+<i>"Freedom is what you do with what's been done to you."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
