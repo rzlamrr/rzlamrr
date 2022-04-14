@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far better to be alone, than to be in bad company."</i>
+<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
 <br>
-<b>- George Washington</b>
+<b>- Isaac D'Israeli</b>
 </blockquote>
 </p>
 
