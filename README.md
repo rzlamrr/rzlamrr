@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is anything that wasn't around when you were born."</i>
+<i>"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."</i>
 <br>
-<b>- Man Ray</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
