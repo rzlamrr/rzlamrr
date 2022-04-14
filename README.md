@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to live free and happily you must sacrifice boredom. It is not always an easy sacrifice."</i>
+<i>"It is far better to be alone, than to be in bad company."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
