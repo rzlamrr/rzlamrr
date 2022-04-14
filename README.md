@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Deliberately seek the company of people who influence you to think and act on building the life you desire."</i>
+<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Anatole France</b>
 </blockquote>
 </p>
 
