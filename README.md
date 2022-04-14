@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Edison failed 10,000 times before he made the electric light. Do not be discouraged if you fail a few times."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
