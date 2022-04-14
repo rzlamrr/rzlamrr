@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
+<i>"Reason and free inquiry are the only effectual agents against error."</i>
 <br>
-<b>- Isaac D'Israeli</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
