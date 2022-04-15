@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Arriving at one point is the starting point to another."</i>
+<i>"All this worldly wisdom was once the unamiable heresy of some wise man."</i>
 <br>
-<b>- John Dewey</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
