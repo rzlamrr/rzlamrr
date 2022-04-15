@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I must also have a dark side if I am to be whole."</i>
+<i>"Arriving at one point is the starting point to another."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- John Dewey</b>
 </blockquote>
 </p>
 
