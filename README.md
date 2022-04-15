@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The joy of life comes from our encounters with new experiences."</i>
+<i>"Take interest and even delight in doing the small things well."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
