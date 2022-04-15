@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All this worldly wisdom was once the unamiable heresy of some wise man."</i>
+<i>"The greatest obstacle to connecting with our joy is resentment."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
