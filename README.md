@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take interest and even delight in doing the small things well."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
