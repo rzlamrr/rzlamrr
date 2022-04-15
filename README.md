@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reason and free inquiry are the only effectual agents against error."</i>
+<i>"The joy of life comes from our encounters with new experiences."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
