@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good thoughts are no better than good dreams, unless they be executed."</i>
+<i>"I must also have a dark side if I am to be whole."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
