@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The beautiful journey of today can only begin when we learn to let go of yesterday."</i>
+<i>"Where you are right now doesn't have to determine where you'll end up."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
