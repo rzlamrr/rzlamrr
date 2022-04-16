@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're never a loser until you quit trying."</i>
+<i>"A man is literally what he thinks."</i>
 <br>
-<b>- Mike Ditka</b>
+<b>- James Allen</b>
 </blockquote>
 </p>
 
