@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
