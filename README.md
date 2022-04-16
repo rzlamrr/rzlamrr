@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most of the evil in this world is done by people with good intentions."</i>
+<i>"Whether you think you can or you think you can't, you are right."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
