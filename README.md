@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
+<i>"Most of the evil in this world is done by people with good intentions."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
