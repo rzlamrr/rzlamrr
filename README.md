@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whether you think you can or you think you can't, you are right."</i>
+<i>"The number one cause of failure is the fear of failure."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
