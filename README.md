@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The number one cause of failure is the fear of failure."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
