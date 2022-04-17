@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Poetry is written with tears, fiction with blood, and history with invisible ink."</i>
+<i>"Success is getting what you want. Happiness is wanting what you get."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
