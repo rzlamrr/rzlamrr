@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To enjoy good health, to bring true happiness to one's family, to bring peace to all, one must first discipline and control one's own mind. If a man can control his mind, he can find the way to Enlightenment, and all wisdom and virtue will naturally come to him."</i>
+<i>"They say that time changes things, but you actually have to change them yourself."</i>
 <br>
-<b>- Buddha</b>
+<b>- Andy Warhol</b>
 </blockquote>
 </p>
 
