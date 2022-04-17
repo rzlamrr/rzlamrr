@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</i>
+<i>"Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity."</i>
 <br>
-<b>- Marian Wright Edelman</b>
+<b>- Louis Pasteur</b>
 </blockquote>
 </p>
 
