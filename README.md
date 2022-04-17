@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
+<i>"We are willing to believe anything other than the truth."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
