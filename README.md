@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They say that time changes things, but you actually have to change them yourself."</i>
+<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
 <br>
-<b>- Andy Warhol</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
