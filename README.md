@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
+<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
