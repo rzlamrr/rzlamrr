@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
+<i>"The dream is free, but the hustle is sold separately."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
