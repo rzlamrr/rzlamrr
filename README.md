@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
