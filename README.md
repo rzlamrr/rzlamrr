@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take care of your body. It's the only place you have to live."</i>
+<i>"It is better to travel well than to arrive."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
