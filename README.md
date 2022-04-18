@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The dream is free, but the hustle is sold separately."</i>
+<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
