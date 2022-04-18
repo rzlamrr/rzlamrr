@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
