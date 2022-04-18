@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Why compare yourself with others? No one in the entire world can do a better job of being you than you."</i>
+<i>"Take care of your body. It's the only place you have to live."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
