@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed. "</i>
+<i>"Be sure you put your feet in the right place, then stand firm."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
