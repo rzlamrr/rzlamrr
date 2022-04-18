@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to travel well than to arrive."</i>
+<i>"To bring anything into your life, imagine that it's already there."</i>
 <br>
-<b>- Buddha</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
