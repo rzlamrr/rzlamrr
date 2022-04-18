@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change happens when the pain of holding on becomes greater than the fear of letting go."</i>
+<i>"Watch what you say, and whaterver you say, practice it."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Soyen Shaku</b>
 </blockquote>
 </p>
 
