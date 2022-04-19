@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
