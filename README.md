@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am thankful to all those who said no. It's because of them, I did it myself.  "</i>
+<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
