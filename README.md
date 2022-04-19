@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how hard physics would be if particles could think."</i>
+<i>"Peace cannot be kept by force. It can only be achieved by understanding."</i>
 <br>
-<b>- Murray Gell-Mann</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
