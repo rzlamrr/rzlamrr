@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new."</i>
+<i>"Know the rules well, so you can break them effectively."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
