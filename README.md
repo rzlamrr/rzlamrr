@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment."</i>
+<i>"You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
