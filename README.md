@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He that is giddy thinks the world turns round."</i>
+<i>"Think how hard physics would be if particles could think."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Murray Gell-Mann</b>
 </blockquote>
 </p>
 
