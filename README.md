@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time doesn't heal emotional pain, you need to learn how to let go."</i>
+<i>"I cannot make my days longer, so I strive to make them better."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
