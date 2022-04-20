@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fox has many tricks. The hedgehog has but one. But that is the best of all."</i>
+<i>"Happiness is not something ready made. It comes from your own actions."</i>
 <br>
-<b>- Erasmus</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
