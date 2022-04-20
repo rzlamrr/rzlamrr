@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is the flower for which love is the honey."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- Victor Hugo</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
