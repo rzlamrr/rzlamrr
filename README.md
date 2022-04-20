@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I admire those who do good and expect nothing in return."</i>
+<i>"Either write something worth reading or do something worth writing."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
