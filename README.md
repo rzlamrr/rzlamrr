@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In separateness lies the world's great misery, in compassion lies the world's true strength."</i>
+<i>"Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing."</i>
 <br>
-<b>- Buddha</b>
+<b>- Elie Wiesel</b>
 </blockquote>
 </p>
 
