@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing."</i>
+<i>"Logic is the beginning of wisdom, not the end."</i>
 <br>
-<b>- Elie Wiesel</b>
+<b>- Leonard Nimoy</b>
 </blockquote>
 </p>
 
