@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Logic is the beginning of wisdom, not the end."</i>
+<i>"I admire those who do good and expect nothing in return."</i>
 <br>
-<b>- Leonard Nimoy</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
