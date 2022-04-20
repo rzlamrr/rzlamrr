@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
+<i>"Life is movement-we breathe, we eat, we walk, we move!"</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- John Pierrakos</b>
 </blockquote>
 </p>
 
