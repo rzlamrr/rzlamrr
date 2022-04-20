@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is not something ready made. It comes from your own actions."</i>
+<i>"Life is the flower for which love is the honey."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Victor Hugo</b>
 </blockquote>
 </p>
 
