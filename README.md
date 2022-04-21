@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Hope arouses, as nothing else can arouse, a passion for the possible."</i>
+<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
 <br>
-<b>- William Sloane Coffin</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
