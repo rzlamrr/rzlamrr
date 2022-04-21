@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The businessman's tool is value."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
