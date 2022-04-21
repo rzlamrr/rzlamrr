@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems remain as problems because people are busy defending them rather than finding solutions."</i>
+<i>"Hope arouses, as nothing else can arouse, a passion for the possible."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- William Sloane Coffin</b>
 </blockquote>
 </p>
 
