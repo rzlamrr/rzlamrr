@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
+<i>"Men trust their ears less than their eyes."</i>
 <br>
-<b>- Laozi</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
