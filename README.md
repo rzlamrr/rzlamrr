@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing."</i>
+<i>"Knowledge has three degrees: opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition."</i>
 <br>
-<b>- Margaret Thatcher</b>
+<b>- Plotinus</b>
 </blockquote>
 </p>
 
