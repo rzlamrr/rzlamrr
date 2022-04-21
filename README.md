@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself."</i>
+<i>"Some of the best lessons we ever learn are learned from past mistakes. The error of the past is the wisdom and success of the future."</i>
 <br>
-<b>- Henry James</b>
+<b>- Dale Turner</b>
 </blockquote>
 </p>
 
