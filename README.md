@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your big opportunity may be right where you are now."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
