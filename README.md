@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is not a talent of some men but is the health of every man."</i>
+<i>"It is better to fail in originality than to succeed in imitation."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
