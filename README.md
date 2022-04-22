@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men trust their ears less than their eyes."</i>
+<i>"Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
