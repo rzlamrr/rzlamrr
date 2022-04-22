@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Engage in those actions and thoughts that nurture the good qualities you want to have."</i>
+<i>"It is in the heart that makes a man rich. He is rich according to what he is, not according to what he has."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
