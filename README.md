@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared."</i>
+<i>"Imagination is not a talent of some men but is the health of every man."</i>
 <br>
-<b>- Buddha</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
