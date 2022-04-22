@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to fail in originality than to succeed in imitation."</i>
+<i>"Accept challenges, so that you may feel the exhilaration of victory."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
