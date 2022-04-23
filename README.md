@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creative endeavors are by their nature uncertain."</i>
+<i>"Obstacles are those frightful things you see when you take your eyes off your goal."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
