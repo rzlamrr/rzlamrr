@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"A Penny Saved is a Penny Earned"</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
