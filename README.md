@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is guilty of all the good he did not do. "</i>
+<i>"The hours of folly are measured by the clock; but of wisdom, no clock can measure."</i>
 <br>
-<b>- Voltaire</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
