@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law."</i>
+<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
