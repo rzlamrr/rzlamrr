@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Duty makes us do things well, but love makes us do them beautifully.  "</i>
+<i>"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
