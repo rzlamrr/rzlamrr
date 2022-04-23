@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"Every man is guilty of all the good he did not do. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
