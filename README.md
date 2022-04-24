@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
+<i>"Happiness can exist only in acceptance."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- George Orwell</b>
 </blockquote>
 </p>
 
