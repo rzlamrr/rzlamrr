@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"Life is just a chance to grow a soul."</i>
 <br>
-<b>- Walter Winchell</b>
+<b>- A. Powell Davies</b>
 </blockquote>
 </p>
 
