@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing diminishes anxiety faster than action."</i>
+<i>"Freeing oneself from words is liberation. "</i>
 <br>
-<b>- Walter Inglis Anderson</b>
+<b>- Bodhidharma</b>
 </blockquote>
 </p>
 
