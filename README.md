@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A Penny Saved is a Penny Earned"</i>
+<i>"Nothing diminishes anxiety faster than action."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Walter Inglis Anderson</b>
 </blockquote>
 </p>
 
