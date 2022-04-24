@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves."</i>
+<i>"A real friend is one who walks in when the rest of the world walks out."</i>
 <br>
-<b>- Buddha</b>
+<b>- Walter Winchell</b>
 </blockquote>
 </p>
 
