@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your worth consists in what you are and not in what you have."</i>
+<i>"Turn off your mind, relax, and float downstream."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
