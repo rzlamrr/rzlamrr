@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absorb what is useful, discard what is useless and add what is specifically your own.  "</i>
+<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
