@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing in this world is worth having or worth doing unless it means effort, pain, difficulty."</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
