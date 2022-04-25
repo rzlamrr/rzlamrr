@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
+<i>"Strong beliefs win strong men, and then make them stronger."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
