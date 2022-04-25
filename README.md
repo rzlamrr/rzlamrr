@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them."</i>
+<i>"Our attitude toward life determines life's attitude towards us."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
