@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Strong beliefs win strong men, and then make them stronger."</i>
+<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
