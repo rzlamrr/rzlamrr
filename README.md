@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leadership starts at the top."</i>
+<i>"Technology presumes there's just one right way to do things and there never is."</i>
 <br>
-<b>- Morgan Wootten</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
