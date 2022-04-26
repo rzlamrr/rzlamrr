@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light tomorrow with today!"</i>
+<i>"Don't talk about what you have done or what you are going to do."</i>
 <br>
-<b>- Elizabeth Browning</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
