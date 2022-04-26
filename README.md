@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world would go on even without you. Don't take yourself so seriously."</i>
+<i>"Success is stumbling from failure to failure with no loss of enthusiasm."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
