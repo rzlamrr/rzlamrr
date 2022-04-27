@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i>
+<i>"Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity."</i>
 <br>
-<b>- Alfred North Whitehead</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
