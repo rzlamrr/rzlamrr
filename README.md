@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is flower like; Friendship is like a sheltering tree."</i>
+<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
 <br>
-<b>- Samuel Taylor Coleridge</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
