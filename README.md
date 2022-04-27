@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditation is the dissolution of thoughts in eternal awareness or Pure consciousness without objectification, knowing without thinking, merging finitude in infinity."</i>
+<i>"Knowing yourself is the beginning of all wisdom."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
