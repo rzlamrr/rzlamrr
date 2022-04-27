@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
+<i>"Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
