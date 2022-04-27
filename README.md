@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing yourself is the beginning of all wisdom."</i>
+<i>"Nine-tenths of wisdom is being wise in time."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
