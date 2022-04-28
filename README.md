@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darkness of other people."</i>
+<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
