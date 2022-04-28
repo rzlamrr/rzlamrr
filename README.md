@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love and compassion open our own inner life, reducing stress, distrust and loneliness."</i>
+<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
 <br>
 <b>- Dalai Lama</b>
 </blockquote>
