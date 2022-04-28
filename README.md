@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final proof of greatness lies in being able to endure criticism without resentment."</i>
+<i>"When a man is penalized for honesty he learns to lie."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
