@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech."</i>
+<i>"Whoso loves, believes the impossible."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Elizabeth Browning</b>
 </blockquote>
 </p>
 
