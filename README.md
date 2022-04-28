@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whoso loves, believes the impossible."</i>
+<i>"Knowing your own darkness is the best method for dealing with the darkness of other people."</i>
 <br>
-<b>- Elizabeth Browning</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
