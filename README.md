@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love has no age, no limit; and no death."</i>
+<i>"The final proof of greatness lies in being able to endure criticism without resentment."</i>
 <br>
-<b>- John Galsworthy</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
