@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
+<i>"Friends ask you questions; enemies question you."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
