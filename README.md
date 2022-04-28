@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let them drag you down by rumors. Just go with what you believe in."</i>
+<i>"Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
