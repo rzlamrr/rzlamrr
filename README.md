@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Danilo Dolci</b>
 </blockquote>
 </p>
 
