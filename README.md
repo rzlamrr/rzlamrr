@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's important to know that words don't move mountains. Work, exacting work moves mountains."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Danilo Dolci</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
