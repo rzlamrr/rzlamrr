@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom often times consists of knowing what to do next."</i>
+<i>"Always turn a negative situation into a positive situation."</i>
 <br>
-<b>- Herbert Hoover</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
