@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not the path of Truth for the lack of People walking on it."</i>
+<i>"Between saying and doing, many a pair of shoes is worn out."</i>
 <br>
-<b>- Robert F. Kennedy</b>
+<b>- Iris Murdoch</b>
 </blockquote>
 </p>
 
