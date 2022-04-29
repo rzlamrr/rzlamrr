@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is like most opinions - best unexpressed."</i>
+<i>"Enthusiasm makes up for a host of deficiencies."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
