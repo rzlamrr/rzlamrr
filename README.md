@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance."</i>
+<i>"The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly."</i>
 <br>
-<b>- Akhenaten</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
