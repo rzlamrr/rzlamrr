@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is far better to be alone, than to be in bad company."</i>
+<i>"All know that the drop merges into the ocean, but few know that the ocean merges into the drop."</i>
 <br>
-<b>- George Washington</b>
+<b>- Kabir</b>
 </blockquote>
 </p>
 
