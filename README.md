@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
+<i>"True wisdom is less presuming than folly. The wise man doubteth often, and changeth his mind; the fool is obstinate, and doubteth not; he knoweth all things but his own ignorance."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Akhenaten</b>
 </blockquote>
 </p>
 
