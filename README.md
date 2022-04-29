@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Enthusiasm makes up for a host of deficiencies."</i>
+<i>"Fear not the path of Truth for the lack of People walking on it."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
