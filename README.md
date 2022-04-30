@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
+<i>"Wisdom is a kind of knowledge. It is knowledge of the nature, career, and consequences of human values."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Sidney Hook</b>
 </blockquote>
 </p>
 
