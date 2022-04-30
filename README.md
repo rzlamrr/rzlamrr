@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
+<i>"Watch the little things; a small leak will sink a great ship."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
