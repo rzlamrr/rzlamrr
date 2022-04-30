@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars and your feet on the ground."</i>
+<i>"Good thoughts are no better than good dreams, unless they be executed."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
