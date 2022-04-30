@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
+<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
 <br>
-<b>- Harriet Woods</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
