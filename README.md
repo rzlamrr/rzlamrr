@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good thoughts are no better than good dreams, unless they be executed."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
