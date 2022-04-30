@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many roads lead to the path, but basically there are only two: reason and practice. "</i>
+<i>"Every artist dips his brush in his own soul, and paints his own nature into his pictures."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
