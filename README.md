@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."</i>
+<i>"We know nothing of tomorrow, our business is to be good and happy today."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Sydney Smith</b>
 </blockquote>
 </p>
 
