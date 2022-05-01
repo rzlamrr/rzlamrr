@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're changing the world, you're working on important things. You're excited to get up in the morning."</i>
+<i>"If ever you feel like an animal among men, be a lion."</i>
 <br>
-<b>- Larry Page</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
