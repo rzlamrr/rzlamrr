@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes."</i>
+<i>"Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Mary Kay Ash</b>
 </blockquote>
 </p>
 
