@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the neglect of timely repair that makes rebuilding necessary."</i>
+<i>"All I can say about life is, Oh God, enjoy it!"</i>
 <br>
-<b>- Richard Whately</b>
+<b>- Bob Newhart</b>
 </blockquote>
 </p>
 
