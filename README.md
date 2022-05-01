@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
+<i>"It is the neglect of timely repair that makes rebuilding necessary."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Richard Whately</b>
 </blockquote>
 </p>
 
