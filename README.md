@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If ever you feel like an animal among men, be a lion."</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Seungsahn</b>
 </blockquote>
 </p>
 
