@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how hard the past, you can always begin again."</i>
+<i>"Success is about creating value."</i>
 <br>
-<b>- Buddha</b>
+<b>- Candice Carpenter</b>
 </blockquote>
 </p>
 
