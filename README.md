@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all men's miseries the bitterest is this: to know so much and to have control over nothing. "</i>
+<i>"A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing."</i>
 <br>
-<b>- Herodotus</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
