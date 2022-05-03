@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain."</i>
+<i>"How you think is as important as as what you think."</i>
 <br>
-<b>- Plato</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
