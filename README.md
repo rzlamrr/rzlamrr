@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How you think is as important as as what you think."</i>
+<i>"Let us resolve to be masters, not the victims, of our history, controlling our own destiny without giving way to blind suspicions and emotions."</i>
 <br>
-<b>- Unknown</b>
+<b>- John F. Kennedy</b>
 </blockquote>
 </p>
 
