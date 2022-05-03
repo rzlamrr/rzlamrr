@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
+<i>"Never say never, because limits, like fears, are often just an illusion."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
