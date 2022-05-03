@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never say never, because limits, like fears, are often just an illusion."</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
