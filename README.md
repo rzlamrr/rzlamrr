@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
+<i>"So is cheerfulness, or a good temper, the more it is spent, the more remains."</i>
 <br>
-<b>- Margaret Mead</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
