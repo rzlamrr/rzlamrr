@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the potential for greatness."</i>
+<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
