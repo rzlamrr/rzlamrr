@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails."</i>
+<i>"You may delay, but time will not."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
