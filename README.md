@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece"</i>
+<i>"To keep your secret is wisdom; but to expect others to keep it is folly."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
