@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unhappiness enters through a door that has been left open."</i>
+<i>"The only way to have a friend is to be one."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
