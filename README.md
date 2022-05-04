@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To keep your secret is wisdom; but to expect others to keep it is folly."</i>
+<i>"It does not matter how slowly you go so long as you do not stop."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
