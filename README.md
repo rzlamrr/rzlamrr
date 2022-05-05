@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The aim of life is self-development. To realize one's nature perfectly - that is what each of us is here for."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
