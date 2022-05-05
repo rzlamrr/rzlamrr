@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In life, all good things come hard, but wisdom is the hardest to come by."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
