@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time heals what reason cannot.  "</i>
+<i>"Every day is an opportunity to a make a new happy ending."</i>
 <br>
-<b>- Seneca</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
