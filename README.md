@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is an opportunity to a make a new happy ending."</i>
+<i>"It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
