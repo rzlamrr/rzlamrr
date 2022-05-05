@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong."</i>
+<i>"It takes courage to grow up and become who you really are."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- E. E. Cummings</b>
 </blockquote>
 </p>
 
