@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes courage to grow up and become who you really are."</i>
+<i>"Weeds are flowers too, once you get to know them."</i>
 <br>
-<b>- E. E. Cummings</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
