@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't know, the thing to do is not to get scared, but to learn."</i>
+<i>"A quarrel between friends, when made up, adds a new tie to friendship."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Francis de Sales</b>
 </blockquote>
 </p>
 
