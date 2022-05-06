@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When it is dark enough, you can see the stars."</i>
+<i>"Wisdom is found only in truth."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
