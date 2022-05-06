@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A quarrel between friends, when made up, adds a new tie to friendship."</i>
+<i>"Everyone you meet is fighting a battle you know nothing about. Be kind. Always."</i>
 <br>
-<b>- Francis de Sales</b>
+<b>- Robin Williams</b>
 </blockquote>
 </p>
 
