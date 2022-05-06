@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Weeds are flowers too, once you get to know them."</i>
+<i>"Life is a series of choices and all we can do is make them."</i>
 <br>
-<b>- A.A. Milne</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
