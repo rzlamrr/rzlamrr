@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success."</i>
+<i>"Where does a thought go when it's forgotten?"</i>
 <br>
-<b>- John Locke</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
