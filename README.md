@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"It's just a bad day, not a bad life."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
