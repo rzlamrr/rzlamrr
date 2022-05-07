@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge isn't power until it is applied."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
