@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"No snowflake ever falls in the wrong place."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
