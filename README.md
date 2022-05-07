@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Miracles come in moments. Be ready and willing."</i>
+<i>"Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
