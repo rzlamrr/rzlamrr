@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"Knowledge isn't power until it is applied."</i>
 <br>
-<b>- Buddha</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
