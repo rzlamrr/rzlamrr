@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where does a thought go when it's forgotten?"</i>
+<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
