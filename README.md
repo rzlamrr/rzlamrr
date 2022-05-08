@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even youngish men can acquire wisdom as time goes by."</i>
+<i>"We are all here for some special reason."</i>
 <br>
-<b>- John Bercow</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
