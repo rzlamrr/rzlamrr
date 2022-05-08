@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
+<i>"Action may not always bring happiness; but there is no happiness without action."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
