@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not a lack of love, but a lack of friendship that makes unhappy marriages."</i>
+<i>"Those who are free of resentful thoughts surely find peace."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
