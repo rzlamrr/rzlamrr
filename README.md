@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are free of resentful thoughts surely find peace."</i>
+<i>"Confidence is the greatest friend."</i>
 <br>
-<b>- Buddha</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
