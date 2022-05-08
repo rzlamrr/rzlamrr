@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I let go of what I am, I become what I might be."</i>
+<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
 <br>
-<b>- Laozi</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
