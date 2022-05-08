@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life."</i>
+<i>"Let us sacrifice our today so that our children can have a better tomorrow."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- A. P. J. Abdul Kalam</b>
 </blockquote>
 </p>
 
