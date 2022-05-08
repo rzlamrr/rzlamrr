@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all here for some special reason."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
