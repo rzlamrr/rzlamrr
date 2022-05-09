@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are basically two types of people. People who accomplish things, and people who claim to have accomplished things. The first group is less crowded."</i>
+<i>"Mountains cannot be surmounted except by winding paths."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
