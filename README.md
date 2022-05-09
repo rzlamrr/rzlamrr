@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our most intimate friend is not he to whom we show the worst, but the best of our nature."</i>
+<i>"Make your life a mission - not an intermission."</i>
 <br>
-<b>- Nathaniel Hawthorne</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
