@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
+<i>"Be brave to stand for what you believe in even if you stand alone."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
