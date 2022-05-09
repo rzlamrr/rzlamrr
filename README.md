@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Mountains cannot be surmounted except by winding paths."</i>
+<i>"If you don't find the time, if you don't do the work, you don't get the results."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
