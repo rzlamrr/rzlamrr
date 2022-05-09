@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship."</i>
+<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
 <br>
-<b>- Mother Angelica</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
