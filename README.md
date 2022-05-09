@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"I cannot even imagine where I would be today were it not for that handful of friends who have given me a heart full of joy. Let's face it, friends make life a lot more fun."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Chuck Swindoll</b>
 </blockquote>
 </p>
 
