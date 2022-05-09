@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be brave to stand for what you believe in even if you stand alone."</i>
+<i>"Our most intimate friend is not he to whom we show the worst, but the best of our nature."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Nathaniel Hawthorne</b>
 </blockquote>
 </p>
 
