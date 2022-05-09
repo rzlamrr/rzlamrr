@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"If you must tell me your opinions, tell me what you believe in. I have plenty of doubts of my own."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
