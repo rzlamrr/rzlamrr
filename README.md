@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't stop the waves, but you can learn to surf."</i>
+<i>"Those who are free of resentful thoughts surely find peace."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
