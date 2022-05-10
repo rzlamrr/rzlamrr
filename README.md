@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are free of resentful thoughts surely find peace."</i>
+<i>"Never interrupt someone doing what you said couldn't be done."</i>
 <br>
-<b>- Buddha</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
