@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life moves on and so should we."</i>
+<i>"He who cannot be a good follower cannot be a good leader."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
