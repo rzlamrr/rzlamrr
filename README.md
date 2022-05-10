@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"You can't stop the waves, but you can learn to surf."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
