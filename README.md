@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
+<i>"Ideals are an imaginative understanding of that which is desirable in that which is possible."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Walter Lippmann</b>
 </blockquote>
 </p>
 
