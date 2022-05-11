@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who cannot be a good follower cannot be a good leader."</i>
+<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
