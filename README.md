@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The lure of the distant and the difficult is deceptive. The great opportunity is where you are."</i>
+<i>"You cannot always control what goes on outside. But you can always control what goes on inside. "</i>
 <br>
-<b>- John Burroughs</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
