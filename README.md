@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
