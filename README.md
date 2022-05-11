@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are always your own best guru, your own best teacher, the answers are always inside you."</i>
+<i>"The lure of the distant and the difficult is deceptive. The great opportunity is where you are."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- John Burroughs</b>
 </blockquote>
 </p>
 
