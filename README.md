@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else."</i>
+<i>"Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!"</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
