@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"With pride, there are many curses. With humility, there come many blessings."</i>
+<i>"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win."</i>
 <br>
-<b>- Ezra Taft Benson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
