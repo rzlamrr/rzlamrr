@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
