@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road."</i>
+<i>"In peace, sons bury their fathers. In war, fathers bury their sons. "</i>
 <br>
-<b>- Stewart Brand</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
