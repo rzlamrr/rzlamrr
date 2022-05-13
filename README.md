@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
+<i>"The more you are motivated by Love, The more Fearless & Free your action will be."</i>
 <br>
-<b>- Marcel Proust</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
