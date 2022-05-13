@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"While we stop to think, we often miss our opportunity."</i>
+<i>"The quicker you let go of old cheese, the sooner you find new cheese."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
