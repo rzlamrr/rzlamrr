@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
+<i>"It is impossible to experience one's death objectively and still carry a tune."</i>
 <br>
-<b>- Galileo Galilei</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
