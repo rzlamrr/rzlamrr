@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All happiness depends on courage and work."</i>
+<i>"Imagination is the highest kite one can fly."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Lauren Bacall</b>
 </blockquote>
 </p>
 
