@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"While we stop to think, we often miss our opportunity."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
