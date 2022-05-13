@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is impossible to experience one's death objectively and still carry a tune."</i>
+<i>"Always do your best. What you plant now, you will harvest later."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
