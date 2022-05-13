@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning."</i>
+<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
 <br>
-<b>- Laozi</b>
+<b>- Galileo Galilei</b>
 </blockquote>
 </p>
 
