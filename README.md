@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always do your best. What you plant now, you will harvest later."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
