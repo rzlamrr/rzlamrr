@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!"</i>
+<i>"To listen well is as powerful a means of communication and influence as to talk well."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- John Marshall</b>
 </blockquote>
 </p>
 
