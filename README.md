@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every hour of every day is an unspeakably perfect miracle."</i>
+<i>"One of the advantages of being disorderly is that one is constantly making exciting discoveries."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- A. A. Milne</b>
 </blockquote>
 </p>
 
