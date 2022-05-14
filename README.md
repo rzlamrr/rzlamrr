@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Jessamyn West</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
