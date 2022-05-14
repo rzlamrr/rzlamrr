@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To listen well is as powerful a means of communication and influence as to talk well."</i>
+<i>"Nothing has more strength than dire necessity."</i>
 <br>
-<b>- John Marshall</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
