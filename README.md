@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing has more strength than dire necessity."</i>
+<i>"Every hour of every day is an unspeakably perfect miracle."</i>
 <br>
-<b>- Euripides</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
