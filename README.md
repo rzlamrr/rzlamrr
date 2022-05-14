@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One of the advantages of being disorderly is that one is constantly making exciting discoveries."</i>
+<i>"Be willing to be a beginner every single morning."</i>
 <br>
-<b>- A. A. Milne</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
