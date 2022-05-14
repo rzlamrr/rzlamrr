@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Bad times have a scientific value. These are occasions a good learner would not miss."</i>
+<i>"To a mind that is still, the entire universe surrenders."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
