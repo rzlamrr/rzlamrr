@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
+<i>"Bad times have a scientific value. These are occasions a good learner would not miss."</i>
 <br>
-<b>- Aldous Huxley</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
