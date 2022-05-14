@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the highest kite one can fly."</i>
+<i>"Experience is not what happens to you; it's what you do with what happens to you."</i>
 <br>
-<b>- Lauren Bacall</b>
+<b>- Aldous Huxley</b>
 </blockquote>
 </p>
 
