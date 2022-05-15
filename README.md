@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</i>
+<i>"Marriage: A friendship recognized by the police."</i>
 <br>
-<b>- Anne Brontë</b>
+<b>- Robert Louis Stevenson</b>
 </blockquote>
 </p>
 
