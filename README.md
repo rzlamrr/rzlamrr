@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can avoid reality, but you cannot avoid the consequences of avoiding reality."</i>
+<i>"Divide each difficulty into as many parts as is feasible and necessary to resolve it."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
