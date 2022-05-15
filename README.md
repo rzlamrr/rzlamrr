@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
+<i>"The two most powerful warriors are patience and time."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
