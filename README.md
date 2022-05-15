@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By words the mind is winged."</i>
+<i>"Remember that sometimes not getting what you want is a wonderful stroke of luck."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
