@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Divide each difficulty into as many parts as is feasible and necessary to resolve it."</i>
+<i>"All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Anne Brontë</b>
 </blockquote>
 </p>
 
