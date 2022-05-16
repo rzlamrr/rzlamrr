@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How we spend our days is, of course, how we spend our lives."</i>
+<i>"I never think of the future. It comes soon enough."</i>
 <br>
-<b>- Annie Dillard</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
