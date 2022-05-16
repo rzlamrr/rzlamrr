@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not follow the ideas of others, but learn to listen to the voice within yourself."</i>
+<i>"The most I can do for my friend is simply be his friend."</i>
 <br>
-<b>- Dogen</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
