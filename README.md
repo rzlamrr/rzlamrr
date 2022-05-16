@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens to you while you're busy making other plans."</i>
+<i>"More often than not, anger is actually an indication of weakness rather than of strength."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
