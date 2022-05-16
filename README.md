@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"How we spend our days is, of course, how we spend our lives."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Annie Dillard</b>
 </blockquote>
 </p>
 
