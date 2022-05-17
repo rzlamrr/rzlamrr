@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is the golden chain by which society is bound together."</i>
+<i>"He who cheats the earth will be cheated by the earth."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
