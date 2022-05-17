@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing impossible to him who will try."</i>
+<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
 <br>
-<b>- Alexander the Great</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
