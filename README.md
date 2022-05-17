@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time."</i>
+<i>"All great achievements require time."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
