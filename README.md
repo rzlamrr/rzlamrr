@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep your eyes on the stars and your feet on the ground."</i>
+<i>"Kindness is the golden chain by which society is bound together."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
