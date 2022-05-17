@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Problems are only opportunities with thorns on them."</i>
+<i>"What you seek is seeking you."</i>
 <br>
-<b>- Hugh Miller</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
