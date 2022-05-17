@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Quiet people have the loudest minds."</i>
+<i>"Keep your eyes on the stars and your feet on the ground."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
