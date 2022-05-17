@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is the mark of an educated mind to be able to entertain a thought without accepting it."</i>
+<i>"In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
