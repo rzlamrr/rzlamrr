@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
+<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
