@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is a characteristic of wisdom not to do desperate things."</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
