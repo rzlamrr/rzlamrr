@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the smallest person can change the course of the future."</i>
+<i>"Trust in dreams, for in them is the hidden gate to eternity.  "</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
