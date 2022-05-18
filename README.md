@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know, first, who you are, and then adorn yourself accordingly."</i>
+<i>"When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
