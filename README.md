@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?"</i>
+<i>"The only thing worse than being blind is having sight but no vision."</i>
 <br>
-<b>- Confucius</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
