@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll get more from being a peacemaker than a warrior."</i>
+<i>"If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?"</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
