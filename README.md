@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Successful people ask better questions, and as a result, they get better answers."</i>
+<i>"Happiness depends upon ourselves."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
