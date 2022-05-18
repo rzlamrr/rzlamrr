@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
+<i>"It is a characteristic of wisdom not to do desperate things."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
