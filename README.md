@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing."</i>
+<i>"Tradition is the illusion of permanence. "</i>
 <br>
-<b>- Martin Luther King Jr.</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
