@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."</i>
+<i>"Anything you really want, you can attain, if you really go after it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
