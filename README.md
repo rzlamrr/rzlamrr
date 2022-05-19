@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anything you really want, you can attain, if you really go after it."</i>
+<i>"That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
