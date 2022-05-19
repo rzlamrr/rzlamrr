@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer the devils with a little thing called love."</i>
+<i>"To lead people walk behind them."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
