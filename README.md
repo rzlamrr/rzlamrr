@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, don't."</i>
+<i>"Unless you change how you are, you will always have what you got."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
