@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others."</i>
+<i>"Make it a rule of life never to regret and never to look back. Regret is an appalling waste of energy; you can't build on it; it's only for wallowing in."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Katherine Mansfield</b>
 </blockquote>
 </p>
 
