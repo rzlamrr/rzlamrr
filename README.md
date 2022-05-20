@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's better to dance than to march through life."</i>
+<i>"Everything that irritates us about others."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
