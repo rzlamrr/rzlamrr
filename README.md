@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Real learning comes about when the competitive spirit has ceased."</i>
+<i>"By accepting yourself and being fully what you are, your presence can make others happy."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Jane Roberts</b>
 </blockquote>
 </p>
 
