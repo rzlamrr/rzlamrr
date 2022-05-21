@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more. "</i>
+<i>"Nothing good ever comes of violence."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
