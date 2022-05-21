@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By accepting yourself and being fully what you are, your presence can make others happy."</i>
+<i>"The way to change others' minds is with affection, and not anger."</i>
 <br>
-<b>- Jane Roberts</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
