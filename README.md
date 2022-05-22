@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love the things we love for what they are."</i>
+<i>"Remember to look up at the stars and not down at your feet."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
