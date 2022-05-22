@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The path to success is to take massive, determined action."</i>
+<i>"Every day may not be good, but there's something good in every day."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
