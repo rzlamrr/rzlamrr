@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The moment you doubt whether you can fly, you cease for ever to be able to do it."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- James Matthew Barrie</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
