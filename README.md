@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends."</i>
+<i>"The free man is he who does not fear to go to the end of his thought."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Léon Blum</b>
 </blockquote>
 </p>
 
