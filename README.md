@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The free man is he who does not fear to go to the end of his thought."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better. "</i>
 <br>
-<b>- Léon Blum</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
