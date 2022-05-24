@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot have what you do not want."</i>
+<i>"The virtue of justice consists in moderation, as regulated by wisdom."</i>
 <br>
-<b>- John Acosta</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
