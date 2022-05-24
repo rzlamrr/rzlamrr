@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good, better, best. Never let it rest. ‘Til your good is better and your better is best."</i>
+<i>"Don´t hesitate or allow yourself to make excuses. Just get out and do it."</i>
 <br>
-<b>- Jerome</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
