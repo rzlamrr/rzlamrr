@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every drop in the ocean counts. "</i>
+<i>"You cannot have what you do not want."</i>
 <br>
-<b>- Yoko Ono</b>
+<b>- John Acosta</b>
 </blockquote>
 </p>
 
