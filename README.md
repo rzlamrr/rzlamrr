@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not look for approval except for the consciousness of doing your best."</i>
+<i>"Good, better, best. Never let it rest. ‘Til your good is better and your better is best."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Jerome</b>
 </blockquote>
 </p>
 
