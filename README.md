@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest minds are capable of the greatest vices as well as of the greatest virtues."</i>
+<i>"A ruffled mind makes a restless pillow."</i>
 <br>
-<b>- René Descartes</b>
+<b>- Charlotte Brontë</b>
 </blockquote>
 </p>
 
