@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing well said will be wit in all languages."</i>
+<i>"The greatest minds are capable of the greatest vices as well as of the greatest virtues."</i>
 <br>
-<b>- John Dryden</b>
+<b>- René Descartes</b>
 </blockquote>
 </p>
 
