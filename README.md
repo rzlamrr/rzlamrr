@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you open your heart to others, the more your heart suffers."</i>
+<i>"Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
