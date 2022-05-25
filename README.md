@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health."</i>
+<i>"A thing well said will be wit in all languages."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- John Dryden</b>
 </blockquote>
 </p>
 
