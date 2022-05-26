@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A ruffled mind makes a restless pillow."</i>
+<i>"Technology presumes there's just one right way to do things and there never is."</i>
 <br>
-<b>- Charlotte Brontë</b>
+<b>- Robert M. Pirsig</b>
 </blockquote>
 </p>
 
