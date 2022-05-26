@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The poor man is not he who is without a cent, but he who is without a dream."</i>
+<i>"We tend to live up to our expectations."</i>
 <br>
-<b>- Harry Kemp</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
