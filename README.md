@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
