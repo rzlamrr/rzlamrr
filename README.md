@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a progress, and not a station."</i>
+<i>"To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
