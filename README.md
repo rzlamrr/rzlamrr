@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way."</i>
+<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
