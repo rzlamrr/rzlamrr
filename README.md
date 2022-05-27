@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone thinks of changing the world, but no one thinks of changing himself."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
