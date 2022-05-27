@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do all things with love."</i>
+<i>"Work as though you would live forever, and live as though you would die today. Go another mile."</i>
 <br>
 <b>- Og Mandino</b>
 </blockquote>
