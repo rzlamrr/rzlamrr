@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The superior man acts before he speaks, and afterwards speaks according to his action."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Confucius</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
