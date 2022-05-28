@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy."</i>
+<i>"We should not judge people by their peak of excellence; but by the distance they have traveled from the point where they started."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
