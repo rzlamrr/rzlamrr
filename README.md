@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No experience is a cause of success or failure. We do not suffer from the shock of our experiences, so-called trauma - but we make out of them just what suits our purposes."</i>
+<i>"Build a better mousetrap and the world will beat a path to your door."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
