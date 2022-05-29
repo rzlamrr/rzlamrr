@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The truest wisdom is a resolute determination."</i>
+<i>"Be slow of tongue and quick of eye."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
