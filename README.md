@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be slow of tongue and quick of eye."</i>
+<i>"Argue for your limitations and sure enough, they're yours."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
