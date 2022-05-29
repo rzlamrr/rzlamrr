@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
+<i>"The truest wisdom is a resolute determination."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
