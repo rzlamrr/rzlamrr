@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"People think you're crazy if you talk about things they don't understand."</i>
 <br>
-<b>- Soren Kierkegaard</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
