@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing in every noble dream is the dreamer..."</i>
+<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
 <br>
-<b>- Moncure D. Conway</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
