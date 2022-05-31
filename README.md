@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are no failures. Just experiences and your reactions to them."</i>
+<i>"Friends... they cherish one another's hopes. They are kind to one another's dreams."</i>
 <br>
-<b>- Tom Krause</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
