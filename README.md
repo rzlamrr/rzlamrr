@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't be afraid to go slowly. Be afraid of stopping."</i>
+<i>"There are no failures. Just experiences and your reactions to them."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Tom Krause</b>
 </blockquote>
 </p>
 
