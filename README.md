@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends... they cherish one another's hopes. They are kind to one another's dreams."</i>
+<i>"Everything you can imagine is real."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
