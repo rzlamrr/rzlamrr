@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't talk about what you have done or what you are going to do."</i>
+<i>"It has never been my object to record my dreams, just to realize them."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Man Ray</b>
 </blockquote>
 </p>
 
