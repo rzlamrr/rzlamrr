@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great achievements require time."</i>
+<i>"All men have a sweetness in their life. That is what helps them go on. It is towards that they turn when they feel too worn out."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
