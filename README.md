@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It has never been my object to record my dreams, just to realize them."</i>
+<i>"Still your waters."</i>
 <br>
-<b>- Man Ray</b>
+<b>- Josh Waitzkin</b>
 </blockquote>
 </p>
 
