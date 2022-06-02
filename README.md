@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Still your waters."</i>
+<i>"Fear not for the future, weep not for the past."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Percy Bysshe Shelley</b>
 </blockquote>
 </p>
 
