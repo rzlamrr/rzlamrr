@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change, and change is Nature's delight."</i>
+<i>"Your vision will become clear only when you can look into your own heart."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
