@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your vision will become clear only when you can look into your own heart."</i>
+<i>"The salvation of the world lies in the human heart."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Vaclav Havel</b>
 </blockquote>
 </p>
 
