@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not for the future, weep not for the past."</i>
+<i>"Loss is nothing else but change, and change is Nature's delight."</i>
 <br>
-<b>- Percy Bysshe Shelley</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
