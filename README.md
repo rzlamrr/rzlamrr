@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The time is always right to do what is right."</i>
+<i>"If we did the things we are capable of, we would astound ourselves."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
