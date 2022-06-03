@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to be irreplaceable one must always be different."</i>
+<i>"The time is always right to do what is right."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
