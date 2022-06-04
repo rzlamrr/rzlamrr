@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason."</i>
+<i>"As we are liberated from our own fear, our presence automatically liberates others."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
