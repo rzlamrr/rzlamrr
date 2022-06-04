@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind will make you rich or poor, depending on the use you put to it."</i>
+<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
