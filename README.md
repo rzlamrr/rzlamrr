@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind."</i>
+<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
