@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Showing off is the fool's idea of glory. "</i>
+<i>"All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Immanuel Kant</b>
 </blockquote>
 </p>
 
