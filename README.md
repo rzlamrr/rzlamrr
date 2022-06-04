@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years."</i>
+<i>"Showing off is the fool's idea of glory. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
