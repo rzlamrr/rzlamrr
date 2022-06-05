@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself and you have done your part in changing the world."</i>
+<i>"He who lives in harmony with himself lives in harmony with the universe."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
