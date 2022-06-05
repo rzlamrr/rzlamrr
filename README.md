@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Confidence is the greatest friend."</i>
+<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
