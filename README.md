@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't try to be young. Just open your mind. Stay interested in stuff."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Betty White</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
