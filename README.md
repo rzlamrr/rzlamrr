@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is often safer to be in chains than to be free. "</i>
+<i>"Gratitude is not only the greatest of virtues, but the parent of all the others."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
