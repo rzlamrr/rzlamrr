@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who will play with cats must expect to be scratched."</i>
+<i>"The greatest way to live with honor in this world is to be what we pretend to be."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
