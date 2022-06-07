@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Between saying and doing, many a pair of shoes is worn out."</i>
+<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
 <br>
-<b>- Iris Murdoch</b>
+<b>- Harriet Woods</b>
 </blockquote>
 </p>
 
