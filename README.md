@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
+<i>"Love is the only force capable of transforming an enemy into a friend."</i>
 <br>
-<b>- Harriet Woods</b>
+<b>- Martin Luther King Jr.</b>
 </blockquote>
 </p>
 
