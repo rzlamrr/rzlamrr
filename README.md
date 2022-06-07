@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consider that not only do negative thoughts and emotions destroy our experience of peace, but they also undermine our health."</i>
+<i>"It is impossible to love and to be wise."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Francis Bacon</b>
 </blockquote>
 </p>
 
