@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."</i>
+<i>"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
