@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friends stab you in the front."</i>
+<i>"The highest stage in moral culture at which we can arrive is when we recognize that we ought to control our thoughts."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
