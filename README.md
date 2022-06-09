@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fame usually comes to those who are thinking about something else."</i>
+<i>"A journey of a thousand miles begins with a single step."</i>
 <br>
-<b>- Oliver Wendell Holmes Jr.</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
