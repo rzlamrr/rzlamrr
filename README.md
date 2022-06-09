@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kind words do not cost much. Yet they accomplish much."</i>
+<i>"Fame usually comes to those who are thinking about something else."</i>
 <br>
-<b>- Blaise Pascal</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
