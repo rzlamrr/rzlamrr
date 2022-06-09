@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A journey of a thousand miles begins with a single step."</i>
+<i>"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
