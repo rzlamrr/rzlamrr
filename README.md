@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
+<i>"Kind words do not cost much. Yet they accomplish much."</i>
 <br>
-<b>- Buddha</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
