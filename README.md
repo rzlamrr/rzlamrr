@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"Always seek out the seed of triumph in every adversity."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
