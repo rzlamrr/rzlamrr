@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always seek out the seed of triumph in every adversity."</i>
+<i>"Absurdity is the ecstasy of intellectualism."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
