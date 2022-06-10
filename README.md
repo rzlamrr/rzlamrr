@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour."</i>
+<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
 <br>
-<b>- Mary Kay Ash</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
