@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the end we retain from our studies only that which we practically apply."</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
