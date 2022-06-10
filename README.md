@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absurdity is the ecstasy of intellectualism."</i>
+<i>"In the end we retain from our studies only that which we practically apply."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
