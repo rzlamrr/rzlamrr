@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not how high you have climbed, but how you make a positive difference to the world."</i>
+<i>"Don't explain your philosophy. Embody it."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
