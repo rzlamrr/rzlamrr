@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has a finer command of language than the person who keeps his mouth shut."</i>
+<i>"Happiness does not come from having much, but from being attached to little."</i>
 <br>
-<b>- Sam Rayburn</b>
+<b>- Cheng Yen</b>
 </blockquote>
 </p>
 
