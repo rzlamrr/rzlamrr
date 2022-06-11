@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I love you the more in that I believe you had liked me for my own sake and for nothing else."</i>
+<i>"It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship."</i>
 <br>
-<b>- John Keats</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
