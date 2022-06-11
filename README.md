@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't explain your philosophy. Embody it."</i>
+<i>"No one has a finer command of language than the person who keeps his mouth shut."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Sam Rayburn</b>
 </blockquote>
 </p>
 
