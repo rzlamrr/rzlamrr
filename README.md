@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The hours of folly are measured by the clock; but of wisdom, no clock can measure."</i>
+<i>"Write your plans in pencil and give God the eraser."</i>
 <br>
-<b>- William Blake</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
