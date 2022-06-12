@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is what happens while you are making other plans."</i>
+<i>"The hours of folly are measured by the clock; but of wisdom, no clock can measure."</i>
 <br>
-<b>- John Lennon</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
