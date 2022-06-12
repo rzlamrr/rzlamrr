@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things."</i>
+<i>"Life is what happens while you are making other plans."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
