@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Write your plans in pencil and give God the eraser."</i>
+<i>"Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Joan Rivers</b>
 </blockquote>
 </p>
 
