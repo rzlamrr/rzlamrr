@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is one of the severest tests of friendship to tell your friend his faults. So to love a man that you cannot bear to see a stain upon him, and to speak painful truth through loving words, that is friendship."</i>
+<i>"The best way out is always through."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
