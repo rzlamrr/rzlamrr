@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even the finest sword plunged into salt water will eventually rust."</i>
+<i>"Much wisdom often goes with fewer words."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
