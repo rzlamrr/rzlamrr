@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have committed the Golden Rule to memory; let us now commit it to life."</i>
+<i>"Do all things with love."</i>
 <br>
-<b>- Edwin Markham</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
