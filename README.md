@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Much wisdom often goes with fewer words."</i>
+<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
