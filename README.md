@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves."</i>
+<i>"A man sees in the world what he carries in his heart."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
