@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ponder and deliberate before you make a move."</i>
+<i>"You have to make time, even for something as universal as staring at the stars."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- W.P. Kinsella</b>
 </blockquote>
 </p>
 
