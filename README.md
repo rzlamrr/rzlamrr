@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct."</i>
+<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
 <br>
-<b>- Elizabeth Kapu'uwailani Lindsey</b>
+<b>- Edith Wharton</b>
 </blockquote>
 </p>
 
