@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No one has a finer command of language than the person who keeps his mouth shut."</i>
+<i>"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."</i>
 <br>
-<b>- Sam Rayburn</b>
+<b>- Archimedes</b>
 </blockquote>
 </p>
 
