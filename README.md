@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life."</i>
+<i>"We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct."</i>
 <br>
-<b>- Hermann Hesse</b>
+<b>- Elizabeth Kapu'uwailani Lindsey</b>
 </blockquote>
 </p>
 
