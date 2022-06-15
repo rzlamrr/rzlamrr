@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me a lever long enough and a fulcrum on which to place it, and I shall move the world."</i>
+<i>"The world is a book, and those who do not travel read only a page."</i>
 <br>
-<b>- Archimedes</b>
+<b>- Augustine of Hippo</b>
 </blockquote>
 </p>
 
