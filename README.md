@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If only wed stop trying to be happy wed have a pretty good time."</i>
+<i>"Better late than never."</i>
 <br>
-<b>- Edith Wharton</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
