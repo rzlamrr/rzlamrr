@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Miracles come in moments. Be ready and willing."</i>
+<i>"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
