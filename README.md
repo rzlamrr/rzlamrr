@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."</i>
+<i>"The ego wants to go fast. The soul needs to go slow."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
