@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Autumn is a second spring when every leaf is a flower."</i>
+<i>"The free man is he who does not fear to go to the end of his thought."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- Léon Blum</b>
 </blockquote>
 </p>
 
