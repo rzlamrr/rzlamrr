@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most I can do for my friend is simply be his friend."</i>
+<i>"To forget the whole world is easy; to make the whole world forget you is hard."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Zhuangzi</b>
 </blockquote>
 </p>
 
