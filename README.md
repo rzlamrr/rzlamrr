@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ego wants to go fast. The soul needs to go slow."</i>
+<i>"Autumn is a second spring when every leaf is a flower."</i>
 <br>
-<b>- Maxime Lagace</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
