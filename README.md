@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The free man is he who does not fear to go to the end of his thought."</i>
+<i>"The most I can do for my friend is simply be his friend."</i>
 <br>
-<b>- Léon Blum</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
