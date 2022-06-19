@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing makes a man broad-minded like adversity."</i>
+<i>"In action a great heart is the chief qualification. In work, a great head."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Arthur Schopenhauer</b>
 </blockquote>
 </p>
 
