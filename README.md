@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sorrow is knowledge, those that know the most must mourn the deepest, the tree of knowledge is not the tree of life."</i>
+<i>"If you want to keep your memories, you first have to live them."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Bob Dylan</b>
 </blockquote>
 </p>
 
