@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to keep your memories, you first have to live them."</i>
+<i>"True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."</i>
 <br>
-<b>- Bob Dylan</b>
+<b>- William Penn</b>
 </blockquote>
 </p>
 
