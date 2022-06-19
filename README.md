@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born."</i>
+<i>"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Daisaku Ikeda</b>
 </blockquote>
 </p>
 
