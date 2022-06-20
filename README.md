@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing is at last sacred but the integrity of your own mind."</i>
+<i>"Don't bother people for help without first trying to solve the problem yourself."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
