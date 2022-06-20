@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Discovery consists of seeing what everybody has seen and thinking what nobody else has thought."</i>
+<i>"Cleverness is not wisdom."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
