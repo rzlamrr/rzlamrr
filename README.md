@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Euripides</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
