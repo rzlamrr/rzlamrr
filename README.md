@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
