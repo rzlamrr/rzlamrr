@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
