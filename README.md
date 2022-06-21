@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success and failure come and go, but don't let them define you. It's who you are that matters."</i>
+<i>"Let the beauty of what you love be what you do."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
