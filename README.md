@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let the beauty of what you love be what you do."</i>
+<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Rumi</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
