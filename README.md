@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To the world you may be one person; but to one person you may be the world."</i>
+<i>"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
