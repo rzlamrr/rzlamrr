@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A day wasted on others is not wasted on one's self."</i>
+<i>"All great men are gifted with intuition. They know without reasoning or analysis, what they need to know."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Alexis Carrel</b>
 </blockquote>
 </p>
 
