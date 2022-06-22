@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All great men are gifted with intuition. They know without reasoning or analysis, what they need to know."</i>
+<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
 <br>
-<b>- Alexis Carrel</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
