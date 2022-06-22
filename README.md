@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
+<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Herman Melville</b>
 </blockquote>
 </p>
 
