@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know not all that may be coming, but be it what it will, I'll go to it laughing."</i>
+<i>"Yesterday's home runs don't win today's games."</i>
 <br>
-<b>- Herman Melville</b>
+<b>- Babe Ruth</b>
 </blockquote>
 </p>
 
