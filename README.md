@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday's home runs don't win today's games."</i>
+<i>"We have more possibilities available in each moment than we realize."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
