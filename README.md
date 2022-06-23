@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have more possibilities available in each moment than we realize."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
