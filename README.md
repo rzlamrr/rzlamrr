@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
+<i>"Public opinion is the worst of all opinions."</i>
 <br>
-<b>- Charles Spurgeon</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
