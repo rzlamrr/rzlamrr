@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only people without problems are those in cemeteries."</i>
+<i>"Life is like a beautiful melody, only the lyrics are messed up."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
