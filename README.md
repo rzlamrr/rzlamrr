@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Cleverness is not wisdom."</i>
+<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
 <br>
-<b>- Euripides</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
