@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Error is discipline through which we advance."</i>
+<i>"I can't believe that God put us on this earth to be ordinary."</i>
 <br>
-<b>- William Ellery Channing</b>
+<b>- Lou Holtz</b>
 </blockquote>
 </p>
 
