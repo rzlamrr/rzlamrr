@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
+<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
