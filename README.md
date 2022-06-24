@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Public opinion is the worst of all opinions."</i>
+<i>"Error is discipline through which we advance."</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- William Ellery Channing</b>
 </blockquote>
 </p>
 
