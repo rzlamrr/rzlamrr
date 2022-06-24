@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
+<i>"Change yourself - you are in control."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Mahatma Gandhi</b>
 </blockquote>
 </p>
 
