@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can't believe that God put us on this earth to be ordinary."</i>
+<i>"The more you extend kindness to yourself, the more it will become your automatic response to others."</i>
 <br>
-<b>- Lou Holtz</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
