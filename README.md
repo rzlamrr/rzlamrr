@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself - you are in control."</i>
+<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
