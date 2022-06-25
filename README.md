@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Unknown</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
