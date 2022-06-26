@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
+<i>"Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Johann Kaspar Lavater</b>
 </blockquote>
 </p>
 
