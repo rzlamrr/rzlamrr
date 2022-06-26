@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship."</i>
+<i>"Whatever your mind can conceive and believe, it can achieve."</i>
 <br>
-<b>- Johann Kaspar Lavater</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
