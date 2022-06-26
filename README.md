@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"In any moment of decision, the best thing you can do is the right thing. The worst thing you can do is nothing."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
