@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What do we live for, if it is not to make life less difficult for each other?"</i>
+<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
 <br>
-<b>- George Eliot</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
