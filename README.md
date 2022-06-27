@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each problem has a positive side."</i>
+<i>"Give more than you think you can, trusting that you are richer than you think."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
