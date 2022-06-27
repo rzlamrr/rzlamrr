@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns."</i>
+<i>"The more light you allow within you, the brighter the world you live in will be."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Shakti Gawain</b>
 </blockquote>
 </p>
 
