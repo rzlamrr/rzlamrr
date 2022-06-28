@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep an open mind and a compassionate heart."</i>
+<i>"You can often change your circumstances by changing your attitude."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
