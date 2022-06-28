@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can often change your circumstances by changing your attitude."</i>
+<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
