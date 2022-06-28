@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
+<i>"Loss is nothing else but change, and change is Nature's delight."</i>
 <br>
-<b>- Agatha Christie</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
