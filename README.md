@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more light you allow within you, the brighter the world you live in will be."</i>
+<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
 <br>
-<b>- Shakti Gawain</b>
+<b>- Agatha Christie</b>
 </blockquote>
 </p>
 
