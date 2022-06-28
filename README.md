@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Loss is nothing else but change, and change is Nature's delight."</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
