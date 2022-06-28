@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You only live once, but if you do it right, once is enough."</i>
+<i>"Always keep an open mind and a compassionate heart."</i>
 <br>
-<b>- Mae West</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
