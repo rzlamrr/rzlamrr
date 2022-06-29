@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."</i>
+<i>"Fear not for the future, weep not for the past."</i>
 <br>
-<b>- Harriet Tubman</b>
+<b>- Percy Bysshe Shelley</b>
 </blockquote>
 </p>
 
