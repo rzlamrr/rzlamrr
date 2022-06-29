@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a progress, and not a station."</i>
+<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Martha Washington</b>
 </blockquote>
 </p>
 
