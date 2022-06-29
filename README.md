@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't need to be better than anyone else, you just need to be better than you used to be."</i>
+<i>"If you put water into a cup, it becomes the cup."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
