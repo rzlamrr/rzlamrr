@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you put water into a cup, it becomes the cup."</i>
+<i>"Step with care and great tact and remember that Life's a Great Balancing Act."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
