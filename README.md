@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear not for the future, weep not for the past."</i>
+<i>"Life is a progress, and not a station."</i>
 <br>
-<b>- Percy Bysshe Shelley</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
