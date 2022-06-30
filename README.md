@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest part of our happiness depends on our dispositions, not our circumstances."</i>
+<i>"The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard."</i>
 <br>
-<b>- Martha Washington</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
