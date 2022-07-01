@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is a word that describes something that doesn't work yet."</i>
+<i>"You can easily judge the character of a man by how he treats those who can do nothing for him."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
