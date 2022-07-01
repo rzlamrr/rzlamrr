@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is but one dream flowing into another."</i>
+<i>"What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
