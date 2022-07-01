@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest deception men suffer is from their own opinions."</i>
+<i>"Technology is a word that describes something that doesn't work yet."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Douglas Adams</b>
 </blockquote>
 </p>
 
