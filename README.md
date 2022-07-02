@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people thrive on huge, dramatic change. Some people prefer the slow and steady route. Do what's right for you."</i>
+<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
 <br>
-<b>- Julie Morgenstern</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
