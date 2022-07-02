@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't going all the way, why go at all?"</i>
+<i>"Change is inevitable but personal growth is a choice."</i>
 <br>
-<b>- Joe Namath</b>
+<b>- Bob Proctor</b>
 </blockquote>
 </p>
 
