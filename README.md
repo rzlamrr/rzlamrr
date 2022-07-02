@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is inevitable but personal growth is a choice."</i>
+<i>"Happiness is found in doing, not merely possessing."</i>
 <br>
-<b>- Bob Proctor</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
