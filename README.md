@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who you are is always right."</i>
+<i>"To get the full value of joy you must have someone to divide it with."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
