@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get the full value of joy you must have someone to divide it with."</i>
+<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
