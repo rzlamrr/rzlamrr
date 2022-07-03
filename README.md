@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I find hope in the darkest of days, and focus in the brightest. I do not judge the universe."</i>
+<i>"I'd rather regret the things that I have done than the things that I have not done."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
