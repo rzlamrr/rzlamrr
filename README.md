@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather regret the things that I have done than the things that I have not done."</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
 <br>
-<b>- Lucille Ball</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
