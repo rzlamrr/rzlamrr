@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people achieved their greatest success one step beyond what looked like their greatest failure."</i>
+<i>"Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
