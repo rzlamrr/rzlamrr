@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just living is not enough... one must have sunshine, freedom, and a little flower. "</i>
+<i>"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love."</i>
 <br>
-<b>- Hans Christian Andersen</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
