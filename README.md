@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love life, not because we are used to living but because we are used to loving."</i>
+<i>"If the plan doesn't work, change the plan, but never the goal."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
