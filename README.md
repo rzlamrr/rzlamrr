@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your life does not get better by chance, it gets better by change."</i>
+<i>"Waste no more time arguing about what a good man should be. Be one."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
