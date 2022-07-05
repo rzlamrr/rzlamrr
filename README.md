@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is not a talent of some men but is the health of every man."</i>
+<i>"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
