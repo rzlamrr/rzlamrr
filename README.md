@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste no more time arguing about what a good man should be. Be one."</i>
+<i>"Love is the wisdom of the fool and the folly of the wise."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
