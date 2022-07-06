@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
+<i>"Go to your bosom: Knock there and ask your heart what it doth know."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
