@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
