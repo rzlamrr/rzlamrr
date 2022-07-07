@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who fails to plan, plans to fail."</i>
+<i>"I cannot make my days longer so I strive to make them better."</i>
 <br>
-<b>- Unknown</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
