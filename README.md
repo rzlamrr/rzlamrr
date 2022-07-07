@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Action is the foundational key to all success."</i>
+<i>"Learn from the rejection and turn it into an opportunity!"</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
