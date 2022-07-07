@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn from the rejection and turn it into an opportunity!"</i>
+<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
