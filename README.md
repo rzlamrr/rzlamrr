@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I cannot make my days longer so I strive to make them better."</i>
+<i>"Treat people as if they were what they ought to be, and you help them to become what they are capable of being."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
