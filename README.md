@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man was ever wise by chance."</i>
+<i>"The most complicated achievements of thought are possible without the assistance of consciousness."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
