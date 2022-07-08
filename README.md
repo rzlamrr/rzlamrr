@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give whatever you are doing and whoever you are with the gift of your attention."</i>
+<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Grace Coddington</b>
 </blockquote>
 </p>
 
