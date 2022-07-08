@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most complicated achievements of thought are possible without the assistance of consciousness."</i>
+<i>"Give whatever you are doing and whoever you are with the gift of your attention."</i>
 <br>
-<b>- Sigmund Freud</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
