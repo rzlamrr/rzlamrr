@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."</i>
+<i>"Knowing others is wisdom, knowing yourself is Enlightenment."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
