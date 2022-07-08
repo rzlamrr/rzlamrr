@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
+<i>"Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning."</i>
 <br>
-<b>- Grace Coddington</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
