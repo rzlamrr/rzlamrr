@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is nothing happens to any person but what was in his power to go through with."</i>
+<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
