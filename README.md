@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
+<i>"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths."</i>
 <br>
-<b>- Buddha</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
