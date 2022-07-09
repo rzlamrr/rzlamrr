@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When in doubt, don't."</i>
+<i>"There is nothing happens to any person but what was in his power to go through with."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
