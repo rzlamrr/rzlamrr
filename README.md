@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is useless to meet revenge with revenge; it will heal nothing."</i>
+<i>"It is one of the blessings of old friends that you can afford to be stupid with them."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
