@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want you to be everything that's you, deep at the center of your being."</i>
+<i>"If there is no struggle, there is no progress."</i>
 <br>
-<b>- Confucius</b>
+<b>- Frederick Douglass</b>
 </blockquote>
 </p>
 
