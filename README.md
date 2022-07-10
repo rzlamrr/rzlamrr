@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough; we must apply!"</i>
+<i>"There are no limitations to the mind except those we acknowledge."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
