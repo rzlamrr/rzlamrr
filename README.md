@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If there is no struggle, there is no progress."</i>
+<i>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</i>
 <br>
-<b>- Frederick Douglass</b>
+<b>- Marian Wright Edelman</b>
 </blockquote>
 </p>
 
