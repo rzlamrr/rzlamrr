@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
+<i>"Knowledge without justice ought to be called cunning rather than wisdom."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Plato</b>
 </blockquote>
 </p>
 
