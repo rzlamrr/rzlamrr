@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge without justice ought to be called cunning rather than wisdom."</i>
+<i>"Knowing is not enough, we must apply. Willing is not enough, we must do.  "</i>
 <br>
-<b>- Plato</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
