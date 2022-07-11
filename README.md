@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're not obligated to win. You're obligated to keep trying to do the best you can every day."</i>
+<i>"You've got to go out on a limb sometimes because that's where the fruit is."</i>
 <br>
-<b>- Marian Wright Edelman</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
