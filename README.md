@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When times are bad is when the real entrepreneurs emerge."</i>
+<i>"I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
