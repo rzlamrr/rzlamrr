@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
