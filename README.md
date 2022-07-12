@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is not fatal, but failure to change might be."</i>
+<i>"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task."</i>
 <br>
-<b>- John Wooden</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
