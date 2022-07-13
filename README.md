@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None knows the weight of another's burden."</i>
+<i>"If you can't explain it simply, you don't understand it well enough."</i>
 <br>
-<b>- George Herbert</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
