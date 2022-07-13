@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't explain it simply, you don't understand it well enough."</i>
+<i>"Life is love and love is life."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
