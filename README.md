@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"Living life in style also means living a life of balance."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
