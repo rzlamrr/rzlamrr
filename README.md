@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is love and love is life."</i>
+<i>"Time changes everything except something within us which is always surprised by change."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Thomas Hardy</b>
 </blockquote>
 </p>
 
