@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
