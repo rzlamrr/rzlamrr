@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never feel shame for trying and failing, for he who has never failed is he who has never tried."</i>
+<i>"Love is a friendship set to music."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
