@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is a friendship set to music."</i>
+<i>"Believe you can and you're halfway there."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
