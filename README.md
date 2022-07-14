@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
+<i>"Attitude, not aptitude, determines altitude.  "</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
