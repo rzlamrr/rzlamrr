@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you're halfway there."</i>
+<i>"You are not the drop in the ocean, but the ocean in the drop."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
