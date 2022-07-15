@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
+<i>"The greatest value of a picture is when it forces us to notice what we never expected to see."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- John Tukey</b>
 </blockquote>
 </p>
 
