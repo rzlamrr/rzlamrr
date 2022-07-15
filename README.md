@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always bear in mind that your own resolution to succeed is more important than any other."</i>
+<i>"You change the world by being yourself."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
