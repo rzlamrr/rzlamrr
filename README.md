@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No garden is without its weeds."</i>
+<i>"Not all those who wander are lost."</i>
 <br>
-<b>- Thomas Fuller</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
