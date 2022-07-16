@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"Keep your face always toward the sunshine - and shadows will fall behind you."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
