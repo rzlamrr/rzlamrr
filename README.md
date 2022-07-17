@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i>
+<i>"We've got to live, no matter how many skies have fallen."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
