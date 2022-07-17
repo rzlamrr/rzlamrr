@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Well done is better than well said."</i>
+<i>"Freedom is the right to live as we wish."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
