@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled."</i>
+<i>"The final proof of greatness lies in being able to endure criticism without resentment."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
