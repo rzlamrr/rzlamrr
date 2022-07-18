@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When I dare to be powerful, to use my strength in the service of my vision, then it becomes less and less important whether I am afraid."</i>
+<i>"Forgive yourself for your faults and your mistakes and move on."</i>
 <br>
-<b>- Audre Lorde</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
