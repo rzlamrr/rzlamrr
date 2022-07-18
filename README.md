@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final proof of greatness lies in being able to endure criticism without resentment."</i>
+<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Volker Grassmuck</b>
 </blockquote>
 </p>
 
