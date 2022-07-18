@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The philosophy of the school room in one generation will be the philosophy of government in the next."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
