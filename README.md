@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ultimate promise of technology is to make us master of a world that we command by the push of a button."</i>
+<i>"The philosophy of the school room in one generation will be the philosophy of government in the next."</i>
 <br>
-<b>- Volker Grassmuck</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
