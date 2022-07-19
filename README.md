@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We cannot be more sensitive to pleasure without being more sensitive to pain."</i>
+<i>"Change is never easy, but always possible."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
