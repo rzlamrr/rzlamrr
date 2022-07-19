@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Show up even when you don't want to show up."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
