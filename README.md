@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change is never easy, but always possible."</i>
+<i>"An intelligence test sometimes shows a man how smart he would have been not to have taken it."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Laurence J. Peter</b>
 </blockquote>
 </p>
 
