@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forgive yourself for your faults and your mistakes and move on."</i>
+<i>"We cannot be more sensitive to pleasure without being more sensitive to pain."</i>
 <br>
-<b>- Les Brown</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
