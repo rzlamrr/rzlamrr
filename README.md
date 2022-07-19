@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Relax. Nothing is under control."</i>
+<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
 <br>
-<b>- Adi Da Samraj</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
