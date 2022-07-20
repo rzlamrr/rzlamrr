@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
+<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
