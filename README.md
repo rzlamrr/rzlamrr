@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not a problem to be solved, but a reality to be experienced."</i>
+<i>"So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself."</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
