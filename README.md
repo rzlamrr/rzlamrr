@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"Confidence is consistency of thinking about what is possible and how to make it possible."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
