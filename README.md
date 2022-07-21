@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself."</i>
+<i>"Today I begin a new life. I will greet this day with love in my heart."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
