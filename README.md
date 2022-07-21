@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be true to yourself, help others, make each day your masterpiece, make friendship a fine art, drink deeply from good books - especially the Bible, build a shelter against a rainy day, give thanks for your blessings and pray for guidance every day."</i>
+<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
