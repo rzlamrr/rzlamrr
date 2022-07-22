@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"Anger begins with folly, and ends with repentance. "</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
