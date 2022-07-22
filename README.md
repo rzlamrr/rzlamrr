@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your mind is infinite, it's your doubts that are limiting."</i>
+<i>"The future is completely open, and we are writing it moment to moment."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Pema Chödrön</b>
 </blockquote>
 </p>
 
