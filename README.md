@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you take responsibility for your past and present, the more you are able to create the future you seek."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
