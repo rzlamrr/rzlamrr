@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man desires to live long, but no man wishes to be old."</i>
+<i>"Reality does not conform to the ideal but confirms it."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
