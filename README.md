@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world turns aside to let any man pass who knows where he is going."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
