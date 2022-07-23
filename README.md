@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is everything. It is the preview of life's coming attractions."</i>
+<i>"Why fit in when you were born to stand out?"</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
