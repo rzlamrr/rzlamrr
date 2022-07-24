@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness mainly comes from our own attitude, rather than from external factors."</i>
+<i>"Better to light a candle than to curse the darkness. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
