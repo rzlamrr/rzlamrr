@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is sometimes the best answer"</i>
+<i>"The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
