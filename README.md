@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fewer rules a coach has, the fewer rules there are for players to break."</i>
+<i>"It is with words as with sunbeams. The more they are condensed, the deeper they burn."</i>
 <br>
-<b>- John Madden</b>
+<b>- Robert Southey</b>
 </blockquote>
 </p>
 
