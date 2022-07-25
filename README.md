@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is truth that liberates, not your effort to be free."</i>
+<i>"Silence is sometimes the best answer"</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
