@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome."</i>
+<i>"The fewer rules a coach has, the fewer rules there are for players to break."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- John Madden</b>
 </blockquote>
 </p>
 
