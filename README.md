@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing others is wisdom, knowing yourself is enlightenment."</i>
+<i>"If light is in your heart, you will find your way home.  "</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
