@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If light is in your heart, you will find your way home.  "</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Rumi</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
