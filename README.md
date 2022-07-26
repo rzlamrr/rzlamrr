@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The strong bond of friendship is not always a balanced equation; friendship is not always about giving and taking in equal shares. Instead, friendship is grounded in a feeling that you know exactly who will be there for you when you need something, no matter what or when."</i>
+<i>"It is not fair to ask of others what you are not willing to do yourself."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
