@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy."</i>
+<i>"The function of wisdom is to discriminate between good and evil."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Cicero</b>
 </blockquote>
 </p>
 
