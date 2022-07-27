@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed."</i>
+<i>"Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy."</i>
 <br>
-<b>- William Faulkner</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
