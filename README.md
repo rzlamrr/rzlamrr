@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The function of wisdom is to discriminate between good and evil."</i>
+<i>"For everything that lives is holy, life delights in life."</i>
 <br>
-<b>- Cicero</b>
+<b>- William Blake</b>
 </blockquote>
 </p>
 
