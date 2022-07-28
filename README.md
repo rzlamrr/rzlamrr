@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate."</i>
+<i>"Mastering others is strength, mastering yourself is true power."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
