@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The journey, not the destination matters."</i>
+<i>"Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
