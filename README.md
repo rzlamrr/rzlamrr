@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For everything that lives is holy, life delights in life."</i>
+<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
 <br>
-<b>- William Blake</b>
+<b>- Robert Collier</b>
 </blockquote>
 </p>
 
