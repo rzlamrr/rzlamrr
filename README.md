@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted."</i>
+<i>"The exercise of an extraordinary gift is the supremist pleasure in life."</i>
 <br>
-<b>- Robert Collier</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
