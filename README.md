@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"History will be kind to me for I intend to write it."</i>
+<i>"Life is ten percent what you experience and ninety percent how you respond to it."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
