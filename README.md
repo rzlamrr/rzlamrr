@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your success and happiness lie in you."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
