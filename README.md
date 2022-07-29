@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"History will be kind to me for I intend to write it."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
