@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"The impossible can always be broken down into possibilities."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
