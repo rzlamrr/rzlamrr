@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wisdom of the wise, and the experience of ages, may be preserved by quotation."</i>
+<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
 <br>
-<b>- Isaac D'Israeli</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
