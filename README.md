@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The impossible can always be broken down into possibilities."</i>
+<i>"To hell with circumstances, I create opportunities."</i>
 <br>
-<b>- Unknown</b>
+<b>- Bruce Lee</b>
 </blockquote>
 </p>
 
