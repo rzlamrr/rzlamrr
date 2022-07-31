@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who dream by day are cognizant of many things which escape those who dream only by night."</i>
+<i>"We aim above the mark to hit the mark."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
