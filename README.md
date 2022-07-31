@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit."</i>
+<i>"Everything you've ever wanted is on the other side of fear."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- George Addair</b>
 </blockquote>
 </p>
 
