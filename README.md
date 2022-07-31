@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We aim above the mark to hit the mark."</i>
+<i>"A good character is the best tombstone. Carve your name on hearts, not on marble."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Charles Spurgeon</b>
 </blockquote>
 </p>
 
