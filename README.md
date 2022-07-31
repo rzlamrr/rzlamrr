@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You are that vast thing that you see far, far off with great telescopes."</i>
+<i>"No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
