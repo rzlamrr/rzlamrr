@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Nelson Mandela</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
