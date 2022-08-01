@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To lead people walk behind them."</i>
+<i>"And as we let our own light shine, we unconsciously give other people permission to do the same."</i>
 <br>
-<b>- Laozi</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
