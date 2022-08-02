@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them."</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Sophocles</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
