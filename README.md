@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prefer to be defeated in the presence of the wise than to excel among fools."</i>
+<i>"Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them."</i>
 <br>
-<b>- Dogen</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
