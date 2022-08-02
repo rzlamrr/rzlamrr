@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
