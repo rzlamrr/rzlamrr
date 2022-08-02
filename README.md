@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
