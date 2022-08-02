@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
