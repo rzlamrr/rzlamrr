@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind."</i>
+<i>"I have not failed. I've just found 10,000 ways that won't work."</i>
 <br>
-<b>- Buddha</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
