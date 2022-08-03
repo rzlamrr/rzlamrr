@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to light a candle than to curse the darkness. "</i>
+<i>"Love is composed of a single soul inhabiting two bodies."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
