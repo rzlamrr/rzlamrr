@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
+<i>"Time stays long enough for anyone who will use it."</i>
 <br>
-<b>- Unknown</b>
+<b>- Leonardo da Vinci</b>
 </blockquote>
 </p>
 
