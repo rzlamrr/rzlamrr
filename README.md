@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time stays long enough for anyone who will use it."</i>
+<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
 <br>
-<b>- Leonardo da Vinci</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
