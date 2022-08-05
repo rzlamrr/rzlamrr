@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
+<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
 <br>
-<b>- Thích Nhất Hạnh</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
