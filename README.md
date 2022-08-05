@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."</i>
+<i>"Make it your habit not to be critical about small things."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Edward Everett Hale</b>
 </blockquote>
 </p>
 
