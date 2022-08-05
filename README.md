@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
+<i>"May our hearts garden of awakening bloom with hundreds of flowers."</i>
 <br>
-<b>- Thomas Paine</b>
+<b>- Thích Nhất Hạnh</b>
 </blockquote>
 </p>
 
