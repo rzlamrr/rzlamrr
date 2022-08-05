@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make it your habit not to be critical about small things."</i>
+<i>"There is no great genius without some touch of madness."</i>
 <br>
-<b>- Edward Everett Hale</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
