@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we could see the miracle of a single flower clearly, our whole life would change."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Buddha</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
