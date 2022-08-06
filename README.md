@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only real failure in life is not to be true to the best one knows."</i>
+<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
 <br>
-<b>- Buddha</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
