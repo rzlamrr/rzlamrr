@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give me six hours to chop down a tree and I will spend the first four sharpening the axe."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
