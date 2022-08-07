@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The scariest moment is always just before you start. After that, things can only get better."</i>
+<i>"You can stand tall without standing on someone. You can be a victor without having victims."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Harriet Woods</b>
 </blockquote>
 </p>
 
