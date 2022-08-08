@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It seemed the world was divided into good and bad people. The good ones slept better... while the bad ones seemed to enjoy the waking hours much more."</i>
+<i>"Most people fail in life because they major in minor things."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
