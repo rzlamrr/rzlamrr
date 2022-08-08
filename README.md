@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes things become possible if we want them bad enough."</i>
+<i>"Do the difficult things while they are easy and do the great things while they are small."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
