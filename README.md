@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking will let you do everything better than negative thinking will."</i>
+<i>"Make it your habit not to be critical about small things."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Edward Everett Hale</b>
 </blockquote>
 </p>
 
