@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people fail in life because they major in minor things."</i>
+<i>"Positive thinking will let you do everything better than negative thinking will."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
