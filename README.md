@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."</i>
+<i>"Happiness comes when your work and words are of benefit to yourself and others."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
