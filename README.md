@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Do good by stealth, and blush to find it fame."</i>
+<i>"Love is the flower you've got to let grow."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
