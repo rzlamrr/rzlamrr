@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness comes when your work and words are of benefit to yourself and others."</i>
+<i>"Give a girl the right shoes, and she can conquer the world."</i>
 <br>
-<b>- Buddha</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
