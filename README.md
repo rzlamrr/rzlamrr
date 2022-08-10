@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By failing to prepare, you are preparing to fail."</i>
+<i>"Most people are about as happy as they make up their minds to be"</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
