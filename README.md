@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
+<i>"If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- John Steinbeck</b>
 </blockquote>
 </p>
 
