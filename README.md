@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people are about as happy as they make up their minds to be"</i>
+<i>"You can live a whole life time never being awake."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
