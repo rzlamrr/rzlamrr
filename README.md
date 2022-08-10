@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be sure you put your feet in the right place, then stand firm."</i>
+<i>"Today will never happen again. Don't waste it with a false start or no start at all."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
