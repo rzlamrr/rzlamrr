@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
+<i>"Change yourself and you have done your part in changing the world."</i>
 <br>
-<b>- Meister Eckhart</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
