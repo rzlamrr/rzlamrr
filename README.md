@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to succeed, we must first believe that we can."</i>
+<i>"Remember, today is the tomorrow you worried about yesterday."</i>
 <br>
-<b>- Nikos Kazantzakis</b>
+<b>- Dale Carnegie</b>
 </blockquote>
 </p>
 
