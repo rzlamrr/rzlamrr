@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to prove that you're a good sport is to lose."</i>
+<i>"There exists only the present instant; a Now which always and without end is itself new."</i>
 <br>
-<b>- Ernie Banks</b>
+<b>- Meister Eckhart</b>
 </blockquote>
 </p>
 
