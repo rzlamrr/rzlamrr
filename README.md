@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change yourself and you have done your part in changing the world."</i>
+<i>"In order to succeed, we must first believe that we can."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Nikos Kazantzakis</b>
 </blockquote>
 </p>
 
