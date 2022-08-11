@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"The few who do are the envy of the many who only watch."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
