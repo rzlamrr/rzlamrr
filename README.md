@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"We can't help everyone, but everyone can help someone."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
