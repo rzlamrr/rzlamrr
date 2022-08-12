@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it."</i>
+<i>"If they wrote it to make money, don't read it."</i>
 <br>
-<b>- Thomas Carlyle</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
