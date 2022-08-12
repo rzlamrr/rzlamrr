@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to immortality is first living a life worth remembering. "</i>
+<i>"All happiness depends on courage and work."</i>
 <br>
-<b>- Bruce Lee</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
