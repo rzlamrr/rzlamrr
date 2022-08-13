@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are the siblings God never gave us."</i>
+<i>"There is no significance in life without struggle."</i>
 <br>
-<b>- Mencius</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
