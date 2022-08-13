@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winners never quit and quitters never win."</i>
+<i>"Music is a higher revelation than all wisdom and philosophy."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Ludwig van Beethoven</b>
 </blockquote>
 </p>
 
