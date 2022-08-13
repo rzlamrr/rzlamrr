@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is a source of great strength."</i>
+<i>"Friends are the siblings God never gave us."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
