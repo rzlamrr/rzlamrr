@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh."</i>
+<i>"In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
