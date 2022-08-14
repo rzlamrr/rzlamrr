@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is a higher revelation than all wisdom and philosophy."</i>
+<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
 <br>
-<b>- Ludwig van Beethoven</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
