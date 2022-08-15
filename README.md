@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
+<i>"Insanity is relative. It depends on who has who locked in what cage.  "</i>
 <br>
-<b>- Walter Benjamin</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
