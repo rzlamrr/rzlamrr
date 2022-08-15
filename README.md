@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed."</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Thomas Haynes Bayly</b>
 </blockquote>
 </p>
 
