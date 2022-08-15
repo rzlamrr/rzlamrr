@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Absence makes the heart grow fonder."</i>
+<i>"Every experience is a lesson. Every loss is a gain."</i>
 <br>
-<b>- Thomas Haynes Bayly</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
