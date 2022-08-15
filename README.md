@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to see things just as they are, then you yourself must practice just as you are."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Dogen</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
