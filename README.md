@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"The art of storytelling is reaching its end because the epic side of truth, wisdom, is dying out."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Walter Benjamin</b>
 </blockquote>
 </p>
 
