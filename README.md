@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"By seeking and blundering we learn."</i>
+<i>"There is no path to Happiness. Happiness is the path."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
