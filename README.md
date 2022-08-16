@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"Honesty is the first chapter in the book of wisdom."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
