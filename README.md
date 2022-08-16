@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honesty is the first chapter in the book of wisdom."</i>
+<i>"Changing minds is harder than finding people who already agree."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
