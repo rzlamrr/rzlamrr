@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek is to suffer. To seek nothing is bliss."</i>
+<i>"I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever."</i>
 <br>
-<b>- Bodhidharma</b>
+<b>- Amy Tan</b>
 </blockquote>
 </p>
 
