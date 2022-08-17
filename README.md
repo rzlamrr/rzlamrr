@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Who wishes to fight must first count the cost."</i>
+<i>"Always remember that you are absolutely unique. Just like everyone else. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
