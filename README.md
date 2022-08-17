@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Changing minds is harder than finding people who already agree."</i>
+<i>"When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
