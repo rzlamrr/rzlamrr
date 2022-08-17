@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever."</i>
+<i>"Who wishes to fight must first count the cost."</i>
 <br>
-<b>- Amy Tan</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
