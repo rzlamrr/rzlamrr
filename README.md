@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
+<i>"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
