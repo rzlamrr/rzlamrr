@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom comes alone through suffering."</i>
+<i>"Every limit is a beginning as well as an ending."</i>
 <br>
-<b>- Aeschylus</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
