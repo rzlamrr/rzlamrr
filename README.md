@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
+<i>"You can't put a limit on anything. The more you dream, the farther you get."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Michael Phelps</b>
 </blockquote>
 </p>
 
