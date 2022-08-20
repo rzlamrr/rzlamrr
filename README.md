@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can't put a limit on anything. The more you dream, the farther you get."</i>
+<i>"Life is what happens while you are making other plans."</i>
 <br>
-<b>- Michael Phelps</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
