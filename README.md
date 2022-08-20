@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ask yourself the secret of your success. Listen to your answer and practice it."</i>
+<i>"The cause is hidden. The effect is visible to all."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
