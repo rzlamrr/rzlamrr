@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The cause is hidden. The effect is visible to all."</i>
+<i>"He who laughs at himself never runs out of things to laugh at."</i>
 <br>
-<b>- Ovid</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
