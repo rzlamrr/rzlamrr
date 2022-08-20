@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have done my best: that is about all the philosophy of living one needs."</i>
+<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
