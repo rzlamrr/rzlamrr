@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Argue for your limitations and sure enough, they're yours."</i>
+<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Theodore Isaac Rubin</b>
 </blockquote>
 </p>
 
