@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom."</i>
+<i>"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us."</i>
 <br>
-<b>- Theodore Isaac Rubin</b>
+<b>- Marcel Proust</b>
 </blockquote>
 </p>
 
