@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win."</i>
+<i>"True friendship ought never to conceal what it thinks. "</i>
 <br>
-<b>- Stephen King</b>
+<b>- St. Jerome</b>
 </blockquote>
 </p>
 
