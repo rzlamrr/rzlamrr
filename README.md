@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship ought never to conceal what it thinks. "</i>
+<i>"Only when we are no longer afraid do we begin to live."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Dorothy Thompson</b>
 </blockquote>
 </p>
 
