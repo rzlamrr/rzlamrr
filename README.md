@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly."</i>
+<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
