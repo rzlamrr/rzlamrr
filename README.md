@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Very little is needed to make a happy life; it is all within yourself, in your way of thinking."</i>
+<i>"It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
