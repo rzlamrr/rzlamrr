@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Act as if what you do makes a difference. It does."</i>
+<i>"Two persons cannot long be friends if they cannot forgive each other's little failings."</i>
 <br>
-<b>- William James</b>
+<b>- Jean de La Bruyère</b>
 </blockquote>
 </p>
 
