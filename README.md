@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For changes to be of any true value, they've got to be lasting and consistent."</i>
+<i>"Act as if what you do makes a difference. It does."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
