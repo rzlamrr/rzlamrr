@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is no use saying, 'We are doing our best.' You have got to succeed in doing what is necessary."</i>
+<i>"Learn from the rejection and turn it into an opportunity!"</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
