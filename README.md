@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lost Time is never found again."</i>
+<i>"Start where you are. Use what you have. Do what you can."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Arthur Ashe</b>
 </blockquote>
 </p>
 
