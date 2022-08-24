@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low and achieving our mark."</i>
+<i>"Any sufficiently advanced technology is equivalent to magic."</i>
 <br>
-<b>- Michelangelo</b>
+<b>- Arthur C. Clarke</b>
 </blockquote>
 </p>
 
