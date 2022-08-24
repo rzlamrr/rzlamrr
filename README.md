@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In complete darkness we are all the same, it is only our knowledge and wisdom that separates us, don't let your eyes deceive you."</i>
+<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
 <br>
-<b>- Janet Jackson</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
