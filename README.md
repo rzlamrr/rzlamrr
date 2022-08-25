@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most I can do for my friend is simply be his friend."</i>
+<i>"All that we see or seem is but a dream within a dream."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
