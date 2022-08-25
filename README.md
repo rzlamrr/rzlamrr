@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All that we see or seem is but a dream within a dream."</i>
+<i>"Never interrupt your enemy when he is making a mistake."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Napoleon</b>
 </blockquote>
 </p>
 
