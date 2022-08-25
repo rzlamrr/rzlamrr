@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
