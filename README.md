@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"The most I can do for my friend is simply be his friend."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
