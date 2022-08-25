@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding."</i>
+<i>"What you do not want done to yourself, do not do to others."</i>
 <br>
-<b>- John D. Rockefeller</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
