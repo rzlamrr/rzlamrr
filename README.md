@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do not want done to yourself, do not do to others."</i>
+<i>"You must learn to let go. Release the stress. You were never in control anyway."</i>
 <br>
-<b>- Confucius</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
