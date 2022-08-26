@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can laugh, I can live."</i>
+<i>"If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much."</i>
 <br>
-<b>- Christopher Reeve</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
