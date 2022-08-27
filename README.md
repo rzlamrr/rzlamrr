@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Technology is a word that describes something that doesn't work yet."</i>
+<i>"Every great change is preceded by chaos."</i>
 <br>
-<b>- Douglas Adams</b>
+<b>- Deepak Chopra</b>
 </blockquote>
 </p>
 
