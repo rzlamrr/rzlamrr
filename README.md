@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
+<i>"People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
