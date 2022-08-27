@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are the siblings God never gave us."</i>
+<i>"Never apologize for showing feeling. When you do so, you apologize for truth."</i>
 <br>
-<b>- Mencius</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
