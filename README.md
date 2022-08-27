@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, something is out of tune."</i>
+<i>"Friends are the siblings God never gave us."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Mencius</b>
 </blockquote>
 </p>
 
