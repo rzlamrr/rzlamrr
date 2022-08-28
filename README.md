@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do what you've always done, you'll get what you've always gotten."</i>
+<i>"Nature does not hurry, yet everything is accomplished."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
