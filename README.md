@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
+<i>"It's supposed to be automatic, but actually you have to push this button."</i>
 <br>
-<b>- Osho</b>
+<b>- John Brunner</b>
 </blockquote>
 </p>
 
