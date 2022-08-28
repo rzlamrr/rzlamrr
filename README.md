@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you're sure you can win, be careful that you can live with what you lose."</i>
+<i>"Truth is not something outside to be discovered, it is something inside to be realized."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Osho</b>
 </blockquote>
 </p>
 
