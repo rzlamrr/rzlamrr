@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give out what you most want to come back."</i>
+<i>"Pleasure can be supported by an illusion; but happiness rests upon truth. "</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
