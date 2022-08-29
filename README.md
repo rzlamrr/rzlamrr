@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The teacher who is indeed wise does not bid you to enter the house of his wisdom but rather leads you to the threshold of your mind."</i>
+<i>"But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
