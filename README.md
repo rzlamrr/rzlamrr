@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't, you must. If you must, you can."</i>
+<i>"There is nothing happens to any person but what was in his power to go through with."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
