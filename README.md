@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be."</i>
+<i>"If you can't, you must. If you must, you can."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
