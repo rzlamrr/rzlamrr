@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only way to have a friend is to be one."</i>
+<i>"The more you are grateful for what you have the more you will have to be grateful for.  "</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
