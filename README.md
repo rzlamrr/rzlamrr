@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success in business requires training and discipline and hard work. But if you're not frightened by these things, the opportunities are just as great today as they ever were."</i>
+<i>"The only way to have a friend is to be one."</i>
 <br>
-<b>- David Rockefeller</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
