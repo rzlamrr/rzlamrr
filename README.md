@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The Truth is realized in an instant; the Act is practiced step by step."</i>
+<i>"All love that has not friendship for its base, is like a mansion built upon the sand."</i>
 <br>
-<b>- Seungsahn</b>
+<b>- Ella Wheeler Wilcox</b>
 </blockquote>
 </p>
 
