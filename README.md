@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you want to be honored by others, you learn to honor them first."</i>
+<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Ivy Baker Priest</b>
 </blockquote>
 </p>
 
