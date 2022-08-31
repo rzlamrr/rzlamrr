@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
+<i>"Surround yourself with only people who are going to lift you higher. "</i>
 <br>
-<b>- Charles Péguy</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
