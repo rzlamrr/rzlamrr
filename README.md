@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world is round and the place which may seem like the end may also be the beginning."</i>
+<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
 <br>
-<b>- Ivy Baker Priest</b>
+<b>- Charles Péguy</b>
 </blockquote>
 </p>
 
