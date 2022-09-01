@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Important principles may, and must, be inflexible."</i>
+<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Karl Menninger</b>
 </blockquote>
 </p>
 
