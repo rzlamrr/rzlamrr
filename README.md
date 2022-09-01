@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love cures people - both the ones who give it and the ones who receive it."</i>
+<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
 <br>
-<b>- Karl Menninger</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
