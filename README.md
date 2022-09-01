@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Waste not fresh tears over old griefs."</i>
+<i>"Important principles may, and must, be inflexible."</i>
 <br>
-<b>- Euripides</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
