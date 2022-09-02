@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no friendship, no love, like that of the parent for the child."</i>
+<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Steve Maraboli</b>
 </blockquote>
 </p>
 
