@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest step towards a life of simplicity is to learn to let go."</i>
+<i>"The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
