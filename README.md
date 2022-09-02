@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road."</i>
+<i>"The grass is greener where you water it."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Neil Barringham</b>
 </blockquote>
 </p>
 
