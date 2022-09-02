@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."</i>
+<i>"Commitment is an act, not a word."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Jean-Paul Sartre</b>
 </blockquote>
 </p>
 
