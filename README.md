@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Commitment is an act, not a word."</i>
+<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
 <br>
-<b>- Jean-Paul Sartre</b>
+<b>- Sam Ewing</b>
 </blockquote>
 </p>
 
