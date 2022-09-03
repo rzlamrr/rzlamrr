@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The doorstep to the temple of wisdom is a knowledge of our own ignorance."</i>
+<i>"We should not look back unless it is to derive useful lessons from past errors."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
