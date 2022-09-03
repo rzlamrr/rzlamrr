@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first rule of business; treat others like they want to treat you."</i>
+<i>"It's not what you look at that matters, it's what you see."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
