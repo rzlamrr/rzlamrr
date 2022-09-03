@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Computers are like bikinis. They save people a lot of guesswork."</i>
+<i>"The first rule of business; treat others like they want to treat you."</i>
 <br>
-<b>- Sam Ewing</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
