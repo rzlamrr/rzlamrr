@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is an option, fear is not."</i>
+<i>"The doorstep to the temple of wisdom is a knowledge of our own ignorance."</i>
 <br>
-<b>- James Cameron</b>
+<b>- Benjamin Franklin</b>
 </blockquote>
 </p>
 
