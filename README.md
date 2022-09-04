@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Remember, today is the tomorrow you worried about yesterday."</i>
+<i>"Formula for success: under promise and over deliver."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Tom Peters</b>
 </blockquote>
 </p>
 
