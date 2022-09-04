@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no self-discovery without pain and loss."</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Anita Krizzan</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
