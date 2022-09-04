@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Formula for success: under promise and over deliver."</i>
+<i>"There is no self-discovery without pain and loss."</i>
 <br>
-<b>- Tom Peters</b>
+<b>- Anita Krizzan</b>
 </blockquote>
 </p>
 
