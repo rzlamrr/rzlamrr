@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. "</i>
+<i>"When you love someone, you love the person as they are, and not as you'd like them to be."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
