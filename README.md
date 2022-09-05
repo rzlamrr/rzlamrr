@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"The more man meditates upon good thoughts, the better will be his world and the world at large."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
