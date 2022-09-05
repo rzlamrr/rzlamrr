@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments."</i>
+<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
