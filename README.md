@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
+<i>"If one is lucky, a solitary fantasy can totally transform one million realities."</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
