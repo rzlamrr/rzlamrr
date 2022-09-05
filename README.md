@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more man meditates upon good thoughts, the better will be his world and the world at large."</i>
+<i>"Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts."</i>
 <br>
-<b>- Confucius</b>
+<b>- Dan Gable</b>
 </blockquote>
 </p>
 
