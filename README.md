@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A zen master's life is one continuous mistake."</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Dogen</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
