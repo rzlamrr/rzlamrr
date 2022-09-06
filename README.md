@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be prepared is half the victory. "</i>
+<i>"Don't settle, and don't struggle."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
