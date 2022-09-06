@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts."</i>
+<i>"A zen master's life is one continuous mistake."</i>
 <br>
-<b>- Dan Gable</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
