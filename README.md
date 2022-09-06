@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"Nature does not hurry, yet everything is accomplished."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
