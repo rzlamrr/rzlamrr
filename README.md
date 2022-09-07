@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
+<i>"A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."</i>
 <br>
-<b>- F. Scott Fitzgerald</b>
+<b>- Fawn M. Brodie</b>
 </blockquote>
 </p>
 
