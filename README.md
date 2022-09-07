@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way you see people is the way you treat them, and the way you treat them is what they become."</i>
+<i>"If a man does his best, what else is there?"</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- George S. Patton</b>
 </blockquote>
 </p>
 
