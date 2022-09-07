@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nature does not hurry, yet everything is accomplished."</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- F. Scott Fitzgerald</b>
 </blockquote>
 </p>
 
