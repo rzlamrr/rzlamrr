@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A passion for politics stems usually from an insatiable need, either for power, or for friendship and adulation, or a combination of both."</i>
+<i>"The way you see people is the way you treat them, and the way you treat them is what they become."</i>
 <br>
-<b>- Fawn M. Brodie</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
