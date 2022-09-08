@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing is not enough; we must apply. Willing is not enough; we must do."</i>
+<i>"Nothing happens unless first we dream."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Carl Sandburg</b>
 </blockquote>
 </p>
 
