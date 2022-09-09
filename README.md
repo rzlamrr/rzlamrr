@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
+<i>"Life needs to be more than just solving problems every day. You need to wake up and be excited about the future."</i>
 <br>
-<b>- Beverly Sills</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
