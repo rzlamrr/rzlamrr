@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try."</i>
 <br>
-<b>- Helen Keller</b>
+<b>- Beverly Sills</b>
 </blockquote>
 </p>
 
