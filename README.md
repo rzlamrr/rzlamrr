@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is failure."</i>
+<i>"In order to succeed, we must first believe that we can."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Nikos Kazantzakis</b>
 </blockquote>
 </p>
 
