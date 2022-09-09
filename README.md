@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In order to succeed, we must first believe that we can."</i>
+<i>"The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart."</i>
 <br>
-<b>- Nikos Kazantzakis</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
