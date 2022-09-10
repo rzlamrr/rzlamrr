@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Catch, then, O catch the transient hour; Improve each moment as it flies! "</i>
+<i>"Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity."</i>
 <br>
-<b>- St. Jerome</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
