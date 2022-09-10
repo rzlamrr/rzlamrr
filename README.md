@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
+<i>"There is nothing so useless as doing efficiently that which should not be done at all."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
