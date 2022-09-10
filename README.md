@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Comedy = tragedy + time."</i>
+<i>"A person who does not read is no better than one cannot read."</i>
 <br>
-<b>- Carol Burnett</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
