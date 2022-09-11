@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is new in the world? Nothing. What is old in the world? Nothing. Everything has always been and will always be."</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Sai Baba</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
