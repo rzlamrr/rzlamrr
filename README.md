@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity."</i>
+<i>"It will never rain roses: when we want to have more roses, we must plant more roses."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- George Eliot</b>
 </blockquote>
 </p>
 
