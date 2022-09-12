@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
+<i>"A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
