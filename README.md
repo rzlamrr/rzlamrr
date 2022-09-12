@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"Positive thinking will let you do everything better than negative thinking will."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
