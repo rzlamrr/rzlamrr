@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as you wish to seem."</i>
+<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
 <br>
-<b>- Socrates</b>
+<b>- Benjamin Haydon</b>
 </blockquote>
 </p>
 
