@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Positive thinking will let you do everything better than negative thinking will."</i>
+<i>"Man should fear never beginning to live."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
