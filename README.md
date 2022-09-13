@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not seek. I find."</i>
+<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Billie Jean King</b>
 </blockquote>
 </p>
 
