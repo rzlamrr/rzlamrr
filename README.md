@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</i>
+<i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Howard H. Aiken</b>
 </blockquote>
 </p>
 
