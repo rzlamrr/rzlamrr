@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I think self-awareness is probably the most important thing towards being a champion. "</i>
+<i>"In friendship as well as love, ignorance very often contributes more to our happiness than knowledge."</i>
 <br>
-<b>- Billie Jean King</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
