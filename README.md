@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You're on earth. There's no cure for that."</i>
+<i>"Don't ever be afraid to put yourself in a lesser position so that you can learn something from someone who knows more."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
