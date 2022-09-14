@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"An ant on the move does more than a dozing ox"</i>
+<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
 <br>
-<b>- Laozi</b>
+<b>- Woodrow Wilson</b>
 </blockquote>
 </p>
 
