@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose."</i>
+<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
 <br>
-<b>- Woodrow Wilson</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
