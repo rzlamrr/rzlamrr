@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing."</i>
+<i>"You have the potential for greatness."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
