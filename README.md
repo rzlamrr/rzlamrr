@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Difficulties increase the nearer we get to the goal."</i>
+<i>"Once you choose hope, anything's possible."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Christopher Reeve</b>
 </blockquote>
 </p>
 
