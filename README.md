@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Charles Lindbergh</b>
 </blockquote>
 </p>
 
