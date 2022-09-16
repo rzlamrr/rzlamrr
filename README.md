@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your big opportunity may be right where you are now."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
