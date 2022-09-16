@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"Play your part in life, but never forget that it is only a role."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
