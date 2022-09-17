@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- Søren Kierkegaard</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
