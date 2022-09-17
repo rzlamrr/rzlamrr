@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When a man is penalized for honesty he learns to lie."</i>
+<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
