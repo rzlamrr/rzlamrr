@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest room in the world is room for improvement."</i>
+<i>"The most courageous act is still to think for yourself. Aloud."</i>
 <br>
-<b>- Helmut Schmidt</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
