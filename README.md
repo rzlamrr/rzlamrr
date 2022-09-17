@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"To dare is to lose ones footing momentarily. To not dare is to lose oneself."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Søren Kierkegaard</b>
 </blockquote>
 </p>
 
