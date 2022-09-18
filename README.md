@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The final proof of greatness lies in being able to endure criticism without resentment."</i>
+<i>"Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Satchel Paige</b>
 </blockquote>
 </p>
 
