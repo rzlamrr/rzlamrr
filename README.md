@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We learn to walk by falling down. If we never fell down, we would never walk."</i>
+<i>"Wisdom begins in wonder."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
