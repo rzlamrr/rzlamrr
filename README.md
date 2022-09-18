@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Superstars think like superstars long before the fans or the press anoint them."</i>
+<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
 <br>
-<b>- John Eliot</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
