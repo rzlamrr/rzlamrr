@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To handle yourself, use your head; to handle others, use your heart."</i>
+<i>"Ideas pull the trigger, but instinct loads the gun."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Don Marquis</b>
 </blockquote>
 </p>
 
