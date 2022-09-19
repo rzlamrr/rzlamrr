@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
+<i>"The language of friendship is not words but meanings."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
