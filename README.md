@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Through perseverance many people win success out of what seemed destined to be certain failure."</i>
+<i>"To handle yourself, use your head; to handle others, use your heart."</i>
 <br>
-<b>- Benjamin Disraeli</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
