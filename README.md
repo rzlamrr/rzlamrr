@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ideas pull the trigger, but instinct loads the gun."</i>
+<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
 <br>
-<b>- Don Marquis</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
