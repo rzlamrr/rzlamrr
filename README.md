@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Russia is a riddle wrapped in a mystery inside an enigma."</i>
+<i>"Through perseverance many people win success out of what seemed destined to be certain failure."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Benjamin Disraeli</b>
 </blockquote>
 </p>
 
