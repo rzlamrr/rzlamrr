@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The language of friendship is not words but meanings."</i>
+<i>"The fastest way to change is to laugh at your own folly."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
