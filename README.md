@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The fastest way to change is to laugh at your own folly."</i>
+<i>"Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
