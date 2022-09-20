@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Moral excellence comes about as a result of habit. We become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts."</i>
+<i>"The art of being wise is knowing what to overlook."</i>
 <br>
-<b>- Aristotle</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
