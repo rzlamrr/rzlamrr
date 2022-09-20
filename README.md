@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The art of being wise is knowing what to overlook."</i>
+<i>"Blessed are the hearts that can bend; they shall never be broken."</i>
 <br>
-<b>- William James</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
