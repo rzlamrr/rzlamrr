@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger."</i>
+<i>"One of the most beautiful qualities of true friendship is to understand and to be understood."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
