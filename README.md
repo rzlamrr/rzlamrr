@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Smell the cheese often so you know when it is getting old."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
