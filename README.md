@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy."</i>
+<i>"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
