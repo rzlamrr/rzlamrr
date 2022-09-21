@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each misfortune you encounter will carry in it the seed of tomorrows good luck."</i>
+<i>"Smell the cheese often so you know when it is getting old."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
