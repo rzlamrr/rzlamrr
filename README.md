@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most folks are as happy as they make up their minds to be."</i>
+<i>"I never considered a difference of opinion in politics, in religion, in philosophy, as cause for withdrawing from a friend."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
