@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Normality is a paved road: It's comfortable to walk, but no flowers grow on it."</i>
+<i>"Most folks are as happy as they make up their minds to be."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
