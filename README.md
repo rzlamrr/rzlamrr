@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be fascinated instead of frustrated."</i>
+<i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
