@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes letting things go is an act of far greater power than defending or hanging on."</i>
+<i>"Life is so constructed that an event does not, cannot, will not, match the expectation."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Charlotte Brontë</b>
 </blockquote>
 </p>
 
