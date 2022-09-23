@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
+<i>"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability."</i>
 <br>
-<b>- Albert Camus</b>
+<b>- John Wooden</b>
 </blockquote>
 </p>
 
