@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
+<i>"In the depth of winter, I finally learned that there was within me an invincible summer."</i>
 <br>
-<b>- Buddha</b>
+<b>- Albert Camus</b>
 </blockquote>
 </p>
 
