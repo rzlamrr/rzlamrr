@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is so constructed that an event does not, cannot, will not, match the expectation."</i>
+<i>"There are only two mistakes one can make along the road to truth; not going all the way, and not starting."</i>
 <br>
-<b>- Charlotte Brontë</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
