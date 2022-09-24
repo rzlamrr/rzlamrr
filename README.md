@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Among the things you can give and still keep are your word, a smile, and a grateful heart."</i>
+<i>"I have learned that to be with those I like is enough."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
