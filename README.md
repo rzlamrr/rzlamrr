@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest adventure you can ever take is to live the life of your dreams."</i>
+<i>"Courage is found in unlikely places."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
