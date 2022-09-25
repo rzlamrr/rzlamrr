@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
+<i>"If a man knows not to which port he sails, no wind is favorable.  "</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
