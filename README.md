@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's so simple to be wise. Just think of something stupid to say and then don't say it."</i>
+<i>"The eye sees only what the mind is prepared to comprehend."</i>
 <br>
-<b>- Sam Levenson</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
