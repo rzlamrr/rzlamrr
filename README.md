@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The eye sees only what the mind is prepared to comprehend."</i>
+<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
 <br>
-<b>- Henri Bergson</b>
+<b>- Charles Péguy</b>
 </blockquote>
 </p>
 
