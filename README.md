@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"They must often change, who would be constant in happiness or wisdom."</i>
+<i>"The opposite of courage in our society is not cowardice... it is conformity."</i>
 <br>
-<b>- Confucius</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
