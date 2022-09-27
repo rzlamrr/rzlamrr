@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is rarer than genius itself. And friendship is rarer than love."</i>
+<i>"The more you know yourself, the more you forgive yourself."</i>
 <br>
-<b>- Charles Péguy</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
