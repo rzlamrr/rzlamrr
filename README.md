@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself."</i>
+<i>"There are no limitations to the mind except those we acknowledge."</i>
 <br>
-<b>- Rollo May</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
