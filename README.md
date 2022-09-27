@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"If you do not express your own original ideas, if you do not listen to your own being, you will have betrayed yourself."</i>
 <br>
-<b>- Confucius</b>
+<b>- Rollo May</b>
 </blockquote>
 </p>
 
