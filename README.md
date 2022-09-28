@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We don't stop playing because we grow old; we grow old because we stop playing."</i>
+<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
