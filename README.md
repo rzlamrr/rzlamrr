@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Dreams are the touchstones of our characters."</i>
+<i>"You only live once, but if you do it right, once is enough."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
