@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"Dreams are the touchstones of our characters."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
