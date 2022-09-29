@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never idealize others. They will never live up to your expectations."</i>
+<i>"All life is an experiment. The more experiments you make, the better."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
