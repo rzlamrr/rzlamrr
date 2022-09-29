@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Live and act within the limit of your knowledge and keep expanding it to the limit of your life."</i>
+<i>"Never idealize others. They will never live up to your expectations."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
