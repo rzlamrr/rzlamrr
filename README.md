@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit."</i>
+<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
