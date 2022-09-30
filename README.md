@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can only be said to be alive in those moments when our hearts are conscious of our treasures."</i>
+<i>"Is it really possible to tell someone else what one feels?"</i>
 <br>
-<b>- Thornton Wilder</b>
+<b>- Leo Tolstoy</b>
 </blockquote>
 </p>
 
