@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
+<i>"We can only be said to be alive in those moments when our hearts are conscious of our treasures."</i>
 <br>
-<b>- Confucius</b>
+<b>- Thornton Wilder</b>
 </blockquote>
 </p>
 
