@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A real friend is one who walks in when the rest of the world walks out."</i>
+<i>"Wisdom, compassion, and courage are the three universally recognized moral qualities of men."</i>
 <br>
-<b>- Unknown</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
