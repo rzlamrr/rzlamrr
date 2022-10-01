@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be heroic is to be courageous enough to die for something; to be inspirational is to be crazy enough to live a little."</i>
+<i>"The real danger is not that computers will begin to think like men, but that men will begin to think like computers."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Sydney J. Harris</b>
 </blockquote>
 </p>
 
