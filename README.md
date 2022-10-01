@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True friendship is like sound health; the value of it is seldom known until it is lost."</i>
+<i>"We love the things we love for what they are."</i>
 <br>
-<b>- Charles Caleb Colton</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
