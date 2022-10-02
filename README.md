@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're not failing every now and again, it's a sign you're not doing anything very innovative."</i>
+<i>"All truths are easy to understand once they are discovered; the point is to discover them."</i>
 <br>
-<b>- Woody Allen</b>
+<b>- Galileo Galilei</b>
 </blockquote>
 </p>
 
