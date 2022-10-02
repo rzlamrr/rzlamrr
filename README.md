@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your sacred space is where you can find yourself again and again."</i>
+<i>"Adversity causes some men to break, others to break records."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
