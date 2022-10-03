@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science is organized knowledge. Wisdom is organized life."</i>
+<i>"A leader leads by example, not by force."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
