@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good luck is another name for tenacity of purpose."</i>
+<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
