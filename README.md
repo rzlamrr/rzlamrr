@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Facts are the enemy of truth. "</i>
+<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
