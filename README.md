@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'm tired of hearing about money, money, money, money, money. I just want to play the game, drink Pepsi, and wear Reebok."</i>
+<i>"Never allow someone to be your priority while allowing yourself to be their option."</i>
 <br>
-<b>- Shaquille O'Neal</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
