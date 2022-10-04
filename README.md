@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Of all possessions a friend is the most precious."</i>
+<i>"It is our experiences that mold us into who we are...during times of adversity our true character will show."</i>
 <br>
-<b>- Herodotus</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
