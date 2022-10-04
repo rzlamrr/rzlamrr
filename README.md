@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader leads by example, not by force."</i>
+<i>"Facts are the enemy of truth. "</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Miguel de Cervantes</b>
 </blockquote>
 </p>
 
