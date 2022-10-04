@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It doesn't matter where you are coming from. All that matters is where you are going. "</i>
+<i>"Of all possessions a friend is the most precious."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
