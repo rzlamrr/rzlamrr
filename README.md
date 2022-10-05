@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the expression of one's values."</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
