@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A goal without a plan is just a wish."</i>
+<i>"Love is the expression of one's values."</i>
 <br>
-<b>- Larry Elder</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
