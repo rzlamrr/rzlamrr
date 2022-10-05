@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first man gets the oyster, the second man gets the shell."</i>
+<i>"A goal without a plan is just a wish."</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Larry Elder</b>
 </blockquote>
 </p>
 
