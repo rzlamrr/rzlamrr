@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions."</i>
+<i>"Many people will walk in and out of your life, but only true friends will leave footprints in your heart."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
