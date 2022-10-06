@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is not one big cosmic meaning for all, there is only the meaning we each give to our life."</i>
+<i>"The way is not in the sky. The way is in the heart."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
