@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know."</i>
+<i>"There is not one big cosmic meaning for all, there is only the meaning we each give to our life."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
