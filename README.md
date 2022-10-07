@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None but ourselves can free our minds."</i>
+<i>"There is not one big cosmic meaning for all, there is only the meaning we each give to our life."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Anaïs Nin</b>
 </blockquote>
 </p>
 
