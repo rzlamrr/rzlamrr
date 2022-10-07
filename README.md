@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is a characteristic of wisdom not to do desperate things."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
