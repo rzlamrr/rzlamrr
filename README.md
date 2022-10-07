@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be wronged is nothing unless you continue to remember it."</i>
+<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
 <br>
 <b>- Confucius</b>
 </blockquote>
