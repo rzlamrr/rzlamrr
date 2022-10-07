@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reviewing what you have learned and learning anew, you are fit to be a teacher."</i>
+<i>"It is a characteristic of wisdom not to do desperate things."</i>
 <br>
-<b>- Confucius</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
