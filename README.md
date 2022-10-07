@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way is not in the sky. The way is in the heart."</i>
+<i>"To be wronged is nothing unless you continue to remember it."</i>
 <br>
-<b>- Buddha</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
