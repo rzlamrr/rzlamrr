@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If one does not know to which port one is sailing, no wind is favorable."</i>
+<i>"No one can confidently say that he will still be living tomorrow."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
