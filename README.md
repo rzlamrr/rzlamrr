@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even though you are on the right track - you will get run over if you just sit there."</i>
+<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
 <br>
-<b>- Will Rogers</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
