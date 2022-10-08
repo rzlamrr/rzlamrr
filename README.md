@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is not one big cosmic meaning for all, there is only the meaning we each give to our life."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Anaïs Nin</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
