@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not what we get. But who we become, what we contribute... that gives meaning to our lives."</i>
+<i>"The beginning is always today."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Mary Wollstonecraft</b>
 </blockquote>
 </p>
 
