@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination will often carry us to worlds that never were. But without it we go nowhere."</i>
+<i>"All this worldly wisdom was once the unamiable heresy of some wise man."</i>
 <br>
-<b>- Carl Sagan</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
