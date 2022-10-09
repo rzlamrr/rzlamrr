@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along."</i>
+<i>"We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Frank Abagnale</b>
 </blockquote>
 </p>
 
