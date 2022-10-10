@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nobody made a greater mistake than he who did nothing because he could do only a little."</i>
+<i>"Inspire yourself to be great. Being good isn't good enough."</i>
 <br>
-<b>- Edmund Burke</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
