@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean."</i>
+<i>"Nobody made a greater mistake than he who did nothing because he could do only a little."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Edmund Burke</b>
 </blockquote>
 </p>
 
