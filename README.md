@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad."</i>
+<i>"I never think of the future. It comes soon enough."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
