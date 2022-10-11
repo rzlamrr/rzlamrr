@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To choose what is difficult all one's days, as if it were easy, that is faith."</i>
+<i>"No man is more cheated than the selfish man."</i>
 <br>
-<b>- W. H. Auden</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
