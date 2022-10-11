@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man is more cheated than the selfish man."</i>
+<i>"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- A.A. Milne</b>
 </blockquote>
 </p>
 
