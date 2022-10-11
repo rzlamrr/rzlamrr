@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."</i>
+<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
