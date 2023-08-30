@@ -56,7 +56,7 @@ main() {
 <p align=\"center\">
 <a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's top languages\"><img src=\"https://dvst-stats.vercel.app/api/top-langs/?username=rzlamrr&langs_count=6&layout=compact&theme=tokyonight&show_icons=true\"></a>
 <br>
-<a href="https://rzlamrr.github.io" alt="rzlamrr's github streak"><img src="https://streak-stats.demolab.com?user=rzlamrr&theme=tokyonight&mode=weekly"></a>
+<a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's github streak\"><img src=\"https://streak-stats.demolab.com?user=rzlamrr&theme=tokyonight&mode=weekly\"></a>
 <br>
 <a href=\"https://rzlamrr.github.io\" alt=\"rzlamrr's github stat\"><img src=\"https://dvst-stats.vercel.app/api?username=rzlamrr&theme=tokyonight&show_icons=true\"></a>
 </p>
