@@ -33,7 +33,7 @@
 <p align="center">
 <a href="https://rzlamrr.github.io" alt="rzlamrr's top languages"><img src="https://dvst-stats.vercel.app/api/top-langs/?username=rzlamrr&langs_count=6&layout=compact&theme=tokyonight&show_icons=true"></a>
 <br>
-<a href="https://rzlamrr.github.io" alt="rzlamrr's github streak"><img src="https://dvst-streak.herokuapp.com/?user=rzlamrr&theme=tokyonight&fire=DD472C"></a>
+<a href="https://rzlamrr.github.io" alt="rzlamrr's github streak"><img src="https://streak-stats.demolab.com?user=rzlamrr&theme=tokyonight&mode=weekly"></a>
 <br>
 <a href="https://rzlamrr.github.io" alt="rzlamrr's github stat"><img src="https://dvst-stats.vercel.app/api?username=rzlamrr&theme=tokyonight&show_icons=true"></a>
 </p>
@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is from the inside out. When you shift on the inside, life shifts on the outside."</i>
+<i>"Those who are easily shocked should be shocked more often."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
@@ -63,5 +63,5 @@
 <h2 align="center">Thank You 🙏🏼</h2>
 <p align="center"><b><i>Nothing special with me!</i></b></p>
 <p align="center">
-<a href="https://rzlamrr.github.io" alt="rzlamrr's profile visitors"><img src="https://dvstr.herokuapp.com/badge">
+<a href="https://rzlamrr.github.io" alt="rzlamrr's profile visitors"><img src="https://hits.dwyl.com/rzlamrr/rzlamrr.svg?style=flat">
 </p>
