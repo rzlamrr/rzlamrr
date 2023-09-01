@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most I can do for my friend is simply be his friend."</i>
+<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
