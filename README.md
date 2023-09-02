@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want things to be different, perhaps the answer is to become different yourself."</i>
+<i>"Don't cry because it's over. Smile because it happened."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
