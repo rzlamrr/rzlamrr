@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I do not exist to impress the world. I exist to live my life in a way that will make me happy."</i>
+<i>"Our most intimate friend is not he to whom we show the worst, but the best of our nature."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Nathaniel Hawthorne</b>
 </blockquote>
 </p>
 
