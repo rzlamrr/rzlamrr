@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our most intimate friend is not he to whom we show the worst, but the best of our nature."</i>
+<i>"Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit."</i>
 <br>
-<b>- Nathaniel Hawthorne</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
