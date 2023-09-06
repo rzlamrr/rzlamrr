@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit."</i>
+<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
