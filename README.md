@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Find the game where you can win, and then commit your life to playing it; and play to win."</i>
+<i>"Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
