@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never say there is nothing beautiful in the world anymore. There is always something to make you wonder in the shape of a tree, the trembling of a leaf."</i>
+<i>"Those who know, do. Those that understand, teach."</i>
 <br>
-<b>- Albert Schweitzer</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
