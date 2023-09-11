@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we know how to adapt, we end up being superior."</i>
+<i>"Having nothing, nothing can he lose."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
