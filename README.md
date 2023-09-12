@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Having nothing, nothing can he lose."</i>
+<i>"Sometimes it is better to lose and do the right thing than to win and do the wrong thing."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Tony Blair</b>
 </blockquote>
 </p>
 
