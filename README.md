@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A heart is not judged by how much you love, but by how much you are loved by others."</i>
+<i>"In every walk with nature, one receives far more than he seeks."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- John Muir</b>
 </blockquote>
 </p>
 
