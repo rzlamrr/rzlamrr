@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Science gives us knowledge, but only philosophy can give us wisdom."</i>
+<i>"But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be."</i>
 <br>
-<b>- Will Durant</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
