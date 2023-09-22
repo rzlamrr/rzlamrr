@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To avoid criticism, do nothing, say nothing, be nothing."</i>
+<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- George Washington</b>
 </blockquote>
 </p>
 
