@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be not glad at the misfortune of another, though he may be your enemy. "</i>
+<i>"Goodness is the only investment that never fails."</i>
 <br>
-<b>- George Washington</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
