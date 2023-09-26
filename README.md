@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People rarely succeed unless they have fun in what they are doing."</i>
+<i>"Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
