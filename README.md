@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain."</i>
+<i>"Know your gifts and share them."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Les Brown</b>
 </blockquote>
 </p>
 
