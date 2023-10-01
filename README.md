@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No valid plans for the future can be made by those who have no capacity for living now."</i>
+<i>"We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- Uta Hagen</b>
 </blockquote>
 </p>
 
