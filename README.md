@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre."</i>
+<i>"Nothing is too high for a man to reach, but he must climb with care and confidence"</i>
 <br>
-<b>- Uta Hagen</b>
+<b>- Hans Christian Andersen</b>
 </blockquote>
 </p>
 
