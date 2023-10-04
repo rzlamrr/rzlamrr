@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Things turn out best for those who make the best of the way things turn out."</i>
+<i>"We gain the strength of the temptation we resist."</i>
 <br>
-<b>- Jack Buck</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
