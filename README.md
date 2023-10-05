@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We gain the strength of the temptation we resist."</i>
+<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
