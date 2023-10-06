@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"One is never afraid of the unknown; one is afraid of the known coming to an end."</i>
+<i>"A gentleman is one who puts more into the world than he takes out."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
