@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands."</i>
+<i>"If I cannot do great things. I can do small things in a great way."</i>
 <br>
-<b>- Anne Frank</b>
+<b>- Martin Luther King, Jr.</b>
 </blockquote>
 </p>
 
