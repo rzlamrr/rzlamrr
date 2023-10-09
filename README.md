@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I cannot do great things. I can do small things in a great way."</i>
+<i>"The difference between treason and patriotism is only a matter of dates."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
