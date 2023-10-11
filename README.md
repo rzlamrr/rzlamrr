@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your happiness is what truly matters most. Do what you have to do in order to be happy."</i>
+<i>"Patience is not the ability to wait but the ability to keep a good attitude while waiting."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
