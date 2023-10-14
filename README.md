@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself."</i>
+<i>"I love you the more in that I believe you had liked me for my own sake and for nothing else."</i>
 <br>
-<b>- Alan Watts</b>
+<b>- John Keats</b>
 </blockquote>
 </p>
 
