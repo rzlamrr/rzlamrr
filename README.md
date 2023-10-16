@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Silence is the true friend that never betrays."</i>
+<i>"Those who are enlightened never stop forging themselves."</i>
 <br>
-<b>- Confucius</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
