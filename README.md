@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who are enlightened never stop forging themselves."</i>
+<i>"To climb steep hills requires a slow pace at first."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- William Shakespeare</b>
 </blockquote>
 </p>
 
