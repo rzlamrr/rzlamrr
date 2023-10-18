@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To climb steep hills requires a slow pace at first."</i>
+<i>"All things change; nothing perishes."</i>
 <br>
-<b>- William Shakespeare</b>
+<b>- Ovid</b>
 </blockquote>
 </p>
 
