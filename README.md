@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All things change; nothing perishes."</i>
+<i>"Wisdom is nothing but a preparation of the soul, a capacity, a secret art of thinking, feeling and breathing thoughts of unity at every moment of life."</i>
 <br>
-<b>- Ovid</b>
+<b>- Hermann Hesse</b>
 </blockquote>
 </p>
 
