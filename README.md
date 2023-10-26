@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear, uncertainty, and discomfort are your compasses toward growth."</i>
+<i>"The World is my country, all mankind are my brethren, and to do good is my religion."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Thomas Paine</b>
 </blockquote>
 </p>
 
