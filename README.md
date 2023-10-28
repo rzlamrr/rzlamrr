@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us sacrifice our today so that our children can have a better tomorrow."</i>
+<i>"Freedom lies in being bold."</i>
 <br>
-<b>- A. P. J. Abdul Kalam</b>
+<b>- Robert Frost</b>
 </blockquote>
 </p>
 
