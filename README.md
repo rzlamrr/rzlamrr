@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you correct your mind, the rest of your life will fall into place."</i>
+<i>"Be where your enemy is not."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
