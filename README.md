@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is but a product of his thoughts. What he thinks he becomes."</i>
+<i>"Relax. Nothing is under control."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Adi Da Samraj</b>
 </blockquote>
 </p>
 
