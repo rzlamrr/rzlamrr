@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month."</i>
+<i>"We have a choice everyday regarding the attitude we will embrace for that day."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Charles Swindoll</b>
 </blockquote>
 </p>
 
