@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Follow your instincts. That is where true wisdom manifests itself."</i>
+<i>"Sometimes the most important thing in a whole day is the rest we take between two deep breaths."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Etty Hillesum</b>
 </blockquote>
 </p>
 
