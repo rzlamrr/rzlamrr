@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learning is finding out what you already know."</i>
+<i>"Be as you wish to seem."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
