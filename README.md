@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as you wish to seem."</i>
+<i>"How is it possible that a being with such sensitive jewels as the eyes, such enchanted musical instruments as the ears, and such fabulous arabesque of nerves as the brain can experience itself anything less than a god."</i>
 <br>
-<b>- Socrates</b>
+<b>- Alan Watts</b>
 </blockquote>
 </p>
 
