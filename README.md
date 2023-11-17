@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is not fair to ask of others what you are unwilling to do yourself."</i>
+<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
