@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich."</i>
+<i>"Treat people as if they were what they ought to be, and you help them to become what they are capable of being."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
