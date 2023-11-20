@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Treat people as if they were what they ought to be, and you help them to become what they are capable of being."</i>
+<i>"Realistic people do not accomplish extraordinary things."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
