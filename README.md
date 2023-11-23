@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Character is doing what you don't want to do but know you should do."</i>
+<i>"Discipline is the mark of intelligent living."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
