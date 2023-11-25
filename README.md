@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perpetual optimism is a force multiplier."</i>
+<i>"Between saying and doing, many a pair of shoes is worn out."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Iris Murdoch</b>
 </blockquote>
 </p>
 
