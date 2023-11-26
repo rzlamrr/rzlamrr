@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Between saying and doing, many a pair of shoes is worn out."</i>
+<i>"No snowflake in an avalanche ever feels responsible."</i>
 <br>
-<b>- Iris Murdoch</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
