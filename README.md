@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"Find your Light; They can't love you if they can't see you."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
