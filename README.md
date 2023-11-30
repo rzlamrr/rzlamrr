@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along."</i>
+<i>"Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present."</i>
 <br>
-<b>- Lisa Alther</b>
+<b>- Babatunde Olatunji</b>
 </blockquote>
 </p>
 
