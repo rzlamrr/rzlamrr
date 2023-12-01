@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is history. Tomorrow is a mystery. And today? Today is a gift. That is why we call it the present."</i>
+<i>"My powers are ordinary. Only my application brings me success."</i>
 <br>
-<b>- Babatunde Olatunji</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
