@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My powers are ordinary. Only my application brings me success."</i>
+<i>"To succeed takes more than the desire to win. It also takes the acceptance that we could fail."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
