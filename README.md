@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others."</i>
+<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Joseph Campbell</b>
 </blockquote>
 </p>
 
