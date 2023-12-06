@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness."</i>
+<i>"Doing nothing is better than being busy doing nothing."</i>
 <br>
-<b>- Joseph Campbell</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
