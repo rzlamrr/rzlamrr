@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Doing nothing is better than being busy doing nothing."</i>
+<i>"Be as you wish to seem."</i>
 <br>
-<b>- Laozi</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
