@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be as you wish to seem."</i>
+<i>"Every day do something that will inch you closer to a better tomorrow."</i>
 <br>
-<b>- Socrates</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
