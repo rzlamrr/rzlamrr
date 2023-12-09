@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every day do something that will inch you closer to a better tomorrow."</i>
+<i>"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers."</i>
 <br>
-<b>- Unknown</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
