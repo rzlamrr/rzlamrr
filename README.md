@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friends are the siblings God never gave us."</i>
+<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
 <br>
-<b>- Mencius</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
