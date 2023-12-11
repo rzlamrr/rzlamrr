@@ -26,7 +26,7 @@ main() {
 - You can call me Rizal 😉
 - I am a student in Senior High School 🏫
 - Born and live in Indonesia 🇮🇩
-- Visit my website <a href="https://rzlamrr.me">here</a> 🌐
+- Visit my website <a href="https://rzlamrr.my.id">here</a> 🌐
 
 <details>
     <summary>Some interesting facts about me!</summary>
