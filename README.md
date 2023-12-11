@@ -3,7 +3,7 @@
 - You can call me Rizal 😉
 - I am a student in Senior High School 🏫
 - Born and live in Indonesia 🇮🇩
-- Visit my website <a href=https://rzlamrr.me>here</a> 🌐
+- Visit my website <a href=https://rzlamrr.my.id>here</a> 🌐
 
 <details>
     <summary>Some interesting facts about me!</summary>
@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible."</i>
+<i>"Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
