@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We crave for new sensations but soon become indifferent to them. The wonders of yesterday are today common occurrences "</i>
+<i>"The more I want to get something done, the less I call it work."</i>
 <br>
-<b>- Nikola Tesla</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
