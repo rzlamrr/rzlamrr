@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more I want to get something done, the less I call it work."</i>
+<i>"Don't waste time on excuses. Just get it done."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
