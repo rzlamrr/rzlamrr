@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm."</i>
+<i>"Happiness is only real, when shared."</i>
 <br>
-<b>- Rowan Williams</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
