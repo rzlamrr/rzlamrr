@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you can't argue both sides, you can't argue."</i>
+<i>"Sustaining true friendship is a lot more challenging than we give it credit for."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Mariella Frostrup</b>
 </blockquote>
 </p>
 
