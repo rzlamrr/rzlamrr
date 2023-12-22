@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sustaining true friendship is a lot more challenging than we give it credit for."</i>
+<i>"It's not the men in your life that matters, it's the life in your men."</i>
 <br>
-<b>- Mariella Frostrup</b>
+<b>- Mae West</b>
 </blockquote>
 </p>
 
