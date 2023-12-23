@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's not the men in your life that matters, it's the life in your men."</i>
+<i>"Don't smother each other. No one can grow in the shade."</i>
 <br>
-<b>- Mae West</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
