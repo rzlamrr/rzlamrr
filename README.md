@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't smother each other. No one can grow in the shade."</i>
+<i>"Maxim for life: You get treated in life the way you teach people to treat you."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
