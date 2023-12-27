@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more people you help become successful the more successful you become."</i>
+<i>"The heart has eyes which the brain knows nothing of."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Charles Henry Parkhurst</b>
 </blockquote>
 </p>
 
