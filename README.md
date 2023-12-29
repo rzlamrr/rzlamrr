@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
+<i>"Time flies whether you are having fun or not."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
