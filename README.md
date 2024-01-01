@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory is always possible for the person who refuses to stop fighting."</i>
+<i>"I care not so much what I am to others as what I am to myself. I will be rich by myself, and not by borrowing."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Michel de Montaigne</b>
 </blockquote>
 </p>
 
