@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Opportunity often comes disguised in the form of misfortune or temporary defeat."</i>
+<i>"When we seek to discover the best in others, we somehow bring out the best in ourselves."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- William Arthur Ward</b>
 </blockquote>
 </p>
 
