@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we seek to discover the best in others, we somehow bring out the best in ourselves."</i>
+<i>"Quality is more important than quantity. One home run is much better than two doubles."</i>
 <br>
-<b>- William Arthur Ward</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
