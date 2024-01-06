@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions."</i>
+<i>"Gratitude is the fairest blossom which springs from the soul."</i>
 <br>
-<b>- Naguib Mahfouz</b>
+<b>- Henry K. Beecher</b>
 </blockquote>
 </p>
 
