@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Gratitude is the fairest blossom which springs from the soul."</i>
+<i>"Think like a man of action; act like a man of thought."</i>
 <br>
-<b>- Henry K. Beecher</b>
+<b>- Henri Bergson</b>
 </blockquote>
 </p>
 
