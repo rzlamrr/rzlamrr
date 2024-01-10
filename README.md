@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want. Happiness is wanting what you get."</i>
+<i>"Give so much away people insist on paying you."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Jack Butcher</b>
 </blockquote>
 </p>
 
