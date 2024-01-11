@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Give so much away people insist on paying you."</i>
+<i>"It is not so much our friends' help that helps us, as the confidence of their help."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Epicurus</b>
 </blockquote>
 </p>
 
