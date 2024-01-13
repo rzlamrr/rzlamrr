@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fear is stupid. So are regrets."</i>
+<i>"Whoever is happy will make others happy too."</i>
 <br>
-<b>- Marilyn Monroe</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
