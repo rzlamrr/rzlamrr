@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something."</i>
+<i>"The only people without problems are those in cemeteries."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
