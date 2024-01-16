@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The only people without problems are those in cemeteries."</i>
+<i>"Imagination is the living power and prime agent of all human perception."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Samuel Taylor Coleridge</b>
 </blockquote>
 </p>
 
