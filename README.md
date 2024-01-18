@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become stronger with every problem you face and every obstacle you overcome."</i>
+<i>"Each time we don't say what we wanna say, we're dying."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
