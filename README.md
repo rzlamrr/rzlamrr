@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We shall never know all the good that a simple smile can do."</i>
+<i>"What you do today can improve all your tomorrows."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
