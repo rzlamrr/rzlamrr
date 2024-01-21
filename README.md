@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What you do today can improve all your tomorrows."</i>
+<i>"There are only encounters in history. There are no accidents."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
