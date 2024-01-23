@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before anything else, preparation is the key to success."</i>
+<i>"Honor is the foundation of courage."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
