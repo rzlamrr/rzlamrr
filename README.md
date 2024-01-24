@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Honor is the foundation of courage."</i>
+<i>"Embody what you teach, and teach only what you have embodied."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
