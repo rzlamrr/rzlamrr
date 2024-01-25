@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Embody what you teach, and teach only what you have embodied."</i>
+<i>"I have never been hurt by anything I didn't say."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Calvin Coolidge</b>
 </blockquote>
 </p>
 
