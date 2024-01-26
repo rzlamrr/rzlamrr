@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I have never been hurt by anything I didn't say."</i>
+<i>"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."</i>
 <br>
-<b>- Calvin Coolidge</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
