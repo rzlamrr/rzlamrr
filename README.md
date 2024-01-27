@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If A is success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut."</i>
+<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
