@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lie gets halfway around the world before the truth has a chance to get its pants on."</i>
+<i>"Human beings believe just as they breathe - in order to survive."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Carlos Ruiz Zafon</b>
 </blockquote>
 </p>
 
