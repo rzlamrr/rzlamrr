@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Human beings believe just as they breathe - in order to survive."</i>
+<i>"You may think I'm small, but I have a universe inside my mind."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Yoko Ono</b>
 </blockquote>
 </p>
 
