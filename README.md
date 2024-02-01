@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your big opportunity may be right where you are now."</i>
+<i>"Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Amy Bloom</b>
 </blockquote>
 </p>
 
