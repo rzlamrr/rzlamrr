@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle."</i>
+<i>"Always keep an open mind and a compassionate heart."</i>
 <br>
-<b>- Amy Bloom</b>
+<b>- Phil Jackson</b>
 </blockquote>
 </p>
 
