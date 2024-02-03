@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always keep an open mind and a compassionate heart."</i>
+<i>"He who knows others is wise. He who knows himself is enlightened."</i>
 <br>
-<b>- Phil Jackson</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
