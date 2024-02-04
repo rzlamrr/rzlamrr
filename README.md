@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who knows others is wise. He who knows himself is enlightened."</i>
+<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
 <br>
-<b>- Laozi</b>
+<b>- Agatha Christie</b>
 </blockquote>
 </p>
 
