@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
+<i>"I want you to be everything that's you, deep at the center of your being."</i>
 <br>
-<b>- Agatha Christie</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
