@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I want you to be everything that's you, deep at the center of your being."</i>
+<i>"You always have two choices: your commitment versus your fear."</i>
 <br>
-<b>- Confucius</b>
+<b>- Sammy Davis Jr.</b>
 </blockquote>
 </p>
 
