@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane."</i>
+<i>"One who gains strength by overcoming obstacles possesses the only strength which can overcome adversity."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Albert Schweitzer</b>
 </blockquote>
 </p>
 
