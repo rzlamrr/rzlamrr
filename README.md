@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear."</i>
+<i>"Make failure your teacher, not your undertaker.  "</i>
 <br>
-<b>- Jon Kabat-Zinn</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
