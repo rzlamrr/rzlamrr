@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The difference between what we do and what we are capable of doing would suffice to solve most of the world's problems."</i>
+<i>"If you build the guts to do something, anything, then you better save enough to face the consequences."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
