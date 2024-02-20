@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where we fall are the stepping-stones for our journey."</i>
+<i>"You live by what you thrill to, and there's the end of it."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- D. H. Lawrence</b>
 </blockquote>
 </p>
 
