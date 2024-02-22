@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never interrupt someone doing what you said couldn't be done."</i>
+<i>"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
