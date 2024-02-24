@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge without justice ought to be called cunning rather than wisdom."</i>
+<i>"Knowledge is proud that it knows so much; wisdom is humble that it knows no more."</i>
 <br>
-<b>- Plato</b>
+<b>- William Cowper</b>
 </blockquote>
 </p>
 
