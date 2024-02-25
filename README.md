@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowledge is proud that it knows so much; wisdom is humble that it knows no more."</i>
+<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
 <br>
-<b>- William Cowper</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
