@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always bear in mind that your own resolution to succeed is more important than any one thing."</i>
+<i>"To profit from good advice requires more wisdom than to give it."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Wilson Mizner</b>
 </blockquote>
 </p>
 
