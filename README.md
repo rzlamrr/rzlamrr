@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone you admire was once a beginner."</i>
+<i>"Imagination is the living power and prime agent of all human perception."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Samuel Taylor Coleridge</b>
 </blockquote>
 </p>
 
