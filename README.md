@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When fate hands us a lemon, let's try to make lemonade."</i>
+<i>"Failure is the highway to success."</i>
 <br>
-<b>- Dale Carnegie</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
