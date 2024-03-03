@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more acquaintances you have, the less you know them."</i>
+<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
