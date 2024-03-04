@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."</i>
+<i>"The key is to keep company only with people who uplift you, whose presence calls forth your best."</i>
 <br>
-<b>- Samuel Beckett</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
