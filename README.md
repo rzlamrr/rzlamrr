@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To achieve, you need thought. You have to know what you are doing and that's real power."</i>
+<i>"This is such a short and precious life that it's really important that you don't spend it being unhappy."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
