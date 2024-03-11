@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If fear is too strong, the genius is suppressed."</i>
+<i>"I dream my painting and I paint my dream."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
