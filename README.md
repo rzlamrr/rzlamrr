@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Reversing your treatment of the man you have wronged is better than asking his forgiveness."</i>
+<i>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Samuel Johnson</b>
 </blockquote>
 </p>
 
