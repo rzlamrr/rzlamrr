@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship, like love, is destroyed by long absence, though it may be increased by short intermissions."</i>
+<i>"Imagination is the beginning of creation."</i>
 <br>
-<b>- Samuel Johnson</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
