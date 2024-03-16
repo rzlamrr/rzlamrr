@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Imagination is the beginning of creation."</i>
+<i>"Begin at once to live and count each separate day as a separate life."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Seneca the Younger</b>
 </blockquote>
 </p>
 
