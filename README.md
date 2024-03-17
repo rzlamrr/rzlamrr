@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Begin at once to live and count each separate day as a separate life."</i>
+<i>"The power of intuitive understanding will protect you from harm until the end of your days."</i>
 <br>
-<b>- Seneca the Younger</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
