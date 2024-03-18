@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The power of intuitive understanding will protect you from harm until the end of your days."</i>
+<i>"Only put off until tomorrow what you are willing to die having left undone."</i>
 <br>
-<b>- Laozi</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
