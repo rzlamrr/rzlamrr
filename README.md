@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every moment is a fresh beginning."</i>
+<i>"No one has ever become poor by giving."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Anne Frank</b>
 </blockquote>
 </p>
 
