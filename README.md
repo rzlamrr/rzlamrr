@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship may, and often does, grow into love, but love never subsides into friendship."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Lord Byron</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
