@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"We ordinary people must forge our own beauty."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Kenji Miyazawa</b>
 </blockquote>
 </p>
 
