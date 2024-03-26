@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We ordinary people must forge our own beauty."</i>
+<i>"Silence is deep as Eternity; Speech is shallow as Time."</i>
 <br>
-<b>- Kenji Miyazawa</b>
+<b>- Thomas Carlyle</b>
 </blockquote>
 </p>
 
