@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The temptation to give up is strongest just before victory."</i>
+<i>"It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him."</i>
 <br>
-<b>- Zen Proverb</b>
+<b>- Max Planck</b>
 </blockquote>
 </p>
 
