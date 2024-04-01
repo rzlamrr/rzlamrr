@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To get the full value of joy you must have someone to divide it with."</i>
+<i>"Formula for success: under promise and over deliver."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Tom Peters</b>
 </blockquote>
 </p>
 
