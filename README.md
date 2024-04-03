@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a learning experience, only if you learn."</i>
+<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
 <br>
-<b>- Yogi Berra</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
