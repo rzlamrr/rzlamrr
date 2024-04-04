@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A thing long expected takes the form of the unexpected when at last it comes."</i>
+<i>"Your next step is simple. You are the first domino."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
