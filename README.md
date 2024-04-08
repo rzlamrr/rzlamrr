@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Winning isn't always championships."</i>
+<i>"Everyday you can take a tiny step in the right direction."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
