@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyday you can take a tiny step in the right direction."</i>
+<i>"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."</i>
 <br>
-<b>- Unknown</b>
+<b>- Jeff Bezos</b>
 </blockquote>
 </p>
 
