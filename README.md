@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well."</i>
+<i>"Life becomes easier and more beautiful when we can see the good in other people."</i>
 <br>
-<b>- Jeff Bezos</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
