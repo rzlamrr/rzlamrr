@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To know even one life has breathed easier because you have lived. This is to have succeeded."</i>
+<i>"Whether you have a problem in your life or not depends upon your own attitude, your own understanding."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Shunryu Suzuki</b>
 </blockquote>
 </p>
 
