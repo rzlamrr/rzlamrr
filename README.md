@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A leader is one who knows the way, goes the way, and shows the way."</i>
+<i>"First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination."</i>
 <br>
-<b>- John C. Maxwell</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
