@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is when what you think, what you say, and what you do are in harmony."</i>
+<i>"Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them."</i>
 <br>
-<b>- Mahatma Gandhi</b>
+<b>- Sophocles</b>
 </blockquote>
 </p>
 
