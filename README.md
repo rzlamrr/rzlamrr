@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them."</i>
+<i>"True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."</i>
 <br>
-<b>- Sophocles</b>
+<b>- William Penn</b>
 </blockquote>
 </p>
 
