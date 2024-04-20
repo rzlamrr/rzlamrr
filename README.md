@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment."</i>
+<i>"Experience is a comb which nature gives us when we are bald. "</i>
 <br>
-<b>- William Penn</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
