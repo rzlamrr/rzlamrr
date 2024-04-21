@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Experience is a comb which nature gives us when we are bald. "</i>
+<i>"Many a man has failed because he had his wishbone where his backbone should have been."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
