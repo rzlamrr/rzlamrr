@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All life is an experiment. The more experiments you make, the better."</i>
+<i>"It is in the nature of things that joy arises in a person free from remorse."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
