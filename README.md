@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is in the nature of things that joy arises in a person free from remorse."</i>
+<i>"I think and that is all that I am."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
