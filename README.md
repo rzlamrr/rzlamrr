@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better."</i>
+<i>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."</i>
 <br>
-<b>- Benjamin Mays</b>
+<b>- Mark Twain</b>
 </blockquote>
 </p>
 
