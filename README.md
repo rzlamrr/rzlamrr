@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do."</i>
+<i>"If you try, you might get exactly what you want. If you don't, you don't."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
