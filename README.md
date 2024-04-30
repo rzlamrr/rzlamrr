@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life has no blessing like a prudent friend."</i>
+<i>"All serious daring starts from within."</i>
 <br>
-<b>- Euripides</b>
+<b>- Harriet Beecher Stowe</b>
 </blockquote>
 </p>
 
