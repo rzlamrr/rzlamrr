@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All serious daring starts from within."</i>
+<i>"In life, all good things come hard, but wisdom is the hardest to come by."</i>
 <br>
-<b>- Harriet Beecher Stowe</b>
+<b>- Lucille Ball</b>
 </blockquote>
 </p>
 
