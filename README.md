@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The supreme art of war is to subdue the enemy without fighting."</i>
+<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
