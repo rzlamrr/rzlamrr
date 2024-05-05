@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed."</i>
+<i>"Reason and free inquiry are the only effectual agents against error."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
