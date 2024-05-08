@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We have a duty to maintain the light of consciousness to make sure it continues into the future."</i>
+<i>"Allow motion to equal emotion."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
