@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Growth is in a series of mistakes. That's the only way you learn."</i>
+<i>"Sincerity is the way of Heaven. The attainment of sincerity is the way of men."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
