@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you know yourself, the more you forgive yourself."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Confucius</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
