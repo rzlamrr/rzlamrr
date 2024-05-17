@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Change your thoughts and you change your world."</i>
+<i>"He who knows others is wise. He who knows himself is enlightened."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
