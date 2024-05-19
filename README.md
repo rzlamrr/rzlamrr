@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you are content to be simply yourself and don't compare or compete, everybody will respect you."</i>
+<i>"No alibi will save you from accepting the responsibility."</i>
 <br>
-<b>- Laozi</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
