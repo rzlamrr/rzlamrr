@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No alibi will save you from accepting the responsibility."</i>
+<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
