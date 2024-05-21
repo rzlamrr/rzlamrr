@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice."</i>
+<i>"It's not what you pay a man, but what he costs you that counts."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Will Rogers</b>
 </blockquote>
 </p>
 
