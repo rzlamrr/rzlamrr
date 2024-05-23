@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We love life, not because we are used to living but because we are used to loving."</i>
+<i>"Fans don't boo nobodies."</i>
 <br>
-<b>- Friedrich Nietzsche</b>
+<b>- Reggie Jackson (basketball, born 1990)</b>
 </blockquote>
 </p>
 
