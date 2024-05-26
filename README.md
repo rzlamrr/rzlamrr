@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is safer to search in the maze than to remain in a cheeseless situation."</i>
+<i>"They can do all because they think they can."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Virgil</b>
 </blockquote>
 </p>
 
