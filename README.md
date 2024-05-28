@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who lives in harmony with himself lives in harmony with the world."</i>
+<i>"The heart has its reasons which reason knows not of."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Blaise Pascal</b>
 </blockquote>
 </p>
 
