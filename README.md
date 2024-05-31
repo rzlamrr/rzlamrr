@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failing is another stepping stone to greatness."</i>
+<i>"Time is the wisest counsellor of all."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Pericles</b>
 </blockquote>
 </p>
 
