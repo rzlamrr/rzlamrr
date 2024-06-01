@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time is the wisest counsellor of all."</i>
+<i>"When one does not have what one wants, one must want what one has."</i>
 <br>
-<b>- Pericles</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
