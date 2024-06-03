@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything that irritates us about others can lead us to an understanding of ourselves."</i>
+<i>"You don't have to be great to start, but you have to start to be great.  "</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
