@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You don't have to be great to start, but you have to start to be great.  "</i>
+<i>"No man can succeed in a line of endeavor which he does not like."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
