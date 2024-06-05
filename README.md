@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man can succeed in a line of endeavor which he does not like."</i>
+<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
