@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
+<i>"Truth is such a rare thing, it is delighted to tell it."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
