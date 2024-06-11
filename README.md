@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to the secret sound, the real sound, which is inside you."</i>
+<i>"There is no fear for one whose mind is not filled with desires."</i>
 <br>
-<b>- Kabir</b>
+<b>- Buddha</b>
 </blockquote>
 </p>
 
