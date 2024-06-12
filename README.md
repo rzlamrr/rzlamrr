@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no fear for one whose mind is not filled with desires."</i>
+<i>"Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark."</i>
 <br>
-<b>- Buddha</b>
+<b>- Whoopi Goldberg</b>
 </blockquote>
 </p>
 
