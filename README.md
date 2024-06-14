@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Good advice is always certain to be ignored, but that's no reason not to give it."</i>
+<i>"You are the only person on earth who can use your ability."</i>
 <br>
-<b>- Agatha Christie</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
