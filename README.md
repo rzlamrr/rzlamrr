@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero."</i>
+<i>"Believe deep down in your heart that you're destined to do great things."</i>
 <br>
-<b>- Kabir</b>
+<b>- Joe Paterno</b>
 </blockquote>
 </p>
 
