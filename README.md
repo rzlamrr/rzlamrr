@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe deep down in your heart that you're destined to do great things."</i>
+<i>"A true friend is the greatest of all blessings, and that which we take the least care of all to acquire."</i>
 <br>
-<b>- Joe Paterno</b>
+<b>- François de La Rochefoucauld</b>
 </blockquote>
 </p>
 
