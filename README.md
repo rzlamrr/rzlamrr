@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A true friend is the greatest of all blessings, and that which we take the least care of all to acquire."</i>
+<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
 <br>
-<b>- François de La Rochefoucauld</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
