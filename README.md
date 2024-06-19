@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity comes from trust. Trust your instincts. And never hope more than you work."</i>
+<i>"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Joan Didion</b>
 </blockquote>
 </p>
 
