@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To free us from the expectations of others, to give us back to ourselves... there lies the great, singular power of self-respect."</i>
+<i>"I'll prepare and someday my chance will come."</i>
 <br>
-<b>- Joan Didion</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
