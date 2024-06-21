@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'll prepare and someday my chance will come."</i>
+<i>"Unless you're ashamed of yourself now and then, you're not honest."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- William Faulkner</b>
 </blockquote>
 </p>
 
