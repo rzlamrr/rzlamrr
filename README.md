@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best way to predict your future is to create it."</i>
+<i>"Along with success comes a reputation for wisdom."</i>
 <br>
-<b>- Peter Drucker</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
