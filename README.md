@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To accomplish great things, we must not only act, but also dream; not only plan, but also believe."</i>
+<i>"Love is the absence of judgment."</i>
 <br>
-<b>- Anatole France</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
