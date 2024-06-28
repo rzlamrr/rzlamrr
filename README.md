@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Love is the absence of judgment."</i>
+<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Benjamin Haydon</b>
 </blockquote>
 </p>
 
