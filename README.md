@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There surely is in human nature an inherent propensity to extract all the good out of all the evil."</i>
+<i>"A lie gets halfway around the world before the truth has a chance to get its pants on."</i>
 <br>
-<b>- Benjamin Haydon</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
