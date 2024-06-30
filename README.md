@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A lie gets halfway around the world before the truth has a chance to get its pants on."</i>
+<i>"Learn to value yourself, which means: fight for your happiness."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
