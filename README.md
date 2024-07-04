@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best cure for the body is a quiet mind."</i>
+<i>"It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not."</i>
 <br>
-<b>- Napoleon</b>
+<b>- Mignon McLaughlin</b>
 </blockquote>
 </p>
 
