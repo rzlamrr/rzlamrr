@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is important to our friends to believe that we are unreservedly frank with them, and important to friendship that we are not."</i>
+<i>"Success is not final; failure is not fatal: it is the courage to continue that counts."</i>
 <br>
-<b>- Mignon McLaughlin</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
