@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is not final; failure is not fatal: it is the courage to continue that counts."</i>
+<i>"If you are going to achieve excellence in big things, you develop the habit in little matters."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
