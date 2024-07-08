@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Rare as is true love, true friendship is rarer."</i>
+<i>"It's so simple to be wise. Just think of something stupid to say and then don't say it."</i>
 <br>
-<b>- Jean de La Fontaine</b>
+<b>- Sam Levenson</b>
 </blockquote>
 </p>
 
