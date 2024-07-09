@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's so simple to be wise. Just think of something stupid to say and then don't say it."</i>
+<i>"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."</i>
 <br>
-<b>- Sam Levenson</b>
+<b>- Edward Young</b>
 </blockquote>
 </p>
 
