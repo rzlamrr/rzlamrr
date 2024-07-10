@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On every thorn, delightful wisdom grows, in every rill a sweet instruction flows."</i>
+<i>"Learn the rules like a pro, so you can break them like an artist."</i>
 <br>
-<b>- Edward Young</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
