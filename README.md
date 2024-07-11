@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Learn the rules like a pro, so you can break them like an artist."</i>
+<i>"Go put your creed into the deed. Nor speak with double tongue."</i>
 <br>
-<b>- Pablo Picasso</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
