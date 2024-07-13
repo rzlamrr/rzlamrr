@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you aren't sure which way to do something, do it both ways and see which works better."</i>
+<i>"It is the province of knowledge to speak, and it is the privilege of wisdom to listen."</i>
 <br>
-<b>- John Carmack</b>
+<b>- Oliver Wendell Holmes Jr.</b>
 </blockquote>
 </p>
 
