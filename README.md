@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Without passion man is a mere latent force and possibility, like the flint which awaits the shock of the iron before it can give forth its spark."</i>
+<i>"The decisions of our past are the architects of our present."</i>
 <br>
-<b>- Henri-Frédéric Amiel</b>
+<b>- Dan Brown</b>
 </blockquote>
 </p>
 
