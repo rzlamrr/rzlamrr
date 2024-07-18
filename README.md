@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The decisions of our past are the architects of our present."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Dan Brown</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
