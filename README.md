@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Our strength grows out of our weaknesses."</i>
+<i>"Leave no stone unturned."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
