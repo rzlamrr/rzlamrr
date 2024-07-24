@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there."</i>
+<i>"A self that goes on changing is a self that goes on living."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Virginia Woolf</b>
 </blockquote>
 </p>
 
