@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A self that goes on changing is a self that goes on living."</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- Virginia Woolf</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
