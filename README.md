@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"The single most powerful asset we all have is our mind."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Robert Kiyosaki</b>
 </blockquote>
 </p>
 
