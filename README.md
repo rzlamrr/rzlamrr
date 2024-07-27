@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The single most powerful asset we all have is our mind."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
