@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A poem begins in delight and ends in wisdom."</i>
+<i>"Never, never, never give up."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
