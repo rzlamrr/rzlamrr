@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never, never, never give up."</i>
+<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
