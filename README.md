@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most great people have attained their greatest success just one step beyond their greatest failure."</i>
+<i>"No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- W. Clement Stone</b>
 </blockquote>
 </p>
 
