@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how carefully you plan your goals they will never be more than pipe dreams unless you pursue them with gusto."</i>
+<i>"All phenomena are preceded by the mind, created by the mind, and have the mind as their master."</i>
 <br>
-<b>- W. Clement Stone</b>
+<b>- The Buddha</b>
 </blockquote>
 </p>
 
