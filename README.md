@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All phenomena are preceded by the mind, created by the mind, and have the mind as their master."</i>
+<i>"A business that makes nothing but money is a poor business."</i>
 <br>
-<b>- The Buddha</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
