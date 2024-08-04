@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A business that makes nothing but money is a poor business."</i>
+<i>"There is a big difference between being centered and being self-centered."</i>
 <br>
-<b>- Henry Ford</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
