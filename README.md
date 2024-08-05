@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is a big difference between being centered and being self-centered."</i>
+<i>"A single rose can be my garden... a single friend, my world."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Leo Buscaglia</b>
 </blockquote>
 </p>
 
