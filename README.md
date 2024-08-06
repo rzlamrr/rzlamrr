@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A single rose can be my garden... a single friend, my world."</i>
+<i>"The heart has eyes which the brain knows nothing of."</i>
 <br>
-<b>- Leo Buscaglia</b>
+<b>- Charles Henry Parkhurst</b>
 </blockquote>
 </p>
 
