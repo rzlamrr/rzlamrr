@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The heart has eyes which the brain knows nothing of."</i>
+<i>"Eighty percent of success is showing up."</i>
 <br>
-<b>- Charles Henry Parkhurst</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
