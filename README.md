@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Creativity is intelligence having fun."</i>
+<i>"I know but one freedom and that is the freedom of the mind."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Antoine de Saint-Exupéry</b>
 </blockquote>
 </p>
 
