@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I know but one freedom and that is the freedom of the mind."</i>
+<i>"Our intention creates our reality."</i>
 <br>
-<b>- Antoine de Saint-Exupéry</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
