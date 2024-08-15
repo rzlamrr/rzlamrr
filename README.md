@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"What matters is the value we've created in our lives, the people we've made happy and how much we've grown as people."</i>
+<i>"I would rather be hated for who I am than loved for who I'm not.  "</i>
 <br>
-<b>- Daisaku Ikeda</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
