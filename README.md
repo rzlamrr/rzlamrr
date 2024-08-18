@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason."</i>
+<i>"The sweetest pleasure arises from difficulties overcome."</i>
 <br>
-<b>- Immanuel Kant</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
