@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The sweetest pleasure arises from difficulties overcome."</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
