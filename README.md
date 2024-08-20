@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't blame others. it won't make you a better person."</i>
+<i>"The best thing in every noble dream is the dreamer..."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Moncure D. Conway</b>
 </blockquote>
 </p>
 
