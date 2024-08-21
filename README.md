@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best thing in every noble dream is the dreamer..."</i>
+<i>"I will prepare and someday my chance will come."</i>
 <br>
-<b>- Moncure D. Conway</b>
+<b>- Abraham Lincoln</b>
 </blockquote>
 </p>
 
