@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I will prepare and someday my chance will come."</i>
+<i>"There is no greater agony than bearing an untold story inside you."</i>
 <br>
-<b>- Abraham Lincoln</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
