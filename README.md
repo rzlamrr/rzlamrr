@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greater agony than bearing an untold story inside you."</i>
+<i>"Sooner or later, those who win are those who think they can."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
