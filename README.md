@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sooner or later, those who win are those who think they can."</i>
+<i>"We suffer more often in imagination than in reality."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
