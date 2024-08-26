@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"If you want something you've never had you must be willing to do something you've never done."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
