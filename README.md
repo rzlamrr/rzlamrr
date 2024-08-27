@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want something you've never had you must be willing to do something you've never done."</i>
+<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
 <br>
-<b>- Thomas Jefferson</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
