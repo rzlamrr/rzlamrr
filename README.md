@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The happiness of your life depends upon the quality of your thoughts; therefore guard accordingly."</i>
+<i>"If you correct your mind, the rest of your life will fall into place."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Laozi</b>
 </blockquote>
 </p>
 
