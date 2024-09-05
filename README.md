@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you win, say nothing, when you lose say less."</i>
+<i>"You can not live your life just based on what everyone else thinks."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Joyce Meyer</b>
 </blockquote>
 </p>
 
