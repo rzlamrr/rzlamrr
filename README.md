@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can not live your life just based on what everyone else thinks."</i>
+<i>"We run to win, not just to be in the race.  "</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Vince Lombardi</b>
 </blockquote>
 </p>
 
