@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest challenge after success is shutting up about it."</i>
+<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Winston Churchill</b>
 </blockquote>
 </p>
 
