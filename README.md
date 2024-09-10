@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Continuous effort - not strength or intelligence - is the key to unlocking our potential."</i>
+<i>"Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Gloria Steinem</b>
 </blockquote>
 </p>
 
