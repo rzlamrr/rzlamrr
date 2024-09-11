@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself."</i>
+<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Thomas Edison</b>
 </blockquote>
 </p>
 
