@@ -127,7 +127,7 @@ quotes() {
 commit() {
     git config --global user.email "rzlamrr.dvst@protonmail.com"
     git config --global user.name "rzlamrr"
-    git commit -asm "$(curl -s https://whatthecommit.com/index.txt)"
+    git commit -am "$(curl -s https://whatthecommit.com/index.txt)"
 }
 
 ##### START #####
