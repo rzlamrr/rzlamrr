@@ -99,7 +99,7 @@ clean() {
 }
 
 quotes() {
-    if curl -s ${api[$rapi]} > data.json; then
+    if curl -s "https://zenquotes.io/api/random" > data.json; then
         cat data.json
         if jq -r '.[] .q' data.json; then
             quote=$(jq -r '.[] .q' data.json)
