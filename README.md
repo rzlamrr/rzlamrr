@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i>
+<i>"Be yourself; everyone else is already taken."</i>
 <br>
-<b>- Thomas Edison</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
