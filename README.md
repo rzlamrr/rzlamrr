@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be yourself; everyone else is already taken."</i>
+<i>"The quality of your commitments will determine the course of your life."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Ralph Marston</b>
 </blockquote>
 </p>
 
