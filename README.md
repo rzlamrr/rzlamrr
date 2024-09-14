@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everyone must choose one of two pains: The pain of discipline or the pain of regret."</i>
+<i>"It is ignorance that causes most mistakes."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
