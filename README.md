@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't wait for extraordinary opportunities. Seize common occasions and make them great."</i>
+<i>"Dance first. Think later. It's the natural order."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Samuel Beckett</b>
 </blockquote>
 </p>
 
