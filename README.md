@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is getting what you want, happiness is wanting what you get."</i>
+<i>"Even in the grave, all is not lost."</i>
 <br>
-<b>- W.P. Kinsella</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
