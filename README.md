@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even in the grave, all is not lost."</i>
+<i>"If you do what you've always done, you'll get what you've always gotten."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
