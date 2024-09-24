@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The soul without imagination is what an observatory would be without a telescope."</i>
+<i>"Where the willingness is great, the difficulties cannot be great."</i>
 <br>
-<b>- Henry Ward Beecher</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
