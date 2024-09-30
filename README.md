@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man who cannot tolerate small misfortunes can never accomplish great things."</i>
+<i>"You can, you should, and if you're brave enough to start, you will."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Stephen King</b>
 </blockquote>
 </p>
 
