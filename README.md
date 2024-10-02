@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are willing to believe anything other than the truth."</i>
+<i>"Change is never easy, but always possible."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
