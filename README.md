@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never argue with stupid people, they will drag you down to their level and then beat you with experience."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Mark Twain</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
