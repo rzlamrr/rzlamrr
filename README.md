@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you need inspiration, don't do it."</i>
+<i>"Your only obligation in any lifetime is to be true to yourself."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
