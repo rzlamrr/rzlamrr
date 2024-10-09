@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"Do not fight with pigs - you will be smeared in mud but the pig will like it."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
