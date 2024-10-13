@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You talk when you cease to be at peace with your thoughts."</i>
+<i>"Little minds have little worries, big minds have no time for worries."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
