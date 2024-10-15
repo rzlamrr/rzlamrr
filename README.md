@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meditate. It won't be fun but it will surface what you need to deal with."</i>
+<i>"You know the more one does the more one can do."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Amelia Earhart</b>
 </blockquote>
 </p>
 
