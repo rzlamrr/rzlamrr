@@ -1,7 +1,6 @@
 #!/bin/bash
 
 export TZ=Asia/Jakarta
-
 var() {
     arr[0]="bot: 👋 Hello Github!"
     arr[1]="bot: 🥳 Yeayyy!"
