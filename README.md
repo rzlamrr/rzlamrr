@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You know the more one does the more one can do."</i>
+<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Ray Bradbury</b>
 </blockquote>
 </p>
 
