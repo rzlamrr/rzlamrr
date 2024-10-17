@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  "</i>
+<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
