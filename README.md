@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
+<i>"All things come into being by conflict of opposites."</i>
 <br>
-<b>- Steve Jobs</b>
+<b>- Heraclitus</b>
 </blockquote>
 </p>
 
