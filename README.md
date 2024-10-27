@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you've never eaten while crying you don t know what life tastes like."</i>
+<i>"To perceive is to suffer."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
