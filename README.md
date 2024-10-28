@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To perceive is to suffer."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
