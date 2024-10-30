@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!"</i>
+<i>"Wheresoever you go, go with all your heart."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
