@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wheresoever you go, go with all your heart."</i>
+<i>"Humans and prosperity never endure side by side for long."</i>
 <br>
-<b>- Confucius</b>
+<b>- Herodotus</b>
 </blockquote>
 </p>
 
