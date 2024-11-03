@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Appear weak when you are strong, and strong when you are weak."</i>
+<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
