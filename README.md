@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be grateful for what you have now, and nothing should be taken for granted."</i>
+<i>"No man is free who is not master of himself."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Epictetus</b>
 </blockquote>
 </p>
 
