@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Courage is found in unlikely places."</i>
+<i>"The worst part of success is trying to find someone who is happy for you."</i>
 <br>
-<b>- J.R.R. Tolkien</b>
+<b>- Bette Midler</b>
 </blockquote>
 </p>
 
