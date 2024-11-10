@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
+<i>"On the other side of the clouds is a bright blue sky."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
