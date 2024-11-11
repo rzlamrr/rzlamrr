@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"On the other side of the clouds is a bright blue sky."</i>
+<i>"Life is a process. We are a process. The universe is a process."</i>
 <br>
-<b>- Unknown</b>
+<b>- Anne Wilson Schaef</b>
 </blockquote>
 </p>
 
