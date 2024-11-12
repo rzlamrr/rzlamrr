@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a process. We are a process. The universe is a process."</i>
+<i>"Failure is simply the opportunity to begin again, this time more intelligently."</i>
 <br>
-<b>- Anne Wilson Schaef</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
