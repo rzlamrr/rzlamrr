@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Never whine, never complain, never try to justify yourself."</i>
+<i>"Our view of the world is truly shaped by what we decide to hear."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
