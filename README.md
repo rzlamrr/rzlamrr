@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let not your mind run on what you lack as much as on what you have already."</i>
+<i>"Have the courage to follow your heart and intuition. They somehow know what you truly want to become."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Steve Jobs</b>
 </blockquote>
 </p>
 
