@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You give but little when you give of your possessions. It is when you give of yourself that you truly give."</i>
+<i>"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
