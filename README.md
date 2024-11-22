@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is ignorance that causes most mistakes."</i>
+<i>"If I have seen further than others, it is by standing upon the shoulders of giants."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
