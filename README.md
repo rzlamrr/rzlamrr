@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"The biggest challenge after success is shutting up about it."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
