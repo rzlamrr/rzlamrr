@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not doing it is certainly the best way to not getting it.  "</i>
+<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
 <br>
-<b>- Wayne Gretzky</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
