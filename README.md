@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way."</i>
+<i>"To plant a garden is to believe in tomorrow.  "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Audrey Hepburn</b>
 </blockquote>
 </p>
 
