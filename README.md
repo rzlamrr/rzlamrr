@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think and wonder, wonder and think."</i>
+<i>"We become brave by doing brave acts."</i>
 <br>
-<b>- Dr. Seuss</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
