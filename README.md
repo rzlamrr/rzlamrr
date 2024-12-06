@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We become brave by doing brave acts."</i>
+<i>"Just get out and do it. You will be very, very glad that you did."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
