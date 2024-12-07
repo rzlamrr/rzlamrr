@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Just get out and do it. You will be very, very glad that you did."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
