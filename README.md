@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You have a brain and mind of your own. Use it, and reach your own decisions."</i>
+<i>"Trust is built and maintained by many small actions over time."</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
