@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is built and maintained by many small actions over time."</i>
+<i>"Talent is luck. The important thing in life is courage."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Woody Allen</b>
 </blockquote>
 </p>
 
