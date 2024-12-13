@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life may be full of pain but that's not an excuse to give up."</i>
+<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
