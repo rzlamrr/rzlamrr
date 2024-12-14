@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
+<i>"No one is useless in this world who lightens the burdens of another."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
