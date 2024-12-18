@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."</i>
+<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- John Lennon</b>
 </blockquote>
 </p>
 
