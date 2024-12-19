@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything will be ok in the end. If it's not ok, it's not the end."</i>
+<i>"You can have results or excuses, but not both."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
