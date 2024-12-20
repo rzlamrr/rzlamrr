@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can have results or excuses, but not both."</i>
+<i>"Success is built sequentially. It's one thing at a time."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
