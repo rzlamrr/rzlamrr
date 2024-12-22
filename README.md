@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
+<i>"You're never too old for anything."</i>
 <br>
-<b>- Alexandre Dumas</b>
+<b>- Betty White</b>
 </blockquote>
 </p>
 
