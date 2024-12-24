@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Far and away the best prize that life has to offer is the chance to work hard at work worth doing."</i>
+<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
