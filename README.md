@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who is not contented with what he has, would not be contented with what he would like to have."</i>
+<i>"If you want more luck, take more chances."</i>
 <br>
-<b>- Socrates</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
