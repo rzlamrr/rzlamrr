@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want more luck, take more chances."</i>
+<i>"The greatest weariness comes from work not done."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
