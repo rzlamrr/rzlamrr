@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If your happiness depends on what somebody else does, I guess you do have a problem."</i>
+<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
