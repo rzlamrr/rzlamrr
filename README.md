@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. "</i>
+<i>"What the caterpillar calls the end of the world, the master calls a butterfly."</i>
 <br>
-<b>- Lao Tzu</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
