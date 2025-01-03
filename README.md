@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure will never overtake me if my determination to succeed is strong enough."</i>
+<i>"Heal the past, live the present, dream the future."</i>
 <br>
-<b>- Og Mandino</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
