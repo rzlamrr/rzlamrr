@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Heal the past, live the present, dream the future."</i>
+<i>"I try more and more to be myself, caring relatively little whether people approve or disapprove."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
