@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"How to get more opportunity: Create more opportunity for others."</i>
+<i>"The sweetest pleasure arises from difficulties overcome."</i>
 <br>
-<b>- Jack Butcher</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
