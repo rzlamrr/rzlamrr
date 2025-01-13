@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We can either add to our character each day, or we can fritter away our energies in distractions."</i>
+<i>"People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
