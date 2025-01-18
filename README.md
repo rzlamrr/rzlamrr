@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Memory is the scribe of the soul."</i>
+<i>"You can't go forward and backwards at the same time."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
