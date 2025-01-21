@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"From a certain point onward there is no longer any turning back. That is the point that must be reached."</i>
+<i>"We are like islands in the sea, separate on the surface but connected in the deep."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
