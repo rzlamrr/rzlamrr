@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will."</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty."</i>
 <br>
-<b>- Epictetus</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
