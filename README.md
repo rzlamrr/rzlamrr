@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities."</i>
+<i>"To the world you may be one person; but to one person you may be the world."</i>
 <br>
-<b>- Charles Dickens</b>
+<b>- Dr. Seuss</b>
 </blockquote>
 </p>
 
