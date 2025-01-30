@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When people are free to do as they please, they usually imitate each other."</i>
+<i>"Believe you can and you will be halfway there."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
