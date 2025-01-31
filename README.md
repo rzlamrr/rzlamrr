@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe you can and you will be halfway there."</i>
+<i>"If I can stop one heart from breaking, I shall not live in vain."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
