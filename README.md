@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Worry is a waste of emotional reserve."</i>
+<i>"If you are far from the enemy, make him believe you are near."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Sun Tzu</b>
 </blockquote>
 </p>
 
