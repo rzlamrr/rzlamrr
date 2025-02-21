@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Always turn a negative situation into a positive situation."</i>
+<i>"The greatest miracle is to be alive."</i>
 <br>
-<b>- Michael Jordan</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
