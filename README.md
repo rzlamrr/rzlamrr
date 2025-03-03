@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The ability to observe without evaluating is the highest form of intelligence."</i>
+<i>"Where there is no struggle, there is no strength. "</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
