@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength. "</i>
+<i>"Light a candle instead of cursing the darkness."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
