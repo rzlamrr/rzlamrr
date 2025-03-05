@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Light a candle instead of cursing the darkness."</i>
+<i>"It takes half your life before you discover life is a do-it-yourself project."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
