@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can put lipstick on a pig. It's still a pig."</i>
+<i>"Listen to what you know instead of what you fear."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Richard Bach</b>
 </blockquote>
 </p>
 
