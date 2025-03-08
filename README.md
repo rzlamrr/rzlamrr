@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Listen to what you know instead of what you fear."</i>
+<i>"Love is merely the name for the desire and pursuit of the whole."</i>
 <br>
-<b>- Richard Bach</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
