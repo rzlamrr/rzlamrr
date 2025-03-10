@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Jeffrey Gitomer</b>
 </blockquote>
 </p>
 
