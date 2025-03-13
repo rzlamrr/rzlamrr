@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Once you learn to quit, it becomes a habit."</i>
+<i>"If you pray for rain, be prepared to deal with some mud."</i>
 <br>
-<b>- Vince Lombardi</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
