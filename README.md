@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you pray for rain, be prepared to deal with some mud."</i>
+<i>"The more you trust yourself, the less you compare yourself to others."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
