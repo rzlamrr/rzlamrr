@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The man who does not value himself, cannot value anything or anyone."</i>
+<i>"To be in harmony with the wholeness of things is not to have anxiety over imperfections."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Dogen</b>
 </blockquote>
 </p>
 
