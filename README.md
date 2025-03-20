@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. "</i>
+<i>"The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Helen Keller</b>
 </blockquote>
 </p>
 
