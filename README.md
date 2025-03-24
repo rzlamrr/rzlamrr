@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Lust, anger and greed are the three gates to self-destructive hell."</i>
+<i>"Creativity is intelligence having fun."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
