@@ -42,7 +42,7 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your only obligation in any lifetime is to be true to yourself."</i>
+<i>"True love stories never have endings."</i>
 <br>
 <b>- Richard Bach</b>
 </blockquote>
