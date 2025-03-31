@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the silly little dramas of each day get you down. For you are here to do great things."</i>
+<i>"It is ignorance that causes most mistakes."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
