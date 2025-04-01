@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is ignorance that causes most mistakes."</i>
+<i>"Absurdity is the ecstasy of intellectualism."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
