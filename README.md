@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"May you find grace as you surrender to life. May you find happiness, as you stop seeking it."</i>
+<i>"Exceptional thinkers ignore their critics and go about their business making history."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- John Eliot</b>
 </blockquote>
 </p>
 
