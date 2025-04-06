@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present."</i>
+<i>"How you think when you lose determines how long it will be until you win."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Gilbert Chesterton</b>
 </blockquote>
 </p>
 
