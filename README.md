@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all self-made, but only the successful will admit it."</i>
+<i>"The goal is not to be perfect by the end, the goal is to be better today."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
