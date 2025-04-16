@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A mistake is only an error, it becomes a mistake when you fail to correct it."</i>
+<i>"There is a big difference between being centered and being self-centered."</i>
 <br>
-<b>- John Lennon</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
