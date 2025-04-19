@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Conquer the devils with a little thing called love."</i>
+<i>"Never settle for the crumbs of life."</i>
 <br>
-<b>- Bob Marley</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
