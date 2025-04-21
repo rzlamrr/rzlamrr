@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."</i>
+<i>"Health is the greatest of all possessions."</i>
 <br>
-<b>- James Allen</b>
+<b>- Jonathan Swift</b>
 </blockquote>
 </p>
 
