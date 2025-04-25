@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can discover what your enemy fears most by observing the means he uses to frighten you."</i>
+<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
