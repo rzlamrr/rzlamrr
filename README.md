@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts."</i>
+<i>"What the mind can conceive, it can achieve."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
