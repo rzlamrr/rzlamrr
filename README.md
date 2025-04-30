@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you want to know what God thinks about money just look at the people He gives it to."</i>
+<i>"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
