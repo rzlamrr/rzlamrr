@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living life in style also means living a life of balance."</i>
+<i>"There is little success where there is little laughter."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Andrew Carnegie</b>
 </blockquote>
 </p>
 
