@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We live only now. Everything else is either passed or is unknown."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
