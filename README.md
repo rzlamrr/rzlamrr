@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who attain the middle Dominate the whole."</i>
+<i>"Those who cannot change their minds cannot change anything."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- George Bernard Shaw</b>
 </blockquote>
 </p>
 
