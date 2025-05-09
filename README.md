@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the End, we will remember not the words of our enemies, but the silence of our friends."</i>
+<i>"The constant assertion of belief is an indication of fear."</i>
 <br>
-<b>- Martin Luther King, Jr.</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
