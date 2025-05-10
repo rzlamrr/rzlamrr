@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The constant assertion of belief is an indication of fear."</i>
+<i>"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day."</i>
 <br>
-<b>- Jiddu Krishnamurti</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
