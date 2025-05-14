@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If they wrote it to make money, don't read it."</i>
+<i>"Go as far as you can see and you will see further.  "</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Zig Ziglar</b>
 </blockquote>
 </p>
 
