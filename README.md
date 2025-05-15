@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Go as far as you can see and you will see further.  "</i>
+<i>"There is always room in your life for thinking bigger, pushing limits and imagining the impossible."</i>
 <br>
-<b>- Zig Ziglar</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
