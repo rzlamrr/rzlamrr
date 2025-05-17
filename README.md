@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Expect the best of yourself, and then do what is necessary to make it a reality."</i>
+<i>"Keep smiling, because life is a beautiful thing and there's so much to smile about."</i>
 <br>
-<b>- Ralph Marston</b>
+<b>- Marilyn Monroe</b>
 </blockquote>
 </p>
 
