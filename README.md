@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be mindful. Be grateful. Be positive. Be true. Be kind."</i>
+<i>"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Barack Obama</b>
 </blockquote>
 </p>
 
