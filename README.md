@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My powers are ordinary. Only my application brings me success."</i>
+<i>"When you move beyond your fear, you feel free."</i>
 <br>
-<b>- Isaac Newton</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
