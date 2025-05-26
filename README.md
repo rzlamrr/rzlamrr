@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The positive thinker sees the invisible, feels the intangible, and achieves the impossible."</i>
+<i>"The less you respond to negative people, the more positive your life will become."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Paulo Coelho</b>
 </blockquote>
 </p>
 
