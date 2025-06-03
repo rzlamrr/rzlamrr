@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Friendship is one of the most tangible things in a world which offers fewer and fewer supports."</i>
+<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
 <br>
-<b>- Kenneth Branagh</b>
+<b>- Elvis Presley</b>
 </blockquote>
 </p>
 
