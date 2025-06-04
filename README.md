@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Values are like fingerprints. Nobody's are the same, but you leave 'em all over everything you do."</i>
+<i>"Keep your face always toward the sunshine -  shadows will fall behind you."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
