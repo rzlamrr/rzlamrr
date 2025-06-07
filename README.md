@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Animals don't hate, and we're supposed to be better than them."</i>
+<i>"Don't blame others. it won't make you a better person."</i>
 <br>
-<b>- Elvis Presley</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
