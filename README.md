@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't blame others. it won't make you a better person."</i>
+<i>"I am not proud, but I am happy; and happiness blinds, I think, more than pride."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
