@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
+<i>"Age is a very high price to pay for maturity."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
