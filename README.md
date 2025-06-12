@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"Don't let the past steal your present."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Cherralea Morgen</b>
 </blockquote>
 </p>
 
