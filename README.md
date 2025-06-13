@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let the past steal your present."</i>
+<i>"Patience is a bitter plant, but its fruit is sweet."</i>
 <br>
-<b>- Cherralea Morgen</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
