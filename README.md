@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Patience is a bitter plant, but its fruit is sweet."</i>
+<i>"Each problem has a positive side."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
