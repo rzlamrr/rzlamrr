@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is going from failure to failure without losing your enthusiasm"</i>
+<i>"Knowledge has to be improved, challenged, and increased constantly, or it vanishes."</i>
 <br>
-<b>- Winston Churchill</b>
+<b>- Peter Drucker</b>
 </blockquote>
 </p>
 
