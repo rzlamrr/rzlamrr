@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"All animals except man know that the principal business of life is to enjoy it."</i>
+<i>"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right."</i>
 <br>
-<b>- Samuel Butler</b>
+<b>- Sonia Ricotti</b>
 </blockquote>
 </p>
 
