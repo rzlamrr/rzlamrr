@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no greatness where there is not simplicity, goodness, and truth."</i>
+<i>"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Tony Robbins</b>
 </blockquote>
 </p>
 
