@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You cannot control the behavior of others, but you can always choose how you respond to it."</i>
+<i>"Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Sigmund Freud</b>
 </blockquote>
 </p>
 
