@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't seek, don't search, don't ask, don't knock, don't demand - relax."</i>
+<i>"Nothing can dim the light which shines from within."</i>
 <br>
-<b>- Osho</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
