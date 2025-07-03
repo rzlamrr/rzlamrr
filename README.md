@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Nothing can dim the light which shines from within."</i>
+<i>"Victory is always possible for the person who refuses to stop fighting."</i>
 <br>
-<b>- Maya Angelou</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
