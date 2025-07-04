@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Victory is always possible for the person who refuses to stop fighting."</i>
+<i>"It's always to soon to quit!"</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
