@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It's always to soon to quit!"</i>
+<i>"No great mind has ever existed without a touch of madness."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
