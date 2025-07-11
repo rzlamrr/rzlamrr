@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only by attracting the best people will you accomplish great deeds."</i>
+<i>"The world makes way for the man who knows where he is going."</i>
 <br>
-<b>- Colin Powell</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
