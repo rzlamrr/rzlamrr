@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The world makes way for the man who knows where he is going."</i>
+<i>"Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
