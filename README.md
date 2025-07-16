@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If it is not right, do not do it, if it is not true, do not say it."</i>
+<i>"If no one ever broke the rules, then we'd never advance."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
