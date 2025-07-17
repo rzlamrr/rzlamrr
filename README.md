@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If no one ever broke the rules, then we'd never advance."</i>
+<i>"A rational person can find peace by cultivating indifference to things outside of their control."</i>
 <br>
-<b>- Simon Sinek</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
