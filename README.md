@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A wise person should have money in their head, but not in their heart."</i>
+<i>"To seek greatness is the only righteous vengeance."</i>
 <br>
-<b>- Jonathan Swift</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
