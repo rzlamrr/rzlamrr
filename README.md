@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To seek greatness is the only righteous vengeance."</i>
+<i>"Life moves on and so should we."</i>
 <br>
-<b>- Criss Jami</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
