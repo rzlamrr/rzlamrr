@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life moves on and so should we."</i>
+<i>"Where there's life, there's hope."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Stephen Hawking</b>
 </blockquote>
 </p>
 
