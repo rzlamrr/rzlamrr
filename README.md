@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise people, even though all laws were abolished, would still lead the same life."</i>
+<i>"Happiness is pretty simple: someone to love, something to do, something to look forward to."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
