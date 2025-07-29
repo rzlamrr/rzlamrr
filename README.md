@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The season of failure is the best time for sowing the seeds of success. "</i>
+<i>"Life is too important to be taken seriously."</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
