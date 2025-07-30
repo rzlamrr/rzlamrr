@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is too important to be taken seriously."</i>
+<i>"Misfortune shows those who are not really friends."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Aristotle</b>
 </blockquote>
 </p>
 
