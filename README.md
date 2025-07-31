@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Misfortune shows those who are not really friends."</i>
+<i>"It always seems impossible until it's done."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Nelson Mandela</b>
 </blockquote>
 </p>
 
