@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view."</i>
+<i>"There is no truth. There is only perception."</i>
 <br>
-<b>- Alfred Adler</b>
+<b>- Gustave Flaubert</b>
 </blockquote>
 </p>
 
