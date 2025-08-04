@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no truth. There is only perception."</i>
+<i>"True prayer has no set form."</i>
 <br>
-<b>- Gustave Flaubert</b>
+<b>- Morihei Ueshiba</b>
 </blockquote>
 </p>
 
