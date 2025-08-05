@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"True prayer has no set form."</i>
+<i>"We make a living by what we get, but we make a life by what we give."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
