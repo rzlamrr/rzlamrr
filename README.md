@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience."</i>
+<i>"You'll get more from being a peacemaker than a warrior."</i>
 <br>
-<b>- Deepak Chopra</b>
+<b>- Arnold Schwarzenegger</b>
 </blockquote>
 </p>
 
