@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You'll get more from being a peacemaker than a warrior."</i>
+<i>"The less you talk about your shame, the more of it you have."</i>
 <br>
-<b>- Arnold Schwarzenegger</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
