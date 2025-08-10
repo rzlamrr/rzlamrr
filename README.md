@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The less you talk about your shame, the more of it you have."</i>
+<i>"The only man who never makes mistakes is the man who never does anything."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
