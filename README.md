@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I believe that potential is unlimited - success depends on daring to act on dreams.   "</i>
+<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
 <br>
-<b>- Estee Lauder</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
