@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest mistake you can make in life is to be continually fearing you will make one."</i>
+<i>"I have never in my life learned anything from any man who agreed with me."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Dudley Field Malone</b>
 </blockquote>
 </p>
 
