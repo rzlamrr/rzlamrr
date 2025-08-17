@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life. "</i>
+<i>"Where we fall are the stepping-stones for our journey."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
