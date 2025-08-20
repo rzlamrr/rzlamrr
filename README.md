@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"In the practice of tolerance, one's enemy is the best teacher."</i>
+<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Martin Luther</b>
 </blockquote>
 </p>
 
