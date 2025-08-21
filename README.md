@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. "</i>
+<i>"Perplexity is the beginning of knowledge."</i>
 <br>
-<b>- Martin Luther</b>
+<b>- Kahlil Gibran</b>
 </blockquote>
 </p>
 
