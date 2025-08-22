@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Perplexity is the beginning of knowledge."</i>
+<i>"Make each day a new horizon."</i>
 <br>
-<b>- Kahlil Gibran</b>
+<b>- Christopher McCandless</b>
 </blockquote>
 </p>
 
