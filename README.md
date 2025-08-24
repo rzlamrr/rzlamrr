@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are all born ignorant, but one must work hard to remain stupid."</i>
+<i>"The busy man is never wise and the wise man is never busy."</i>
 <br>
-<b>- Benjamin Franklin</b>
+<b>- Lin Yutang</b>
 </blockquote>
 </p>
 
