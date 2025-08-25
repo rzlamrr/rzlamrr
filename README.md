@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The busy man is never wise and the wise man is never busy."</i>
+<i>"Faults are yours to fix, not to curse."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Colin Powell</b>
 </blockquote>
 </p>
 
