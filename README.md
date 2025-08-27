@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him."</i>
+<i>"When you judge others, you do not define them, you define yourself."</i>
 <br>
-<b>- Confucius</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
