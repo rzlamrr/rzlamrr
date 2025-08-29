@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"At the end of the day, let there be no excuses, no explanations, no regrets."</i>
+<i>"The power to make and break habits and learning how to do that is really important."</i>
 <br>
-<b>- Steve Maraboli</b>
+<b>- Naval Ravikant</b>
 </blockquote>
 </p>
 
