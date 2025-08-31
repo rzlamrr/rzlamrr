@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Only when I fall do I get up again."</i>
+<i>"When you can't make them see the light, make them feel the heat."</i>
 <br>
-<b>- Vincent van Gogh</b>
+<b>- Ronald Reagan</b>
 </blockquote>
 </p>
 
