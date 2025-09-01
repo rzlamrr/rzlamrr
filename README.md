@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When you can't make them see the light, make them feel the heat."</i>
+<i>"Convinced myself, I seek not to convince."</i>
 <br>
-<b>- Ronald Reagan</b>
+<b>- Edgar Allan Poe</b>
 </blockquote>
 </p>
 
