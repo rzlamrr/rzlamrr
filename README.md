@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace of mind is that mental condition in which you have accepted the worst."</i>
+<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher."</i>
 <br>
-<b>- Lin Yutang</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
