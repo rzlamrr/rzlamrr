@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Leaders think and talk about solutions. Followers think and talk about the problems."</i>
+<i>"Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. "</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Denis Waitley</b>
 </blockquote>
 </p>
 
