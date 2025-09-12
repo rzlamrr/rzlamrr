@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The key to success is action."</i>
+<i>"Success is the progressive realization of a worthy goal or ideal."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
