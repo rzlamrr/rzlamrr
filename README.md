@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be - don't try to become "</i>
+<i>"Fools resist. The wise embrace."</i>
 <br>
-<b>- Osho</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
