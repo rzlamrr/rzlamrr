@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Know yourself and you will win all battles."</i>
+<i>"Life's too mysterious to take too serious."</i>
 <br>
-<b>- Sun Tzu</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
