@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life's too mysterious to take too serious."</i>
+<i>"Thinking is difficult, that's why most people judge."</i>
 <br>
-<b>- Mary Engelbreit</b>
+<b>- Carl Jung</b>
 </blockquote>
 </p>
 
