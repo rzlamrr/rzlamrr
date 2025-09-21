@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams."</i>
+<i>"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it."</i>
 <br>
-<b>- D. H. Lawrence</b>
+<b>- Alexandre Dumas</b>
 </blockquote>
 </p>
 
