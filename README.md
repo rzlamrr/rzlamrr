@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Man should fear never beginning to live."</i>
+<i>"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
