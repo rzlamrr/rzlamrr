@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened."</i>
+<i>"Action may not always bring happiness, but there is no happiness without action."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- William James</b>
 </blockquote>
 </p>
 
