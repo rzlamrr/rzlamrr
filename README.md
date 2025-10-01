@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is easy to discover what another has discovered before."</i>
+<i>"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution."</i>
 <br>
-<b>- Christopher Columbus</b>
+<b>- Albus Dumbledore</b>
 </blockquote>
 </p>
 
