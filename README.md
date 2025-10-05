@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judge a man by his questions rather than his answers."</i>
+<i>"There's no next time. It's now or never."</i>
 <br>
-<b>- Voltaire</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
