@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There's no next time. It's now or never."</i>
+<i>"To become what you are not, behave as you do not."</i>
 <br>
-<b>- Celestine Chua</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
