@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To become what you are not, behave as you do not."</i>
+<i>"Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
