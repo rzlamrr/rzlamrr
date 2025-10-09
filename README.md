@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless a man is master of his soul, all other kinds of mastery amount to little."</i>
+<i>"If you've made a mistake, it's better just to laugh at it."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Zen Proverb</b>
 </blockquote>
 </p>
 
