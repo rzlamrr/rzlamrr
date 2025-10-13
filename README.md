@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow. "</i>
+<i>"A day without laughter is a day wasted."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Charlie Chaplin</b>
 </blockquote>
 </p>
 
