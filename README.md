@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The score never interested me, only the game."</i>
+<i>"Your dream has to be bigger than your fear."</i>
 <br>
-<b>- Mae West</b>
+<b>- Steve Harvey</b>
 </blockquote>
 </p>
 
