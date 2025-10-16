@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Your dream has to be bigger than your fear."</i>
+<i>"If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form."</i>
 <br>
-<b>- Steve Harvey</b>
+<b>- Paramahansa Yogananda</b>
 </blockquote>
 </p>
 
