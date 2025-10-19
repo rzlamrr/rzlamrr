@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Respect was invented to cover the empty place where love should be."</i>
+<i>"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit."</i>
 <br>
-<b>- Leo Tolstoy</b>
+<b>- Napoleon Hill</b>
 </blockquote>
 </p>
 
