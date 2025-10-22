@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Everything you've ever wanted is on the other side of fear."</i>
+<i>"It is better to light a single candle than to curse the darkness."</i>
 <br>
-<b>- George Addair</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
