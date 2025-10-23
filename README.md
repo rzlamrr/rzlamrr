@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is better to light a single candle than to curse the darkness."</i>
+<i>"There are as many opinions as there are experts."</i>
 <br>
-<b>- Eleanor Roosevelt</b>
+<b>- Franklin D. Roosevelt</b>
 </blockquote>
 </p>
 
