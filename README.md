@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There are as many opinions as there are experts."</i>
+<i>"There is an essence of when you are fearless, you become more creative."</i>
 <br>
-<b>- Franklin D. Roosevelt</b>
+<b>- Gurbaksh Chahal</b>
 </blockquote>
 </p>
 
