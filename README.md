@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is an essence of when you are fearless, you become more creative."</i>
+<i>"Success is about doing the right thing, not about doing everything right."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
