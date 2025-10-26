@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is about doing the right thing, not about doing everything right."</i>
+<i>"The smallest of actions is always better than the noblest of intentions."</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
