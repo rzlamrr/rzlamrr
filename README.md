@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The smallest of actions is always better than the noblest of intentions."</i>
+<i>"Failure is an option here. If things are not failing, you are not innovating enough."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
