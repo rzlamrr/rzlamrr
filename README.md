@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"20 percent of your activities will account for 80 percent of your results."</i>
+<i>"The road to success is always under construction.."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
