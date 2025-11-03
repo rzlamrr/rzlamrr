@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Keep others in suspense, cultivate an air of unpredictability."</i>
+<i>"To every action there is always opposed an equal reaction."</i>
 <br>
-<b>- Robert Greene</b>
+<b>- Isaac Newton</b>
 </blockquote>
 </p>
 
