@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Blessed is he who expects nothing, for he shall never be disappointed."</i>
+<i>"Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable."</i>
 <br>
-<b>- Alexander Pope</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
