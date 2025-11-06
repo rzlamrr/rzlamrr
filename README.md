@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable."</i>
+<i>"Realize deeply that the present moment is all you ever have. "</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
