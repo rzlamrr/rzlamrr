@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A warrior does not give up what he loves, he finds the love in what he does."</i>
+<i>"Don't change your mind just because people are offended; change your mind if you're wrong."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Criss Jami</b>
 </blockquote>
 </p>
 
