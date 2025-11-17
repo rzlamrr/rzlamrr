@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The pen is the tongue of the mind. "</i>
+<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations."</i>
 <br>
-<b>- Miguel de Cervantes</b>
+<b>- Alfred Adler</b>
 </blockquote>
 </p>
 
