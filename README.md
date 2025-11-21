@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be happy in the moment, that's enough. Each moment is all we need, not more."</i>
+<i>"Without the confidence, nothing can be accomplished."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
