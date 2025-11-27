@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way of success is the way of continuous pursuit of knowledge."</i>
+<i>"Every time we liberate a woman, we liberate a man. "</i>
 <br>
-<b>- Napoleon Hill</b>
+<b>- Margaret Mead</b>
 </blockquote>
 </p>
 
