@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The great use of life is to spend it for something that will outlast it."</i>
+<i>"Worry is a waste of emotional reserve."</i>
 <br>
-<b>- William James</b>
+<b>- Ayn Rand</b>
 </blockquote>
 </p>
 
