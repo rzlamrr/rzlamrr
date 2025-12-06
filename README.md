@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We lie the loudest when we lie to ourselves."</i>
+<i>"Not until we are lost do we begin to understand ourselves."</i>
 <br>
-<b>- Eric Hoffer</b>
+<b>- Henry David Thoreau</b>
 </blockquote>
 </p>
 
