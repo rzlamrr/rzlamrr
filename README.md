@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Not until we are lost do we begin to understand ourselves."</i>
+<i>"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time."</i>
 <br>
-<b>- Henry David Thoreau</b>
+<b>- Og Mandino</b>
 </blockquote>
 </p>
 
