@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Those who cannot change their minds cannot change anything."</i>
+<i>"Life is about not knowing and then doing something anyway."</i>
 <br>
-<b>- George Bernard Shaw</b>
+<b>- Mark Manson</b>
 </blockquote>
 </p>
 
