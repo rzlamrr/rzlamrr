@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about not knowing and then doing something anyway."</i>
+<i>"Work is always an antidote to depression."</i>
 <br>
-<b>- Mark Manson</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
