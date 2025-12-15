@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights."</i>
+<i>"There is only the one reality, neither to be realized nor attained."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Huang Po</b>
 </blockquote>
 </p>
 
