@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It is best to begin at the beginning."</i>
+<i>"Don't set your own goals by what other people make important."</i>
 <br>
-<b>- Amelia Earhart</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
