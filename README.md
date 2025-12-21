@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Death and life have their determined appointments; riches and honors depend upon heaven. "</i>
+<i>"Absence makes the heart grow fonder."</i>
 <br>
-<b>- Confucius</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
