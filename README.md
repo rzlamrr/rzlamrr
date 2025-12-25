@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I am not absentminded. It is the presence of mind that makes me unaware of everything else."</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own."</i>
 <br>
-<b>- Gilbert Chesterton</b>
+<b>- Jon Kabat-Zinn</b>
 </blockquote>
 </p>
 
