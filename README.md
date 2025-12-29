@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Words used to attract the dull of wit are not to be relied on."</i>
+<i>"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy."</i>
 <br>
-<b>- Huang Po</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
