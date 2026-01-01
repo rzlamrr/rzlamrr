@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success."</i>
+<i>"It's the job that's never started that takes the longest to finish."</i>
 <br>
-<b>- James Cameron</b>
+<b>- J.R.R. Tolkien</b>
 </blockquote>
 </p>
 
