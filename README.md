@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Even if you persuade me, you won't persuade me."</i>
+<i>"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain."</i>
 <br>
-<b>- Aristophanes</b>
+<b>- Maya Angelou</b>
 </blockquote>
 </p>
 
