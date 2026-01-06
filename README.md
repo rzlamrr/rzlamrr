@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Play your part in life, but never forget that it is only a role."</i>
+<i>"It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  "</i>
 <br>
-<b>- Paramahansa Yogananda</b>
+<b>- Seneca</b>
 </blockquote>
 </p>
 
