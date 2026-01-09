@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Each path to knowledge involves different rules and these rules are not interchangeable."</i>
+<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
 <br>
-<b>- Barack Obama</b>
+<b>- Eckhart Tolle</b>
 </blockquote>
 </p>
 
