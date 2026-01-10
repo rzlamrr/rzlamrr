@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be the silent watcher of your thoughts and behavior. You are beneath the thinker."</i>
+<i>"He who cheats the earth will be cheated by the earth."</i>
 <br>
-<b>- Eckhart Tolle</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
