@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Evil is whatever distracts. "</i>
+<i>"The way we feel is the direct result of what we think."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
