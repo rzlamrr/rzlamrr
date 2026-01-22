@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The way we feel is the direct result of what we think."</i>
+<i>"Peace begins with a smile."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Mother Teresa</b>
 </blockquote>
 </p>
 
