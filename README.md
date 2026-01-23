@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Peace begins with a smile."</i>
+<i>"In the middle of difficulty lies opportunity."</i>
 <br>
-<b>- Mother Teresa</b>
+<b>- Albert Einstein</b>
 </blockquote>
 </p>
 
