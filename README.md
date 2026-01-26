@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I'd rather welcome change than cling to the past."</i>
+<i>"The greatest of empires, is the empire over one's self."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Publilius Syrus</b>
 </blockquote>
 </p>
 
