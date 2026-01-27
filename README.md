@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The greatest of empires, is the empire over one's self."</i>
+<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Johann Wolfgang von Goethe</b>
 </blockquote>
 </p>
 
