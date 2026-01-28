@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"None are more hopelessly enslaved than those who falsely believe they are free."</i>
+<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Earl Nightingale</b>
 </blockquote>
 </p>
 
