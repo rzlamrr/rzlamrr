@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored."</i>
+<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
 <br>
-<b>- Earl Nightingale</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
