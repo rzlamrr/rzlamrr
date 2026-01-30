@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Unless someone truly has the power to say no, they never truly have the power to say yes."</i>
+<i>"When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  "</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Wayne Dyer</b>
 </blockquote>
 </p>
 
