@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Often in the real world, it's not the smart that get ahead, but the bold."</i>
+<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
 <br>
-<b>- Robert Kiyosaki</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
