@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver."</i>
+<i>"Selfishness and greed, individual or national, cause most of our troubles."</i>
 <br>
-<b>- Ayn Rand</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
