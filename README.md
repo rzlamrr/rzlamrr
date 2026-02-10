@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't let making a living prevent you from making a life."</i>
+<i>"You can do two things at once, but you can't focus effectively on two things at once."</i>
 <br>
-<b>- John Wooden</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
