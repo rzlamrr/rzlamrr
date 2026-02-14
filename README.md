@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Convinced myself, I seek not to convince."</i>
+<i>"No idea, no matter how good, will work if it doesn't get used."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Peter A. Cohen</b>
 </blockquote>
 </p>
 
