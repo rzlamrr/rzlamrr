@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No idea, no matter how good, will work if it doesn't get used."</i>
+<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
 <br>
-<b>- Peter A. Cohen</b>
+<b>- Nicolas Chamfort</b>
 </blockquote>
 </p>
 
