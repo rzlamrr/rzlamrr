@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is."</i>
+<i>"If you truly love Nature, you will find beauty everywhere. "</i>
 <br>
-<b>- Nicolas Chamfort</b>
+<b>- Vincent van Gogh</b>
 </blockquote>
 </p>
 
