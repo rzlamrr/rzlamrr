@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Chase your passion, not your pension. "</i>
+<i>"Always keep your eyes open. Keep watching. Because whatever you see can inspire you."</i>
 <br>
-<b>- Denis Waitley</b>
+<b>- Grace Coddington</b>
 </blockquote>
 </p>
 
