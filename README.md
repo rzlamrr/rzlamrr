@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Time heals what reason cannot.  "</i>
+<i>"People who bite the hand that feeds them usually lick the boot that kicks them."</i>
 <br>
-<b>- Seneca</b>
+<b>- Eric Hoffer</b>
 </blockquote>
 </p>
 
