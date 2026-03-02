@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Better to have, and not need, than to need, and not have."</i>
+<i>"The only reason to be alive is to enjoy it."</i>
 <br>
-<b>- Franz Kafka</b>
+<b>- Rita Mae Brown</b>
 </blockquote>
 </p>
 
