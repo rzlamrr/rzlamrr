@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity."</i>
+<i>"When I let go of what I am, I become what I might be."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
