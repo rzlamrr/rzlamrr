@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My instinct is always to seek out challenges as opposed to avoiding them."</i>
+<i>"The giving of love is an education in itself."</i>
 <br>
-<b>- Josh Waitzkin</b>
+<b>- Eleanor Roosevelt</b>
 </blockquote>
 </p>
 
