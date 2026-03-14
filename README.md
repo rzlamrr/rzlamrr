@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Try not to become a man of success, but rather try to become a man of value."</i>
+<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
 <br>
-<b>- Albert Einstein</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
