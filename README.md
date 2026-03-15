@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
+<i>"Your purpose will be clear only when you listen to your heart."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
