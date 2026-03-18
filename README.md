@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Don't settle, and don't struggle."</i>
+<i>"Discipline is the bridge between goals and accomplishment."</i>
 <br>
-<b>- Naval Ravikant</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
