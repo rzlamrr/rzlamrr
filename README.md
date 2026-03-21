@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for."</i>
+<i>"Trust thyself: every heart vibrates to that iron string."</i>
 <br>
-<b>- Gurbaksh Chahal</b>
+<b>- Ralph Waldo Emerson</b>
 </blockquote>
 </p>
 
