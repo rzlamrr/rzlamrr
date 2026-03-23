@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Knowing your own darkness is the best method for dealing with the darknesses of other people."</i>
+<i>"The birth of the mind is the death of the senses."</i>
 <br>
-<b>- Carl Jung</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
