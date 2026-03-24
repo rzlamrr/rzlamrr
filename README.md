@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The birth of the mind is the death of the senses."</i>
+<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Charles Darwin</b>
 </blockquote>
 </p>
 
