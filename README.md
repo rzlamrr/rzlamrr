@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts."</i>
+<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
 <br>
-<b>- Charles Darwin</b>
+<b>- Brian Tracy</b>
 </blockquote>
 </p>
 
