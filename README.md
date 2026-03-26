@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves."</i>
+<i>"Let us rather run the risk of wearing out than rusting out."</i>
 <br>
-<b>- Brian Tracy</b>
+<b>- Theodore Roosevelt</b>
 </blockquote>
 </p>
 
