@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"There are people who have money and people who are rich."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Coco Chanel</b>
 </blockquote>
 </p>
 
