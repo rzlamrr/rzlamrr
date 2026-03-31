@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life and the simple beauty of it is too good to pass up."</i>
+<i>"The strength of a wall is neither greater nor less than the courage of the men who defend it. "</i>
 <br>
-<b>- Christopher McCandless</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
