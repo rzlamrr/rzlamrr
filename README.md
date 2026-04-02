@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Wise men speak because they have something to say; Fools because they have to say something."</i>
+<i>"The clock indicates the moment...but what does eternity indicate?"</i>
 <br>
-<b>- Plato</b>
+<b>- Walt Whitman</b>
 </blockquote>
 </p>
 
