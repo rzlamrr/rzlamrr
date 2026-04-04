@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To be great is to be misunderstood."</i>
+<i>"The secret of perfect health lies in keeping the mind always cheerful - never worried, never hurried, never borne down by any fear, thought or anxiety."</i>
 <br>
-<b>- Ralph Waldo Emerson</b>
+<b>- Sathya Sai Baba</b>
 </blockquote>
 </p>
 
