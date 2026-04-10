@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"No man will make a great leader who wants to do it all himself or to get all the credit for doing it."</i>
+<i>"Would you rather live your life according to the approval of others or aligned with your truth and your dreams?"</i>
 <br>
-<b>- Andrew Carnegie</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
