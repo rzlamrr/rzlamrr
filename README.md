@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust, like the soul, never returns once it is gone."</i>
+<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
 <br>
-<b>- Publilius Syrus</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
