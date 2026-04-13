@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Anger exceeding limits causes fear and excessive kindness eliminates respect."</i>
+<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
 <br>
-<b>- Euripides</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
