@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey."</i>
+<i>"Trust is the foundation of great leadership."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
