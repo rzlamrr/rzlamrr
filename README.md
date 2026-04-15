@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Trust is the foundation of great leadership."</i>
+<i>"To live is to be willing to die over and over again."</i>
 <br>
-<b>- Lolly Daskal</b>
+<b>- Pema Chodron</b>
 </blockquote>
 </p>
 
