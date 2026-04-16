@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"To live is to be willing to die over and over again."</i>
+<i>"Life has more imagination than we carry in our dreams."</i>
 <br>
-<b>- Pema Chodron</b>
+<b>- Christopher Columbus</b>
 </blockquote>
 </p>
 
