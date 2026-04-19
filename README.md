@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is the child of drudgery and perseverance. It cannot be coaxed or bribed; pay the price and it is yours. "</i>
+<i>"Actions are the seeds of fate. Deeds grow into destiny."</i>
 <br>
-<b>- Orison Swett Marden</b>
+<b>- Harry S. Truman</b>
 </blockquote>
 </p>
 
