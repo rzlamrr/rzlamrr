@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Actions are the seeds of fate. Deeds grow into destiny."</i>
+<i>"We are all here for some special reason."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Robin Sharma</b>
 </blockquote>
 </p>
 
