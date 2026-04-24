@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe nothing you hear, and only one half that you see."</i>
+<i>"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes."</i>
 <br>
-<b>- Edgar Allan Poe</b>
+<b>- Voltaire</b>
 </blockquote>
 </p>
 
