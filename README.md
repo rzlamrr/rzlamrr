@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I defeat my enemies when I make them my friends."</i>
+<i>"Small men think they are small; great men never know they are great. "</i>
 <br>
-<b>- Dalai Lama</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
