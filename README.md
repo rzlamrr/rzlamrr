@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Sometimes success isn't about making the right decision, it's more about making some decision."</i>
+<i>"The source of a true smile is an awakened mind."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Thich Nhat Hanh</b>
 </blockquote>
 </p>
 
