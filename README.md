@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The source of a true smile is an awakened mind."</i>
+<i>"We forge the chains we wear in life."</i>
 <br>
-<b>- Thich Nhat Hanh</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
