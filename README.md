@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Be approximately right rather than exactly wrong."</i>
+<i>"Who looks outside, dreams; who looks inside, awakes."</i>
 <br>
-<b>- John Tukey</b>
+<b>- Lolly Daskal</b>
 </blockquote>
 </p>
 
