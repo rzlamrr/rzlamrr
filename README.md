@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you're afraid to die, you're afraid to live. You can't have one without the other."</i>
+<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
 <br>
-<b>- Rita Mae Brown</b>
+<b>- Bhagavad Gita</b>
 </blockquote>
 </p>
 
