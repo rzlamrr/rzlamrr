@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place."</i>
+<i>"I begin with an idea and then it becomes something else."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Pablo Picasso</b>
 </blockquote>
 </p>
 
