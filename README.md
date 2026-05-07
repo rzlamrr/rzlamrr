@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Half the world is composed of people who have something to say and can't, and the other half who have nothing to say and keep on saying it."</i>
+<i>"Plants grow weak without wind."</i>
 <br>
-<b>- Robert Frost</b>
+<b>- Maxime Lagace</b>
 </blockquote>
 </p>
 
