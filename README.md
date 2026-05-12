@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."</i>
+<i>"Happiness is a gift and the trick is not to expect it, but to delight in it when it comes."</i>
 <br>
-<b>- Albus Dumbledore</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
