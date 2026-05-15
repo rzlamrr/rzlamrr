@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are willing to believe anything other than the truth."</i>
+<i>"One loyal friend is worth ten thousand relatives."</i>
 <br>
-<b>- Carlos Ruiz Zafon</b>
+<b>- Euripides</b>
 </blockquote>
 </p>
 
