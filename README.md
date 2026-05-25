@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The secret of happiness is not in doing what you like but in liking what you have to do."</i>
+<i>"People learn from their failures. Seldom do they learn anything from success."</i>
 <br>
-<b>- Sathya Sai Baba</b>
+<b>- Ryan Holiday</b>
 </blockquote>
 </p>
 
