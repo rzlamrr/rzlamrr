@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"People learn from their failures. Seldom do they learn anything from success."</i>
+<i>"The journey is what brings us happiness not the destination."</i>
 <br>
-<b>- Ryan Holiday</b>
+<b>- Dan Millman</b>
 </blockquote>
 </p>
 
