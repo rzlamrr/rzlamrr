@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time."</i>
+<i>"Teachers open the door. You enter by yourself."</i>
 <br>
-<b>- Dan Millman</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
