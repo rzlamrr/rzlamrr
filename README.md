@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Teachers open the door. You enter by yourself."</i>
+<i>"If you chase two rabbits, you catch none."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Confucius</b>
 </blockquote>
 </p>
 
