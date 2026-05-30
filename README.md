@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If you chase two rabbits, you catch none."</i>
+<i>"Those who attain the middle Dominate the whole."</i>
 <br>
-<b>- Confucius</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
