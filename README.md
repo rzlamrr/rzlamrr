@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Believe and you're halfway there."</i>
+<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
 <br>
-<b>- Harry S. Truman</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
