@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Success is nothing more than a few simple disciplines practiced every day."</i>
+<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
 <br>
-<b>- Jim Rohn</b>
+<b>- Roy T. Bennett</b>
 </blockquote>
 </p>
 
