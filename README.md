@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life."</i>
+<i>"Do you have the patience to wait until your mud settles and the water is clear?"</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
