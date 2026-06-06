@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is trying things to see if they work."</i>
+<i>"Silence is a source of great strength."</i>
 <br>
-<b>- Ray Bradbury</b>
+<b>- Lao Tzu</b>
 </blockquote>
 </p>
 
