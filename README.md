@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"However difficult life may seem, there is always something you can do and succeed at."</i>
+<i>"Every traveler has a home of his own, and he learns to appreciate it the more from his wandering."</i>
 <br>
-<b>- Stephen Hawking</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
