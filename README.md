@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When asked, how do you write? I invariably answer, one word at a time."</i>
+<i>"The prettiest eyes have cried the most."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
