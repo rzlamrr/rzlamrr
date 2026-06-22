@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We are shaped and fashioned by what we love."</i>
+<i>"Failure is acceptable. Not trying is a whole different ball park."</i>
 <br>
-<b>- Johann Wolfgang von Goethe</b>
+<b>- Michael Jordan</b>
 </blockquote>
 </p>
 
