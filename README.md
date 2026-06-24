@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Make improvements, not excuses. Seek respect, not attention."</i>
+<i>"Allow motion to equal emotion."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Elbert Hubbard</b>
 </blockquote>
 </p>
 
