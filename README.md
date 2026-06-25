@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Allow motion to equal emotion."</i>
+<i>"A needle is not sharp at both ends."</i>
 <br>
-<b>- Elbert Hubbard</b>
+<b>- Chinese Proverb</b>
 </blockquote>
 </p>
 
