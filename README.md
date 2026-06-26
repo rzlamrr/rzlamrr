@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A needle is not sharp at both ends."</i>
+<i>"Surround yourself only with people who are going to take you higher."</i>
 <br>
-<b>- Chinese Proverb</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
