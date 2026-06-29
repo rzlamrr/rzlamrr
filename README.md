@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"When we have our body and mind in order, everything else will exist in the right place, in the right way."</i>
+<i>"It is not titles that honour men, but men that honour titles."</i>
 <br>
-<b>- Shunryu Suzuki</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
