@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"For your life to be great, your faith must be bigger than your fear."</i>
+<i>"As you love yourself, life loves you back."</i>
 <br>
-<b>- Robin Sharma</b>
+<b>- Kamal Ravikant</b>
 </blockquote>
 </p>
 
