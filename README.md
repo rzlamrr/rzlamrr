@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"As you love yourself, life loves you back."</i>
+<i>"True knowledge exists in knowing that you know nothing."</i>
 <br>
-<b>- Kamal Ravikant</b>
+<b>- Socrates</b>
 </blockquote>
 </p>
 
