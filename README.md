@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Simplicity is the glory of expression."</i>
+<i>"Your heart is the size of an ocean. Go find yourself in its hidden depths."</i>
 <br>
-<b>- Walt Whitman</b>
+<b>- Rumi</b>
 </blockquote>
 </p>
 
