@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Let us rather run the risk of wearing out than rusting out."</i>
+<i>"Throw your heart over the bar and your body will follow."</i>
 <br>
-<b>- Theodore Roosevelt</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
