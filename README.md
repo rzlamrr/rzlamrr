@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Throw your heart over the bar and your body will follow."</i>
+<i>"Focused, hard work is the real key to success."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- John Carmack</b>
 </blockquote>
 </p>
 
