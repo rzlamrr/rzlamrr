@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You get in life what you have the courage to ask for."</i>
+<i>"How much pain they have cost us, the evils which have never happened."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Thomas Jefferson</b>
 </blockquote>
 </p>
 
