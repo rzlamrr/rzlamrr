@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The most courageous act is still to think for yourself. Aloud."</i>
+<i>"Before anything else, preparation is the key to success."</i>
 <br>
-<b>- Coco Chanel</b>
+<b>- Alexander Graham Bell</b>
 </blockquote>
 </p>
 
