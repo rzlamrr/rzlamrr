@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Before anything else, preparation is the key to success."</i>
+<i>"Never waste a minute of your precious life thinking about people you don't like."</i>
 <br>
-<b>- Alexander Graham Bell</b>
+<b>- Celestine Chua</b>
 </blockquote>
 </p>
 
