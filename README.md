@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A life without a cause is a life without effect."</i>
+<i>"Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever."</i>
 <br>
-<b>- Paulo Coelho</b>
+<b>- Aristophanes</b>
 </blockquote>
 </p>
 
