@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions."</i>
+<i>"The best mind-altering drug is the truth."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Lily Tomlin</b>
 </blockquote>
 </p>
 
