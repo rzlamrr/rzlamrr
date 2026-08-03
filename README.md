@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whatever happened, happened for the good. Whatever is happening, is happening for the good. Whatever will happen, will also happen for the good."</i>
+<i>"Tragedy is a tool for the living to gain wisdom, not a guide by which to live."</i>
 <br>
-<b>- Bhagavad Gita</b>
+<b>- Robert F. Kennedy</b>
 </blockquote>
 </p>
 
