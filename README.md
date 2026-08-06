@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Judgments prevent us from seeing the good that lies beyond appearances."</i>
+<i>"Life's too mysterious to take too serious."</i>
 <br>
-<b>- Wayne Dyer</b>
+<b>- Mary Engelbreit</b>
 </blockquote>
 </p>
 
