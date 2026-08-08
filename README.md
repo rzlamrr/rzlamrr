@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The energy of the mind is the essence of life."</i>
+<i>"We never know the love of a parent till we become parents ourselves."</i>
 <br>
-<b>- Aristotle</b>
+<b>- Henry Ward Beecher</b>
 </blockquote>
 </p>
 
