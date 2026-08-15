@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Most people dabble their way through life, never deciding to master anything in particular."</i>
+<i>"The constant assertion of belief is an indication of fear."</i>
 <br>
-<b>- Tony Robbins</b>
+<b>- Jiddu Krishnamurti</b>
 </blockquote>
 </p>
 
