@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The foolish reject what they see, not what they think; the wise reject what they think, not what they see."</i>
+<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
 <br>
-<b>- Huang Po</b>
+<b>- T.S. Eliot</b>
 </blockquote>
 </p>
 
