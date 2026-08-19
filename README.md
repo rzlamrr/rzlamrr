@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time."</i>
+<i>"There is a difference between giving directions and giving direction."</i>
 <br>
-<b>- T.S. Eliot</b>
+<b>- Simon Sinek</b>
 </blockquote>
 </p>
 
