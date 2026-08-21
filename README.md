@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The wise accomplish all that they want without arousing the envy or scorn of others."</i>
+<i>"Life is a question and how we live it is our answer."</i>
 <br>
-<b>- Ming-Dao Deng</b>
+<b>- Gary Keller</b>
 </blockquote>
 </p>
 
