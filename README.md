@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Life is a question and how we live it is our answer."</i>
+<i>"If you're afraid - don't do it, - if you're doing it - don't be afraid!"</i>
 <br>
-<b>- Gary Keller</b>
+<b>- Genghis Khan</b>
 </blockquote>
 </p>
 
