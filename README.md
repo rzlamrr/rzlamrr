@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Every strike brings me closer to the next home run."</i>
+<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
 <br>
-<b>- Babe Ruth</b>
+<b>- Elon Musk</b>
 </blockquote>
 </p>
 
