@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Some people don't like change, but you need to embrace change if the alternative is disaster."</i>
+<i>"Use your smile to change the world but don't let the world change your smile."</i>
 <br>
-<b>- Elon Musk</b>
+<b>- Unknown</b>
 </blockquote>
 </p>
 
