@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"If I love myself I love you. If I love you I love myself."</i>
+<i>"Work harder on yourself than you do on your job."</i>
 <br>
-<b>- Rumi</b>
+<b>- Jim Rohn</b>
 </blockquote>
 </p>
 
