@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You become a worrier by practicing worry. You become free of worry by practicing the opposite."</i>
+<i>"The best revenge is to be unlike him who performed the injury."</i>
 <br>
-<b>- Norman Vincent Peale</b>
+<b>- Marcus Aurelius</b>
 </blockquote>
 </p>
 
