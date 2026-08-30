@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"The best revenge is to be unlike him who performed the injury."</i>
+<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
 <br>
-<b>- Marcus Aurelius</b>
+<b>- Yanni</b>
 </blockquote>
 </p>
 
