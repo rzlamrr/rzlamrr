@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Music is like creating an emotional painting. The sounds are the colors."</i>
+<i>"See what you're doing wrong, laugh at it, change and do better."</i>
 <br>
-<b>- Yanni</b>
+<b>- Spencer Johnson</b>
 </blockquote>
 </p>
 
