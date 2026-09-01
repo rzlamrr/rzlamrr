@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"See what you're doing wrong, laugh at it, change and do better."</i>
+<i>"We turn not older with years but newer every day."</i>
 <br>
-<b>- Spencer Johnson</b>
+<b>- Emily Dickinson</b>
 </blockquote>
 </p>
 
