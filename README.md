@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"We turn not older with years but newer every day."</i>
+<i>"He who wishes to be obeyed must know how to command."</i>
 <br>
-<b>- Emily Dickinson</b>
+<b>- Niccolo Machiavelli</b>
 </blockquote>
 </p>
 
