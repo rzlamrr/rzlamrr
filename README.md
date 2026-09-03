@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"He who wishes to be obeyed must know how to command."</i>
+<i>"There is no such thing as a great talent without great willpower."</i>
 <br>
-<b>- Niccolo Machiavelli</b>
+<b>- Honore de Balzac</b>
 </blockquote>
 </p>
 
