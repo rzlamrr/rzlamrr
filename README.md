@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"There is no such thing as a great talent without great willpower."</i>
+<i>"Change your thoughts and you change your world."</i>
 <br>
-<b>- Honore de Balzac</b>
+<b>- Norman Vincent Peale</b>
 </blockquote>
 </p>
 
