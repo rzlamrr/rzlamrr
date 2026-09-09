@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Pursue what catches your heart, not what catches your eyes."</i>
+<i>"Chop your own wood and it will warm you twice."</i>
 <br>
-<b>- Roy T. Bennett</b>
+<b>- Henry Ford</b>
 </blockquote>
 </p>
 
