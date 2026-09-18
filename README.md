@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Failure is the key to success; each mistake teaches us something."</i>
+<i>"The way to change others' minds is with affection, and not anger."</i>
 <br>
-<b>- Morihei Ueshiba</b>
+<b>- Dalai Lama</b>
 </blockquote>
 </p>
 
