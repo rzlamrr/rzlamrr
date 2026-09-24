@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever people agree with me I always feel I must be wrong."</i>
+<i>"Where there is no struggle, there is no strength."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Oprah Winfrey</b>
 </blockquote>
 </p>
 
