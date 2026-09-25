@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Where there is no struggle, there is no strength."</i>
+<i>"It is only depth of character that determines the profundity with which we face life."</i>
 <br>
-<b>- Oprah Winfrey</b>
+<b>- Ming-Dao Deng</b>
 </blockquote>
 </p>
 
