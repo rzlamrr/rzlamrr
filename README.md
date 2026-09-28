@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Fiction is the truth inside the lie."</i>
+<i>"Truth is like most opinions - best unexpressed."</i>
 <br>
-<b>- Stephen King</b>
+<b>- Kenneth Branagh</b>
 </blockquote>
 </p>
 
