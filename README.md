@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"You can not live your life just based on what everyone else thinks."</i>
+<i>"I can live without money, but I cannot live without love."</i>
 <br>
-<b>- Joyce Meyer</b>
+<b>- Judy Garland</b>
 </blockquote>
 </p>
 
