@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"I can live without money, but I cannot live without love."</i>
+<i>"Whenever people agree with me I always feel I must be wrong."</i>
 <br>
-<b>- Judy Garland</b>
+<b>- Oscar Wilde</b>
 </blockquote>
 </p>
 
