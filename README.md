@@ -42,9 +42,9 @@
 <h3 align="center">Quote of The Day</h3>
 <p align="center">
 <blockquote>
-<i>"Whenever people agree with me I always feel I must be wrong."</i>
+<i>"There is nothing in the world so irresistibly contagious as laughter and good humor."</i>
 <br>
-<b>- Oscar Wilde</b>
+<b>- Charles Dickens</b>
 </blockquote>
 </p>
 
